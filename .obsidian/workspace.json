@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "c7572418f75e2b2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a0c73e792f1f429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac334e58f28d028e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Access token.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd799a8845095a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Access token.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be13d8a5f479695a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b920b5b2d2c24b81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb1bb73006943f2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "552a406fd8e226b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e98ce5415107e43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f7f12ab120220c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4854a5d0bf1ab70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c321e22666e2e60a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Access token.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8972d148579c849",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Access token.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47f19d8c012e34e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7163db37e0e9d7be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Access token.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "dd799a8845095a07",
+  "lastOpenFiles": [
+    "Access token.md",
+    "templates/Lineare Algebra Aufgaben Template.md",
+    "templates",
+    "semester-1/projektmanagement/turmbau/Turmbau.md",
+    "semester-1/projektmanagement/turmbau/Turmbau Documentation.md",
+    "semester-1/projektmanagement/turmbau/AB_turmbau.pdf",
+    "semester-1/projektmanagement/sources/Übung Elbphilharmonie.md",
+    "semester-1/projektmanagement/sources/Uebung Elbphilharmonie.pdf",
+    "semester-1/projektmanagement/sources/Zeiterfassungssystem.pdf",
+    "semester-1/projektmanagement/sources/Lastenheft_Zeiterfassungssystem01_feedback.pdf",
+    "semester-1/projektmanagement/sources/Fragenkataloge.pdf",
+    "semester-1/projektmanagement/sources/Aufgabe Lastenheft.md",
+    "semester-1/projektmanagement/scripts/PM Kap_09 Phasenmodelle_vorl.pdf",
+    "semester-1/projektmanagement/scripts/PM Kap_06 Terminplanung_vorl.pdf",
+    "semester-1/projektmanagement/scripts/PM Kap_03 Projektorganisation.pdf",
+    "semester-1/projektmanagement/scripts/PM Kap_02 Auftrag und Ziele_vorl.pdf",
+    "semester-1/projektmanagement/images/wasserfall.png",
+    "semester-1/projektmanagement/images/v-modell.png",
+    "semester-1/projektmanagement/images/simple_terminplan.png",
+    "semester-1/projektmanagement/images/sequentiell.png",
+    "semester-1/projektmanagement/images/mpm_example.png",
+    "semester-1/projektmanagement/images/magisches_dreieck.png",
+    "semester-1/projektmanagement/images/loesung_aufgabe_netzplan.png",
+    "semester-1/projektmanagement/images/gesamtorganisation.png",
+    "semester-1/projektmanagement/images/gantt.png",
+    "semester-1/projektmanagement/images/gantt 1.png",
+    "semester-1/projektmanagement/definitions/Wasserfallmodell.md",
+    "semester-1/projektmanagement/definitions/V-Modell.md",
+    "semester-1/projektmanagement/definitions/Schätzung.md",
+    "semester-1/projektmanagement/definitions/SMART.md",
+    "semester-1/projektmanagement/definitions/Rein Sequentielles Modell.md",
+    "semester-1/projektmanagement/definitions/Projektstrukturplan.md",
+    "semester-1/projektmanagement/definitions/Projektdefinition.md",
+    "semester-1/projektmanagement/definitions/Pflichtenheft.md",
+    "semester-1/projektmanagement/definitions/Magisches Dreieck.md",
+    "semester-1/projektmanagement/definitions/MPM Netzplan.md",
+    "semester-1/projektmanagement/definitions/Lastenheft.md",
+    "semester-1/projektmanagement/definitions/GANTT-Chart Netzwerkplan.md",
+    "semester-1/projektmanagement/definitions/CPM Netzplan.md",
+    "semester-1/projektmanagement/definitions/Arbeitspaket.md",
+    "semester-1/projektmanagement/definitions/9 Wissensgebiete.md",
+    "semester-1/projektmanagement/Fragenkataloge/Fragenkatalog 004.md",
+    "semester-1/projektmanagement/Fragenkataloge/Fragenkatalog 003.md",
+    "semester-1/projektmanagement/Fragenkataloge/Fragenkatalog 002.md",
+    "semester-1/projektmanagement/Fragenkataloge/Fragenkatalog 001.md",
+    "semester-1/projektmanagement/Projektmanagement GoodNotes.md"
+  ]
+}
