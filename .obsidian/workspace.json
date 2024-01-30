@@ -52,17 +52,7 @@
             }
           },
           {
-            "id": "1016a61b03915c13",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf"
-              }
-            }
-          },
-          {
-            "id": "93ceae791ec7d655",
+            "id": "0010f0c189915f66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,17 +188,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "93ceae791ec7d655",
+  "active": "0010f0c189915f66",
   "lastOpenFiles": [
+    "semester-1/lineare-algebra/scripts/math-script.pdf",
+    "Access token.mdenc",
     "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf",
+    "README.md",
     "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
     "semester-1/goodnotes/Lineare Algebra/Aufschriebe/Notationen.pdf",
     "semester-1/goodnotes/Lineare Algebra/Aufschriebe/Vektorraum Basics.pdf",
     "semester-1/digitaltechnik/Speicherschaltungen Library.md",
-    "semester-1/lineare-algebra/scripts/math-script.pdf",
     "semester-1/goodnotes/Digitaltechnik/scripts/Digitaltechnik_2.pdf",
     "semester-1/digitaltechnik/zähler/Master Zähler.md",
     "semester-1/logik/prolog/Prolog Library.md",
@@ -233,7 +227,6 @@
     "semester-1/logik/prolog/5.5 Rekursion/übungen/Übung less Prädikat.md",
     "semester-1/logik/prolog/5.5 Rekursion/übungen/Übung Rekursive Addition.md",
     "semester-1/logik/prolog/5.5 Rekursion/Master Prolog 5.5 Rekursion.md",
-    "semester-1/logik/prolog/5.4 Suchbäume/Master Prolog 5.4 Suchbäume.md",
     "semester-1/logik/prolog/images/rekursiver_suchbaum.png",
     "semester-1/logik/prolog/5.6 Listen/übungen",
     "semester-1/logik/prolog/5.5 Rekursion/übungen",
@@ -247,7 +240,6 @@
     "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129170519.png",
     "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129171016.png",
     "semester-1/logik/prolog/images/Pasted image 20240130145444.png",
-    "semester-1/logik/prolog/images/Pasted image 20240130151201.png",
-    "semester-1/logik/prolog/code/less.pl"
+    "semester-1/logik/prolog/images/Pasted image 20240130151201.png"
   ]
 }
