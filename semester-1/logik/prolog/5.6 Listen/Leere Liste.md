@@ -1,0 +1,3 @@
+- `[ ]`
+- hat weder [[#Head]] noch [[#Tail]]
+- vgl. _Null-Pointer_, Leere Menge

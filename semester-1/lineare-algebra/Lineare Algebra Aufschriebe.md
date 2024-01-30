@@ -4,7 +4,7 @@
 path:"goodnotes/Lineare Algebra/Aufschriebe"
 ```
 [[Induktion.pdf]]
-[[Notationen.pdf]]
+[[LAlg 3 Komplexe Zahlen.pdf]]
 [[RSA - Zahlentheorie.pdf]]
 [[Vektorraum Basics.pdf]]
 

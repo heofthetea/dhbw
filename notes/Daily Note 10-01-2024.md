@@ -2,11 +2,11 @@
 	- [ ] GUT NACHARBEITEN!!!!!!!!
 	- wird später abstrahiert werden lol
 - [ ] rename daily notes for quicker overview
-- [x] restructure [[Master Lineare Algebra|Lineare Algebra Obsidian]] 
+- [x] restructure Lineare Algebra Obsidian
 	- [ ] use Links to pdf pages?? ([[RSA - Zahlentheorie.pdf#page=2|RSA - Zahlentheorie, page 1]])
 - [x] Zusammenfassung Logik
 - [ ] Digitaltechnik anschauen
-- [ ] restructure [[Master Digitaltechnik|Digitaltechnik Obsidian]]
+- [x] restructure Digitaltechnik Obsidian
 
 
 ### Testing Indentation

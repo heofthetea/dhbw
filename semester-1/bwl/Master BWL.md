@@ -1,5 +1,5 @@
 #master 
-[[Planspiel Master]]
+[[Master Planspiel]]
 [[001 Verträge]]
 
 [[Master BWL Presentations]]

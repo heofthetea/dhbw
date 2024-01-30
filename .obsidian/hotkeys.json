@@ -139,5 +139,13 @@
       ],
       "key": "S"
     }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }

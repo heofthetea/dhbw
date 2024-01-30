@@ -1,0 +1,3 @@
+Stelle dir vor, du kontrollierst eines von fünf mittelständischen Unternehmen in einem Planspiel. Alle Unternehmen verkaufen Drucker (darunter sind zwei verschiedene Modelle), welche in Serienproduktion hergestellt werden. Dein Unternehmen ist ca 1500 Mitarbeiter groß, besitzt 6 Production Facilities und verkauft um die 70000 Drucker pro Jahr. Dabei ist zu berücksichtigen, dass das Unternehmen auf zwei Märkten aktiv ist, bei denen ein Markt stark priorisiert ist (ca. 80% des Absatzes kommt von Markt 1).
+
+Deine Aufgabe ist nun, zu entscheiden, welche Absatzform für das Unternehmen am Besten geeignet ist. Unterscheide zwischen Direktem und Indirektem Absatz, und berücksichtige vor- und Nachteile, die diese Modelle mit sich bringen.

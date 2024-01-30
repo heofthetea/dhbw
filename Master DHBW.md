@@ -1,11 +1,13 @@
 #master
 [[README]]
 
+## Quick Information
 [[modulhandbuch.pdf]]
+[[theorie_praxisphasen.pdf]]
 
-
+## Semester
 [[Master Semester 1]]
 
+## Utilities
 [[Exports Master]]
-[[Daily Notes Master]]
 [[Colour Backups]]

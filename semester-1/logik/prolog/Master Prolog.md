@@ -3,10 +3,14 @@
 ## Übersicht
 [[Prolog Library]]
 [[Prolog Installation]]
-[[Prolog Syntax]]
+[[Master Prolog Syntax]]
 [[Besondere Prädikate]]
 
+### Übungen
+[[Übung 5.34 Kreuzworträtsel]]
 
 ## Vorlesung
-[[5.1 Prolog Intro]]
-[[5.3 Prolog built-ins]]
+[[Master Prolog 5.1 Intro]]
+[[Master Prolog 5.3 built-ins]]
+[[Master Prolog 5.4 Suchbäume]]
+
