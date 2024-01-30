@@ -60,9 +60,21 @@
                 "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf"
               }
             }
+          },
+          {
+            "id": "93ceae791ec7d655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -189,8 +201,9 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "1016a61b03915c13",
+  "active": "93ceae791ec7d655",
   "lastOpenFiles": [
+    "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf",
     "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
     "semester-1/goodnotes/Lineare Algebra/Aufschriebe/Notationen.pdf",
     "semester-1/goodnotes/Lineare Algebra/Aufschriebe/Vektorraum Basics.pdf",
