@@ -1,4 +1,5 @@
 [[Formeln Lineare Algebra]]
+[[Funktion]]
 ## Aufschriebe
 ```expander
 path:"goodnotes/Lineare Algebra/Aufschriebe"

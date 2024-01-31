@@ -47,7 +47,7 @@
 
 ##### [[Ganzzahl-Arithmetik]]
 - Arbeitet mit [[Zahl|Zahlen]]
-- Unterstü[tzt [[Ganzzahl-Arithmetik#Integer-Operationen|Rechenregeln]] $\{+,-,div,mod\}$ sowie Punkt-vor-Strich und Klammern
+- Unterstützt [[Ganzzahl-Arithmetik#Integer-Operationen|Rechenregeln]] $\{+,-,div,mod\}$ sowie Punkt-vor-Strich und Klammern
 - [[Ganzzahl-Arithmetik#Gleichheit|Variablenzuweisung]] wird mit `is` bezeichnet
 	- Bindet [[Variable]] auf _linker Seite_ an _Ergebnis_ der rechten Seite
 	- Unterschied zu anderen Programmiersprachen: Variable _bleibt_ gebunden!!!
@@ -58,11 +58,52 @@
 
 ## Suchbäume
 [[Master Prolog 5.4 Suchbäume]]
+### Horn-Formeln
 - [[Horn-Formel]] ist eine logische Formel der Form $R_{1}\land R_{2} \land ... \land R_{n} \rightarrow K$
-	- [[Horn-Formel|Horn-Klausel]] ist diese Form in KNF, geschrieben als Klausel $\{\lnot R_{1},\ \lnot R_{2},\ ... ,\ \lnot R_{n},\ H\}$ 
+	- [[Horn-Formel|Horn-Klausel]] ist diese Form in KNF, geschrieben als Klausel $\{\lnot R_{1},\ \lnot R_{2},\ ... ,\ \lnot R_{n},\ K\}$ 
 - [[Definite Klausel]] besitzt genau _ein_ positives Atom
 	- [[Regeln (Rules)]] nur negierte [[Term|Atome]]
 	- [[Wissensbank|Fakt]] nur positive [[Term|Atome]] 
 - [[Zielklausel]] besitzt _kein_ positives Atom
 - [[Ohne Fakten in der Wissensbank kann es nur falsche oder nicht terminierende Resolutionen geben]]
-- 
+
+### SLD-Resolution
+[[SLD-Resolution]]
+
+- Optimierte Herangehensweise an gewöhnliches Resolutionsverfahren
+- Stellt Resolution als _Baumstruktur_ aus Klauseln da
+- steht für **S**elective-**L**inear-**D**efinite Clause
+- Vorteile:
+	- Insgesamt müssen weniger [[Unifikation|Unifikationen]] durchgeführt werden
+	- erzeugt weniger Klauseln
+
+#### SLD-Resolution in Prolog
+[[Beispiel SLD-Resolution]]
+###### Vorgehen
+- Alle [[Goal|Goals]] der [[Anfrage]] sind negiert --> _Anfrageklausel_
+- _Fakten_ werden in der Reihenfolge behandelt, in der sie in der [[Wissensbank]] stehen
+	- Reihenfolge ist wichtig!!!
+
+1. Lege [[Goal|Goals]] der [[Anfrage]] auf [[Stack]] $S$
+2. [[Unifikation|Unifiziere]] _oberstes_ [[Goal]] $G$ mit allen _Regelköpfen_ in [[Wissensbank]]
+3. wenn [[Unifikation]] erfolgreich:
+	1. Entferne $G$ aus dem [[Stack]] $S$
+	2. Push alle _Regelrümpfe_ aus der [[Unifikation]] auf $S$
+4. Wenn $S$ leer ist: _Anfrageklausel_ ist unerfüllbar bzgl. der [[Wissensbank]]
+	==> Die [[Anfrage]] ist erfüllbar
+
+
+## Rekusion
+[[Master Prolog 5.5 Rekursion]]
+ - Ein [[Prädikat]] $P$ ist [[Rekursive Prädikate|rekursiv]], wenn sein _Body_ einen Aufruf zu $P$ enthält
+ - Ohne [[Rekursive Prädikate|Rekursion]] wäre Prolog nicht _turing-complete_
+ - Im [[Beispiel SLD-Resolution|Suchbaum]] werden die _Parameter_ des [[Rekursive Prädikate|Rekursiven Prädikats]] in jeder Iteration _umbenannt_ 
+	 - dies vermeidet eine "sperrende" Belegung durch einen vorherigen Aufruf
+ - [[Endlosschleife|Endlosschleifen]] entstehen, wenn die [[Unifikation]] eines [[Rekursive Prädikate|Rekursiven Prädikats]] mit sich selbst einen _Kreis_ erzeugen kann
+	 - _Bsp_: `married(X,Y) :- married(Y,X).`
+		 - hier kann stets `X` auf `Y` abgebildet werden und umgekehrt, und damit das nächste Prädikat aufgerufen werden
+		 - Das Programm terminiert _nur_, wenn eine spezifische Belegung von`X` und `Y` bereits als _Fakt_ in der [[Wissensbank]] steht (z.B. `married(Anke, Andreas).`)
+
+- Durch [[Best-Practices Rekursion]] wird sichergestellt, dass [[Endlosschleife|Endlosschleifen]] _erst_ auftreten, _nachdem_ der [[Prolog Interpreter|Interpreter]] bereits alle möglichen _Fakten_ berücksichtigt hat
+	- Stets alle [[Basisklausel|Basisklauseln]] _vor_ das [[Rekursive Prädikate|Rekursive Prädikat]] schreiben
+	- Prädikate [[tail-rekursiv]] schreiben

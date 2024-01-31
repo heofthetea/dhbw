@@ -30,6 +30,7 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
-    "editor:toggle-source"
-  ]
+    "workspace:close-tab-group"
+  ],
+  "showUnsupportedFiles": true
 }

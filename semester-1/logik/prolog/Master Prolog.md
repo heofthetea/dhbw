@@ -13,4 +13,6 @@
 [[Master Prolog 5.1 Intro]]
 [[Master Prolog 5.3 built-ins]]
 [[Master Prolog 5.4 Suchbäume]]
+[[Master Prolog 5.5 Rekursion]]
+[[Master Prolog 5.6 Listen]]
 
