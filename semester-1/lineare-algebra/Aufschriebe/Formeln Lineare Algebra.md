@@ -1,3 +1,5 @@
+[[Cardanische Formel]]
+
 
 ## Geometrie
 
@@ -15,3 +17,4 @@ $cos(\alpha + \beta) = cos(\alpha)cos(\beta) - sin(\alpha)sin(\beta)$
 	- _Multiplikation_: $z \cdot w = |zw| \cdot (cos(\alpha + \beta) + i \cdot sin(\alpha + \beta))$ 
 		- --> Es folgt _Division_: $z \cdot w = \frac{|z|}{|w|} \cdot (cos(\alpha - \beta) + i \cdot sin(\alpha - \beta))$
 	- _Potenzierung:_ $z^{n}= |z|^{n} \cdot (cos(n\alpha) + i \cdot sin(n\alpha))$ 
+

@@ -5,5 +5,7 @@ path:linked-list
 [[Delete Node]]
 [[Doubly linked list]]
 [[Doubly Linked List Local Variables]]
-[[Sort List]]
+[[Implementation Quick Sort]]
 [[Quick Sort]]
+[[Runtime Bubble vs QuickSort]]
+[[Sort List]]

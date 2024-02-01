@@ -5,6 +5,8 @@
 [[Begriffe Programmieren]]
 [[fun facts]]
 
+## Klausur
+[[Klausur Programmieren]]
 
 ## Contents
 [[C concepts]]
@@ -15,6 +17,7 @@
 [[Floating Points]]
 [[Recursion]]
 [[Master Linked Lists]]
+[[Splitting up large projects]]
 
 ## Code
 [[Code Master]]
