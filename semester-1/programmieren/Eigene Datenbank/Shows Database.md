@@ -7,6 +7,7 @@
 
 ## TODOS
 #### General
+- [ ] fix reading last line twice bug
 - [ ] stop using _numbers_ to control actions, **YOU'RE WRITING A FUCKNG CLI, NOT A NOKIA PHONE APPLICATION**
 - [ ] use controlled "end of string" characters and look for them manually via for-loop
 - [ ] HANDLE YOUR BULLSHIT FILE HANDLING

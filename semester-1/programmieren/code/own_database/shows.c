@@ -1,26 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <math.h>
-#include <stdint.h>
-
-//--------------------------------------------------------------------------------------------------------------------------------------------
-
-typedef struct
-{
-    char date[17];
-    char venue[20];
-    char headliner[20];
-    char support_acts[64];
-
-} Show;
-
-typedef struct Node
-{
-    Show *data;
-    struct Node *next;
-    struct Node *previous;
-} Node;
+#include "shows.h"
 
 Node *new_node(Show *data, Node *previous, Node *next)
 {
@@ -75,17 +53,6 @@ Node *delete_from_list(Node *db, Node *n)
     return db;
 }
 
-//--------------------------------------------------------------------------------------------------------------------------------------------
-
-Show *show_from_console();
-Show *show_from_row(char *row);
-Node *manual_entry(Node *db);
-Node *read_text_file(Node *db);
-Node *delete_from_input(Node *db);
-void write_text_file(Node *db);
-void up_hex(Node *db);
-void print_datasets(Node *db);
-void render_menu();
 
 //--------------------------------------------------------------------------------------------------------------------------------------------
 int main()
@@ -153,7 +120,7 @@ Node *manual_entry(Node *db)
 Show *show_from_console()
 {
     Show *temp = malloc(sizeof(Show));
-    printf("enter date of show: ");
+    printf("enter date of show (as YYYY-MM-DD): ");
     // scanf("%s",&temp->date);
     fgets(temp->date, sizeof(temp->date), stdin);
     temp->date[strcspn(temp->date, "\n")] = 0;
@@ -183,7 +150,7 @@ void __print_datasets(Node *n, int index)
     }
 
     Show *s = n->data;
-    printf("\nnode %3d: %-17s %-20s %-20s %-128s", index, s->date, s->venue, s->headliner, s->support_acts);
+    printf("\nnode %3d: %-17s %-20s %-64s %-128s", index, s->date, s->venue, s->headliner, s->support_acts);
     if (n->next == 0)
         return;
     return __print_datasets(n->next, index + 1);
@@ -191,7 +158,7 @@ void __print_datasets(Node *n, int index)
 
 void print_datasets(Node *db)
 {
-    printf("\n          %-17s %-20s %-20s %-128s", "date", "venue", "headliner", "support acts");
+    printf("\n          %-17s %-20s %-64s %-128s", "date", "venue", "headliner", "support acts");
     printf("\n-----------------------------------------------------------------------------------------------------------------------------");
     __print_datasets(db, 0);
     printf("\n\n");
@@ -236,8 +203,7 @@ Node *delete_from_input(Node *db)
     return db;
 }
 
-//-------------------------------------------------------------------------------------------------------------------------------------------
-// File handling stuff
+//-----------------------------------------------------------------------------------------------------
 
 void write_text_file(Node *db)
 {
@@ -261,7 +227,7 @@ void write_text_file(Node *db)
     {
         Show *s = current->data;
         // lul this really does the exact same as printing to console xd
-        fprintf(file, "%-17s%-20s%-20s%-64sX\n",
+        fprintf(file, "%-17s%-20s%-64s%-128s\n",
                 s->date, s->venue, s->headliner, s->support_acts); // no spaces here
         current = current->next;
         index++;
@@ -306,7 +272,7 @@ Node *read_text_file(Node *db)
         return db;
     }
 
-    char row[128];
+    char row[256];
 
     do
     {
