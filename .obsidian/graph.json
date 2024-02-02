@@ -3,7 +3,7 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 16747220
       }
+    },
+    {
+      "query": "path:\"Virologie lol\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 11.8532557195072,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.16914039432181138,
+  "scale": 0.14030180593982877,
   "close": true
 }

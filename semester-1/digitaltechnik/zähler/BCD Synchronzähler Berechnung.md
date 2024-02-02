@@ -8,7 +8,7 @@
 - Don't Cares einmal eintragen 
 	- Danach immer kopieren --> BESONDERE VORSICHT (einmal falsch = 4x falsch xd)
 - kleinste Wertigkeit toggled immer (KV-Diagramm unnötig, Zeit sparen lol)
-- [[Bei Zählern immer von Links nach Rechts arbeiten]]
+- [[Bei Zählerberechnung immer von Links nach Rechts arbeiten]]
 ## [[Erweiterte Warheitstabelle]]
 | Dezimalwert | $Q_{D(n)}$ | $Q_{C(n)}$ | $Q_{B(n)}$ | $Q_{A(n)}$ |  | $Q_{D(n+1)}$ | $Q_{C(n+1)}$ | $Q_{B(n+1)}$ | $Q_{A(n+1)}$ | Dezimalwert |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |

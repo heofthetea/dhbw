@@ -1,4 +1,4 @@
-[[Formeln Lineare Algebra]]
+[[LAlg Formeln]]
 [[Funktion]]
 ## Aufschriebe
 ```expander

@@ -14,5 +14,5 @@
 ### Umsetzung
 ![[Pasted image 20240202081809 1.png]]
 Ausgang $Y_{n}$ überprüft _Gleichheit_
-Wenn ja: _Enable_-Eingang des nächsten [[1-bit Komparator mit Sperrschaltung 1|1-bit Komparator]] wird auf 1 gesetzt
+Wenn ja: _Enable_-Eingang des nächsten [[1-bit Komparator mit Sperrschaltung|1-bit Komparator]] wird auf 1 gesetzt
 

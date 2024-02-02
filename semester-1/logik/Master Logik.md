@@ -1,15 +1,16 @@
 #master 
+## Libraries
+[[Prolog Library]]
 ## script
 [[semester-1/logik/scripts/Logik-handout.pdf|Logik-handout]]
 
 ## Good Notes
 [[Logik GoodNotes]]
 
-## Mitschriebe
+## Contents
 [[Begrifflichkeiten Aussagenlogik|Begrifflichkeiten Aussagenlogik]]
-
-## Prolog
 [[Master Prolog]]
+
 
 ## Übungen
 ### Übungen zu Erfüllbarkeit

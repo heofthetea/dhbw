@@ -4,49 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c662a51e5d4de750",
+        "id": "9b3f4cf1a6567048",
         "type": "tabs",
         "children": [
           {
-            "id": "6a3069fbcf8b5fe3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virologie lol/Master Virologie lol.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "bc9ad1fb32645a31",
+            "id": "29626136ed4e841e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wer muss geimpft werden?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6505c3c1daac4f9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/digitaltechnik/Master Rechenschaltungen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:LAlg file:Mitschrieb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.51103591918945,
+    "width": 364.51103591918945,
     "collapsed": true
   },
   "right": {
@@ -113,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/digitaltechnik/Master Rechenschaltungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/digitaltechnik/Master Rechenschaltungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,17 +119,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "semester-1/digitaltechnik/Master Rechenschaltungen.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,88 +141,52 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "floating": {
-    "id": "2b8dffcf595d2bdb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ba0c17eaa26630bc",
-        "type": "window",
-        "children": [
-          {
-            "id": "68e144b918dea8e2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "325d673f22129b79",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Virologie lol/HIV/sources/VL_28_HIV_Schwemmle.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 989,
-        "y": 27,
-        "width": 931,
-        "height": 1053,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "6505c3c1daac4f9b",
+  "active": "29626136ed4e841e",
   "lastOpenFiles": [
-    "Wer muss geimpft werden?.md",
-    "Geschichte CoV.md",
-    "SARS-CoV-2 kommt aus der Tierwelt.md",
-    "Virologie lol/Master Virologie lol.md",
-    "Aktive Impfung.md",
-    "SARS ist Weltmeiteister im Mutieren.md",
-    "Neue Varianten könnten ein Problem sein.md",
-    "Infektionsablauf SARS-CoV-2.md",
-    "Pasted image 20240202113119.png",
-    "Post-CoV-Erkrankung.md",
-    "Aufbau SARS-CoV-2.md",
-    "Übertragung SARS-CoV-2.md",
-    "Pasted image 20240202112733.png",
-    "Pasted image 20240202112033.png",
-    "CoV.md",
-    "SARS-CoV-2.md",
-    "Pasted image 20240202111738.png",
-    "Fehlwirt.md",
-    "Pasted image 20240202111244.png",
-    "Pasted image 20240202111123.png",
-    "SARS.md",
-    "Virologie lol/SARS-CoV-2/sources/VL_27_SARS-CoV-2_Schwemmle.pdf",
-    "Virologie lol/SARS-CoV-2/sources",
-    "Virologie lol/SARS-CoV-2",
-    "Virologie lol/HIV",
-    "Virologie lol/HIV/sources",
-    "Virologie lol/HIV/images",
-    "Virologie lol",
-    "important/Master DHBW.md",
-    "important/theorie_praxisphasen.pdf",
-    "important/modulhandbuch.pdf",
-    "important/README.md",
-    "important/Access token.mdenc",
-    "Virologie lol/HIV/HIV Immunität.md",
-    "Virologie lol/HIV/HAART Therapy.md",
-    "Virologie lol/HIV/Warum ist HIV so erfolgreich?.md",
-    "Virologie lol/HIV/Humans are way too horny.md",
-    "Virologie lol/HIV/HIV Schutz durch Therapie.md",
-    "Virologie lol/HIV/Klinischer Verlauf HIV.md",
-    "Hemmung der Vermehrung von HIV.md",
-    "Hemmung des Zusammenbaus von HIV.md",
-    "Virologie lol/HIV/Lulu and Nana controversy.md",
-    "Virologie lol/HIV/Pasted image 20240202103611.png",
-    "Pasted image 20240202103351.png",
-    "Virologie lol/HIV/Pasted image 20240202102452.png",
-    "Virologie lol/HIV/Pasted image 20240202102256.png"
+    "semester-1/lineare-algebra/aufgaben/Aufg-08_lineareAbbildungen.pdf",
+    "semester-1/lineare-algebra/Aufschriebe/Cardanische Formel.md",
+    "semester-1/lineare-algebra/scripts/math-script.pdf",
+    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-08 lineareAbbildungen.md",
+    "semester-1/goodnotes/Lineare Algebra/LAlg 4 Mitschrieb Matrizen.pdf",
+    "semester-1/lineare-algebra/Aufschriebe/Bijektive Funktion.md",
+    "semester-1/lineare-algebra/Aufschriebe/Umkehrfunktion.md",
+    "semester-1/lineare-algebra/Aufschriebe/Funktion.md",
+    "semester-1/lineare-algebra/Aufschriebe/Injektive Funktion.md",
+    "semester-1/lineare-algebra/Aufschriebe/Surjektive Funktion.md",
+    "semester-1/lineare-algebra/Aufschriebe/Bild einer Funktion.md",
+    "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
+    "semester-1/lineare-algebra/Aufschriebe/LAlg Formeln.md",
+    "semester-1/goodnotes/Lineare Algebra/LAlg 3 Mitschrieb Komplexe Zahlen.pdf",
+    "semester-1/logik/prolog/Prolog Library.md",
+    "semester-1/lineare-algebra/Lineare Algebra Mitschriebe.md",
+    "semester-1/lineare-algebra/Master Lineare Algebra.md",
+    "semester-1/logik/prolog/5.6 Listen/übungen/Übung 5.61 Darstellung von Listen.md",
+    "semester-1/logik/prolog/Master Prolog.md",
+    "semester-1/digitaltechnik/Speicherschaltungen Library.md",
+    "extern/Virologie lol/Master Virologie lol.md",
+    "semester-1/programmieren/Master Programmieren.md",
+    "semester-1/programmieren/C Library.md",
+    "semester-1/logik/Master Logik.md",
+    "semester-1/goodnotes/Digitaltechnik/scripts/Digitaltechnik_2.pdf",
+    "semester-1/digitaltechnik/flipflops/Charakteristische Gleichungen.md",
+    "semester-1/logik/Declarative Programming Language.md",
+    "semester-1/digitaltechnik/zähler/Asynchroner Frequenzteiler.md",
+    "semester-1/digitaltechnik/Master Digitaltechnik.md",
+    "semester-1/digitaltechnik/zähler/Bei Zählerberechnung immer von Links nach Rechts arbeiten.md",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/zeitablaufdiagramm_frequenzteiler.png",
+    "semester-1/programmieren/concepts/linked-list/quick_sort.png",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202081040 1.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images",
+    "semester-1/digitaltechnik/rechenschaltungen",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202081549 1.png",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202081809 1.png",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202082530 1.png",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202082601 1.png",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202082704 1.png",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083614 1.png",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083813 1.png",
+    "extern",
+    "temp/attachments",
+    "temp"
   ]
 }

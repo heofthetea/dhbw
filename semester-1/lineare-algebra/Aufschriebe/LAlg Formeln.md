@@ -1,6 +1,7 @@
 [[Cardanische Formel]]
 
 
+
 ## Geometrie
 
 - _Abstand Punkt/Ebende_ : $d(\textbf{q}, g) = ||\textbf{u} \times (\textbf{q} - \textbf {p})||$ , where $g = \textbf{p} \cdot t\textbf{u}$ with $||\textbf{u}|| = 1$  

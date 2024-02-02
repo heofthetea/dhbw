@@ -1,7 +1,7 @@
 - Dient der Durchführung einer bestimmten Rechenoperation
 - nur für je _ein_ Zahlensystem geeignet
 
-[[Halbaddierer 1]]
+[[Halbaddierer]]
 [[Volladdierer]]
 [[Paralleladdierschaltung]]
 [[Serielle Addierschaltung]]

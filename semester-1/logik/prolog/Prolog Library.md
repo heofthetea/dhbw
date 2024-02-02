@@ -92,7 +92,7 @@
 4. Wenn $S$ leer ist: _Anfrageklausel_ ist unerfüllbar bzgl. der [[Wissensbank]]
 	==> Die [[Anfrage]] ist erfüllbar
 
-
+---
 ## Rekusion
 [[Master Prolog 5.5 Rekursion]]
  - Ein [[Prädikat]] $P$ ist [[Rekursive Prädikate|rekursiv]], wenn sein _Body_ einen Aufruf zu $P$ enthält
@@ -101,9 +101,13 @@
 	 - dies vermeidet eine "sperrende" Belegung durch einen vorherigen Aufruf
  - [[Endlosschleife|Endlosschleifen]] entstehen, wenn die [[Unifikation]] eines [[Rekursive Prädikate|Rekursiven Prädikats]] mit sich selbst einen _Kreis_ erzeugen kann
 	 - _Bsp_: `married(X,Y) :- married(Y,X).`
-		 - hier kann stets `X` auf `Y` abgebildet werden und umgekehrt, und damit das nächste Prädikat aufgerufen werden
-		 - Das Programm terminiert _nur_, wenn eine spezifische Belegung von`X` und `Y` bereits als _Fakt_ in der [[Wissensbank]] steht (z.B. `married(Anke, Andreas).`)
+		 - hier kann stets `X` auf `Y` abgebildet werden und umgekehrt, und damit der _rekursive_ Aufruf erfolgen
+		 - Das Programm _kann_ nur terminieren, wenn eine spezifische Belegung von`X` und `Y` bereits als [[Basisklausel]] in der [[Wissensbank]] steht (z.B. `married(Anke, Andreas).`)
 
 - Durch [[Best-Practices Rekursion]] wird sichergestellt, dass [[Endlosschleife|Endlosschleifen]] _erst_ auftreten, _nachdem_ der [[Prolog Interpreter|Interpreter]] bereits alle möglichen _Fakten_ berücksichtigt hat
 	- Stets alle [[Basisklausel|Basisklauseln]] _vor_ das [[Rekursive Prädikate|Rekursive Prädikat]] schreiben
 	- Prädikate [[tail-rekursiv]] schreiben
+
+---
+## Listen
+#todo

@@ -37,7 +37,7 @@
 [[Übertragung SARS-CoV-2]]
 [[Post-CoV-Erkrankung]]
 [[Aufbau SARS-CoV-2]]
-[[SARS ist Weltmeiteister im Mutieren]]
+[[SARS ist Weltmeister im Mutieren]]
 [[Aktive Impfung]]
 [[Wer muss geimpft werden?]]
 

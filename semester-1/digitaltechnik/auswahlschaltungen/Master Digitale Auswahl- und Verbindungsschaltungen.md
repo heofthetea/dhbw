@@ -10,4 +10,5 @@
 ## Schieberegister
 [[Schieberegister]]
 [[Schieberegister mit serieller Ein- und Ausgabe]]
+[[Schieberegister mit paralleler Ausgabe]]
 [[Übung Schieberegister Zeitablaufdiagramm]]

@@ -32,5 +32,8 @@
     "editor:configure-toolbar",
     "workspace:close-tab-group"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "temp",
+  "attachmentFolderPath": "./images"
 }
