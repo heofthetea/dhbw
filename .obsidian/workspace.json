@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "9b792e058e300ec7",
+        "id": "c662a51e5d4de750",
         "type": "tabs",
         "children": [
           {
-            "id": "6299c18d867fbede",
+            "id": "6a3069fbcf8b5fe3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Virologie lol/Master Virologie lol.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bc9ad1fb32645a31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/lineare-algebra/Aufschriebe/Cardanische Formel.md",
+                "file": "Wer muss geimpft werden?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6505c3c1daac4f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/digitaltechnik/Master Rechenschaltungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 224.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "6f7f12ab120220c0",
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/lineare-algebra/Aufschriebe/Cardanische Formel.md",
+                "file": "semester-1/digitaltechnik/Master Rechenschaltungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/lineare-algebra/Aufschriebe/Cardanische Formel.md",
+                "file": "semester-1/digitaltechnik/Master Rechenschaltungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/lineare-algebra/Aufschriebe/Cardanische Formel.md"
+                "file": "semester-1/digitaltechnik/Master Rechenschaltungen.md"
               }
             }
           }
@@ -149,53 +177,88 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "6299c18d867fbede",
+  "floating": {
+    "id": "2b8dffcf595d2bdb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ba0c17eaa26630bc",
+        "type": "window",
+        "children": [
+          {
+            "id": "68e144b918dea8e2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "325d673f22129b79",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Virologie lol/HIV/sources/VL_28_HIV_Schwemmle.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 989,
+        "y": 27,
+        "width": 931,
+        "height": 1053,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "6505c3c1daac4f9b",
   "lastOpenFiles": [
-    "Umkehrfunktion.md",
-    "Bijektive Funktion.md",
-    "Bild einer Funktion.md",
-    "Surjektive Funktion.md",
-    "Injektive Funktion.md",
-    "semester-1/digitaltechnik/Speicherschaltungen Library.md",
-    "semester-1/logik/prolog/5.4 Suchbäume/SLD-Resolution.md",
-    "semester-1/logik/prolog/5.3 Unifikation/Unifikation in Anfragen.md",
-    "semester-1/lineare-algebra/aufgaben/Master Lineare Algebra Aufgaben.md",
-    "semester-1/lineare-algebra/scripts/math-script.pdf",
-    "semester-1/lineare-algebra/Aufschriebe/Cardanische Formel.md",
-    "semester-1/goodnotes/Lineare Algebra/LAlg 3 Mitschrieb Komplexe Zahlen.pdf",
-    "semester-1/lineare-algebra/Aufschriebe/Formeln Lineare Algebra.md",
-    "semester-1/lineare-algebra/Lineare Algebra Mitschriebe.md",
-    "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
-    "semester-1/goodnotes/Lineare Algebra/Aufgaben/LAlg Aufg-07_Komplexe_Zahlen_1.pdf",
-    "semester-1/programmieren/concepts/linked-list/Implementation Quick Sort.md",
-    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-08 lineareAbbildungen.md",
-    "semester-1/lineare-algebra/aufgaben/Aufg-08_lineareAbbildungen.pdf",
-    "semester-1/programmieren/concepts/linked-list/Quick Sort.md",
-    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-07 Komplexe_Zahlen_1.md",
-    "semester-1/goodnotes/Lineare Algebra/LAlg 4 Mitschrieb Matrizen.pdf",
-    "semester-1/logik/prolog/Prolog Library.md",
-    "semester-1/programmieren/concepts/linked-list/Logarithmus Dualis.md",
-    "semester-1/programmieren/concepts/linked-list/Runtime Bubble vs QuickSort.md",
-    "semester-1/programmieren/Klausur Programmieren.md",
-    "semester-1/programmieren/code/008/Code 008 Master.md",
-    "semester-1/programmieren/code/Code Master.md",
-    "semester-1/logik/prolog/5.5 Rekursion/Basisklausel.md",
-    "theorie_praxisphasen.pdf",
-    "semester-1/programmieren/concepts/linked-list/quick_sort.png",
-    "semester-1/programmieren/Master Programmieren.md",
-    "semester-1/programmieren/concepts/linked-list/Master Linked Lists.md",
-    "semester-1/programmieren/code/own_database/output/shows",
-    "semester-1/programmieren/code/own_database/db_writing.c",
-    "semester-1/programmieren/code/own_database/output",
-    "semester-1/programmieren/code/own_database/shows.h",
-    "semester-1/logik/prolog/images/rekursiver_suchbaum.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/screenshot.png",
-    "semester-1/logik/prolog/images/Pasted image 20240129160243.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129164505.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129164727.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129165331.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129170519.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129171016.png",
-    "semester-1/logik/prolog/images/Pasted image 20240130145444.png"
+    "Wer muss geimpft werden?.md",
+    "Geschichte CoV.md",
+    "SARS-CoV-2 kommt aus der Tierwelt.md",
+    "Virologie lol/Master Virologie lol.md",
+    "Aktive Impfung.md",
+    "SARS ist Weltmeiteister im Mutieren.md",
+    "Neue Varianten könnten ein Problem sein.md",
+    "Infektionsablauf SARS-CoV-2.md",
+    "Pasted image 20240202113119.png",
+    "Post-CoV-Erkrankung.md",
+    "Aufbau SARS-CoV-2.md",
+    "Übertragung SARS-CoV-2.md",
+    "Pasted image 20240202112733.png",
+    "Pasted image 20240202112033.png",
+    "CoV.md",
+    "SARS-CoV-2.md",
+    "Pasted image 20240202111738.png",
+    "Fehlwirt.md",
+    "Pasted image 20240202111244.png",
+    "Pasted image 20240202111123.png",
+    "SARS.md",
+    "Virologie lol/SARS-CoV-2/sources/VL_27_SARS-CoV-2_Schwemmle.pdf",
+    "Virologie lol/SARS-CoV-2/sources",
+    "Virologie lol/SARS-CoV-2",
+    "Virologie lol/HIV",
+    "Virologie lol/HIV/sources",
+    "Virologie lol/HIV/images",
+    "Virologie lol",
+    "important/Master DHBW.md",
+    "important/theorie_praxisphasen.pdf",
+    "important/modulhandbuch.pdf",
+    "important/README.md",
+    "important/Access token.mdenc",
+    "Virologie lol/HIV/HIV Immunität.md",
+    "Virologie lol/HIV/HAART Therapy.md",
+    "Virologie lol/HIV/Warum ist HIV so erfolgreich?.md",
+    "Virologie lol/HIV/Humans are way too horny.md",
+    "Virologie lol/HIV/HIV Schutz durch Therapie.md",
+    "Virologie lol/HIV/Klinischer Verlauf HIV.md",
+    "Hemmung der Vermehrung von HIV.md",
+    "Hemmung des Zusammenbaus von HIV.md",
+    "Virologie lol/HIV/Lulu and Nana controversy.md",
+    "Virologie lol/HIV/Pasted image 20240202103611.png",
+    "Pasted image 20240202103351.png",
+    "Virologie lol/HIV/Pasted image 20240202102452.png",
+    "Virologie lol/HIV/Pasted image 20240202102256.png"
   ]
 }

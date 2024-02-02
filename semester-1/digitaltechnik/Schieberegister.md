@@ -1,0 +1,2 @@
+- taktgesteuerte Aufnahme von Informationen
+- Aufgebaut mit [[Flipflops]] (vor allem [[D-Flipflop (Delay-FF)]])

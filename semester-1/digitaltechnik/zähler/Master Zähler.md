@@ -1,5 +1,6 @@
 
 ## Asynchronzähler
+[[Asynchronzähler]]
 [[Asynchronzähler vorwärts]]
 [[Asynchronzähler rückwärts]]
 [[BCD Asynchronzähler]]
