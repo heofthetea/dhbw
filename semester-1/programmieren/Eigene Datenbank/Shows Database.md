@@ -7,17 +7,20 @@
 
 ## TODOS
 #### General
-- [ ] fix reading last line twice bug
-- [ ] stop using _numbers_ to control actions, **YOU'RE WRITING A FUCKNG CLI, NOT A NOKIA PHONE APPLICATION**
-- [ ] use controlled "end of string" characters and look for them manually via for-loop
+- [x] fix reading last line twice bug
+- [x] stop using _numbers_ to control actions, **YOU'RE WRITING A FUCKNG CLI, NOT A NOKIA PHONE APPLICATION**
+- [x] use controlled "end of string" characters and look for them manually via for-loop
 - [ ] HANDLE YOUR BULLSHIT FILE HANDLING
-- [ ] actually make this bullshit a _doubly linked list_ 
+- [x] actually make this bullshit a [[Doubly linked list]] fucking idiot
+- [ ] [[Quick Sort]]
+- [ ] 
 #### Tasks until 25.01.
 - [x] Menu
 - [x] manual data entry
 - [x] read from file
 - [x] print all datasets
 ## Linked List
+> Because I'm stupid, I implemented the _functionality_ of the [[Doubly linked list]] the same as a [[Singly Linked List]]. Since this is, _obviously_, complete bollocks, I'll go ahead and change that. I'm way too lazy to update the documentation tho - Most stuff stayed the same _anyway_, except there's now a `list->` before everything. #pointerhell 
 #### Data Structure
 
 ##### Node

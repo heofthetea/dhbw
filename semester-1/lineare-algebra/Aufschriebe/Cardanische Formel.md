@@ -6,7 +6,7 @@ Gegeben sei eine _kubische Gleichung_ der Form $x^{3}+ bx^{2}+ cx + d = 0$.
 2. _Berechne_ Determinante $\Delta$ mit $\Delta := (\frac{p}{3})^{3} + (\frac{q}{2})^2$ 
 3. Unterscheide zwischen _drei Fällen_:
 	1. $\Delta > 0$: 1 reelle Lösung
-		1. $y_{1}= \sqrt[3]{\sqrt{\Delta} - \frac{q}{2}} + \sqrt[3]{\sqrt{\Delta} + \frac{q}{2}}$
+		1. $y_{1}= \sqrt[3]{\sqrt{\Delta} - \frac{q}{2}} -\sqrt[3]{\sqrt{\Delta} + \frac{q}{2}}$ 
 	2. $\Delta = 0$: 2 reelle Lösungen
 		1. $y_{1} = \frac{3q}{p}$
 		2. $y_{2} = -\frac{3q}{2p}$
@@ -15,6 +15,5 @@ Gegeben sei eine _kubische Gleichung_ der Form $x^{3}+ bx^{2}+ cx + d = 0$.
 		2. $y_{1} = 2\sqrt{\frac{|p|}{3}}cos(\varphi)$ 
 		3. $y_{2/3}$ = $-2\sqrt{\frac{|p|}{3}} cos(\varphi \ \pm \frac{\pi}{3})$ 
 	4. _Resubstititution_ mit $x = y + \frac{b}{3}$ nicht vergessen!!
-
 
 [^1]: Für Substitutionen wird hier stets direkt angegeben, wie _resubstituiert_ wird.

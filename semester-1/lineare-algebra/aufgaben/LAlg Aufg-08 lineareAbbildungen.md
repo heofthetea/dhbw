@@ -1,4 +1,6 @@
 #lalg-aufgabe 
+[[Cardanische Formel]]
+
 ## Aufgabenblatt
 ```expander
 path:lineare-algebra/Aufgaben file:"Aufg-08_lineareAbbildungen"
@@ -10,4 +12,5 @@ path:lineare-algebra/Aufgaben file:"Aufg-08_lineareAbbildungen"
 ```expander
 path:goodnotes file:"Aufg-08_lineareAbbildungen"
 ```
+
 

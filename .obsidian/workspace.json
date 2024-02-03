@@ -4,18 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "9b3f4cf1a6567048",
+        "id": "2b601e6a0575e316",
         "type": "tabs",
         "children": [
           {
-            "id": "29626136ed4e841e",
+            "id": "6febc6f99d72e706",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/programmieren/concepts/fun facts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4ddb2d0e47d4674",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "4826e375edaece92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/programmieren/Eigene Datenbank/Shows Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "424dd109ff451739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/programmieren/concepts/Strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "semester-1/programmieren/concepts/Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "semester-1/programmieren/concepts/Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "semester-1/programmieren/concepts/Strings.md"
+              }
             }
           }
         ]
@@ -141,38 +182,40 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "29626136ed4e841e",
+  "active": "424dd109ff451739",
   "lastOpenFiles": [
-    "semester-1/lineare-algebra/aufgaben/Aufg-08_lineareAbbildungen.pdf",
+    "semester-1/programmieren/Eigene Datenbank/Shows Database.md",
+    "semester-1/programmieren/concepts/fun facts.md",
+    "semester-1/programmieren/Master Programmieren.md",
+    "semester-1/programmieren/Eigene Datenbank/Datenbank Ideen.md",
+    "semester-1/programmieren/code/own_database/output/shows",
+    "semester-1/programmieren/Eigene Datenbank/Aufgabe - eigene Datenbank.md",
+    "semester-1/programmieren/Eigene Datenbank/File Handling.md",
+    "semester-1/programmieren/concepts/linked-list/Implementation Quick Sort.md",
+    "semester-1/programmieren/concepts/linked-list/Quick Sort.md",
+    "semester-1/programmieren/concepts/linked-list/Doubly Linked List Local Variables.md",
+    "semester-1/programmieren/concepts/linked-list/Doubly linked list.md",
+    "semester-1/programmieren/code/own_database/shows",
+    "semester-1/logik/prolog/5.5 Rekursion/Beispiel Rekursion.md",
     "semester-1/lineare-algebra/Aufschriebe/Cardanische Formel.md",
-    "semester-1/lineare-algebra/scripts/math-script.pdf",
+    "semester-1/logik/prolog/Prolog Library.md",
+    "semester-1/programmieren/concepts/Functions.md",
+    "semester-1/logik/prolog/5.5 Rekursion/Rekursive Prädikate.md",
+    "semester-1/logik/prolog/Master Prolog.md",
+    "semester-1/logik/prolog/5.1 Syntax/syntax/Goal.md",
+    "semester-1/programmieren/code/Code Master.md",
+    "semester-1/digitaltechnik/zähler/Synchroner Frequenzteiler.md",
+    "semester-1/lineare-algebra/aufgaben/Aufg-08_lineareAbbildungen.pdf",
     "semester-1/lineare-algebra/aufgaben/LAlg Aufg-08 lineareAbbildungen.md",
+    "semester-1/digitaltechnik/Speicherschaltungen Library.md",
+    "semester-1/lineare-algebra/scripts/math-script.pdf",
     "semester-1/goodnotes/Lineare Algebra/LAlg 4 Mitschrieb Matrizen.pdf",
     "semester-1/lineare-algebra/Aufschriebe/Bijektive Funktion.md",
     "semester-1/lineare-algebra/Aufschriebe/Umkehrfunktion.md",
     "semester-1/lineare-algebra/Aufschriebe/Funktion.md",
     "semester-1/lineare-algebra/Aufschriebe/Injektive Funktion.md",
-    "semester-1/lineare-algebra/Aufschriebe/Surjektive Funktion.md",
-    "semester-1/lineare-algebra/Aufschriebe/Bild einer Funktion.md",
-    "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
-    "semester-1/lineare-algebra/Aufschriebe/LAlg Formeln.md",
     "semester-1/goodnotes/Lineare Algebra/LAlg 3 Mitschrieb Komplexe Zahlen.pdf",
-    "semester-1/logik/prolog/Prolog Library.md",
-    "semester-1/lineare-algebra/Lineare Algebra Mitschriebe.md",
-    "semester-1/lineare-algebra/Master Lineare Algebra.md",
-    "semester-1/logik/prolog/5.6 Listen/übungen/Übung 5.61 Darstellung von Listen.md",
-    "semester-1/logik/prolog/Master Prolog.md",
-    "semester-1/digitaltechnik/Speicherschaltungen Library.md",
-    "extern/Virologie lol/Master Virologie lol.md",
-    "semester-1/programmieren/Master Programmieren.md",
-    "semester-1/programmieren/C Library.md",
-    "semester-1/logik/Master Logik.md",
     "semester-1/goodnotes/Digitaltechnik/scripts/Digitaltechnik_2.pdf",
-    "semester-1/digitaltechnik/flipflops/Charakteristische Gleichungen.md",
-    "semester-1/logik/Declarative Programming Language.md",
-    "semester-1/digitaltechnik/zähler/Asynchroner Frequenzteiler.md",
-    "semester-1/digitaltechnik/Master Digitaltechnik.md",
-    "semester-1/digitaltechnik/zähler/Bei Zählerberechnung immer von Links nach Rechts arbeiten.md",
     "semester-1/digitaltechnik/auswahlschaltungen/images/zeitablaufdiagramm_frequenzteiler.png",
     "semester-1/programmieren/concepts/linked-list/quick_sort.png",
     "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202081040 1.png",
@@ -185,8 +228,6 @@
     "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202082704 1.png",
     "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083614 1.png",
     "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083813 1.png",
-    "extern",
-    "temp/attachments",
-    "temp"
+    "extern"
   ]
 }

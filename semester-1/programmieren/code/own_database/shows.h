@@ -20,12 +20,25 @@ typedef struct Node
     struct Node *previous;
 } Node;
 
+typedef struct List
+{
+    int length;
+    Node *head;
+    Node *current;
+    Node *tail;
+} List;
+
 Show *show_from_console();
 Show *show_from_row(char *row);
-Node *manual_entry(Node *db);
-Node *read_text_file(Node *db);
-Node *delete_from_input(Node *db);
-void write_text_file(Node *db);
-void up_hex(Node *db);
-void print_datasets(Node *db);
+void manual_entry(List *db);
+void read_text_file(List *db);
+void delete_from_input(List *db);
+void write_text_file(List *db);
+int index_in_list(List *list, Node *n);
+void up_hex(List *db);
+void print_datasets(List *db);
 void render_menu();
+void swap(List *list, int a, int b);
+void locate_endofstring_at_the_fucking_end_of_the_fucking_string(char *str, size_t len_str);
+void quick_sort(List *list, int low, int high, int depth);
+Node *partition(List *list, int low, int high, int depth);
