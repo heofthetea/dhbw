@@ -2,7 +2,7 @@
 ## Architektur
 [[Master Prolog 5.1 Intro]]
 
-- [[Declarative Programming Language]]: Man beschreibt was _ist_, nicht, _wie_ 
+- [[Declarative Programming Language]]: beschreibt was _ist_, nicht, _wie_ 
 - Wesentliche Bestandteile:
 	- [[Wissensbank]] - beschreibt _Fakten_
 		- [[Wissensbank]] wird in der Prolog Datei beschreiben

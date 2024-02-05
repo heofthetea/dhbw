@@ -5,6 +5,14 @@
 [[Volladdierer]]
 [[Paralleladdierschaltung]]
 [[Serielle Addierschaltung]]
-[[Subtrahierschaltung]]
+
+
+[[Scheis fucking subntarktions drecks fuck 9uing digns aöoisfjdaoöifjöl aölskfj h]]
+[[Vollsubtrahierer]]
+[[Parallele Subtrahierschaltung]]
+[[Subtraktion mit Komplementbildung]]
+
+
 [[Addier-Subtrahier-Werk]]
 [[Multiplikationsschaltung]]
+

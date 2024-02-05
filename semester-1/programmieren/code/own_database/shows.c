@@ -104,7 +104,7 @@ int main()
             read_text_file(db);
         else if (!strcmp(to_do, "test"))
             printf("\n%d", index_in_list(db, get_node_at(3, db)));
-        else if(!strcmp(to_do, "sort"))
+        else if (!strcmp(to_do, "sort"))
             quick_sort(db, 0, db->length - 1, 0);
         else if (!strcmp(to_do, "new"))
         {
@@ -239,16 +239,16 @@ void write_text_file(List *db)
         return;
     }
 
-    Node *current = db;
+    db->current = db->head;
     int index = 0;
 
-    while (current != NULL)
+    while (db->current != NULL)
     {
-        Show *s = current->data;
+        Show *s = db->current->data;
         // lul this really does the exact same as printing to console xd
-        fprintf(file, "%-17s%-20s%-64s%-128s\n",
+        fprintf(file, "%-17s%-20s%-64s%-64s\n",
                 s->date, s->venue, s->headliner, s->support_acts); // no spaces here
-        current = current->next;
+        db->current = db->current->next;
         index++;
     }
 
@@ -299,7 +299,7 @@ void read_text_file(List *db)
         Show *temp_show = show_from_row(row);
         add_to_list(temp_show, db);
     }
-    // this is the worst fucking workaround ever, BUT WHY THE FUCKING FUCK DO YOU READ THE LAST LINE TWICE HOLY SHIT
+
     delete_from_list(db, db->tail);
 }
 
@@ -317,7 +317,10 @@ void locate_endofstring_at_the_fucking_end_of_the_fucking_string(char *str, size
 // for example using an oBdA implementation? Again, fuck no.
 void swap(List *list, int index_a, int index_b)
 {
-    // I could do this
+
+    if (index_a == index_b)
+        return;
+    // makes sure that index_a is always the smaller one
     if (index_b < index_a)
     {
         int temp = index_a;
@@ -330,49 +333,36 @@ void swap(List *list, int index_a, int index_b)
     if (!(a && b))
         return;
 
-    Node *temp_a_previous = a->previous;
-    Node *temp_a_next = a->next;
+    Node *a_previous = a->previous;
+    Node *a_next = a->next;
+    Node *b_previous = b->previous;
+    Node *b_next = b->next;
 
-    if (!temp_a_previous)
-    {
-        temp_a_next->previous = b;
+    if (!a_previous)
         list->head = b;
-    }
-    else if (!temp_a_next)
-    {
-        temp_a_previous->next = b;
-        list->tail = b;
-    }
     else
-    {
-        a->next->previous = b;
-        a->previous->next = b;
-    }
-
-    if (!b->previous)
-    {
-        b->next->previous = a;
-        list->head = a;
-    }
-    else if (!b->next)
-    {
-        b->previous->next = a;
+        a_previous->next = b;
+    if (!b_next)
         list->tail = a;
+    else
+        b_next->previous = a;
+
+    if (index_a == index_b - 1)
+    {
+        a->previous = b;
+        b->next = a;
     }
     else
     {
-        b->next->previous = a;
-        b->previous->next = a;
+        a_next->previous = b;
+        b_previous->next = a;
+
+        a->previous = b_previous,
+        b->next = a_next;
     }
-
-    // only changing the values related to the actual nodes after all the previous differenciations have been made
-    a->next = b->next;
-    a->previous = b->previous;
-
-    b->next = temp_a_next;
-    b->previous = temp_a_previous;
+    b->previous = a_previous;
+    a->next = b_next;
 }
-
 
 void quick_sort(List *list, int low, int high, int depth)
 {
@@ -396,9 +386,10 @@ Node *partition(List *list, int low, int high, int depth)
     {
         while (strcmp(get_node_at(i_low, list)->data->date, node_at_pivot->data->date) < 0)
             i_low++;
-        Node * node_at_i_high = get_node_at(i_high, list);
+        Node *node_at_i_high = get_node_at(i_high, list);
         while (strcmp(get_node_at(i_high, list)->data->date, node_at_pivot->data->date) > 0)
             i_high--;
+        list->current = node_at_pivot;
         swap(list, i_low, i_high);
 
         // adjust pivot

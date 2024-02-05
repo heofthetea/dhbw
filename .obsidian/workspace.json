@@ -4,55 +4,97 @@
     "type": "split",
     "children": [
       {
-        "id": "2b601e6a0575e316",
+        "id": "75e0592ea5710e12",
         "type": "tabs",
         "children": [
           {
-            "id": "6febc6f99d72e706",
+            "id": "476a421a24de884d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/digitaltechnik/rechenschaltungen/Master Rechenschaltungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9cfe96b1123ba48d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/programmieren/concepts/fun facts.md",
+                "file": "semester-1/digitaltechnik/auswahlschaltungen/Master Digitale Auswahl- und Verbindungsschaltungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4ddb2d0e47d4674",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4826e375edaece92",
+            "id": "13729c976777665f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/programmieren/Eigene Datenbank/Shows Database.md",
+                "file": "semester-1/digitaltechnik/Aufgaben/Tipps Klausur D-Technik.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "424dd109ff451739",
+            "id": "3c99854783993792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/programmieren/concepts/Strings.md",
+                "file": "semester-1/lineare-algebra/Aufschriebe/LAlg Formeln.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99eee1d30d87329a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/digitaltechnik/rechenschaltungen/Serielle Addierschaltung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a00f160f942a5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/digitaltechnik/rechenschaltungen/Parallele Subtrahierschaltung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee6f650b1535e0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/digitaltechnik/rechenschaltungen/Paralleladdierschaltung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.51103591918945,
-    "collapsed": true
+    "width": 364.51103591918945
   },
   "right": {
     "id": "6f7f12ab120220c0",
@@ -119,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/programmieren/concepts/Strings.md",
+                "file": "semester-1/digitaltechnik/rechenschaltungen/Serielle Addierschaltung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/programmieren/concepts/Strings.md",
+                "file": "semester-1/digitaltechnik/rechenschaltungen/Serielle Addierschaltung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/programmieren/concepts/Strings.md"
+                "file": "semester-1/digitaltechnik/rechenschaltungen/Serielle Addierschaltung.md"
               }
             }
           }
@@ -167,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,52 +224,53 @@
       "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "424dd109ff451739",
+  "active": "99eee1d30d87329a",
   "lastOpenFiles": [
-    "semester-1/programmieren/Eigene Datenbank/Shows Database.md",
-    "semester-1/programmieren/concepts/fun facts.md",
-    "semester-1/programmieren/Master Programmieren.md",
-    "semester-1/programmieren/Eigene Datenbank/Datenbank Ideen.md",
-    "semester-1/programmieren/code/own_database/output/shows",
-    "semester-1/programmieren/Eigene Datenbank/Aufgabe - eigene Datenbank.md",
-    "semester-1/programmieren/Eigene Datenbank/File Handling.md",
-    "semester-1/programmieren/concepts/linked-list/Implementation Quick Sort.md",
-    "semester-1/programmieren/concepts/linked-list/Quick Sort.md",
-    "semester-1/programmieren/concepts/linked-list/Doubly Linked List Local Variables.md",
-    "semester-1/programmieren/concepts/linked-list/Doubly linked list.md",
-    "semester-1/programmieren/code/own_database/shows",
-    "semester-1/logik/prolog/5.5 Rekursion/Beispiel Rekursion.md",
-    "semester-1/lineare-algebra/Aufschriebe/Cardanische Formel.md",
-    "semester-1/logik/prolog/Prolog Library.md",
-    "semester-1/programmieren/concepts/Functions.md",
-    "semester-1/logik/prolog/5.5 Rekursion/Rekursive Prädikate.md",
-    "semester-1/logik/prolog/Master Prolog.md",
-    "semester-1/logik/prolog/5.1 Syntax/syntax/Goal.md",
-    "semester-1/programmieren/code/Code Master.md",
-    "semester-1/digitaltechnik/zähler/Synchroner Frequenzteiler.md",
-    "semester-1/lineare-algebra/aufgaben/Aufg-08_lineareAbbildungen.pdf",
-    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-08 lineareAbbildungen.md",
-    "semester-1/digitaltechnik/Speicherschaltungen Library.md",
-    "semester-1/lineare-algebra/scripts/math-script.pdf",
-    "semester-1/goodnotes/Lineare Algebra/LAlg 4 Mitschrieb Matrizen.pdf",
-    "semester-1/lineare-algebra/Aufschriebe/Bijektive Funktion.md",
-    "semester-1/lineare-algebra/Aufschriebe/Umkehrfunktion.md",
-    "semester-1/lineare-algebra/Aufschriebe/Funktion.md",
-    "semester-1/lineare-algebra/Aufschriebe/Injektive Funktion.md",
-    "semester-1/goodnotes/Lineare Algebra/LAlg 3 Mitschrieb Komplexe Zahlen.pdf",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205160626.png",
+    "semester-1/digitaltechnik/rechenschaltungen/Serielle Addierschaltung.md",
+    "semester-1/lineare-algebra/Aufschriebe/LAlg Formeln.md",
+    "semester-1/digitaltechnik/Aufgaben/Tipps Klausur D-Technik.md",
+    "semester-1/digitaltechnik/auswahlschaltungen/Master Digitale Auswahl- und Verbindungsschaltungen.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Parallele Subtrahierschaltung.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Paralleladdierschaltung.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Master Rechenschaltungen.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Scheis fucking subntarktions drecks fuck 9uing digns aöoisfjdaoöifjöl aölskfj h.md",
+    "semester-1/digitaltechnik/auswahlschaltungen/Schieberegister.md",
     "semester-1/goodnotes/Digitaltechnik/scripts/Digitaltechnik_2.pdf",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/zeitablaufdiagramm_frequenzteiler.png",
-    "semester-1/programmieren/concepts/linked-list/quick_sort.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202081040 1.png",
-    "semester-1/digitaltechnik/rechenschaltungen/images",
-    "semester-1/digitaltechnik/rechenschaltungen",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202081549 1.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202081809 1.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202082530 1.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202082601 1.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202082704 1.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083614 1.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083813 1.png",
-    "extern"
+    "semester-1/digitaltechnik/Master Digitaltechnik.md",
+    "semester-1/digitaltechnik/Speicherschaltungen Library.md",
+    "semester-1/logik/prolog/Master Prolog.md",
+    "semester-1/bwl/bwl_script.pdf",
+    "semester-1/bwl/Master BWL.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Subtraktion mit Komplementbildung.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Vollsubtrahierer.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Addier-Subtrahier-Werk.md",
+    "semester-1/lineare-algebra/LaTex Cheat Sheet.md",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205171154.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205170917.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205170546.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205170031.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205165926.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205165720.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205165207.png",
+    "semester-1/digitaltechnik/rechenschaltungen/Halbaddierer.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Volladdierer.md",
+    "semester-1/digitaltechnik/auswahlschaltungen/Schieberegister mit serieller Ein- und Ausgabe.md",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205164736.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205164722.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240205164415.jpg",
+    "semester-1/digitaltechnik/auswahlschaltungen/Übung Schieberegister Zeitablaufdiagramm.md",
+    "semester-1/digitaltechnik/auswahlschaltungen/Schieberegister mit paralleler Ausgabe.md",
+    "semester-1/logik/scripts/Logik-handout.pdf",
+    "semester-1/logik/prolog/5.6 Listen/Hub Prolog 5.6 Listen.md",
+    "semester-1/logik/prolog/Prolog Library.md",
+    "semester-1/logik/prolog/5.6 Listen/Übung 5.69 Zebra.md",
+    "semester-1/logik/prolog/code/zebra.pl",
+    "semester-1/logik/prolog/code/twice.pl",
+    "images",
+    "semester-1/logik/prolog/5.6 Listen/images",
+    "semester-1/programmieren/code/008/random_names.c",
+    "semester-1/bwl/planspiel/images",
+    "semester-1/programmieren/code/own_database/test.txt"
   ]
 }

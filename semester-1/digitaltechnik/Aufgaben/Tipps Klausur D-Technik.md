@@ -1,7 +1,7 @@
 > 2 - 3 handgeschriebene Seiten Formelsammlung
+> 4.0 ist bestanden
 
---> Note down FF? (definitely charakteristische Gleichungen)
-
+- Flipflops mittlerweile vergleichsweise trivial
 #### Schaltanalyse
 - Schaltungsanalyse: _erst_ umformen so weit möglich, dann zeichnen
 - $\lnot(x_3x_4x_5)$ IS A NAND
@@ -14,9 +14,10 @@
 
 #### Flip-Flops
 _KEINE_ monostabilen Kippstufen + Verzögerungsglieder
-- [ ] Flip-Flops auswendig können
-	- [ ] Wahrheitstabelle für [[JK-Flipflop]] (mitsamt [[JK-Flipflop#Charakteristische Gleichung|charakteristischer Gleichung]]), am besten auswendig
+- [x] Flip-Flops auswendig können
+	- [x] Wahrheitstabelle für [[JK-Flipflop]] (mitsamt [[JK-Flipflop#Charakteristische Gleichung|charakteristischer Gleichung]]), am besten auswendig
 
 #### Zähler
 [[Asynchronzähler vorwärts]] simpler Aufbau
-[[Berechnung von Synchronzählung]]
+_!!_ [[Berechnung von Synchronzählung]]
+

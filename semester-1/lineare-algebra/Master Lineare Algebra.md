@@ -4,6 +4,8 @@
 
 ## Contents
 [[LaTex Cheat Sheet]]
+[[oBdA]]
+
 
 
 ## Good Notes

@@ -22,7 +22,7 @@
 [[Recursion]]
 [[Master Linked Lists]]
 - [[Quick Sort]]
-- [[Doubly Linked List Local Variables]]
+- [[Doubly Linked List]]
 [[Splitting up large projects]]
 
 ## Übungen

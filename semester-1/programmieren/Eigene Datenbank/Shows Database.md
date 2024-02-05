@@ -11,7 +11,7 @@
 - [x] stop using _numbers_ to control actions, **YOU'RE WRITING A FUCKNG CLI, NOT A NOKIA PHONE APPLICATION**
 - [x] use controlled "end of string" characters and look for them manually via for-loop
 - [ ] HANDLE YOUR BULLSHIT FILE HANDLING
-- [x] actually make this bullshit a [[Doubly linked list]] fucking idiot
+- [x] actually make this bullshit a [[Doubly linked list (global variables)]] fucking idiot
 - [ ] [[Quick Sort]]
 - [ ] 
 #### Tasks until 25.01.
@@ -20,7 +20,7 @@
 - [x] read from file
 - [x] print all datasets
 ## Linked List
-> Because I'm stupid, I implemented the _functionality_ of the [[Doubly linked list]] the same as a [[Singly Linked List]]. Since this is, _obviously_, complete bollocks, I'll go ahead and change that. I'm way too lazy to update the documentation tho - Most stuff stayed the same _anyway_, except there's now a `list->` before everything. #pointerhell 
+> Because I'm stupid, I implemented the _functionality_ of the [[Doubly linked list (global variables)]] the same as a [[Singly Linked List]]. Since this is, _obviously_, complete bollocks, I'll go ahead and change that. I'm way too lazy to update the documentation tho - Most stuff stayed the same _anyway_, except there's now a `list->` before everything. #pointerhell 
 #### Data Structure
 
 ##### Node
@@ -72,7 +72,7 @@ Node *get_last_node(Node *n)
 ```
 
 ##### Appending
-First a gatekeeper statement handles the edge case of the passed list being empty. If this is not the case, [[#Get last node in list]] is called and the new node created according to the principles of a [[Doubly linked list]]. 
+First a gatekeeper statement handles the edge case of the passed list being empty. If this is not the case, [[#Get last node in list]] is called and the new node created according to the principles of a [[Doubly linked list (global variables)]]. 
 
 _Return_ - returning the list is necessary because of the edge case of the list being empty. Thus, the list will _always_ have to be passed and returned - not too clean, but necessary.
 ```c
@@ -131,7 +131,7 @@ void print_datasets(Node *db)
 
 #### -1. up_hex()
 The name is completely stupid. So stupid in fact, that I decided to elevate it to _"meme"_ and use it in my code, because why the heck not.
-> This is basically the recursive equivalent to [[Doubly linked list#output of list data|up_hex() from lessons]]. 
+> This is basically the recursive equivalent to [[Doubly linked list (global variables)#output of list data|up_hex() from lessons]]. 
 
 As described above, `up_hex()` is what is getting called from `main`, and `__up_hex()` is what actually handles the business. This really is _exactly_ the same approach as for [[#Get last node in list]], except we print the [[#Show Struct]] of every [[#Node]] we visit.
 ```c
@@ -259,5 +259,8 @@ Show *show_from_row(char *row)
     return new;
 }
 ```
+
+### Sorting the list
+![[Quick Sort on Linked List]]
 
 

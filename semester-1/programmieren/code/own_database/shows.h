@@ -4,12 +4,14 @@
 #include <math.h>
 #include <stdint.h>
 
+#define LEN_SUPPORT_ACTS 64
+
 typedef struct
 {
     char date[17];
     char venue[20];
     char headliner[64];
-    char support_acts[128];
+    char support_acts[LEN_SUPPORT_ACTS];
 
 } Show;
 

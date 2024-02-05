@@ -24,3 +24,7 @@ $Ü = AB$
 
 ### Schaltung
 ![[Pasted image 20240202092418.png]]
+
+
+### Aufbau
+![[Pasted image 20240205155142.png]]

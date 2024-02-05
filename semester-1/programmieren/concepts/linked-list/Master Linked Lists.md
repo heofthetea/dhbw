@@ -3,8 +3,8 @@ path:linked-list
 ```
 [[Bubble Sort]]
 [[Delete Node]]
-[[Doubly linked list]]
-[[Doubly Linked List Local Variables]]
+[[Doubly linked list (global variables)]]
+[[Doubly Linked List]]
 [[Implementation Quick Sort]]
 [[Quick Sort]]
 [[Runtime Bubble vs QuickSort]]

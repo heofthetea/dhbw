@@ -30,7 +30,9 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
-    "workspace:close-tab-group"
+    "workspace:close-tab-group",
+    "editor:move-caret-down",
+    "editor:move-caret-up"
   ],
   "showUnsupportedFiles": false,
   "newFileLocation": "current",
