@@ -13,7 +13,7 @@ Kombination aus beiden: [[Synchronzähler steuerbar]]
 [[Berechnung von Synchronzählung]]
 
 ### Übung
-[[Bei Zählerberechnung immer von Links nach Rechts arbeiten]]
+[[Bei Synchronzählerberechnung immer von Links nach Rechts arbeiten]]
 [[BCD Synchronzähler Berechnung]]
 
 ## [[Frequenzteiler]]

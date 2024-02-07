@@ -9,12 +9,9 @@
 [[Prädikat length]]
 [[Prädikat append]]
 [[Prädikat prefix]]
-[[Prädikat suffix]]
-[[Prädikat sublist]]
 
-
-
-
+[[Prädikat suffix]] (not built-in)
+[[Prädikat sublist]] (not built-in)
 
 
 

@@ -17,6 +17,8 @@
 
 
 ## Aufgaben
-[[Digitaltechnik_Uebung_1.pdf]]
-[[Digitaltechnik_Uebung_2.pdf]]
+[[Digitaltechnik_Uebung_1.pdf]] --> [[D-Technik Aufg 01.pdf]]
+[[Digitaltechnik_Uebung_2.pdf]] --> [[D-Technik Aufg 01.pdf]]
+[[Digitaltechnik_Uebung_3.pdf]]
+[[Digitaltechnik_Uebung_4.pdf]]
 ==> [[Tipps Klausur D-Technik]]

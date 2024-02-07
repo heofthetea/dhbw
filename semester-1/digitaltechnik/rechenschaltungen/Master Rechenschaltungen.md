@@ -7,7 +7,7 @@
 [[Serielle Addierschaltung]]
 
 
-[[Scheis fucking subntarktions drecks fuck 9uing digns aöoisfjdaoöifjöl aölskfj h]]
+[[Halbsubtrahierer]]
 [[Vollsubtrahierer]]
 [[Parallele Subtrahierschaltung]]
 [[Subtraktion mit Komplementbildung]]

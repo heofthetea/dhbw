@@ -16,7 +16,7 @@
 - [[SR-Flipflop]] und [[Taktgesteuertes SR-Flipflop]]
 - [[JK-Flipflop]] und [[Zweiflankengesteuertes JK-FF]] (Master-Slave-Aufbau)
 - [[T-Flipflop (Toggle-FF)]]
-- [[D-Flipflop (Delay-FF)]]
+- [[D-Flipflop (Delay-FF)]] und [[DV-Flipflop]]
 
 ---
 ## Zähler
@@ -54,7 +54,7 @@
 		3. [[Charakteristische Gleichungen]] der Flipflops aufstellen
 		4. [[Berechnung von Synchronzählung#Beispiel#4. Koeffizientenvergleich|Koeffizientenvergleich]] ergibt Belegung der Eingänge $J$ und $K$
 		5. WOHOOO SCHALTBILD (🤮)
-	- **Achtung**: [[Bei Zählerberechnung immer von Links nach Rechts arbeiten]]
+	- **Achtung**: [[Bei Synchronzählerberechnung immer von Links nach Rechts arbeiten]]
 - Beipiel: [[BCD Synchronzähler Berechnung]]
 ### Frequenzteiler
 [[Frequenzteiler]]
@@ -83,6 +83,7 @@
 
 ### Transmissionsschaltungen
 - [[Multiplexer]]: sequenziert Bits aus input ("n zu 1 bit")
+	- aufgebaut aus [[Schieberegister|Schieberegistern]] 
 	- Beispiel: [[16-bit zu 1-bit Multiplexer]]
 - [[Demultiplexer]]: parallelisiert Bits aus input ("1 zu n bit")
 	- Umsetzung: [[Datenselektor]] mit _zeitabhängiger_ Beschaltung durch [[#Zähler]]

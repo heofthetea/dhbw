@@ -9,7 +9,7 @@ Gegeben sei eine _kubische Gleichung_ der Form $x^{3}+ bx^{2}+ cx + d = 0$.
 		1. $y_{1}= \sqrt[3]{\sqrt{\Delta} - \frac{q}{2}} -\sqrt[3]{\sqrt{\Delta} + \frac{q}{2}}$ 
 	2. $\Delta = 0$: 2 reelle Lösungen
 		1. $y_{1} = \frac{3q}{p}$
-		2. $y_{2} = -\frac{3q}{2p}$
+		2. $y_{2} = y_{3} = -\frac{3q}{2p}$
 	3. $\Delta < 0$: 3 reelle Lösungen
 		1. Berechne $\varphi = \frac{1}{3}arccos(-\frac{q}{2}\sqrt{\frac{27}{|p|^{3}}})$
 		2. $y_{1} = 2\sqrt{\frac{|p|}{3}}cos(\varphi)$ 
@@ -17,3 +17,7 @@ Gegeben sei eine _kubische Gleichung_ der Form $x^{3}+ bx^{2}+ cx + d = 0$.
 	4. _Resubstititution_ mit $x = y + \frac{b}{3}$ nicht vergessen!!
 
 [^1]: Für Substitutionen wird hier stets direkt angegeben, wie _resubstituiert_ wird.
+
+
+### tipps
+- $\varphi$ auf mindestens 4 Nachkommastellen runden!!(mitsamt `[...] -> x` in WTR)

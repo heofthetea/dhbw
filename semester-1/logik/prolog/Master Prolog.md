@@ -35,4 +35,6 @@ path:prolog file:übung
 [[Master Prolog 5.4 Suchbäume]]
 [[Master Prolog 5.5 Rekursion]]
 [[Hub Prolog 5.6 Listen]]
+[[Master Prolog 5.7 Cut]]
+
 

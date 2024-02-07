@@ -7,7 +7,10 @@
 	- [[Wissensbank]] - beschreibt _Fakten_
 		- [[Wissensbank]] wird in der Prolog Datei beschreiben
 	- [[Prolog Interpreter]] - dynamisches User Interface. Vergleicht [[Anfrage|Prompts]] mit den Fakten derr Wissensbank.
-- [[Closed World Assumption]]: Wenn etwas nicht _direkt_ und _unwiederlegbar_ aus den Fakten der Wissensbank gefolgert werden kann, wird es $false$ betrachtet
+- [[Closed World Assumption]]: Fakt ist _nur_ $true$, wenn er zweifelsfrei aus [[Wissensbank]] folgt
+	- $f \rightarrow f \in KB$  
+	- _Kontraposition_: [[Negation as Failure]]: Was _nicht_ aus [[Wissensbank]] folgt, ist _falsch_
+		- $f\not\in KB \rightarrow \lnot f$  
 
 ## Syntax
 [[Master Prolog Syntax]]
@@ -110,4 +113,25 @@
 
 ---
 ## Listen
-#todo
+[[Hub Prolog 5.6 Listen]]
+- [[Alles ist Liste]]: [[Liste|Listen]] sind universelle Datenstruktur (Objekt, Liste, Vektor, etc)
+- Besondere Liste: [[Leere Liste]] 
+	- [[Basisklausel]] einer [[Rekursive Prädikate|rekursiven Operation]] auf [[Liste|Listen]] besitzt immer aus einer [[Leere Liste|Leeren Liste]] als Argument
+- _Notationsformen_:
+	- [[Liste#Head|Head]]-[[Liste#Tail|Tail]]-Notation: `[H | T]` --> Hierbei ist `H` ein _beliebiger_ [[Term]], `T` eine [[Liste]]
+	- "normale" Form: Wie in _python_ `[a, b, c, ...]`
+	- _Mix_ aus beiden ist Möglich:
+		- `[1, 2 | T ]
+		- `[H | [b, c, d]]`
+- [[Liste|Listen]] können wie in anderen Programmiersprachen [[Verschachtelte Liste|verschachtelt]] werden (Beispiel siehe [[Übung 5.69 Zebra]])
+
+
+### Arbeiten mit Listen
+> Allgemeines Prinzip: [[Rekursive Prädikate]], mit [[Basisklausel]] die [[Leere Liste]] behandelt
+
+Beispiele: [[Übung Palindrom]], [[Übung 5.66 Prädikat twice]]
+#### Built-in Prädikate
+- [[Prädikat Member]]: `member/2`: returns $true$, wenn $A \in B$
+- [[Prädikat length]]: `length/2`: returns $true$, wenn _Argument_ für Länge mit der _Länge_ der Liste unifizierbar ist
+- [[Prädikat append]]: `append/3`: returns $true$, wenn `A.append(B) = C` gilt
+- [[Prädikat prefix]]: `prefix/2`: returns $true$, wenn $A$ ein Präfix von $C$ ist gilt

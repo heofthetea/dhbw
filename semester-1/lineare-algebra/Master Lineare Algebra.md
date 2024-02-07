@@ -1,4 +1,3 @@
-#master 
 ## Vorlesungs-Skript
 [[math-script.pdf]]
 
