@@ -6,7 +6,7 @@
 #include <stdbool.h>
 #include <time.h>
 
-#define LENGTH 100000
+#define LENGTH (int)1e8
 
 bool sorted(char **);
 int partition(char **, int, int);
@@ -23,9 +23,12 @@ int main()
     printf("\n%d", sorted(pointers));
 
     //bubble_sort(pointers);
+    double t1 = (double) clock() / CLOCKS_PER_SEC;
     quick_sort(pointers, 0, LENGTH - 1);
+    double t2 = (double)clock() / CLOCKS_PER_SEC;
     print_array(pointers, 10);
     printf("\n%d", sorted(pointers));
+    printf("\ntime taken: %.5lf", t2 - t1);
 
     return 0;
 }

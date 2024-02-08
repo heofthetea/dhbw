@@ -1,9 +1,9 @@
 ## TODOs
-- [ ] Zusammenfassung LAlg letzte Woche
-	- [ ] lineare unabhängigkeit
-	- [ ] n-dimensionale Determinante (mit Pfadregel)
-	- [ ] Koordinatentransformation (Gauss)
+- [x] Zusammenfassung LAlg letzte Woche
+	- [x] lineare unabhängigkeit
+	- [x] n-dimensionale Determinante (mit Pfadregel)
+	- [x] Koordinatentransformation (Gauss)
 - [x] Prolog [[Übung 5.34 Kreuzworträtsel]]
-- [ ] Zusammenfassung Prolog
+- [x] Zusammenfassung Prolog
 
 

@@ -20,4 +20,3 @@ _KEINE_ monostabilen Kippstufen + Verzögerungsglieder
 #### Zähler
 [[Asynchronzähler vorwärts]] simpler Aufbau
 _!!_ [[Berechnung von Synchronzählung]]
-

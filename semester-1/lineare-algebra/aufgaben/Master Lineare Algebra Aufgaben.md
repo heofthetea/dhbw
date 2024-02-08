@@ -10,6 +10,7 @@ tag:lalg-aufgabe
 [[LAlg Aufg-06 LGS]]
 [[LAlg Aufg-07 Komplexe_Zahlen_1]]
 [[LAlg Aufg-08 lineareAbbildungen]]
+[[LAlg Aufg-09 lineareAbbildungen_2]]
 [[Lineare Algebra Aufgaben Template]]
 
 

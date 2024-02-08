@@ -5,8 +5,6 @@
 [[LaTex Cheat Sheet]]
 [[oBdA]]
 
-
-
 ## Good Notes
 [[Lineare Algebra Aufschriebe]]
 [[Lineare Algebra Mitschriebe]]
