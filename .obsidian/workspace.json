@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bb854715cfee066f",
+        "id": "f41ca2039f45f76b",
         "type": "tabs",
         "children": [
           {
-            "id": "f430c8164a7c5b2a",
+            "id": "095e1212e93febf8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/digitaltechnik/Speicherschaltungen Library.md",
+                "file": "semester-1/logik/prolog/Prolog Library.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,43 +22,7 @@
             }
           },
           {
-            "id": "318fc18ef2bb26e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/logik/prolog/5.6 Listen/Übung 5.64 Funktionsweise member.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c28b678cfe1029c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/digitaltechnik/auswahlschaltungen/Schieberegister.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea90f04c07cf9cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/digitaltechnik/auswahlschaltungen/Multiplexer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05a71ee0224361de",
+            "id": "ab28d8b5650f9898",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -66,51 +30,9 @@
                 "file": "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf"
               }
             }
-          },
-          {
-            "id": "872d89dac3b2327d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/digitaltechnik/Aufgaben/Tipps Klausur D-Technik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2507e8ba89e8d8d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-08 16.58.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "bc16f2c39f9a584f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/lineare-algebra/Master Lineare Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3fc87f4abf50911",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-08 16.58.21.excalidraw.md",
+                "file": "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-08 16.58.21.excalidraw.md",
+                "file": "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-08 16.58.21.excalidraw.md"
+                "file": "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf"
               }
             }
           }
@@ -224,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,54 +162,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2507e8ba89e8d8d",
+  "active": "ab28d8b5650f9898",
   "lastOpenFiles": [
-    "semester-1/lineare-algebra/Aufschriebe/Injektive Funktion.md",
-    "semester-1/logik/prolog/Prolog Library.md",
-    "semester-1/programmieren/Master Programmieren.md",
-    "Excalidraw/Drawing 2024-02-08 17.17.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-08 16.58.21.excalidraw.md",
-    "Excalidraw/test.excalidrawlib",
-    "Excalidraw/images/cropped_Pasted image 20240202111738.md",
-    "Excalidraw/images",
-    "semester-1/lineare-algebra/Master Lineare Algebra.md",
-    "semester-1/lineare-algebra/aölkdfjlakfj.md",
-    "semester-1/lineare-algebra/Lineare Algebra Mitschriebe.md",
-    "Excalidraw",
-    "handwritten-notes/test.pdf",
-    "semester-1/digitaltechnik/Speicherschaltungen Library.md",
-    "handwritten-notes",
-    "semester-1/lineare-algebra/Aufschriebe/Funktion.md",
-    "semester-1/lineare-algebra/Aufschriebe/Surjektive Funktion.md",
-    "semester-1/logik/prolog/5.6 Listen/Übung 5.64 Funktionsweise member.md",
-    "semester-1/logik/prolog/5.6 Listen/Hub Prolog 5.6 Listen.md",
-    "semester-1/logik/prolog/5.6 Listen/Prädikat suffix.md",
-    "semester-1/logik/prolog/5.6 Listen/Prädikat Member.md",
-    "semester-1/logik/prolog/5.6 Listen/Prädikat append.md",
-    "semester-1/logik/prolog/5.6 Listen/Verschachtelte Liste.md",
-    "semester-1/digitaltechnik/Aufgaben/Tipps Klausur D-Technik.md",
-    "test.canvas",
-    "semester-1/logik/prolog/5.6 Listen/Prädikat length.md",
-    "semester-1/digitaltechnik/Aufgaben/Digitaltechnik_Uebung_1.pdf",
-    "semester-1/digitaltechnik/auswahlschaltungen/Schieberegister.md",
-    "semester-1/digitaltechnik/auswahlschaltungen/Multiplexer.md",
-    "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf",
-    "semester-1/goodnotes/Lineare Algebra/LAlg 4 Mitschrieb Matrizen.pdf",
-    "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
-    "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 1.1 Induktion.pdf",
-    "semester-1/goodnotes/Lineare Algebra/Aufgaben/LAlg Aufg-09_lineareAbbildungen_2.pdf",
     "semester-1/lineare-algebra/aufgaben/LAlg Aufg-09 lineareAbbildungen_2.md",
     "semester-1/lineare-algebra/aufgaben/Master Lineare Algebra Aufgaben.md",
-    "extern/templates/Lineare Algebra Aufgaben Template.md",
-    "semester-1/programmieren/images/Pasted image 20240208094115.png",
-    "semester-1/programmieren/images/Pasted image 20240208093931.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240207162132.png",
-    "semester-1/digitaltechnik/zähler/images/Pasted image 20240207161153.png",
-    "semester-1/digitaltechnik/zähler/images/Pasted image 20240207161002.png",
-    "semester-1/logik/prolog/images/Pasted image 20240206145231.png",
-    "semester-1/logik/prolog/images/Pasted image 20240206145103.png",
-    "semester-1/logik/prolog/images/Pasted image 20240206144035.png",
-    "semester-1/logik/prolog/images/Pasted image 20240206143029.png",
-    "semester-1/logik/prolog/images/Pasted image 20240206142200.png"
+    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-08 lineareAbbildungen.md",
+    "semester-1/lineare-algebra/aufgaben/Aufg-08_lineareAbbildungen.pdf",
+    "semester-1/logik/prolog/Prolog Library.md",
+    "semester-1/logik/prolog/Master Prolog 5.7 Cut.md",
+    "semester-1/logik/Tipps Klausur Logik.md",
+    "semester-1/logik/prolog/Backtracking ist ineffizient.md",
+    "semester-1/logik/altklausuren/20BE.pdf",
+    "semester-1/goodnotes/Logik/übungen/Lgk Altklausur 1.pdf",
+    "semester-1/logik/Master Logik.md",
+    "semester-1/logik/altklausuren/Master Logik Altklausuren.md",
+    "semester-1/logik/scripts/Logik-handout.pdf",
+    "semester-1/logik/Logik GoodNotes.md",
+    "semester-1/goodnotes/Logik/übungen",
+    "semester-1/goodnotes/Digitaltechnik/D-Technik 3 Rechenschaltungen.pdf",
+    "semester-1/logik/prolog/code/absolute_value.pl",
+    "semester-1/digitaltechnik/Speicherschaltungen Library.md",
+    "semester-1/bwl/planspiel/Periode 8.md",
+    "semester-1/bwl/planspiel/Periode 8 Sim 1.md",
+    "semester-1/bwl/planspiel/Periode 8 Sim 2.md",
+    "semester-1/bwl/planspiel/Master Planspiel.md",
+    "semester-1/programmieren/Pseudo-code Annuitäten.md",
+    "semester-1/programmieren/Annuitäten.md",
+    "semester-1/programmieren/NS-Diagramm Annuitäten.md",
+    "semester-1/programmieren/Master Programmieren.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Addier-Subtrahier-Werk.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Multiplikationsschaltung.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Parallele Multiplikationsschaltung.md",
+    "semester-1/digitaltechnik/Antivalenzverknüpfung als PLD.md",
+    "semester-1/digitaltechnik/Fucking Schmitt-Trigger.md",
+    "semester-1/digitaltechnik/images/Pasted image 20240209092419.png",
+    "semester-1/digitaltechnik/Field Programming Logic Array.md",
+    "semester-1/digitaltechnik/images/Pasted image 20240209091653.png",
+    "semester-1/digitaltechnik/Hub Programmierbare Logik.md",
+    "semester-1/digitaltechnik/images/Pasted image 20240209091500.png",
+    "semester-1/digitaltechnik/images/Pasted image 20240209091148.png",
+    "semester-1/digitaltechnik/images/Pasted image 20240209091056.png",
+    "semester-1/digitaltechnik/images/Pasted image 20240209090138.png",
+    "semester-1/digitaltechnik/images/Pasted image 20240209085910.png",
+    "semester-1/digitaltechnik/images",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240209083856.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240209083432.png",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240209081553.png",
+    "semester-1/goodnotes/Digitaltechnik/scripts/Digitaltechnik_2.pdf",
+    "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf",
+    "test.canvas"
   ]
 }

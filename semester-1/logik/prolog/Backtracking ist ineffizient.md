@@ -1,4 +1,5 @@
 ## Beispiel: Mathematischer Betrag
+[[absolute_value.pl]]
 ```Prolog
 abs(X, X) :- X >= 0.
 abs(X, Y) :- X < 0, > is -X.
@@ -16,4 +17,3 @@ abs(X, Y) :- X < 0, > is -X.
 	==> Verzweigungspunkt für _jeden_ Aufruf des `abs` Prädikats
 - Viele unnötige Verzweigungen sind, offensichtlich, ineffizient
 - Interpreter _weiß nicht_, dass weiterer Weg unnötig ist
-- 

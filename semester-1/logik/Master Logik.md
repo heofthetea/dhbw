@@ -10,6 +10,7 @@
 ## Contents
 [[Begrifflichkeiten Aussagenlogik|Begrifflichkeiten Aussagenlogik]]
 [[Master Prolog]]
+[[Tipps Klausur Logik]]
 
 
 ## Übungen

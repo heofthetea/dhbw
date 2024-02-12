@@ -1,6 +1,10 @@
 - taktgesteuerte Aufnahme von Informationen
 - Aufgebaut mit [[Flipflops]] (vor allem [[DV-Flipflop]])
-- _Base model_: [[Schieberegister mit serieller Ein- und Ausgabe]]
+
+### Base Model
+- [[Schieberegister mit serieller Ein- und Ausgabe]]
+- Aufbau:
+![[Pasted image 20240202083206 1.png]]
 
 ### Funktionsweise
 - Mit jedem _Taktsignal_ wird _nächstes_ Bit im Input aufgenommen

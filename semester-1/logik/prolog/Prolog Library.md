@@ -96,7 +96,7 @@
 	==> Die [[Anfrage]] ist erfüllbar
 
 ---
-## Rekusion
+## Rekursion
 [[Master Prolog 5.5 Rekursion]]
  - Ein [[Prädikat]] $P$ ist [[Rekursive Prädikate|rekursiv]], wenn sein _Body_ einen Aufruf zu $P$ enthält
  - Ohne [[Rekursive Prädikate|Rekursion]] wäre Prolog nicht _turing-complete_
@@ -124,6 +124,7 @@
 		- `[1, 2 | T ]
 		- `[H | [b, c, d]]`
 - [[Liste|Listen]] können wie in anderen Programmiersprachen [[Verschachtelte Liste|verschachtelt]] werden (Beispiel siehe [[Übung 5.69 Zebra]])
+#todo cut fail
 
 
 ### Arbeiten mit Listen

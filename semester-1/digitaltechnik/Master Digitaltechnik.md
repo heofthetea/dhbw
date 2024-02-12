@@ -5,6 +5,7 @@
 ## script
 [[Digitaltechnik-1.pdf]]
 [[Digitaltechnik_2.pdf]]
+[[beuth_literatur.pdf]]
 
 ## GoodNotes
 [[Digitaltechnik GoodNotes]]
@@ -13,7 +14,11 @@
 [[Master Flipflops]]
 [[Master Zähler]]
 [[Master Digitale Auswahl- und Verbindungsschaltungen]]
-[[Master Rechenschaltungen]]
+[[Hub Rechenschaltungen]]
+[[Hub Programmierbare Logik]]
+
+[[Fucking Schmitt-Trigger]]
+
 
 
 ## Aufgaben

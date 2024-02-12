@@ -1,0 +1,5 @@
+- Variablenbelegung bei Unifikation _in globaler Scope_
+- _kein_ [[Master Prolog|Prolog]] Programmentwurf
+	- eventuell Fehlersuche / Erweitern
+	- "custom Funktionen" nicht verwenden (bsp. [[Prädikat suffix]]) - wird vorgegeben in Klausur
+- Bleistift ist nicht dokumentengerecht
