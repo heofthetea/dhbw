@@ -37,5 +37,6 @@
   "showUnsupportedFiles": false,
   "newFileLocation": "current",
   "newFileFolderPath": "temp",
-  "attachmentFolderPath": "./images"
+  "attachmentFolderPath": "./images",
+  "tabSize": 4
 }

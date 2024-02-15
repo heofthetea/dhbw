@@ -22,17 +22,93 @@
             }
           },
           {
-            "id": "ab28d8b5650f9898",
+            "id": "d0a323067ec7eaf9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf"
+                "file": "semester-1/logik/altklausuren/20BE.pdf"
+              }
+            }
+          },
+          {
+            "id": "b32e28457ed62915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/logik/Tipps Klausur Logik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1dded90eaa6a481",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semester-1/logik/scripts/Logik-handout.pdf"
+              }
+            }
+          },
+          {
+            "id": "e289236ff2dd65f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/logik/prolog/Prädikat ! (Cut).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "271cc9e146c74f6b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semester-1/lineare-algebra/altklausuren/DHBW-W-Klausur_Lin-Alg_2021-22_Lsg.pdf"
+              }
+            }
+          },
+          {
+            "id": "57ef70bf03af6a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/lineare-algebra/Aufschriebe/LAlg Formeln.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f55b9dd0b5574a7a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 1.2 RSA - Zahlentheorie.pdf"
+              }
+            }
+          },
+          {
+            "id": "86924cc44d2fa28a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semester-1/lineare-algebra/scripts/math-script.pdf"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -82,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.51103591918945
+    "width": 364.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "6f7f12ab120220c0",
@@ -98,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf",
+                "file": "semester-1/lineare-algebra/scripts/math-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf",
+                "file": "semester-1/lineare-algebra/scripts/math-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf"
+                "file": "semester-1/lineare-algebra/scripts/math-script.pdf"
               }
             }
           }
@@ -146,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,54 +240,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab28d8b5650f9898",
+  "active": "86924cc44d2fa28a",
   "lastOpenFiles": [
-    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-09 lineareAbbildungen_2.md",
-    "semester-1/lineare-algebra/aufgaben/Master Lineare Algebra Aufgaben.md",
-    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-08 lineareAbbildungen.md",
-    "semester-1/lineare-algebra/aufgaben/Aufg-08_lineareAbbildungen.pdf",
-    "semester-1/logik/prolog/Prolog Library.md",
-    "semester-1/logik/prolog/Master Prolog 5.7 Cut.md",
-    "semester-1/logik/Tipps Klausur Logik.md",
-    "semester-1/logik/prolog/Backtracking ist ineffizient.md",
-    "semester-1/logik/altklausuren/20BE.pdf",
-    "semester-1/goodnotes/Logik/übungen/Lgk Altklausur 1.pdf",
-    "semester-1/logik/Master Logik.md",
-    "semester-1/logik/altklausuren/Master Logik Altklausuren.md",
+    "semester-1/lineare-algebra/altklausuren/DHBW-W-Klausur_Lin-Alg_2021-22_Lsg.pdf",
+    "semester-1/lineare-algebra/Aufschriebe/LAlg Formeln.md",
+    "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 1.2 RSA - Zahlentheorie.pdf",
+    "RSA - Zahlentheorie.pdf.md",
+    "semester-1/logik/prolog/Prädikat ! (Cut).md",
     "semester-1/logik/scripts/Logik-handout.pdf",
+    "semester-1/lineare-algebra/altklausuren/DHBW-Klausur_Lin-Alg_2020-21_Lsg_n.pdf",
+    "semester-1/lineare-algebra/altklausuren/Master Lineare Algebra Altklausuren.md",
+    "semester-1/lineare-algebra/altklausuren/DHBW-Klausur_Lin-Alg_2022-23_Lsg.pdf",
+    "semester-1/lineare-algebra/Aufschriebe/Cardanische Formel.md",
+    "semester-1/goodnotes/Lineare Algebra/LAlg 3 Mitschrieb Komplexe Zahlen.pdf",
+    "semester-1/lineare-algebra/aufgaben/Aufg-07_Komplexe_Zahlen_1.pdf",
+    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-07 Komplexe_Zahlen_1.md",
+    "semester-1/lineare-algebra/aufgaben/Master Lineare Algebra Aufgaben.md",
+    "semester-1/lineare-algebra/Lineare Algebra Mitschriebe.md",
+    "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf",
+    "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
+    "semester-1/goodnotes/Logik/Aufschriebe/Lgk 1.1 Aussagenlogik.pdf",
     "semester-1/logik/Logik GoodNotes.md",
-    "semester-1/goodnotes/Logik/übungen",
-    "semester-1/goodnotes/Digitaltechnik/D-Technik 3 Rechenschaltungen.pdf",
-    "semester-1/logik/prolog/code/absolute_value.pl",
+    "semester-1/lineare-algebra/Master Lineare Algebra.md",
+    "lineare algebra goodnotes.md",
+    "semester-1/logik/Tipps Klausur Logik.md",
+    "semester-1/logik/altklausuren/20BE.pdf",
+    "semester-1/logik/prolog/Prolog Library.md",
+    "semester-1/logik/altklausuren/Master Logik Altklausuren.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Hub Rechenschaltungen.md",
+    "Excalidraw/images/cropped_Pasted image 20240202111738.md",
+    "Excalidraw/Drawing 2024-02-08 16.58.21.excalidraw.md",
+    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-09 lineareAbbildungen_2.md",
+    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-08 lineareAbbildungen.md",
+    "semester-1/logik/prolog/Master Prolog 5.7 Cut.md",
+    "semester-1/logik/prolog/Backtracking ist ineffizient.md",
+    "semester-1/logik/Master Logik.md",
     "semester-1/digitaltechnik/Speicherschaltungen Library.md",
     "semester-1/bwl/planspiel/Periode 8.md",
-    "semester-1/bwl/planspiel/Periode 8 Sim 1.md",
-    "semester-1/bwl/planspiel/Periode 8 Sim 2.md",
-    "semester-1/bwl/planspiel/Master Planspiel.md",
-    "semester-1/programmieren/Pseudo-code Annuitäten.md",
-    "semester-1/programmieren/Annuitäten.md",
-    "semester-1/programmieren/NS-Diagramm Annuitäten.md",
-    "semester-1/programmieren/Master Programmieren.md",
-    "semester-1/digitaltechnik/rechenschaltungen/Addier-Subtrahier-Werk.md",
-    "semester-1/digitaltechnik/rechenschaltungen/Multiplikationsschaltung.md",
-    "semester-1/digitaltechnik/rechenschaltungen/Parallele Multiplikationsschaltung.md",
-    "semester-1/digitaltechnik/Antivalenzverknüpfung als PLD.md",
-    "semester-1/digitaltechnik/Fucking Schmitt-Trigger.md",
     "semester-1/digitaltechnik/images/Pasted image 20240209092419.png",
-    "semester-1/digitaltechnik/Field Programming Logic Array.md",
     "semester-1/digitaltechnik/images/Pasted image 20240209091653.png",
-    "semester-1/digitaltechnik/Hub Programmierbare Logik.md",
     "semester-1/digitaltechnik/images/Pasted image 20240209091500.png",
     "semester-1/digitaltechnik/images/Pasted image 20240209091148.png",
     "semester-1/digitaltechnik/images/Pasted image 20240209091056.png",
     "semester-1/digitaltechnik/images/Pasted image 20240209090138.png",
     "semester-1/digitaltechnik/images/Pasted image 20240209085910.png",
-    "semester-1/digitaltechnik/images",
     "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240209083856.png",
     "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240209083432.png",
     "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240209081553.png",
-    "semester-1/goodnotes/Digitaltechnik/scripts/Digitaltechnik_2.pdf",
-    "semester-1/lineare-algebra/aufgaben/Aufg-09_lineareAbbildungen_2.pdf",
     "test.canvas"
   ]
 }
