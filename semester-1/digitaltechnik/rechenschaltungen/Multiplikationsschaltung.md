@@ -5,7 +5,7 @@ $0 \cdot 1 = 0$
 $1 \cdot 0 = 0$
 $1\cdot 1 = 1$ 
 
-==> _Multiplizierer ist ein $AND$-Blied_
+==> _Multiplizierer ist ein $AND$-Glied_
 
 
 ### Funktionsweise

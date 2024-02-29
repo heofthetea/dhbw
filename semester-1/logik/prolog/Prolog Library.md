@@ -11,7 +11,6 @@
 	- $f \rightarrow f \in KB$  
 	- _Kontraposition_: [[Negation as Failure]]: Was _nicht_ aus [[Wissensbank]] folgt, ist _falsch_
 		- $f\not\in KB \rightarrow \lnot f$  
-
 ## Syntax
 [[Master Prolog Syntax]]
 ### Naming Conventions
@@ -50,7 +49,7 @@
 
 ##### [[Ganzzahl-Arithmetik]]
 - Arbeitet mit [[Zahl|Zahlen]]
-- Unterstützt [[Ganzzahl-Arithmetik#Integer-Operationen|Rechenregeln]] $\{+,-,div,mod\}$ sowie Punkt-vor-Strich und Klammern
+- Unterstützt [[Ganzzahl-Arithmetik#Integer-Operationen|Rechenregeln]] $\set{+,-,div,mod}$ sowie Punkt-vor-Strich und Klammern
 - [[Ganzzahl-Arithmetik#Gleichheit|Variablenzuweisung]] wird mit `is` bezeichnet
 	- Bindet [[Variable]] auf _linker Seite_ an _Ergebnis_ der rechten Seite
 	- Unterschied zu anderen Programmiersprachen: Variable _bleibt_ gebunden!!!
@@ -85,7 +84,7 @@
 ###### Vorgehen
 - Alle [[Goal|Goals]] der [[Anfrage]] sind negiert --> _Anfrageklausel_
 - _Fakten_ werden in der Reihenfolge behandelt, in der sie in der [[Wissensbank]] stehen
-	- Reihenfolge ist wichtig!!!
+	- Reihenfolge ist wichtig!!! (s. [[Suchbaum]])
 
 1. Lege [[Goal|Goals]] der [[Anfrage]] auf [[Stack]] $S$
 2. [[Unifikation|Unifiziere]] _oberstes_ [[Goal]] $G$ mit allen _Regelköpfen_ in [[Wissensbank]]
@@ -111,6 +110,9 @@
 	- Stets alle [[Basisklausel|Basisklauseln]] _vor_ das [[Rekursive Prädikate|Rekursive Prädikat]] schreiben
 	- Prädikate [[tail-rekursiv]] schreiben
 
+### Cut
+- [[Prädikat ! (Cut)]] schneidet alle direkt vorangegangenen Verzweigungspunkte ab
+
 ---
 ## Listen
 [[Hub Prolog 5.6 Listen]]
@@ -124,11 +126,10 @@
 		- `[1, 2 | T ]
 		- `[H | [b, c, d]]`
 - [[Liste|Listen]] können wie in anderen Programmiersprachen [[Verschachtelte Liste|verschachtelt]] werden (Beispiel siehe [[Übung 5.69 Zebra]])
-#todo cut fail
 
 
 ### Arbeiten mit Listen
-> Allgemeines Prinzip: [[Rekursive Prädikate]], mit [[Basisklausel]] die [[Leere Liste]] behandelt
+> Allgemeines Prinzip: [[Rekursive Prädikate]], mit [[Basisklausel]] die [[Leere Liste]] behandeln.
 
 Beispiele: [[Übung Palindrom]], [[Übung 5.66 Prädikat twice]]
 #### Built-in Prädikate

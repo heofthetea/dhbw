@@ -11,6 +11,7 @@ tag:lalg-aufgabe
 [[LAlg Aufg-07 Komplexe_Zahlen_1]]
 [[LAlg Aufg-08 lineareAbbildungen]]
 [[LAlg Aufg-09 lineareAbbildungen_2]]
+[[LAlg Aufg-10 Drehungen]]
 [[Lineare Algebra Aufgaben Template]]
 
 

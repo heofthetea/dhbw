@@ -26,5 +26,5 @@ $Ü = AB$
 ![[Pasted image 20240202092418.png]]
 
 
-### Aufbau
+### Aufbau NANDs
 ![[Pasted image 20240205155142.png]]

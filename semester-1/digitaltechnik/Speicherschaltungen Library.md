@@ -6,11 +6,12 @@
 	- somit nur Ausgang $Q_{1}$ betrachtet
 - [[Speicherfall]]: $Q_{1n} = Q_{1(n - 1)}$ 
 - [[Verbotener Fall]]: Dieses Grundprinzip liegt nicht vor
-- [[Taktsteuerung]]: Takt kontrolliert, ob [[Flipflops|Flipflop]] angesteuerrt werden kann oder in [[Speicherfall]] bleibt
+- [[Taktsteuerung]]: Takt kontrolliert, ob [[Flipflops|Flipflop]] angesteuert werden kann oder in [[Speicherfall]] bleibt
 	- _statisch_: Flipflop reagiert auf _Wert_ des Taktes
 	- _dynamisch_: Flipflop reagiert auf _Flanke_ (= Veränderung im Wert) des Taktes
 - [[Zweiflankengesteuertes Flipflop|Zweiflankensteuerung]]: Information wird mit _ansteigender_ Flanke aufgenommen, und mit _abfallender_ Flanke weiter gegeben
 - [[Charakteristische Gleichungen]] beschreiben die Funktionsweise eines [[Flipflops]] durch Boolesche Funktion
+	- [[Liste an Charakteristischen Gleichungen]]
 
 ### Arten von Flipflops
 - [[SR-Flipflop]] und [[Taktgesteuertes SR-Flipflop]]
@@ -25,7 +26,7 @@
 - _Prinzip_: Output gibt wieder, wie oft sich ein Eingangsimpuls verändert hat
 - Ausgänge der [[Flipflops]] repräsentieren Wertigkeit der gezählten Binärzahl
 	- je _niedriger_ der Index, desto _niedriger_ die Stelligkeit 
-		( $Q_{I}$ = $2^{0}$, $Q_{II}$ = $2^{1}$, etc)
+		($Q_{I}$ = $2^{0}$, $Q_{II}$ = $2^{1}$, etc)
 - Wenn eine Gewisse Grenze erreicht wird, werden Flipflops _zurückgesetzt_ 
 #### Unterschiedene Kategorien
 |  | asynchron | synchron |
@@ -83,7 +84,6 @@
 
 ### Transmissionsschaltungen
 - [[Multiplexer]]: sequenziert Bits aus input ("n zu 1 bit")
-	- aufgebaut aus [[Schieberegister|Schieberegistern]] 
 	- Beispiel: [[16-bit zu 1-bit Multiplexer]]
 - [[Demultiplexer]]: parallelisiert Bits aus input ("1 zu n bit")
 	- Umsetzung: [[Datenselektor]] mit _zeitabhängiger_ Beschaltung durch [[#Zähler]]

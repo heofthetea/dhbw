@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f41ca2039f45f76b",
+        "id": "eeb09b2490164e3f",
         "type": "tabs",
         "children": [
           {
-            "id": "095e1212e93febf8",
+            "id": "ca1cbf0b5209fd11",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/logik/prolog/Prolog Library.md",
+                "file": "semester-1/programmieren/Master Programmieren.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,93 +22,57 @@
             }
           },
           {
-            "id": "d0a323067ec7eaf9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-1/logik/altklausuren/20BE.pdf"
-              }
-            }
-          },
-          {
-            "id": "b32e28457ed62915",
+            "id": "db6b57e2093ef48c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/logik/Tipps Klausur Logik.md",
+                "file": "semester-1/programmieren/concepts/Floating Points.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f1dded90eaa6a481",
+            "id": "de9a0fe9416a08c5",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "semester-1/logik/scripts/Logik-handout.pdf"
-              }
+                "file": "semester-1/programmieren/Klausur Programmieren.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
-            "id": "e289236ff2dd65f3",
+            "id": "ae72b775b066f9b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/logik/prolog/Prädikat ! (Cut).md",
+                "file": "semester-1/programmieren/Probe Programmentwurf.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "271cc9e146c74f6b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-1/lineare-algebra/altklausuren/DHBW-W-Klausur_Lin-Alg_2021-22_Lsg.pdf"
-              }
-            }
-          },
-          {
-            "id": "57ef70bf03af6a7e",
+            "id": "f72ed81f062d336d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/lineare-algebra/Aufschriebe/LAlg Formeln.md",
+                "file": "semester-1/programmieren/Eigene Datenbank/File Handling.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f55b9dd0b5574a7a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 1.2 RSA - Zahlentheorie.pdf"
-              }
-            }
-          },
-          {
-            "id": "86924cc44d2fa28a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-1/lineare-algebra/scripts/math-script.pdf"
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:todo",
+                "query": "shift",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.51103591918945,
-    "collapsed": true
+    "width": 364.51103591918945
   },
   "right": {
     "id": "6f7f12ab120220c0",
@@ -175,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/lineare-algebra/scripts/math-script.pdf",
+                "file": "semester-1/programmieren/Probe Programmentwurf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/lineare-algebra/scripts/math-script.pdf",
+                "file": "semester-1/programmieren/Probe Programmentwurf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/lineare-algebra/scripts/math-script.pdf"
+                "file": "semester-1/programmieren/Probe Programmentwurf.md"
               }
             }
           }
@@ -240,53 +203,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86924cc44d2fa28a",
+  "active": "ae72b775b066f9b0",
   "lastOpenFiles": [
-    "semester-1/lineare-algebra/altklausuren/DHBW-W-Klausur_Lin-Alg_2021-22_Lsg.pdf",
-    "semester-1/lineare-algebra/Aufschriebe/LAlg Formeln.md",
-    "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 1.2 RSA - Zahlentheorie.pdf",
-    "RSA - Zahlentheorie.pdf.md",
-    "semester-1/logik/prolog/Prädikat ! (Cut).md",
-    "semester-1/logik/scripts/Logik-handout.pdf",
-    "semester-1/lineare-algebra/altklausuren/DHBW-Klausur_Lin-Alg_2020-21_Lsg_n.pdf",
-    "semester-1/lineare-algebra/altklausuren/Master Lineare Algebra Altklausuren.md",
-    "semester-1/lineare-algebra/altklausuren/DHBW-Klausur_Lin-Alg_2022-23_Lsg.pdf",
-    "semester-1/lineare-algebra/Aufschriebe/Cardanische Formel.md",
-    "semester-1/goodnotes/Lineare Algebra/LAlg 3 Mitschrieb Komplexe Zahlen.pdf",
-    "semester-1/lineare-algebra/aufgaben/Aufg-07_Komplexe_Zahlen_1.pdf",
-    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-07 Komplexe_Zahlen_1.md",
-    "semester-1/lineare-algebra/aufgaben/Master Lineare Algebra Aufgaben.md",
-    "semester-1/lineare-algebra/Lineare Algebra Mitschriebe.md",
-    "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf",
-    "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
-    "semester-1/goodnotes/Logik/Aufschriebe/Lgk 1.1 Aussagenlogik.pdf",
-    "semester-1/logik/Logik GoodNotes.md",
-    "semester-1/lineare-algebra/Master Lineare Algebra.md",
-    "lineare algebra goodnotes.md",
-    "semester-1/logik/Tipps Klausur Logik.md",
-    "semester-1/logik/altklausuren/20BE.pdf",
+    "semester-1/programmieren/Eigene Datenbank/File Handling.md",
+    "semester-1/programmieren/concepts/Segmentation Fault.md",
+    "semester-1/programmieren/concepts/Structs.md",
+    "semester-1/programmieren/concepts/linked-list/Implementation Quick Sort.md",
+    "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
+    "semester-1/programmieren/code/005/knights.py",
+    "semester-1/programmieren/Knight's Journey.md",
+    "semester-1/programmieren/concepts/Recursion.md",
+    "semester-1/programmieren/Klausur Programmieren.md",
+    "semester-1/programmieren/Probe Programmentwurf.md",
+    "semester-1/programmieren/concepts/Floating Points.md",
+    "semester-1/programmieren/Master Programmieren.md",
+    "semester-1/programmieren/code/übung/output/übung_klausur",
+    "semester-1/programmieren/concepts/linked-list/Quick Sort.md",
+    "semester-1/programmieren/sources/negative_powers_of_2.pdf",
+    "semester-1/programmieren/concepts/C concepts.md",
+    "semester-1/programmieren/code/übung/output/fucking_aufzug",
+    "semester-1/programmieren/code/übung/output",
+    "semester-1/programmieren/code/übung/fucking_aufzug.c",
+    "semester-1/programmieren/code/übung/übung_klausur.c",
+    "semester-1/programmieren/code/übung",
+    "semester-1/programmieren/Programmentwurf_Probe.pdf",
+    "semester-1/programmieren/Übung Klausur Programmieren.md",
+    "semester-1/programmieren/code/übung_klausur.c",
     "semester-1/logik/prolog/Prolog Library.md",
-    "semester-1/logik/altklausuren/Master Logik Altklausuren.md",
-    "semester-1/digitaltechnik/rechenschaltungen/Hub Rechenschaltungen.md",
-    "Excalidraw/images/cropped_Pasted image 20240202111738.md",
-    "Excalidraw/Drawing 2024-02-08 16.58.21.excalidraw.md",
-    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-09 lineareAbbildungen_2.md",
-    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-08 lineareAbbildungen.md",
-    "semester-1/logik/prolog/Master Prolog 5.7 Cut.md",
-    "semester-1/logik/prolog/Backtracking ist ineffizient.md",
+    "semester-1/logik/prolog/5.3 Unifikation/Prädikat is.md",
+    "semester-1/logik/prolog/5.6 Listen/Prädikat length.md",
+    "semester-1/logik/Logik GoodNotes.md",
+    "extern/exports/Master Exports.md",
+    "semester-1/logik/Definitionen Logik.md",
+    "semester-1/logik/∀ Regel.md",
     "semester-1/logik/Master Logik.md",
-    "semester-1/digitaltechnik/Speicherschaltungen Library.md",
-    "semester-1/bwl/planspiel/Periode 8.md",
+    "semester-1/logik/Tableau-Algorithmus.md",
+    "semester-1/logik/∃ Regel.md",
+    "semester-1/logik/Struktur.md",
+    "semester-1/logik/Signatur.md",
+    "semester-1/logik/images/Pasted image 20240228165321.png",
+    "semester-1/logik/images/Pasted image 20240228165139.png",
+    "semester-1/logik/images/Pasted image 20240228163430.png",
+    "semester-1/digitaltechnik/images/Pasted image 20240216165516.png",
+    "semester-1/digitaltechnik/images/Pasted image 20240216161418.png",
     "semester-1/digitaltechnik/images/Pasted image 20240209092419.png",
     "semester-1/digitaltechnik/images/Pasted image 20240209091653.png",
     "semester-1/digitaltechnik/images/Pasted image 20240209091500.png",
     "semester-1/digitaltechnik/images/Pasted image 20240209091148.png",
     "semester-1/digitaltechnik/images/Pasted image 20240209091056.png",
-    "semester-1/digitaltechnik/images/Pasted image 20240209090138.png",
-    "semester-1/digitaltechnik/images/Pasted image 20240209085910.png",
-    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240209083856.png",
-    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240209083432.png",
-    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240209081553.png",
     "test.canvas"
   ]
 }

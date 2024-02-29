@@ -12,3 +12,4 @@ path:lineare-algebra/Aufgaben file:"Aufg-08_lineareAbbildungen"
 ```expander
 path:goodnotes file:"Aufg-08_lineareAbbildungen"
 ```
+[[LAlg Aufg-08_lineareAbbildungen.pdf]]

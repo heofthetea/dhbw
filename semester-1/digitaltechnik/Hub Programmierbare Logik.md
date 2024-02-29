@@ -1,6 +1,5 @@
 [[Application Specific Integrated Circuit (ASIC)]]
 [[Programmable Logic Devices (PLD)]]
-[[Programmierung der PLDs]]
 - [[FAMOS-Transistor]]
 - [[Leitungskrezungen]]
 

@@ -1,8 +1,9 @@
 > entfernt _Verzweigungspunkte_, die _nach_ dem Aufruf des Eltern-[[Goal|Goals]] angelegt wurden
+> Alternative Unifikationen mit demselben Prädikat werden unterbunden.
 
 > [!Warning]
 > _Nicht_ äquivalent zu `return`.!!!
-> Lese als: mache alles _nach_ `!`, wenn alles _vor_ `!` falsch ist.
+
 - [[Elterngoal und Subgoal]]
 - nullstellig
 - ist _immer_ successful

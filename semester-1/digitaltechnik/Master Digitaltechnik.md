@@ -1,11 +1,18 @@
 #master
 ## Library
 [[Speicherschaltungen Library]]
+[[Rechenschaltungen Library]]
+
+[[Digitaltechnik Cheat Sheet.pdf]]
+
 
 ## script
 [[Digitaltechnik-1.pdf]]
 [[Digitaltechnik_2.pdf]]
 [[beuth_literatur.pdf]]
+
+[[Digitaltechnik nicht klausurrelevant]]
+[[Digitaltechnik klausurrelevant]]
 
 ## GoodNotes
 [[Digitaltechnik GoodNotes]]
@@ -17,7 +24,9 @@
 [[Hub Rechenschaltungen]]
 [[Hub Programmierbare Logik]]
 
-[[Fucking Schmitt-Trigger]]
+[[Fucking Schmitt-Trigger ???????]]
+[[Hub Hamming Code]]
+
 
 
 

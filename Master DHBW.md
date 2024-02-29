@@ -9,5 +9,5 @@
 [[Master Semester 1]]
 
 ## Utilities
-[[Exports Master]]
+[[Master Exports]]
 [[Colour Backups]]

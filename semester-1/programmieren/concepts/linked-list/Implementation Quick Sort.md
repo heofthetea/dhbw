@@ -22,12 +22,14 @@ def partition(list, left, right):
 			i_right -= 1
 		swap(list, i_left, i_right)
 		
-		# adjust pivot
+		# adjust for reaching pivot
+		# happens because now, i_right must have gotten swapped with median
 		if i_left == pivot:
 			pivot = i_right
 		elif i_right == pivot:
 			pivot = i_left
 
+		# increase iterators, idk why lol
 		if i_left < pivot:
 			i_left += 1
 		if i_right > pivot:
