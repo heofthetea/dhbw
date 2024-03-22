@@ -1,6 +1,6 @@
 ## Vorgehen
 1. Wahreitstabelle aufstellen
-2. Anwendungsgleichungen (= [[Disjunktive Normalform|DNF]]) aufstellen und vereinfachen
+2. Anwendungsgleichungen (= [[DNF]]) aufstellen und vereinfachen
 	1. Dabei _spaltenweise_ arbeiten (ouch)
 3. [[Charakteristische Gleichungen]] der verwendeten Flip-Flops bestimmen
 4. Verknüpfungsgleichungen durch Koeffizientenvergleich bestimmen

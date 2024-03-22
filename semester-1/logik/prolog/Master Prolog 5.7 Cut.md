@@ -10,5 +10,6 @@
 [[Übung 5.74 Prädikat filter]]
 [[Übung 5.78 Negation as Failure]]
 [[Übung Palindrom]]
+[[cut_fail.pl]]
 
 

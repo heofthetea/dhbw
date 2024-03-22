@@ -10,3 +10,4 @@ path:lineare-algebra/Aufgaben file:"Aufg-10_Drehungen"
 ```expander
 path:goodnotes file:"Aufg-10_Drehungen"
 ```
+[[LAlg Aufg-10_Drehungen.pdf]]

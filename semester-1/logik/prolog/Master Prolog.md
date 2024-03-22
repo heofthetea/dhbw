@@ -28,7 +28,6 @@ path:prolog file:übung
 
 
 
-
 ## Vorlesung
 [[Master Prolog 5.1 Intro]]
 [[Master Prolog 5.3 built-ins]]

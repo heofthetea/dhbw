@@ -4,75 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb09b2490164e3f",
+        "id": "10c7ac0e85863796",
         "type": "tabs",
         "children": [
           {
-            "id": "ca1cbf0b5209fd11",
+            "id": "310e55f7e6b4836a",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/programmieren/Master Programmieren.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "graph",
+              "state": {},
               "pinned": true
-            }
-          },
-          {
-            "id": "db6b57e2093ef48c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/programmieren/concepts/Floating Points.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de9a0fe9416a08c5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/programmieren/Klausur Programmieren.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ae72b775b066f9b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/programmieren/Probe Programmentwurf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f72ed81f062d336d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/programmieren/Eigene Datenbank/File Handling.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/programmieren/Probe Programmentwurf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/programmieren/Probe Programmentwurf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,17 +120,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "semester-1/programmieren/Probe Programmentwurf.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,54 +143,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae72b775b066f9b0",
+  "active": "310e55f7e6b4836a",
   "lastOpenFiles": [
-    "semester-1/programmieren/Eigene Datenbank/File Handling.md",
-    "semester-1/programmieren/concepts/Segmentation Fault.md",
-    "semester-1/programmieren/concepts/Structs.md",
-    "semester-1/programmieren/concepts/linked-list/Implementation Quick Sort.md",
-    "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
-    "semester-1/programmieren/code/005/knights.py",
-    "semester-1/programmieren/Knight's Journey.md",
-    "semester-1/programmieren/concepts/Recursion.md",
-    "semester-1/programmieren/Klausur Programmieren.md",
-    "semester-1/programmieren/Probe Programmentwurf.md",
-    "semester-1/programmieren/concepts/Floating Points.md",
-    "semester-1/programmieren/Master Programmieren.md",
-    "semester-1/programmieren/code/übung/output/übung_klausur",
-    "semester-1/programmieren/concepts/linked-list/Quick Sort.md",
-    "semester-1/programmieren/sources/negative_powers_of_2.pdf",
-    "semester-1/programmieren/concepts/C concepts.md",
-    "semester-1/programmieren/code/übung/output/fucking_aufzug",
-    "semester-1/programmieren/code/übung/output",
-    "semester-1/programmieren/code/übung/fucking_aufzug.c",
-    "semester-1/programmieren/code/übung/übung_klausur.c",
-    "semester-1/programmieren/code/übung",
-    "semester-1/programmieren/Programmentwurf_Probe.pdf",
-    "semester-1/programmieren/Übung Klausur Programmieren.md",
-    "semester-1/programmieren/code/übung_klausur.c",
-    "semester-1/logik/prolog/Prolog Library.md",
-    "semester-1/logik/prolog/5.3 Unifikation/Prädikat is.md",
-    "semester-1/logik/prolog/5.6 Listen/Prädikat length.md",
-    "semester-1/logik/Logik GoodNotes.md",
-    "extern/exports/Master Exports.md",
-    "semester-1/logik/Definitionen Logik.md",
-    "semester-1/logik/∀ Regel.md",
+    "semester-1/programmieren/Sieb des Erathostenes/implementation Sieb des Eratosthenes.md",
+    "semester-1/programmieren/code/009/Code 009 Master.md",
+    "semester-1/bwl/presentations/vertrieb/Eigene Präsentation Vertrieb.md",
+    "semester-1/lineare-algebra/altklausuren/Master Lineare Algebra Altklausuren.md",
+    "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
+    "semester-1/logik/prolog/5.4 Suchbäume/Master Prolog 5.4 Suchbäume.md",
+    "semester-1/lineare-algebra/LAlg_Cheat_Sheet.pdf",
+    "semester-1/lineare-algebra/Master Lineare Algebra.md",
+    "semester-1/lineare-algebra/aufgaben/Master Lineare Algebra Aufgaben.md",
+    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-10 Drehungen.md",
+    "Access token.mdenc",
+    "Master DHBW.md",
+    "semester-1/logik/prolog/code/Master Prolog Code.md",
+    "semester-1/logik/prolog/Master Prolog.md",
+    "semester-1/bwl/Master BWL.md",
+    "semester-1/logik/prolog/5.5 Rekursion/tail-rekursiv.md",
+    "semester-1/logik/prolog/5.5 Rekursion/Master Prolog 5.5 Rekursion.md",
     "semester-1/logik/Master Logik.md",
-    "semester-1/logik/Tableau-Algorithmus.md",
-    "semester-1/logik/∃ Regel.md",
-    "semester-1/logik/Struktur.md",
-    "semester-1/logik/Signatur.md",
-    "semester-1/logik/images/Pasted image 20240228165321.png",
-    "semester-1/logik/images/Pasted image 20240228165139.png",
-    "semester-1/logik/images/Pasted image 20240228163430.png",
-    "semester-1/digitaltechnik/images/Pasted image 20240216165516.png",
-    "semester-1/digitaltechnik/images/Pasted image 20240216161418.png",
-    "semester-1/digitaltechnik/images/Pasted image 20240209092419.png",
-    "semester-1/digitaltechnik/images/Pasted image 20240209091653.png",
-    "semester-1/digitaltechnik/images/Pasted image 20240209091500.png",
-    "semester-1/digitaltechnik/images/Pasted image 20240209091148.png",
-    "semester-1/digitaltechnik/images/Pasted image 20240209091056.png",
+    "semester-1/logik/prolog/Master Prolog 5.7 Cut.md",
+    "semester-1/lineare-algebra/altklausuren/DHBW-Klausur_Lin-Alg_2021-22_Lsg 1.pdf",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240207162132.png",
+    "semester-1/programmieren/Master Programmieren.md",
+    "semester-1/programmieren/code/Code Master.md",
+    "semester-1/programmieren/Sieb des Erathostenes/Aufgabe - Sieb des Eratosthenes.md",
+    "semester-1/programmieren/code/007/Code 007 Master.md",
+    "semester-1/bwl/presentations/Master BWL Presentations.md",
+    "semester-1/programmieren/code/009/Code 009 Master",
+    "semester-1/programmieren/eigene-datenbank/Shows Database Code.md",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083813 1.png",
+    "extern/notes/Daily Note 10-01-2024.md",
+    "semester-1/programmieren/eigene-datenbank/Shows Database.md",
+    "semester-1/programmieren/eigene-datenbank/Datenbank Ideen.md",
+    "theorie_praxisphasen.pdf",
+    "intension/keycloak/authorization_services/images/Pasted image 20240306152238.png",
+    "intension/keycloak/authorization_services/images/Pasted image 20240306153904.png",
+    "intension/keycloak/authorization_services/images/Pasted image 20240305134313.png",
+    "intension/keycloak/authorization_services/images/Pasted image 20240304140324.png",
+    "intension/t1000/images/Pasted image 20240322111527.png",
+    "intension/t1000/images/Pasted image 20240321161358.png",
+    "intension/t1000/images/Pasted image 20240311165056.png",
+    "intension/keycloak/images/Pasted image 20240305142450.png",
+    "intension/keycloak/authorization_services/images",
+    "intension/keycloak/authorization_services/docker-compose_keycloak-playground.yml",
+    "intension/t1000/t1000_jannis.pdf",
+    "intension/t1000/t1000_ingo.pdf",
+    "intension/t1000/images",
     "test.canvas"
   ]
 }
