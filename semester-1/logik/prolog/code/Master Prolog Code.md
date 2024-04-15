@@ -1,0 +1,17 @@
+```expander
+path:prolog/code
+```
+[[absolute_value.pl]]
+[[combine.pl]]
+[[combine_as_tuple.pl]]
+[[crossword.pl]]
+[[cut_fail.pl]]
+[[file.pl]]
+[[klausur.pl]]
+[[less.pl]]
+[[palindrome.pl]]
+[[quicksort.pl]]
+[[tail_rekursiv.pl]]
+[[test.pl]]
+[[twice.pl]]
+[[zebra.pl]]

@@ -1,0 +1,4 @@
+- measure speech
+- measure motional expressions
+- spiromatry (balance)
+- ask patients to describe what they're feeling from their own perspective

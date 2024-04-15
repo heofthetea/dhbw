@@ -1,0 +1,13 @@
+- know what's going on inside the model
+	- contrary to the black box of chatGPT
+	- given that there's this input - how come AI came up with this result?
+- make [[Multimodal AI|multimodal AI]] for extra versatility
+- [[Patient Engagement]]
+- Verification, that material is trustworthy and reliable:
+	- background noise
+	- lighting issues
+- Analytical Validation:
+	- is AI captured data actually reliable?
+	- Humans need to count and annotate
+- Clinical Validation:
+	- Are extracted measures actually correlated to diseases?
