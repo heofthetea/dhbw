@@ -1,20 +1,22 @@
 {
   "main": {
-    "id": "c7572418f75e2b2b",
+    "id": "bc5fa3d9001151a0",
     "type": "split",
     "children": [
       {
-        "id": "10c7ac0e85863796",
+        "id": "cce8455d7341bf62",
         "type": "tabs",
         "children": [
           {
-            "id": "310e55f7e6b4836a",
+            "id": "91267bfb4f7bcf2a",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "intension/t1000/Paper Outline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -23,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be13d8a5f479695a",
+    "id": "8fb382c510ea05ea",
     "type": "split",
     "children": [
       {
-        "id": "b920b5b2d2c24b81",
+        "id": "6d7dc9d7d22c87fc",
         "type": "tabs",
         "children": [
           {
-            "id": "fb1bb73006943f2b",
+            "id": "8a2df00143219b5a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,12 +43,12 @@
             }
           },
           {
-            "id": "552a406fd8e226b5",
+            "id": "b65d04c2ccc2d74c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "shift",
+                "query": "ieee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +58,7 @@
             }
           },
           {
-            "id": "6e98ce5415107e43",
+            "id": "593294281ab0f638",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.51103591918945
+    "width": 300
   },
   "right": {
-    "id": "6f7f12ab120220c0",
+    "id": "e6bce196f78118e3",
     "type": "split",
     "children": [
       {
-        "id": "f4854a5d0bf1ab70",
+        "id": "38a9316313a7c929",
         "type": "tabs",
         "children": [
           {
-            "id": "c321e22666e2e60a",
+            "id": "1014847d3a9f0f7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -94,7 +96,7 @@
             }
           },
           {
-            "id": "a8972d148579c849",
+            "id": "4d02859d3f1c9dab",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -105,7 +107,7 @@
             }
           },
           {
-            "id": "47f19d8c012e34e3",
+            "id": "4ce488e7d2d8941e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,81 +118,82 @@
             }
           },
           {
-            "id": "7163db37e0e9d7be",
+            "id": "d659dc3f4b33e8a3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "wissenschaftliches-arbeiten/Fortbildung/Praxisbericht für Übung.pdf"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vscode-editor:Create Code File": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "vscode-editor:Create Code File": false,
-      "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "310e55f7e6b4836a",
+  "active": "8a2df00143219b5a",
   "lastOpenFiles": [
-    "semester-1/programmieren/Sieb des Erathostenes/implementation Sieb des Eratosthenes.md",
-    "semester-1/programmieren/code/009/Code 009 Master.md",
-    "semester-1/bwl/presentations/vertrieb/Eigene Präsentation Vertrieb.md",
-    "semester-1/lineare-algebra/altklausuren/Master Lineare Algebra Altklausuren.md",
-    "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
-    "semester-1/logik/prolog/5.4 Suchbäume/Master Prolog 5.4 Suchbäume.md",
-    "semester-1/lineare-algebra/LAlg_Cheat_Sheet.pdf",
-    "semester-1/lineare-algebra/Master Lineare Algebra.md",
-    "semester-1/lineare-algebra/aufgaben/Master Lineare Algebra Aufgaben.md",
-    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-10 Drehungen.md",
-    "Access token.mdenc",
-    "Master DHBW.md",
-    "semester-1/logik/prolog/code/Master Prolog Code.md",
-    "semester-1/logik/prolog/Master Prolog.md",
-    "semester-1/bwl/Master BWL.md",
-    "semester-1/logik/prolog/5.5 Rekursion/tail-rekursiv.md",
-    "semester-1/logik/prolog/5.5 Rekursion/Master Prolog 5.5 Rekursion.md",
-    "semester-1/logik/Master Logik.md",
-    "semester-1/logik/prolog/Master Prolog 5.7 Cut.md",
-    "semester-1/lineare-algebra/altklausuren/DHBW-Klausur_Lin-Alg_2021-22_Lsg 1.pdf",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240207162132.png",
-    "semester-1/programmieren/Master Programmieren.md",
-    "semester-1/programmieren/code/Code Master.md",
-    "semester-1/programmieren/Sieb des Erathostenes/Aufgabe - Sieb des Eratosthenes.md",
-    "semester-1/programmieren/code/007/Code 007 Master.md",
-    "semester-1/bwl/presentations/Master BWL Presentations.md",
-    "semester-1/programmieren/code/009/Code 009 Master",
-    "semester-1/programmieren/eigene-datenbank/Shows Database Code.md",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083813 1.png",
-    "extern/notes/Daily Note 10-01-2024.md",
-    "semester-1/programmieren/eigene-datenbank/Shows Database.md",
-    "semester-1/programmieren/eigene-datenbank/Datenbank Ideen.md",
-    "theorie_praxisphasen.pdf",
-    "intension/keycloak/authorization_services/images/Pasted image 20240306152238.png",
-    "intension/keycloak/authorization_services/images/Pasted image 20240306153904.png",
-    "intension/keycloak/authorization_services/images/Pasted image 20240305134313.png",
-    "intension/keycloak/authorization_services/images/Pasted image 20240304140324.png",
-    "intension/t1000/images/Pasted image 20240322111527.png",
-    "intension/t1000/images/Pasted image 20240321161358.png",
-    "intension/t1000/images/Pasted image 20240311165056.png",
-    "intension/keycloak/images/Pasted image 20240305142450.png",
-    "intension/keycloak/authorization_services/images",
-    "intension/keycloak/authorization_services/docker-compose_keycloak-playground.yml",
-    "intension/t1000/t1000_jannis.pdf",
-    "intension/t1000/t1000_ingo.pdf",
-    "intension/t1000/images",
-    "test.canvas"
+    "wissenschaftliches-arbeiten/latex/Install LaTeX.md",
+    "wissenschaftliches-arbeiten/latex/Hub LaTeX.md",
+    "wissenschaftliches-arbeiten/latex/Compile Latex document.md",
+    "wissenschaftliches-arbeiten/latex",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output/sieveWithoutArray",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output/sieve",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output/segmented_sieve_stolen",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output/segmented_sieve.exe",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output/segmented_sieve",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output/go_for_it",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output/Nimmzeit",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/others/output/copilot_sieve",
+    "semester-1/forschungsmethoden/Intro/Hypothese.md",
+    "wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240415171142.png",
+    "wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408173934.png",
+    "wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408173647.png",
+    "wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408173637.png",
+    "wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408173626.png",
+    "wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408170028.png",
+    "wissenschaftliches-arbeiten/Fortbildung/Überprüfung eines Technischen Berichts.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Übung - Korrigieren Einführungen.md",
+    "wissenschaftliches-arbeiten/Fortbildung/allgemeine Tipps.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Zwischenmenschliche Kommunikation bzgl. Berichten.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Zotero.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Zotero workflow.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Zotero Installation.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Zitierwürdigkeit.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Zitierfähigkeit.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Zitieren in Wissenschaftlichen Arbeiten.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Tätigkeitsschwerpunkte.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Titel einer Wissenschaftlichen Arbeit.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Schreibregeln für wissenschaftliche Arbeiten.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Qualitätskriterien für Wissenschaftliche Arbeiten.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Plan für Arbeiten.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Literturpyramide.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Literaturarbeit.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Indirektes Zitat - Paraphrasierung.md",
+    "wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
+    "wissenschaftliches-arbeiten/Fortbildung/How to Einstieg (Überwindung Schreibblockaden).md",
+    "wissenschaftliches-arbeiten/Fortbildung/Fiktiver Leser.md",
+    "intension/t1000/t1000-paper/images/dhbw.png",
+    "intension/t1000/t1000-paper/images/example.png",
+    "intension/t1000/t1000-paper/images/intension.png",
+    "intension/images/Pasted image 20240321161358.png"
   ]
 }

@@ -15,3 +15,4 @@
 
 ## Praxisphasen
 [[Master intension]]
+[[Hub Wissenschaftliche Arbeiten]]

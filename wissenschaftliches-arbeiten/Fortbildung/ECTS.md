@@ -1,0 +1,1 @@
+1 ECTS ~ 30 std Arbeitsaufwand
