@@ -1,5 +1,5 @@
 #master
-[[Master Programmieren]]
+[[Master C]]
 [[Master Projektmanagement]]
 [[Master BWL]]
 [[Master ICC]]

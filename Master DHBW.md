@@ -5,9 +5,6 @@
 [[modulhandbuch.pdf]]
 [[theorie_praxisphasen.pdf]]
 
-## Semester
-[[Master Semester 1]]
-
 ## Utilities
 [[Master Exports]]
 [[Colour Backups]]
@@ -16,3 +13,32 @@
 ## Praxisphasen
 [[Master intension]]
 [[Hub Wissenschaftliche Arbeiten]]
+
+
+## Semester
+
+### Semester 1
+[[Master Semester 1]]
+---
+
+[[Master C]]
+[[Master Projektmanagement]]
+[[Master BWL]]
+[[Master ICC]]
+[[Master Lineare Algebra]]
+[[Master Digitaltechnik]]
+[[Master Logik]]
+[[Master Schlüsselqualifikationen]]
+
+
+### Semester 2
+--- 
+[[Master Semester 2]]
+
+[[Hub Marketing]]
+[[Hub Web Engineering]]
+[[Hub ICC 2]]
+[[Hub Algorithmen und Komplexität]]
+[[intension/java/Hub Java|Hub Java]]
+
+

@@ -1,0 +1,2 @@
+### Unternehmensphilosophie
+Unsere Philosophie besteht im Wesentlichen darin, möglichst preisgünstige Produkte zur Verfügung zu stellen. Dabei legen wir zunächst wenig Rücksicht auf den nachhaltigen und technologischen Aspekt unserer Produkte, da der Preis an oberster Priorität steht. Wir wollen auch auf anderen Märkten möglichst viele Kunden gewinnen, indem wir mit unserem günstigen Preis relativ zur Konkurrenz überzeugen.
