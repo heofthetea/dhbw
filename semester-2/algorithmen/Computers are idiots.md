@@ -1,0 +1,2 @@
+The computer is incredibly fast, accurate, and stupid. Humans are inunbelievably slow, inaccurate, and brilliant.
+--> The marriage of the two is a challenge and opportunity beyond imagination. ~some guy

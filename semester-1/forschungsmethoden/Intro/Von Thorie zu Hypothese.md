@@ -12,8 +12,9 @@ _Hypothese_: Sachsen sind intelligenter als andere Deutsche.
 
 _Aber_: Hypothese ist schwammig --> Spezifikation und Beschreibung, wie gemessen werden soll.
 
-==> "Erwachsene (>18 J.), deren Eltern vor ihrer Geburt mindestens ein Jahr in Sachsen gelebt haben, erzielen im Durchschnitt mindestens 5 IQ Punkte (im IQ-Text X) als Erwachsene, deren Eltern nie in Sachsen gelebt haben."
+==> "Erwachsene (>18 J.), deren Eltern vor ihrer Geburt mindestens ein Jahr in Sachsen gelebt haben, erzielen im Durchschnitt mindestens 5 IQ Punkte mehr (im IQ-Text X) als Erwachsene, deren Eltern nie in Sachsen gelebt haben."
 - Unterscheidung: Vergleich mit _Trägermenge_ oder _Komplementärmenge_?
 
 --> Mathematische Formalisierung dieses Satzes
 
+ 

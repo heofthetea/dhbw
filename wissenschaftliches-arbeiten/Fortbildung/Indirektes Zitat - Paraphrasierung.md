@@ -1,0 +1,2 @@
+- sind erwünschter
+- Die Informationen einer Quelle in _eigenen Worten_ widergeben

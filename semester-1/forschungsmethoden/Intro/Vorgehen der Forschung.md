@@ -18,7 +18,7 @@ _Ziel_: Theorie muss _wachsen_
 5. _Literatur_ analysieren --> was haben andere schon/noch nicht gemacht?
 6. Hypothesen _präzisieren_ + _abgrenzen_
 7. Literatur kategorisieren und archivieren
-	1. Nutzen von Literaturverwaltungssysteme (_Zotero_)
+	1. Nutzen von Literaturverwaltungssysteme [[Zotero]]
 	2. Zitierarten (i.iii, APA, Harvard-style) ???
 ##### Ab jetzt gehts wirklich los
 1. [[Disposition]] formulieren
