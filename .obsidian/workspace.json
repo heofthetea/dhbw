@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "35a2d79f119e7529",
+    "type": "split",
+    "children": [
+      {
+        "id": "abc401533a57ec51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51fcbdc7afe873be",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bbc4e7ae14eba6b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/naive Euclids algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "736f44a3036a6702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/übung - Datenstrukturen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2075f22ba7cde1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Binary Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e105d9cc6e4f33a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/logik/Logik GoodNotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "239904be05b8f978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Zip compression algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "40b0d33a1d8234f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "373e6aaaac67327c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semester-2/algorithmen/sources/Algorithmen.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3f5cc490823e8d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intension/java/Hub Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "549f67a59d9db8e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9308c391259f4420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee94c1566480ea7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5013a04cc22c3fa6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbf1059a5e2b57a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e78723705d4741e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5a8681910588a45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc5c2c9b224723b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d06ead6f558f84bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "semester-1/logik/Logik GoodNotes.md"
+              }
+            }
+          },
+          {
+            "id": "ed2892acd5243c11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "semester-1/logik/Logik GoodNotes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e8a9da1bbc0fe4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "semester-1/logik/Logik GoodNotes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "vscode-editor:Create Code File": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e105d9cc6e4f33a1",
+  "lastOpenFiles": [
+    "semester-2/algorithmen/Complexity abstract.md",
+    "intension/java/Hub Java.md",
+    "semester-1/programmieren/Master C.md",
+    "semester-2/algorithmen/sources/Algorithmen.pdf",
+    "semester-2/algorithmen/Complexity.md",
+    "semester-2/algorithmen/Zip compression algorithm.md",
+    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+    "semester-2/algorithmen/naive Euclids algorithm.md",
+    "semester-2/algorithmen/übung - Datenstrukturen.md",
+    "semester-2/algorithmen/Binary Search.md",
+    "semester-2/algorithmen/Obere Schranke.md",
+    "semester-2/algorithmen/Optimized Euclid.md",
+    "semester-2/algorithmen/images/Pasted image 20240510114350.png",
+    "semester-2/algorithmen/Thow faster hardware at the problem.md",
+    "semester-2/algorithmen/Faster hardware is not equivalent to a solved problem.md",
+    "semester-2/algorithmen/Off-by-one error.md",
+    "semester-2/algorithmen/Pre-mature Optimization is the root of all evil.md",
+    "semester-2/algorithmen/images/Pasted image 20240510103051.png",
+    "semester-2/algorithmen/Modulo.md",
+    "semester-2/algorithmen/FizzBuzz Test.md",
+    "semester-2/algorithmen/Meta-info Algorithmen.md",
+    "semester-2/algorithmen/Worst Case.md",
+    "semester-2/algorithmen/Average Case.md",
+    "semester-2/algorithmen/Übung - Euclids worst-case.md",
+    "semester-2/Master Semester 2.md",
+    "Master DHBW.md",
+    "semester-2/java/Hub Java.md",
+    "semester-1/programmieren/concepts/Recursion.md",
+    "semester-1/logik/prolog/5.5 Rekursion/Beispiel Rekursion.md",
+    "semester-1/programmieren/concepts/images/Pasted image 20240510104428.png",
+    "semester-1/programmieren/concepts/images",
+    "semester-2/algorithmen/images/Pasted image 20240510095338.png",
+    "semester-2/algorithmen/images",
+    "semester-2/algorithmen/sources/Donald Knuth - The Art of Computer Programming_ Volume 4B_ Combinatorial Algorithms Part 2. 4B-Addison-Wesley Professional (2022).pdf",
+    "semester-2/algorithmen/sources",
+    "semester-2/algorithmen",
+    "Access token.mdenc",
+    "semester-1/forschungsmethoden/002",
+    "semester-2/java/images/Pasted image 20240507170907.png",
+    "semester-2/java/images/Pasted image 20240507170821.png",
+    "semester-2/java/images/Pasted image 20240507162914.png",
+    "semester-2/java/images/Pasted image 20240507160952.png",
+    "semester-2/java/images/Pasted image 20240507155651.png",
+    "semester-2/java/images/Pasted image 20240507155139.png",
+    "semester-2/java/images",
+    "semester-2/java/resources/2023-Java-Slides.pdf"
+  ]
+}
