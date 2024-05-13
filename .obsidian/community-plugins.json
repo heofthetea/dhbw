@@ -10,5 +10,7 @@
   "quick-latex",
   "emoji-shortcodes",
   "automatic-table-of-contents",
-  "sync-graph-settings"
+  "sync-graph-settings",
+  "obsidian-footnotes",
+  "better-fn"
 ]

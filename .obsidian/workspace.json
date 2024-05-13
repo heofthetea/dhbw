@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "abc401533a57ec51",
+        "id": "c7bab7e4ec954566",
         "type": "tabs",
         "children": [
           {
-            "id": "51fcbdc7afe873be",
+            "id": "beb85217b384eb04",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "file": "semester-2/web-engineering/Hub Web Engineering.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,98 +22,61 @@
             }
           },
           {
-            "id": "bbc4e7ae14eba6b8",
+            "id": "7c28789152c6be92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/naive Euclids algorithm.md",
+                "file": "semester-2/web-engineering/just use a div.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "736f44a3036a6702",
+            "id": "0647df862df649a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/übung - Datenstrukturen.md",
+                "file": "semester-2/web-engineering/code/GeoCalculator.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2075f22ba7cde1f",
+            "id": "328d8ab5a8822766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e105d9cc6e4f33a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/logik/Logik GoodNotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "239904be05b8f978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/Zip compression algorithm.md",
+                "file": "intension/linux/git/Copy-Modify-Merge Principle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
-        "id": "40b0d33a1d8234f7",
+        "id": "3e8c0411e6c6e9d3",
         "type": "tabs",
         "children": [
           {
-            "id": "373e6aaaac67327c",
+            "id": "aa519844898d14f8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "semester-2/algorithmen/sources/Algorithmen.pdf"
+                "file": "semester-2/web-engineering/resources/2024_WE1_Kap2.pdf"
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3f5cc490823e8d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intension/java/Hub Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/logik/Logik GoodNotes.md"
+                "file": "intension/linux/git/Copy-Modify-Merge Principle.md"
               }
             }
           },
@@ -200,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/logik/Logik GoodNotes.md",
+                "file": "intension/linux/git/Copy-Modify-Merge Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/logik/Logik GoodNotes.md",
+                "file": "intension/linux/git/Copy-Modify-Merge Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,53 +208,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e105d9cc6e4f33a1",
+  "active": "328d8ab5a8822766",
   "lastOpenFiles": [
-    "semester-2/algorithmen/Complexity abstract.md",
+    "intension/linux/git/Lock-Modify-Unlock Principle.md",
+    "intension/linux/git/Copy-Modify-Merge Principle.md",
+    "intension/linux/git/Git.md",
+    "semester-2/web-engineering/Hub Web Engineering.md",
+    "intension/DevOps.md",
+    "semester-2/web-engineering/Stylesheet.md",
+    "semester-2/web-engineering/CSS.md",
+    "semester-2/web-engineering/just use a div.md",
+    "semester-2/web-engineering/code/GeoCalculator.md",
+    "semester-2/web-engineering/html/Resource Location in HTML.md",
+    "semester-2/web-engineering/html/HTML structure.md",
+    "semester-2/web-engineering/geo-calc/calculator.html",
+    "semester-2/web-engineering/geo-calc/formulary.html",
+    "semester-2/web-engineering/geo-calc/intro.html",
+    "semester-2/web-engineering/geo-calc/index.html",
+    "semester-2/web-engineering/geo-calc/main.html",
+    "semester-2/web-engineering/geo-calc",
+    "semester-2/web-engineering/geocalc",
+    "semester-2/web-engineering/code/Hub Web Engineering Projekt.md",
+    "semester-1/projektmanagement/definitions/Wasserfallmodell.md",
+    "semester-2/web-engineering/resources/2024_WE1_Kap2.pdf",
+    "semester-2/web-engineering/images/Pasted image 20240513142639.png",
+    "semester-2/web-engineering/html/HTML div.md",
+    "semester-2/web-engineering/html/div tower of doom.md",
+    "semester-2/web-engineering/resources/2024_WebEngineering1_Kap1.pdf",
+    "semester-2/web-engineering/Relative Path.md",
+    "semester-2/web-engineering/html/DOM Tree.md",
+    "semester-2/web-engineering/HTML table.md",
+    "semester-2/web-engineering/HTML list.md",
+    "intension/linux/Root Directory.md",
+    "extern/misc/lö_maze.py",
+    "semester-2/web-engineering/html/images/Pasted image 20240513133326.png",
+    "semester-2/web-engineering/html/images/Pasted image 20240513132936.png",
+    "intension/t1000/T1000 Installations.md",
+    "intension/t1000/KVM virtual machine.md",
+    "README.md",
+    "intension/t1000/README.md",
+    "intension/linux/Symlink.md",
     "intension/java/Hub Java.md",
-    "semester-1/programmieren/Master C.md",
-    "semester-2/algorithmen/sources/Algorithmen.pdf",
-    "semester-2/algorithmen/Complexity.md",
-    "semester-2/algorithmen/Zip compression algorithm.md",
-    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "semester-2/algorithmen/naive Euclids algorithm.md",
-    "semester-2/algorithmen/übung - Datenstrukturen.md",
-    "semester-2/algorithmen/Binary Search.md",
-    "semester-2/algorithmen/Obere Schranke.md",
-    "semester-2/algorithmen/Optimized Euclid.md",
-    "semester-2/algorithmen/images/Pasted image 20240510114350.png",
-    "semester-2/algorithmen/Thow faster hardware at the problem.md",
-    "semester-2/algorithmen/Faster hardware is not equivalent to a solved problem.md",
-    "semester-2/algorithmen/Off-by-one error.md",
-    "semester-2/algorithmen/Pre-mature Optimization is the root of all evil.md",
-    "semester-2/algorithmen/images/Pasted image 20240510103051.png",
-    "semester-2/algorithmen/Modulo.md",
-    "semester-2/algorithmen/FizzBuzz Test.md",
-    "semester-2/algorithmen/Meta-info Algorithmen.md",
-    "semester-2/algorithmen/Worst Case.md",
-    "semester-2/algorithmen/Average Case.md",
-    "semester-2/algorithmen/Übung - Euclids worst-case.md",
-    "semester-2/Master Semester 2.md",
-    "Master DHBW.md",
-    "semester-2/java/Hub Java.md",
-    "semester-1/programmieren/concepts/Recursion.md",
-    "semester-1/logik/prolog/5.5 Rekursion/Beispiel Rekursion.md",
-    "semester-1/programmieren/concepts/images/Pasted image 20240510104428.png",
-    "semester-1/programmieren/concepts/images",
-    "semester-2/algorithmen/images/Pasted image 20240510095338.png",
-    "semester-2/algorithmen/images",
-    "semester-2/algorithmen/sources/Donald Knuth - The Art of Computer Programming_ Volume 4B_ Combinatorial Algorithms Part 2. 4B-Addison-Wesley Professional (2022).pdf",
-    "semester-2/algorithmen/sources",
-    "semester-2/algorithmen",
-    "Access token.mdenc",
-    "semester-1/forschungsmethoden/002",
+    "semester-2/web-engineering/protocols/images/Pasted image 20240506141221.png",
+    "semester-2/web-engineering/images/Pasted image 20240506140740.png",
     "semester-2/java/images/Pasted image 20240507170907.png",
     "semester-2/java/images/Pasted image 20240507170821.png",
     "semester-2/java/images/Pasted image 20240507162914.png",
     "semester-2/java/images/Pasted image 20240507160952.png",
-    "semester-2/java/images/Pasted image 20240507155651.png",
-    "semester-2/java/images/Pasted image 20240507155139.png",
-    "semester-2/java/images",
-    "semester-2/java/resources/2023-Java-Slides.pdf"
+    "semester-2/java/images/Pasted image 20240507155651.png"
   ]
 }
