@@ -37,11 +37,36 @@
 ## Komplexität
 [[Übung - Euclids worst-case]]
 [[übung - Datenstrukturen]]
-[[Complexity]]
+[[Übung - Komplexität mit Schleifen]]
+
+[[Komplexität]]
+[[Komplexität und Eingabe]]
+[[Beispiel Komplexität Matrixmultiplikation]]
+[[Komplexität bei großen n]]
+
 
 
 [[Average Case]]
 [[Worst Case]]
+
+[[Summenformel auflösen]]
+
+
+### Big O
+[[Logarithmische Laufzeit]]
+
+
+
+[[Landau Notation]]
+[[Rechenregeln Big O]]
+[[Grenzwertbetrachtung in Big O]]
+
+[[Regel von L'Hopital]]
+[[Rechenregeln Ableitungen]]
+
+[[Übung Rechenregeln Big O]]
+[[Übung O-Bestimmung]]
+
 
 
 

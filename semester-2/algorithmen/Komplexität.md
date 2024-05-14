@@ -13,3 +13,5 @@
 
 
 ==> [[Complexity abstract]]
+[[Komplexität und Eingabe]]
+[[Komplexität bei großen n]]
