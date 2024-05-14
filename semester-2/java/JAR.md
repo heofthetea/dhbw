@@ -6,3 +6,16 @@
 
 
 - [[JVM]] is extremely optimized for the Execution of Java Bytecode
+
+> [!hint] JARs are [[Tarballs]]
+> They can easily be extracted - it has to be renamed to a tar extension tho.
+## Compile to JAR
+Needs a [[Manifest file]]
+```bash
+jar -cfm <output-file> <manifest> <input-class>
+```
+
+## Run a JAR
+```bash
+java -jar <jar-file>
+```

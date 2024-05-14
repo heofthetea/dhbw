@@ -20,20 +20,46 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "eb5b27f2396775e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intension/java/Java Command Line Arguments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
       {
-        "id": "b31fa25fb2f62b0b",
+        "id": "9f45382dbf571d19",
         "type": "tabs",
         "children": [
           {
-            "id": "96d585607a525b4d",
+            "id": "17bef05eeaa5946c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "semester-2/java/resources/2023-Java-Slides.pdf"
+                "file": "intension/java/Reference Equality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80e0ea9b0484c465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/java/fully qualified Classname.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -66,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "credential",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,50 +198,51 @@
   },
   "active": "12e4ee0498db1752",
   "lastOpenFiles": [
-    "semester-2/java/resources/2023-Java-Slides.pdf",
+    "semester-2/java/code/003/WeekDay.class",
+    "semester-2/java/code/003/WeekDay.java",
+    "intension/java/Reference Equality.md",
     "intension/java/Hub Java.md",
+    "intension/java/Question mark operator.md",
+    "intension/java/instanceof.md",
+    "intension/java/Type Casting.md",
+    "semester-2/java/fully qualified Classname.md",
+    "semester-2/java/Object.md",
+    "intension/java/Reference.md",
+    "intension/java/Java Array.md",
+    "intension/java/Übung 4 - more UML diagrams.md",
+    "intension/java/images/Pasted image 20240514153625.jpg",
+    "intension/java/images",
+    "semester-2/java/Interface.md",
+    "semester-2/java/Visibility.md",
+    "intension/java/null.md",
+    "intension/java/Anatomy of a Java Program.md",
+    "intension/linux/Hub Linux.md",
+    "intension/java/Manifest file.md",
+    "semester-2/java/JAR.md",
+    "semester-2/java/code/003/HelloWorld.jar",
+    "semester-2/java/code/003/manifest",
+    "intension/linux/Tarballs.md",
+    "intension/java/Java Command Line Arguments.md",
+    "semester-2/java/code/003/HelloWorld.class",
+    "semester-2/java/code/003/HelloWorld.java",
+    "semester-2/java/code/003",
+    "intension/java/Compile Java File.md",
+    "intension/java/Wrap Java in Jar.md",
+    "semester-2/java/resources/2023-Java-Slides.pdf",
+    "intension/java/Java Conventions.md",
+    "intension/java/Camel Case.md",
     "semester-2/algorithmen/Rechenregeln Big O.md",
     "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "semester-2/algorithmen/Komplexität bei großen n.md",
-    "semester-2/algorithmen/Komplexität und Eingabe.md",
-    "semester-2/algorithmen/Komplexitätsberechnung bei Schleifen.md",
-    "semester-2/algorithmen/Summenformel auflösen.md",
-    "semester-2/algorithmen/Landau Notation.md",
-    "semester-2/algorithmen/Übung O-Bestimmung.md",
-    "semester-2/algorithmen/Logarithmische Laufzeit.md",
     "semester-2/algorithmen/images/Pasted image 20240514120929.png",
     "semester-2/algorithmen/sources/Algorithmen.pdf",
     "semester-2/algorithmen/images/Pasted image 20240514113125.png",
-    "semester-2/analysis/Rechenregeln Ableitungen.md",
     "semester-2/analysis/images/Pasted image 20240514112707.png",
-    "semester-2/analysis/Regel von L'Hopital.md",
     "semester-2/analysis/images/Pasted image 20240514112156.png",
     "semester-2/analysis/images",
-    "semester-2/analysis",
-    "semester-2/algorithmen/Grenzwertbetrachtung in Big O.md",
-    "semester-2/algorithmen/Übung Rechenregeln Big O.md",
     "semester-2/algorithmen/images/Pasted image 20240514110416.png",
     "semester-2/algorithmen/images/Pasted image 20240514105909.png",
     "semester-2/algorithmen/images/Pasted image 20240514105806.png",
-    "semester-2/algorithmen/Obere Schranke.md",
     "semester-2/algorithmen/images/Pasted image 20240514103614.png",
-    "semester-2/algorithmen/Euclids algorithm.md",
-    "semester-2/algorithmen/Komplexität.md",
-    "semester-1/lineare-algebra/Polynom.md",
-    "semester-2/algorithmen/images/Pasted image 20240514101839.png",
-    "semester-2/algorithmen/images/Pasted image 20240514101530.png",
-    "semester-2/algorithmen/Übung - Komplexität mit Schleifen.md",
-    "semester-2/algorithmen/Beispiel Komplexität Matrixmultiplikation.md",
-    "semester-2/web-engineering/just use a div.md",
-    "semester-2/web-engineering/resources/2024_WE1_Kap2.pdf",
-    "semester-2/web-engineering/Hub Web Engineering.md",
-    "semester-2/web-engineering/code/GeoCalculator.md",
-    "intension/linux/git/Copy-Modify-Merge Principle.md",
-    "intension/Git Credential helper.md",
-    "semester-2/web-engineering/geo-calc/calculator.html",
-    "semester-2/web-engineering/geo-calc/formulary.html",
-    "semester-2/web-engineering/geo-calc/intro.html",
-    "semester-2/web-engineering/geo-calc/index.html",
-    "semester-2/web-engineering/geo-calc/main.html"
+    "semester-2/algorithmen/images/Pasted image 20240514101839.png"
   ]
 }
