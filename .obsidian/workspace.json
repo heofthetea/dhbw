@@ -32,33 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0647df862df649a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/web-engineering/code/GeoCalculator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "328d8ab5a8822766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intension/linux/git/Copy-Modify-Merge Principle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "3e8c0411e6c6e9d3",
@@ -105,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "credential",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intension/linux/git/Copy-Modify-Merge Principle.md"
+                "file": "semester-2/web-engineering/just use a div.md"
               }
             }
           },
@@ -163,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intension/linux/git/Copy-Modify-Merge Principle.md",
+                "file": "semester-2/web-engineering/just use a div.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intension/linux/git/Copy-Modify-Merge Principle.md",
+                "file": "semester-2/web-engineering/just use a div.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,17 +185,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "328d8ab5a8822766",
+  "active": "7c28789152c6be92",
   "lastOpenFiles": [
-    "intension/linux/git/Lock-Modify-Unlock Principle.md",
+    "semester-2/web-engineering/code/GeoCalculator.md",
     "intension/linux/git/Copy-Modify-Merge Principle.md",
+    "intension/Git Credential helper.md",
+    "intension/DevOps.md",
+    "semester-2/java/resources/2023-Java-Slides.pdf",
+    "intension/linux/git/Lock-Modify-Unlock Principle.md",
     "intension/linux/git/Git.md",
     "semester-2/web-engineering/Hub Web Engineering.md",
-    "intension/DevOps.md",
     "semester-2/web-engineering/Stylesheet.md",
     "semester-2/web-engineering/CSS.md",
     "semester-2/web-engineering/just use a div.md",
-    "semester-2/web-engineering/code/GeoCalculator.md",
     "semester-2/web-engineering/html/Resource Location in HTML.md",
     "semester-2/web-engineering/html/HTML structure.md",
     "semester-2/web-engineering/geo-calc/calculator.html",
@@ -240,7 +219,6 @@
     "semester-2/web-engineering/HTML table.md",
     "semester-2/web-engineering/HTML list.md",
     "intension/linux/Root Directory.md",
-    "extern/misc/lö_maze.py",
     "semester-2/web-engineering/html/images/Pasted image 20240513133326.png",
     "semester-2/web-engineering/html/images/Pasted image 20240513132936.png",
     "intension/t1000/T1000 Installations.md",
@@ -248,7 +226,6 @@
     "README.md",
     "intension/t1000/README.md",
     "intension/linux/Symlink.md",
-    "intension/java/Hub Java.md",
     "semester-2/web-engineering/protocols/images/Pasted image 20240506141221.png",
     "semester-2/web-engineering/images/Pasted image 20240506140740.png",
     "semester-2/java/images/Pasted image 20240507170907.png",
