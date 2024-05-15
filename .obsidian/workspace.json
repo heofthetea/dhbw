@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "3e8c0411e6c6e9d3",
+        "id": "5893b19f3e7814eb",
         "type": "tabs",
+        "dimension": 26.992936427850655,
         "children": [
           {
             "id": "12e4ee0498db1752",
@@ -14,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intension/java/Hub Java.md",
+                "file": "semester-2/projektmanagement/Hub Projektmanagement 2.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,12 +23,12 @@
             }
           },
           {
-            "id": "eb5b27f2396775e6",
+            "id": "57e14e04223bb876",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intension/java/Java Command Line Arguments.md",
+                "file": "semester-2/projektmanagement/Anwendungsprojekt Projektmanagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,30 +37,73 @@
         ]
       },
       {
-        "id": "9f45382dbf571d19",
+        "id": "9f64e2c6673bb92e",
         "type": "tabs",
+        "dimension": 39.95963673057518,
         "children": [
           {
             "id": "17bef05eeaa5946c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intension/java/Reference Equality.md",
+                "file": "semester-2/projektmanagement/WDH Projektmanagement 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ff3cb1bb5d857a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/projektmanagement/002 Projektorganisation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80e0ea9b0484c465",
+            "id": "15aa9ad544c57d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/java/fully qualified Classname.md",
+                "file": "semester-1/projektmanagement/turmbau/Turmbau.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "9f45382dbf571d19",
+        "type": "tabs",
+        "dimension": 33.047426841574165,
+        "children": [
+          {
+            "id": "d5f1e87e61d2a1a3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "3ecda7363e3a5996",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semester-1/projektmanagement/scripts/PM Kap_09 Phasenmodelle_vorl.pdf"
               }
             }
           }
@@ -92,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "problematik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,12 +153,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -140,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "intension/java/Hub Java.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +193,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intension/java/Hub Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +209,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intension/java/Hub Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,56 +233,57 @@
       "vscode-editor:Create Code File": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "12e4ee0498db1752",
+  "active": "d5f1e87e61d2a1a3",
   "lastOpenFiles": [
+    "semester-1/projektmanagement/turmbau/Turmbau.md",
+    "semester-2/projektmanagement/WDH Projektmanagement 1.md",
+    "semester-1/projektmanagement/definitions/Projektdefinition.md",
+    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+    "semester-2/algorithmen/Übung - Euclids worst-case.md",
+    "semester-2/algorithmen/Komplexität und Eingabe.md",
+    "semester-2/algorithmen/Rechenregeln Big O.md",
+    "semester-2/algorithmen/Übung O-Bestimmung.md",
+    "semester-2/analysis/Rechenregeln Ableitungen.md",
+    "semester-2/algorithmen/Logarithmische Laufzeit.md",
+    "semester-1/projektmanagement/scripts/PM Kap_09 Phasenmodelle_vorl.pdf",
+    "semester-2/projektmanagement/Projektphase - Revision.md",
+    "semester-2/projektmanagement/Grundmodell Projektphasen.md",
+    "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
+    "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 4 Matrizen.pdf",
+    "semester-2/projektmanagement/Hub Projektmanagement 2.md",
+    "semester-2/projektmanagement/images/Pasted image 20240515105512.png",
+    "semester-2/projektmanagement/images/Pasted image 20240515105444.png",
+    "semester-2/projektmanagement/Vor- und Nachteile von Sequentiellen Modellen.md",
+    "semester-2/projektmanagement/Schwimmringbeispiel.md",
+    "semester-2/projektmanagement/Big Bang in Projektmanagement.md",
+    "semester-2/projektmanagement/Lebenszyklus von Projekten.md",
+    "semester-2/projektmanagement/images/Pasted image 20240515104505.png",
+    "semester-2/projektmanagement/images",
+    "semester-2/projektmanagement/resources/PM Kap_09 Phasenmodelle_vorl.pdf",
+    "semester-2/projektmanagement/resources",
+    "semester-1/projektmanagement/002 Projektorganisation.md",
+    "semester-2/projektmanagement/Anwendungsprojekt Projektmanagement.md",
+    "semester-2/projektmanagement/Prüfungsleistung Projektmanagement.md",
+    "semester-1/projektmanagement/Fragenkatalog Master.md",
+    "semester-2/projektmanagement/Stakeholder.md",
+    "semester-1/projektmanagement/definitions/CPM Netzplan.md",
+    "semester-1/projektmanagement/definitions/MPM Netzplan.md",
+    "semester-1/projektmanagement/005 Terminmanagement.md",
+    "semester-2/projektmanagement",
     "semester-2/java/code/003/WeekDay.class",
     "semester-2/java/code/003/WeekDay.java",
-    "intension/java/Reference Equality.md",
-    "intension/java/Hub Java.md",
-    "intension/java/Question mark operator.md",
-    "intension/java/instanceof.md",
-    "intension/java/Type Casting.md",
-    "semester-2/java/fully qualified Classname.md",
-    "semester-2/java/Object.md",
-    "intension/java/Reference.md",
-    "intension/java/Java Array.md",
-    "intension/java/Übung 4 - more UML diagrams.md",
     "intension/java/images/Pasted image 20240514153625.jpg",
     "intension/java/images",
-    "semester-2/java/Interface.md",
-    "semester-2/java/Visibility.md",
-    "intension/java/null.md",
-    "intension/java/Anatomy of a Java Program.md",
-    "intension/linux/Hub Linux.md",
-    "intension/java/Manifest file.md",
-    "semester-2/java/JAR.md",
     "semester-2/java/code/003/HelloWorld.jar",
-    "semester-2/java/code/003/manifest",
-    "intension/linux/Tarballs.md",
-    "intension/java/Java Command Line Arguments.md",
-    "semester-2/java/code/003/HelloWorld.class",
-    "semester-2/java/code/003/HelloWorld.java",
-    "semester-2/java/code/003",
-    "intension/java/Compile Java File.md",
-    "intension/java/Wrap Java in Jar.md",
-    "semester-2/java/resources/2023-Java-Slides.pdf",
-    "intension/java/Java Conventions.md",
-    "intension/java/Camel Case.md",
-    "semester-2/algorithmen/Rechenregeln Big O.md",
-    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
     "semester-2/algorithmen/images/Pasted image 20240514120929.png",
-    "semester-2/algorithmen/sources/Algorithmen.pdf",
     "semester-2/algorithmen/images/Pasted image 20240514113125.png",
     "semester-2/analysis/images/Pasted image 20240514112707.png",
     "semester-2/analysis/images/Pasted image 20240514112156.png",
-    "semester-2/analysis/images",
     "semester-2/algorithmen/images/Pasted image 20240514110416.png",
-    "semester-2/algorithmen/images/Pasted image 20240514105909.png",
-    "semester-2/algorithmen/images/Pasted image 20240514105806.png",
-    "semester-2/algorithmen/images/Pasted image 20240514103614.png",
-    "semester-2/algorithmen/images/Pasted image 20240514101839.png"
+    "semester-2/algorithmen/images/Pasted image 20240514105909.png"
   ]
 }

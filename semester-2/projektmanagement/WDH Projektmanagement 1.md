@@ -83,3 +83,5 @@
 		- PERT Schätzung
 			- aufteilung in pessimistisch, optimistisch, und warhscheinlicher Wert
 	- [[Schätzungsproblematik]]: Je weniger ich weiß, desto schlechter wird meine Schätzung
+- [[MPM Netzplan]]: Darstellung eines Projektablaufs als Graph
+	- **kritischer Pfad**: Ist der längste Pfad

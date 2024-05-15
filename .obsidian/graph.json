@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:icc",
+      "query": "path:semester-2/projektmanagement  ",
       "color": {
         "a": 1,
         "rgb": 5395168
@@ -78,14 +78,14 @@
       }
     },
     {
-      "query": "path:semester-2/algorithmen  ",
+      "query": "path:wissenschaftliches-arbeiten  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:forschungsmethoden",
+      "query": "path:semester-2/algorithmen  ",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -118,6 +118,20 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
     }
   ],
   "collapse-display": false,
@@ -130,6 +144,6 @@
   "repelStrength": 11.8532557195072,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.07765781239316055,
+  "scale": 0.05555940046771401,
   "close": true
 }
