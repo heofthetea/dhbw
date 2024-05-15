@@ -1,6 +1,6 @@
 
 ```expander
-path:"semester-1/goodnotes/Programmieren"
+path:"goodnotes/Programmieren"
 ```
 [[C sheet.pdf]]
 [[Floats.pdf]]

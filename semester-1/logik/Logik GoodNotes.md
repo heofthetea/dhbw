@@ -20,5 +20,5 @@ path:goodnotes/Logik
 [[Lgk Altklausur 1.pdf]]
 [[Lgk Altklausur 2.pdf]]
 [[Logik Cheat Sheet.pdf]]
-[[semester-1/goodnotes/Logik/source/Logik-handout.pdf]]
+[[goodnotes/Logik/source/Logik-handout.pdf]]
 

@@ -6,150 +6,18 @@
         "type": "split",
         "children": [
           {
-            "id": "5893b19f3e7814eb",
+            "id": "c2598b68120e3d83",
             "type": "tabs",
-            "dimension": 29.36427850655903,
             "children": [
               {
-                "id": "12e4ee0498db1752",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/projektmanagement/Hub Projektmanagement 2.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "57e14e04223bb876",
+                "id": "1699915f3822e5da",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/projektmanagement/Anwendungsprojekt Projektmanagement.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
-          },
-          {
-            "id": "9f64e2c6673bb92e",
-            "type": "tabs",
-            "dimension": 31.3824419778002,
-            "children": [
-              {
-                "id": "17bef05eeaa5946c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/projektmanagement/WDH Projektmanagement 1.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "ff3cb1bb5d857a55",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-1/projektmanagement/002 Projektorganisation.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "15aa9ad544c57d16",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-1/projektmanagement/definitions/Projektdefinition.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "cdd44ca62d32a7b9",
-            "type": "split",
-            "dimension": 39.25327951564076,
-            "children": [
-              {
-                "id": "9f45382dbf571d19",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "d5f1e87e61d2a1a3",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "pinned": true
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "1469f6e20eb8d1fd",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "afca0d441bf1a123",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "semester-1/projektmanagement/definitions/Projektdefinition.md",
-                        "options": {
-                          "collapse-filter": true,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 0.7038706712328905,
-                          "close": true
-                        }
-                      },
-                      "pinned": true
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
           }
         ],
         "direction": "vertical"
@@ -226,9 +94,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "semester-1/projektmanagement/definitions/Projektdefinition.md"
-                  }
+                  "state": {}
                 }
               },
               {
@@ -237,7 +103,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "semester-1/projektmanagement/definitions/Projektdefinition.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -254,7 +119,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "semester-1/projektmanagement/definitions/Projektdefinition.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -283,8 +147,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "15aa9ad544c57d16",
-      "mtime": "2024-05-15T10:29:29+02:00"
+      "active": "1699915f3822e5da",
+      "mtime": "2024-05-15T12:52:14+02:00"
     }
   },
   "active": "graph+local graph + 2 windows"

@@ -1,5 +1,8 @@
 [[Meta-info Algorithmen]]
 
+[[Library Algorithmen 01]]
+
+
 ### Script
 [[Algorithmen.pdf]]
 
@@ -7,6 +10,7 @@
 [[FizzBuzz Test]]
 [[Pre-mature Optimization is the root of all evil]]
 [[Zip compression algorithm]]
+[[Throw faster hardware at the problem]]
 
 
 
@@ -49,12 +53,12 @@
 [[Average Case]]
 [[Worst Case]]
 
-[[Summenformel auflösen]]
 
 
 ### Big O
 [[Logarithmische Laufzeit]]
 
+[[Summenformel auflösen]]
 
 
 [[Landau Notation]]
@@ -70,21 +74,12 @@
 
 
 
-### Archetypes of Algorithms
-[[Archetypes of Algorithms]]
-- [[Brute Force]]
-- [[Greedy Agorithm]]
-- [[Divide and Conquer]]
-- [[Dynamic Programming]]
+## Archetypes of Algorithms
 
 
 
 
 ## Data Structures
-- [[Array]]
-- [[Graph]]
-- [[Hash]]
-- [[Heap]]
 
 
 ## Sortieren

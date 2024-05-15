@@ -1,6 +1,6 @@
 > [!warning] Ist wichtig, passiert oft! --> Put on cheat sheet!!!
 
-$$\sum_{i = 1}^{n} = \frac{n(n + 1)}{2}$$
+$$\sum_{i = 1}^{n} i= \frac{n(n + 1)}{2}$$
 
 > [!info] Wird immer benötigt, wenn in einem Loop jedes mal ein Element weniger wird!
 

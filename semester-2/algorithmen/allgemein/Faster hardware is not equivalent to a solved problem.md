@@ -1,4 +1,4 @@
-[[Thow faster hardware at the problem]]
+[[Throw faster hardware at the problem]]
 
 
 ### Modern hardware is overpowered
