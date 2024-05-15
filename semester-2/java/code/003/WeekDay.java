@@ -30,8 +30,8 @@ class WeekDay {
 
         for(int i = 1; i < month; i++) {
             totalDays += DAYS_IN_MONTH[i - 1];
-            // if (i == 2 && isLeapYear(year))
-                //totalDays ++;
+            if (i == 2 && isLeapYear(year))
+                totalDays ++;
         }
         totalDays += day;
 
@@ -43,6 +43,6 @@ class WeekDay {
 
 
     private static boolean isLeapYear(int year) {
-        return year % 4 == 2;
+        return year % 4 == 0;
     }
 }

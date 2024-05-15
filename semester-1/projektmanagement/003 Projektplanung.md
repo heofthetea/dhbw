@@ -80,6 +80,7 @@ Inhalte:
 - Beurteilung über Zusammenarbeit
 
 ### Wasserfallmodell
+[[Wasserfallmodell]]
 fester Ablauf:
 1) Anforderungsanalyse --> [[Lastenheft]], passiert beim Kunden
 2) Spezifikatioin --> [[Pflichtenheft]]
