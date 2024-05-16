@@ -11,17 +11,28 @@
 	- [[Komplexität bei großen n]]: Je größer $n$ wird, desto weniger ausschlaggebend sind niederwertige Terme
 		--> bei [[Polynom|Polynomen]] wird immer nur das _höchststellige_ Polynom betrachtet
 	- _Konstante Faktoren_ können je nach Kontext ignoriert werden
-- Für Berechnung wird _abstrahiert_:
+- Für Berechnung wird [[Complexity abstract|abstrahiert]]:
 	- Jede Instruktion ist eine _Zeiteinheit_ ZE
 	- Jedes Element (nicht byte!!) im Speicher ist eine _Platzeinheit_ PE
-- [[Komplexität]] wird idR dargestellt durch [[Landau Notation]] (Big O)
-	- $O(f)$ ist die [[Menge]] aller Funktionen, die langfristig nicht _wesentlich_[^1] schneller wachsen als $f$ 
-- [[Rechenregeln Big O]] dienen dazu, Komplexität von verschiedenen Algorithmen zu vergleichen
-	- mit wichtigste Regel: [[Grenzwertbetrachtung in Big O]]: $\lim_{n \rightarrow \infty} \frac{g(n)}{f(n)} \in \mathbb{R} \Rightarrow g \in O(f)$
-		- $0 \in \mathbb{R}$ 
-		- Oft muss [[Regel von L'Hopital]] angewendet werden
+	- Nested for loops have $n \cdot n \cdot n$ Complexity
+
 > [!hint]- Summenformeln in loops, und [[Summenformel auflösen|diese auflösen]]
 > Wenn es passiert, dass ein inner loop mit jeder iteration des äußeren kleiner wird, muss dies mit Summenformel modelliert werden
 > $$\sum_{i = 1}^{n} i= \frac{n(n + 1)}{2}$$
+
+
+- [[Komplexität]] wird idR dargestellt durch [[Landau Notation]] (Big O)
+	- $O(f)$ ist die [[Menge]] aller Funktionen, die langfristig nicht _wesentlich_[^1] schneller wachsen als $f$ 
+	- Mathematisch: 
+		- $k, n \in \mathbb{N}, \ \ \ c \in \mathbb{R}$ 
+		- $\forall_{n \gt k}\ g(n) \leq c * f(n) \Longleftrightarrow g \in O(f)$ 
+- [[Rechenregeln Big O]] dienen dazu, Komplexität von verschiedenen Algorithmen zu vergleichen
+	- mit wichtigste Regel: [[Grenzwertbetrachtung in Big O]]: $\lim_{n \rightarrow \infty} \frac{g(n)}{f(n)} \in \mathbb{R} \Rightarrow g \in O(f)$
+
+> [!warning] zu beachten bei Grenzwertbetrachtung 
+> - $0 \in \mathbb{R}$ 
+> - "oben muss in Unten drin sein"
+> - Oft muss [[Regel von L'Hopital]] angewendet werden
+
 
 [^1]: nicht wesentlich = nur um einen konstanten Faktor

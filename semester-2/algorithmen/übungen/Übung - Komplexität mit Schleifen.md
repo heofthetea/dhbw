@@ -2,7 +2,7 @@
 - Berechne Aufwand der Verteilung in Abhängigkeit von n Studenten
 
 ### 1
-_Beschränkt_ durch $n^{2}$ --> [[Obere Schranke]]  
+_Beschränkt_ durch $n^{2}$ --> [[Beschränktheit]]
 $O = \frac{1}{4}n^{2}+ 2n$ 
 
 [[Summenformel auflösen]]

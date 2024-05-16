@@ -3,8 +3,15 @@
 [[Library Algorithmen 01]]
 
 
+# Labor Algorithmen
+[[Hub Algorithmen Labor]]
+
+
+
+
 ### Script
 [[Algorithmen.pdf]]
+[[AdditionalExercises.pdf]]
 
 ## MISC
 [[FizzBuzz Test]]
@@ -70,6 +77,7 @@
 
 [[Übung Rechenregeln Big O]]
 [[Übung O-Bestimmung]]
+[[Order of Magnitudes Grenzwerte]]
 
 
 

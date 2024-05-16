@@ -5,7 +5,7 @@ Funktionen sind spezielle _Relationen_:
 
 [[Injektive Funktion]]
 [[Surjektive Funktion]]
-[[Bijektive Funktion]]
+[[Bijektive Abbildung]]
 
 
 

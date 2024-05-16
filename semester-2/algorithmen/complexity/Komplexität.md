@@ -15,3 +15,5 @@
 ==> [[Complexity abstract]]
 [[Komplexität und Eingabe]]
 [[Komplexität bei großen n]]
+
+expressed in [[Landau Notation]]

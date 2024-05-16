@@ -6,39 +6,69 @@
       {
         "id": "c2598b68120e3d83",
         "type": "tabs",
+        "dimension": 50.83234244946492,
         "children": [
           {
             "id": "1699915f3822e5da",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4363ca740efaec86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "semester-2/algorithmen/labor/Revision C Projekt.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba6835821cb37a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/analysis/Rechenregeln konvergenter Folgen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1e8523695c8d392",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semester-2/algorithmen/sources/AdditionalExercises.pdf"
+              }
+            }
+          },
+          {
+            "id": "8238f05e65a1a894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/analysis/Rechenregeln Ableitungen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b04efc2bf70fb5c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "f14a189ea60f1061",
         "type": "tabs",
+        "dimension": 49.16765755053508,
         "children": [
           {
             "id": "e8f2de0937030c87",
@@ -55,14 +85,24 @@
             }
           },
           {
-            "id": "3f8726a96adcc9f5",
+            "id": "40d96accb73e1f85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/complexity/Summenformel auflösen.md",
+                "file": "semester-2/algorithmen/complexity/Landau Notation.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ecfed2750f4ce781",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "goodnotes/Semester 2/Analysis/Any1 Grenzwertuntersuchung Mitschrieb.pdf"
               }
             }
           }
@@ -143,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +192,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +208,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,53 +236,53 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4363ca740efaec86",
+  "active": "4b04efc2bf70fb5c",
   "lastOpenFiles": [
+    "semester-2/analysis/Rechenregeln Ableitungen.md",
+    "semester-2/algorithmen/labor/output/pointerWDHSELF",
+    "semester-2/algorithmen/labor/output",
+    "semester-2/algorithmen/labor/pointerWDHSELF.c",
+    "semester-2/algorithmen/labor/pointerWDH.h",
     "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "intension/linux/Relative Path.md",
-    "semester-2/analysis/Hub Analysis.md",
-    "semester-2/algorithmen/complexity/Worst Case.md",
-    "semester-2/algorithmen/Classes of Algotithms.md",
-    "semester-2/algorithmen/übungen",
-    "semester-2/algorithmen/allgemein",
-    "semester-2/algorithmen/complexity",
-    "semester-2/algorithmen/examples",
-    "Master DHBW.md",
-    "semester-2/Master Semester 2.md",
-    "semester-1/programmieren/Programmieren GoodNotes.md",
-    "semester-2/algorithmen/complexity/Rechenregeln Big O.md",
-    "goodnotes/Structuring.pdf",
-    "goodnotes/Semester 2/Algorithms/Alg0 Intro.pdf",
-    "goodnotes/Semester 2/Algorithms",
-    "goodnotes/Semester 2/Java/Java UML.pdf",
-    "goodnotes/Semester 2/Java",
-    "goodnotes/Semester 2/Analysis/Any1 Grenzwertuntersuchung Mitschrieb.pdf",
-    "semester-1/logik/prolog/5.1 Syntax/übungen/Übung 5.25 Prolog Wissensbank.md",
-    "semester-1/projektmanagement/Projektmanagement GoodNotes.md",
-    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-03 Induktion.md",
-    "semester-1/digitaltechnik/Digitaltechnik GoodNotes.md",
-    "semester-1/logik/Logik GoodNotes.md",
-    "semester-2/analysis/Grenzwert.md",
     "semester-2/algorithmen/Library Algorithmen 01.md",
-    "semester-2/algorithmen/complexity/Summenformel auflösen.md",
-    "semester-2/algorithmen/complexity/Grenzwertbetrachtung in Big O.md",
-    "semester-2/algorithmen/allgemein/Throw faster hardware at the problem.md",
-    "semester-2/projektmanagement/Anwendungsprojekt Projektmanagement.md",
-    "semester-1/projektmanagement/002 Projektorganisation.md",
-    "semester-1/projektmanagement/definitions/Projektdefinition.md",
-    "semester-2/projektmanagement/Hub Projektmanagement 2.md",
-    "semester-1/projektmanagement/turmbau/Turmbau.md",
-    "semester-2/projektmanagement/WDH Projektmanagement 1.md",
-    "semester-2/algorithmen/übungen/Übung - Euclids worst-case.md",
+    "semester-2/algorithmen/complexity/Landau Notation.md",
+    "goodnotes/Semester 2/Analysis/Any1 Grenzwertuntersuchung Mitschrieb.pdf",
+    "semester-2/algorithmen/complexity/Komplexität.md",
+    "semester-2/algorithmen/complexity/Worst Case.md",
+    "semester-2/algorithmen/sources/AdditionalExercises.pdf",
+    "semester-2/analysis/Rechenregeln konvergenter Folgen.md",
+    "semester-2/analysis/Hub Analysis.md",
+    "semester-2/algorithmen/labor/Revision C Projekt.md",
+    "semester-2/algorithmen/labor/images/Pasted image 20240516145842.png",
+    "semester-2/algorithmen/labor/images/Pasted image 20240516144531.png",
+    "semester-2/algorithmen/labor/images",
+    "semester-2/algorithmen/labor/plot.py",
+    "semester-1/programmieren/code/own_database/output/shows",
+    "semester-1/programmieren/code/own_database/output",
+    "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
+    "semester-2/algorithmen/labor/Roadmap Algorithmen Labor.md",
+    "semester-2/analysis/Beschränktheit.md",
+    "semester-2/analysis/Satz von der monotonen Konvergenz.md",
+    "semester-2/analysis/Vollständigkeitsaxiom der Reellen Zahlen.md",
+    "semester-2/analysis/Supremum.md",
+    "semester-2/analysis/Menge.md",
+    "semester-1/lineare-algebra/Aufschriebe/Bijektive Abbildung.md",
+    "semester-2/analysis/Folge.md",
+    "semester-2/algorithmen/complexity/Obere Schranke.md",
+    "semester-2/algorithmen/übungen/Übung - Komplexität mit Schleifen.md",
+    "semester-2/algorithmen/examples/Optimized Euclid.md",
+    "semester-2/analysis/Bernoulli-Ungleichung.md",
+    "semester-2/analysis/Grenzwert.md",
+    "semester-2/analysis/Strategien Grenzwertuntersuchung.md",
+    "semester-2/analysis/Order of Magnitudes Grenzwerte.md",
+    "semester-2/analysis/fast alle.md",
+    "semester-2/algorithmen/images/Pasted image 20240510114350.png",
     "semester-2/projektmanagement/images/Pasted image 20240515105512.png",
     "semester-2/projektmanagement/images/Pasted image 20240515105444.png",
     "semester-2/projektmanagement/images/Pasted image 20240515104505.png",
     "intension/java/images/Pasted image 20240514153625.jpg",
     "semester-2/algorithmen/images/Pasted image 20240514120929.png",
     "semester-2/algorithmen/images/Pasted image 20240514113125.png",
-    "semester-2/analysis/images/Pasted image 20240514112707.png",
-    "semester-2/analysis/images/Pasted image 20240514112156.png",
-    "semester-2/algorithmen/images/Pasted image 20240514110416.png",
-    "semester-2/algorithmen/images/Pasted image 20240514105909.png"
+    "semester-2/analysis/images/Pasted image 20240514112707.png"
   ]
 }

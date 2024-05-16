@@ -3,7 +3,7 @@
 $O(f)$ ist eine [[Menge]]
 
 
-[[Obere Schranke]], [[Grenzwert]]
+[[Beschränktheit]],  [[Grenzwert]]
 
 
 Für eine Funktion f bezeichnet $O(f)$ die Menge aller Funktionen $g$ mit:

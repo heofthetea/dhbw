@@ -1,4 +1,6 @@
 #include "shows.h"
+#include <time.h>
+#define SIZE (uint64_t) 5* 1e5
 
 Node *new_node(Show *data, Node *previous, Node *next)
 {
@@ -80,40 +82,52 @@ int index_in_list(List *list, Node *n)
 
 int main()
 {
-    char to_do[16];
-    List *db = new_list();
+    // char to_do[16];
+    // List *db = new_list();
 
-    while (to_do)
-    {
-        render_menu();
-        scanf("%s", &to_do);
-        system("clear");
-        fgetc(stdin); // for some reason this is important, otherwise the  console does madly weird shit
+    // while (to_do)
+    // {
+    //     render_menu();
+    //     scanf("%s", &to_do);
+    //     system("clear");
+    //     fgetc(stdin); // for some reason this is important, otherwise the  console does madly weird shit
 
-        if (!strcmp(to_do, "exit"))
-            break;
-        else if (!strcmp(to_do, "up_hex()"))
-            up_hex(db);
-        else if (!strcmp(to_do, "load"))
-            read_text_file(db);
-        else if (!strcmp(to_do, "all"))
-            print_datasets(db);
-        else if (!strcmp(to_do, "save"))
-            write_text_file(db);
-        else if (!strcmp(to_do, "delete"))
-            read_text_file(db);
-        else if (!strcmp(to_do, "test"))
-            printf("\n%d", index_in_list(db, get_node_at(3, db)));
-        else if (!strcmp(to_do, "sort"))
-            quick_sort(db, 0, db->length - 1, 0);
-        else if (!strcmp(to_do, "new"))
-        {
-            printf("Please enter the prompted attribute of your data set.\n\n");
-            manual_entry(db);
-        }
-        else
-            printf("\nHey Hannes, du Doedel, das ist keine valide Option!\n");
+    //     if (!strcmp(to_do, "exit"))
+    //         break;
+    //     else if (!strcmp(to_do, "up_hex()"))
+    //         up_hex(db);
+    //     else if (!strcmp(to_do, "load"))
+    //         read_text_file(db);
+    //     else if (!strcmp(to_do, "all"))
+    //         print_datasets(db);
+    //     else if (!strcmp(to_do, "save"))
+    //         write_text_file(db);
+    //     else if (!strcmp(to_do, "delete"))
+    //         read_text_file(db);
+    //     else if (!strcmp(to_do, "test"))
+    //         printf("\n%d", index_in_list(db, get_node_at(3, db)));
+    //     else if (!strcmp(to_do, "sort"))
+    //         quick_sort(db, 0, db->length - 1, 0);
+    //     else if (!strcmp(to_do, "new"))
+    //     {
+    //         printf("Please enter the prompted attribute of your data set.\n\n");
+    //         manual_entry(db);
+    //     }
+    //     else
+    //         printf("\nHey Hannes, du Doedel, das ist keine valide Option!\n");
+    // }
+
+    double t1, t2;
+    printf("benchmarking List creation with %llu elements", SIZE);
+    t1 = (double)clock() / CLOCKS_PER_SEC;
+    List * db = new_list();
+    for(uint64_t i = 0; i < SIZE; i++) {
+        add_to_list(malloc(sizeof(Show)), db);
     }
+    printf("%llu", db->length);
+    t2 = (double)clock() / CLOCKS_PER_SEC;
+
+    printf("\ntime taken: %5f\n\n\n", t2 - t1);
 
     return 0;
 }

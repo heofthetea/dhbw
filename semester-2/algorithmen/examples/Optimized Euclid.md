@@ -30,4 +30,5 @@ def ggt(a, b):
 - Also: Im nächsten Schritt schrumpft b auf hpchstens die Hälfte 
 - Zusammen: Nach zwei Schritten ist a + b um mindestens den Faktor 2 geschrumpft! I Wie oft kann eine Ganzzahl sich halbieren, bis 1 herauskommt
 
-> ==> Number of iterations is limited by $2\cdot \log{2}{a + b}$  ([[Obere Schranke]])
+> ==> Number of iterations is limited by $2\cdot \log{2}{a + b}$  ([[Beschränktheit]])
+
