@@ -1,7 +1,7 @@
-#lalg-aufgabe 
+#analysis-aufgabe
 ## Aufgabenblatt
 ```expander
-path:lineare-algebra/Aufgaben file:"Aufg-{{number}}_{{name}}"
+path:analysis/aufgaben file:"Aufg-{{number}}_{{name}}"
 ```
 
 ## Bearbeitung
@@ -9,4 +9,3 @@ path:lineare-algebra/Aufgaben file:"Aufg-{{number}}_{{name}}"
 ```expander
 path:goodnotes file:"Aufg-{{number}}_{{name}}"
 ```
-

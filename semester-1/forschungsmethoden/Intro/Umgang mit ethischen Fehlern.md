@@ -1,0 +1,12 @@
+- mangel an [[Experiment#Interne Validität|interner Validität]]
+- Schlecht geplanter Ablauf
+- Fehlerhafte Ergebnisse werden publiziert und weiterverwendet!!!
+- Fehlerhafte Datnauswertung
+- Datenfälschung
+	- 'ich brauch 20 Probanden, hab aber nur 18'
+	- that's illegal bro xd
+- Unerlaubter Datenausschluss
+	- Es gibt einen Ausreißer
+	- ich _glaube_, der hat was falsch verstanden --> Statistik gefälscht
+- [[Datenfoltern]]
+- 

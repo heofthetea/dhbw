@@ -4,105 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c2598b68120e3d83",
+        "id": "ded08c939667cf6f",
         "type": "tabs",
-        "dimension": 50.83234244946492,
         "children": [
           {
-            "id": "1699915f3822e5da",
+            "id": "56e78a02ca066393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/labor/Revision C Projekt.md",
+                "file": "semester-2/java/Anatomy of a Java Program.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ba6835821cb37a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/analysis/Rechenregeln konvergenter Folgen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1e8523695c8d392",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-2/algorithmen/sources/AdditionalExercises.pdf"
-              }
-            }
-          },
-          {
-            "id": "8238f05e65a1a894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/analysis/Rechenregeln Ableitungen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b04efc2bf70fb5c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "f14a189ea60f1061",
-        "type": "tabs",
-        "dimension": 49.16765755053508,
-        "children": [
-          {
-            "id": "e8f2de0937030c87",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/Library Algorithmen 01.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "40d96accb73e1f85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/complexity/Landau Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecfed2750f4ce781",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "goodnotes/Semester 2/Analysis/Any1 Grenzwertuntersuchung Mitschrieb.pdf"
               }
             }
           }
@@ -135,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "semester-1/goodnotes",
+                "query": "interne valid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "semester-2/java/Anatomy of a Java Program.md"
+              }
             }
           },
           {
@@ -192,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "semester-2/java/Anatomy of a Java Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "semester-2/java/Anatomy of a Java Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,53 +153,53 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b04efc2bf70fb5c",
+  "active": "56e78a02ca066393",
   "lastOpenFiles": [
-    "semester-2/analysis/Rechenregeln Ableitungen.md",
-    "semester-2/algorithmen/labor/output/pointerWDHSELF",
-    "semester-2/algorithmen/labor/output",
-    "semester-2/algorithmen/labor/pointerWDHSELF.c",
-    "semester-2/algorithmen/labor/pointerWDH.h",
-    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "semester-2/algorithmen/Library Algorithmen 01.md",
-    "semester-2/algorithmen/complexity/Landau Notation.md",
-    "goodnotes/Semester 2/Analysis/Any1 Grenzwertuntersuchung Mitschrieb.pdf",
-    "semester-2/algorithmen/complexity/Komplexität.md",
-    "semester-2/algorithmen/complexity/Worst Case.md",
-    "semester-2/algorithmen/sources/AdditionalExercises.pdf",
-    "semester-2/analysis/Rechenregeln konvergenter Folgen.md",
-    "semester-2/analysis/Hub Analysis.md",
-    "semester-2/algorithmen/labor/Revision C Projekt.md",
+    "semester-2/java/Class.md",
+    "semester-2/java/Code Block.md",
+    "semester-2/java/Garbage Collection.md",
+    "semester-2/java/instanceof.md",
+    "semester-2/java/Java Array.md",
+    "semester-2/java/Java Command Line Arguments.md",
+    "semester-2/java/JAVA Primitive Data Type.md",
+    "semester-2/java/Java Stack.md",
+    "semester-2/java/Manifest file.md",
+    "semester-2/java/Manually call garbage collection.md",
+    "intension/java/CORS Configuration.md",
+    "semester-2/java/Anatomy of a Java Program.md",
+    "semester-2/icc/Hub ICC 2.md",
+    "semester-2/icc/Communication.md",
+    "semester-2/icc/Pyramid of Communication.md",
+    "semester-2/icc/Concept.md",
+    "semester-2/icc/Theory.md",
+    "semester-2/icc/Transmission Model.md",
+    "semester-2/icc/Polysemic Communication.md",
+    "semester-2/java/Hub Java.md",
+    "semester-2/java/Class attributes.md",
+    "semester-2/java/Inheritance.md",
+    "semester-2/java/Compile Java File.md",
+    "semester-2/java/code/fuckyou/Main.java",
+    "semester-2/java/code/fuckyou/Rectangle.java",
+    "semester-2/java/code/fuckyou/Square.java",
+    "semester-2/java/code/fuckyou",
+    "semester-2/java/code/004/Square.java",
+    "semester-2/java/code/004/Rectangle.java",
+    "semester-2/java/code/004/squares/Rectangle.java",
+    "semester-2/java/code/004/squares/Square.java",
+    "semester-2/java/code/004/squares",
+    "semester-2/java/code/004",
+    "semester-2/java/Constructor Chaining.md",
+    "semester-2/java/Constructor.md",
+    "semester-2/java/Stack Overflow Error.md",
+    "semester-2/icc/images/Pasted image 20240517124330.png",
+    "semester-2/icc/images/Pasted image 20240517124339.png",
+    "semester-2/icc/images/Pasted image 20240517123951.png",
+    "semester-2/icc/images/Pasted image 20240517121901.png",
     "semester-2/algorithmen/labor/images/Pasted image 20240516145842.png",
     "semester-2/algorithmen/labor/images/Pasted image 20240516144531.png",
-    "semester-2/algorithmen/labor/images",
-    "semester-2/algorithmen/labor/plot.py",
-    "semester-1/programmieren/code/own_database/output/shows",
-    "semester-1/programmieren/code/own_database/output",
-    "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
-    "semester-2/algorithmen/labor/Roadmap Algorithmen Labor.md",
-    "semester-2/analysis/Beschränktheit.md",
-    "semester-2/analysis/Satz von der monotonen Konvergenz.md",
-    "semester-2/analysis/Vollständigkeitsaxiom der Reellen Zahlen.md",
-    "semester-2/analysis/Supremum.md",
-    "semester-2/analysis/Menge.md",
-    "semester-1/lineare-algebra/Aufschriebe/Bijektive Abbildung.md",
-    "semester-2/analysis/Folge.md",
-    "semester-2/algorithmen/complexity/Obere Schranke.md",
-    "semester-2/algorithmen/übungen/Übung - Komplexität mit Schleifen.md",
-    "semester-2/algorithmen/examples/Optimized Euclid.md",
-    "semester-2/analysis/Bernoulli-Ungleichung.md",
-    "semester-2/analysis/Grenzwert.md",
-    "semester-2/analysis/Strategien Grenzwertuntersuchung.md",
-    "semester-2/analysis/Order of Magnitudes Grenzwerte.md",
-    "semester-2/analysis/fast alle.md",
     "semester-2/algorithmen/images/Pasted image 20240510114350.png",
     "semester-2/projektmanagement/images/Pasted image 20240515105512.png",
     "semester-2/projektmanagement/images/Pasted image 20240515105444.png",
-    "semester-2/projektmanagement/images/Pasted image 20240515104505.png",
-    "intension/java/images/Pasted image 20240514153625.jpg",
-    "semester-2/algorithmen/images/Pasted image 20240514120929.png",
-    "semester-2/algorithmen/images/Pasted image 20240514113125.png",
-    "semester-2/analysis/images/Pasted image 20240514112707.png"
+    "semester-2/projektmanagement/images/Pasted image 20240515104505.png"
   ]
 }

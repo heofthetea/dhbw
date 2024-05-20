@@ -33,3 +33,12 @@ path:"goodnotes/Semester 2/Analysis"
 [[Asymptote]]
 
 [[Vollständigkeitsaxiom der Reellen Zahlen]]
+
+
+## Aufgaben
+```expander
+tag: analysis-aufgabe
+```
+[[Analysis Aufg-12 Folgen]]
+[[Analysis Aufgaben Template]]
+

@@ -1,0 +1,12 @@
+[[Ethik]]
+- Gesellschaft für Informatik hat Leitlinien lol
+- Mensch als Partner und Bestandteil von Informatiksystemen
+	- Beispiel Autonomes Fahren
+		- Mensch ist nicht vorhersehbar, und ggf. rechtlich belangbar
+		- Machine nicht --> wie werden Life/Death Situations gehandlet?
+- Auswirkungen [[Künstliche Intelligenz]]
+- Voreingenommenheit von chatGPT etc
+- Moralische Verantwortung von Experten
+	- Bsp Oppenheimer: Warum müssen Experten diese Bombe bauen?
+	- Frage: _Muss ich alles bauen, was ich bauen kann?_
+- Ethikkommission an Hochschulen?

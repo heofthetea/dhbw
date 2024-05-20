@@ -39,6 +39,6 @@
 [[Hub Web Engineering]]
 [[Hub ICC 2]]
 [[Hub Algorithmen und Komplexität]]
-[[intension/java/Hub Java|Hub Java]]
+[[Hub Java|Hub Java]]
 
 

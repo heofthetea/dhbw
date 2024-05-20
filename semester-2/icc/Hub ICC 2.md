@@ -3,6 +3,13 @@
 
 ### Teil 1
 --> 17.05. Abgabe auf Teams
+[[Communication]]
+[[Pyramid of Communication]]
+[[Concept]]
+[[Theory]]
+[[Transmission Model]] --> Linear, effect-based
+[[Polysemic Communication]] --> Everyone has their own interpretation
+[[Cultural and Social Aspects of Communication]] --> Communication as a means balance society
 
 
 ### Teil 2 + 3

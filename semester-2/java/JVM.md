@@ -6,3 +6,7 @@
 > [!info] Concept can be found in multiple different applications
 > See Flatpaks/Snaps, the Linux kernel, etc...
 
+### Essential Elements
+[[Java Heap]]
+[[Java Stack]]
+[[Garbage Collection]]
