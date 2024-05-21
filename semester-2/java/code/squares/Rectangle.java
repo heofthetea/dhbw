@@ -1,12 +1,13 @@
-package fuckyou;
+package squares;
 
 public class Rectangle {
     protected double height;
     protected double width;
 
-    public Rectangle(){}
+    public Rectangle() {
+    }
 
-    public Rectangle(double width, double height){
+    public Rectangle(double width, double height) {
         this.width = width;
         this.height = height;
     }
@@ -15,8 +16,9 @@ public class Rectangle {
         return this.width * this.height;
     }
 
+    // method to calculate the circumference
 
-    //--------------------------------------------------------------------
+    // --------------------------------------------------------------------
 
     public double getHeight() {
         return this.height;
@@ -33,6 +35,5 @@ public class Rectangle {
     public void setWidth(double width) {
         this.width = width;
     }
-
 
 }

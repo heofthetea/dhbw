@@ -6,7 +6,7 @@ tools:
 Script:
 - [[2023-Java-Slides.pdf]]
 
-[[Ablauf Java]]
+[[Ablauf Java Vorlesung]]
 
 
 # Code
@@ -36,7 +36,6 @@ Script:
 
 [[Java EE vs Java SE]]
 
-[[Compile Java File]]
 
 [[JAR]]
 
@@ -78,6 +77,30 @@ Script:
 
 [[Object]]
 [[Class]]
+[[Java Package]]
+
+[[Java Import]]
+[[Everything is an Object]]
+
+[[Java Modifier]]
+[[Local Class]]
+
+
+### Inheritance
+[[Inheritance]]
+[[Overloading and Overriding]]
+[[Super reference]]
+[[Java Scopes]]
+
+[[Übung - Programmausgabe Inheritance]]
+[[Übung - UML Interfaces Vereine]]
+
+
+
+
+
+
+
 
 ## Java under the Hood
 > This is probably the most interesting part of this lecture lol

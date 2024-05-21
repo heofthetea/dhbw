@@ -1,0 +1,2 @@
+- Used to [[serialize]] and [[deserialize]] Objects:
+	- [[transient modifier|transient]] Attributes are _ignored_ in this process

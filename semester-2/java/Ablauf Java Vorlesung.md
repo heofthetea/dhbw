@@ -1,5 +1,6 @@
 Prüfungsleistung: Praxisprojekt
 Projekt planmäßig während den Vorlesungen umsetzbar
+- Reine Konsolenanwendung weee
 
 
 ### Pre-Recorded Vorlesungen

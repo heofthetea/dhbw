@@ -13,4 +13,15 @@ Variables declared inside of the [[Code Block]] cannot be accessed from outside 
 
 - however, (contrary to C), inside the code block, no existing variable identifier can be overwritten
 
-> use case?
+### Static block
+--> [[Java Modifier]]
+- gets executed whenever the [[Class]] is loaded by the [[JVM]]
+	- aka the first time the class is used in any way
+```java
+class MyClass {
+	static {
+		System.out.println("Class is loaded");
+	}
+	public MyClass(){}
+}
+```
