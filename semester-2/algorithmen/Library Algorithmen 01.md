@@ -28,6 +28,7 @@
 		- $\forall_{n \gt k}\ g(n) \leq c * f(n) \Longleftrightarrow g \in O(f)$ 
 - [[Rechenregeln Big O]] dienen dazu, Komplexität von verschiedenen Algorithmen zu vergleichen
 	- mit wichtigste Regel: [[Grenzwertbetrachtung in Big O]]: $\lim_{n \rightarrow \infty} \frac{g(n)}{f(n)} \in \mathbb{R} \Rightarrow g \in O(f)$
+	- [[Order of Magnitudes Grenzwerte]] (Cheat Sheet mit common Laufzeiten)
 
 > [!warning] zu beachten bei Grenzwertbetrachtung 
 > - $0 \in \mathbb{R}$ 

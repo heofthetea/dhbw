@@ -10,10 +10,153 @@
           {
             "id": "56e78a02ca066393",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/java/Anatomy of a Java Program.md",
+                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "94d1b29f9229502c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Library Algorithmen 01.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "66d6416608f42820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/analysis/Order of Magnitudes Grenzwerte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75a1296b9fdc18d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Eulersche Zahl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f9de138809e6e9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Basen ineinander überführen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb1924c8a1cf8e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Übung - Rechnen mit Logarithmus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe4cd7c7ce326a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Stirling Formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "303fb58b81661812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Komplexitätsklassen verschiedener Funktionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc7e57123e52ec5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Fähigkeiten moderner Hardware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da0776e7a2d4a4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Binary Search auf Universum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "d2cdadb3bc776b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8b91e344d10a86",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semester-2/algorithmen/sources/Algorithmen.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5961fd5282a86208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Anzahl Spielrunden.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interne valid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +208,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -97,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/java/Anatomy of a Java Program.md"
+                "file": "semester-2/algorithmen/Binary Search auf Universum.md"
               }
             }
           },
@@ -107,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/java/Anatomy of a Java Program.md",
+                "file": "semester-2/algorithmen/Binary Search auf Universum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/java/Anatomy of a Java Program.md",
+                "file": "semester-2/algorithmen/Binary Search auf Universum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,31 +296,40 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "56e78a02ca066393",
+  "active": "da0776e7a2d4a4fd",
   "lastOpenFiles": [
+    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+    "semester-2/algorithmen/Binary Search auf Universum.md",
+    "semester-2/algorithmen/Fähigkeiten moderner Hardware.md",
+    "semester-2/algorithmen/images/Pasted image 20240521120719.png",
+    "semester-2/algorithmen/Komplexitätsklassen verschiedener Funktionen.md",
+    "semester-2/algorithmen/images/Pasted image 20240521120312.png",
+    "semester-2/algorithmen/images/Pasted image 20240521120214.png",
+    "semester-2/algorithmen/Stirling Formula.md",
+    "semester-2/algorithmen/Übung - Rechnen mit Logarithmus.md",
+    "semester-2/algorithmen/images/Pasted image 20240521114529.png",
+    "semester-2/algorithmen/Basen ineinander überführen.md",
+    "semester-2/algorithmen/Eulersche Zahl.md",
+    "semester-2/algorithmen/Limes mit Brüchen.md",
+    "semester-2/algorithmen/Library Algorithmen 01.md",
+    "semester-2/analysis/Order of Magnitudes Grenzwerte.md",
+    "semester-2/algorithmen/Rechenregeln Logarithmus.md",
+    "semester-2/algorithmen/sources/Algorithmen.pdf",
+    "semester-2/algorithmen/Anzahl Spielrunden.md",
+    "semester-1/programmieren/concepts/linked-list/Logarithmus Dualis.md",
+    "semester-2/algorithmen/Binary Tree.md",
+    "semester-2/algorithmen/Logarithmus.md",
+    "semester-2/algorithmen/Ableitung von Logarithmen.md",
+    "semester-2/algorithmen/images/Pasted image 20240521103716.png",
+    "semester-2/algorithmen/complexity/Logarithmische Laufzeit.md",
+    "semester-2/algorithmen/übungen/Übung Rechenregeln Big O.md",
+    "semester-2/algorithmen/übungen/Übung O-Bestimmung.md",
+    "semester-2/analysis/Regel von L'Hopital.md",
+    "semester-2/java/Anatomy of a Java Program.md",
     "semester-2/java/Class.md",
     "semester-2/java/Code Block.md",
     "semester-2/java/Garbage Collection.md",
     "semester-2/java/instanceof.md",
-    "semester-2/java/Java Array.md",
-    "semester-2/java/Java Command Line Arguments.md",
-    "semester-2/java/JAVA Primitive Data Type.md",
-    "semester-2/java/Java Stack.md",
-    "semester-2/java/Manifest file.md",
-    "semester-2/java/Manually call garbage collection.md",
-    "intension/java/CORS Configuration.md",
-    "semester-2/java/Anatomy of a Java Program.md",
-    "semester-2/icc/Hub ICC 2.md",
-    "semester-2/icc/Communication.md",
-    "semester-2/icc/Pyramid of Communication.md",
-    "semester-2/icc/Concept.md",
-    "semester-2/icc/Theory.md",
-    "semester-2/icc/Transmission Model.md",
-    "semester-2/icc/Polysemic Communication.md",
-    "semester-2/java/Hub Java.md",
-    "semester-2/java/Class attributes.md",
-    "semester-2/java/Inheritance.md",
-    "semester-2/java/Compile Java File.md",
     "semester-2/java/code/fuckyou/Main.java",
     "semester-2/java/code/fuckyou/Rectangle.java",
     "semester-2/java/code/fuckyou/Square.java",
@@ -187,19 +339,10 @@
     "semester-2/java/code/004/squares/Rectangle.java",
     "semester-2/java/code/004/squares/Square.java",
     "semester-2/java/code/004/squares",
-    "semester-2/java/code/004",
-    "semester-2/java/Constructor Chaining.md",
-    "semester-2/java/Constructor.md",
-    "semester-2/java/Stack Overflow Error.md",
     "semester-2/icc/images/Pasted image 20240517124330.png",
     "semester-2/icc/images/Pasted image 20240517124339.png",
     "semester-2/icc/images/Pasted image 20240517123951.png",
     "semester-2/icc/images/Pasted image 20240517121901.png",
-    "semester-2/algorithmen/labor/images/Pasted image 20240516145842.png",
-    "semester-2/algorithmen/labor/images/Pasted image 20240516144531.png",
-    "semester-2/algorithmen/images/Pasted image 20240510114350.png",
-    "semester-2/projektmanagement/images/Pasted image 20240515105512.png",
-    "semester-2/projektmanagement/images/Pasted image 20240515105444.png",
-    "semester-2/projektmanagement/images/Pasted image 20240515104505.png"
+    "semester-2/algorithmen/labor/images/Pasted image 20240516145842.png"
   ]
 }

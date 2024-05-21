@@ -18,6 +18,8 @@
 [[Pre-mature Optimization is the root of all evil]]
 [[Zip compression algorithm]]
 [[Throw faster hardware at the problem]]
+[[Binary Search auf Universum]]
+
 
 
 
@@ -49,6 +51,8 @@
 [[Übung - Euclids worst-case]]
 [[übung - Datenstrukturen]]
 [[Übung - Komplexität mit Schleifen]]
+[[Übung - Rechnen mit Logarithmus]]
+
 
 [[Komplexität]]
 [[Komplexität und Eingabe]]
@@ -64,8 +68,14 @@
 
 ### Big O
 [[Logarithmische Laufzeit]]
-
 [[Summenformel auflösen]]
+[[Rechenregeln Logarithmus]]
+[[Logarithmus]]
+- [[Basen ineinander überführen]]
+- Anwendung: [[Anzahl Spielrunden]]
+
+
+
 
 
 [[Landau Notation]]
@@ -79,6 +89,11 @@
 [[Übung O-Bestimmung]]
 [[Order of Magnitudes Grenzwerte]]
 
+[[Stirling Formula]]
+
+[[Komplexitätsklassen verschiedener Funktionen]]
+[[Fähigkeiten moderner Hardware]]
+
 
 
 
@@ -88,6 +103,8 @@
 
 
 ## Data Structures
+[[Binary Tree]]
+
 
 
 ## Sortieren
