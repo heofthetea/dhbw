@@ -2,10 +2,21 @@
 [[Master Projektmanagement 1]]
 --> [[WDH Projektmanagement 1]]
 
-[[Fragenkatalog Master]]
 # Projekt
 [[Prüfungsleistung Projektmanagement]]
+3 Gruppen a 4 Personen, eine mit 5 Personen
+[[Lö Projektmanagement Projekt]]
 
+[[Nutzwertananlyse]]
+
+
+# Fragenkatalog
+[[Fragenkatalog Master]]
+[[Fragenkatalog 001]]
+[[Fragenkatalog 002]]
+[[Fragenkatalog 003]]
+[[Fragenkatalog 004]]
+[[Fragenkatalog 009]]
 
 # Vorlesungen
 ## 09 Phasenmodelle
@@ -22,3 +33,33 @@ Vorgehensmodell:
 
 [[Vor- und Nachteile von Sequentiellen Modellen]]
 [[Grundmodell Projektphasen]]
+### 7 Phasen
+[[Projektphase - Projektdefinition]]
+[[Projektphase - Systemanalyse]] --> Grober Plan
+[[Projektphase - Entwurf]] --> Feinerer Plan
+[[Projektphase - Implementierung]]
+[[Projektphase - Inbetriebnahme]]
+[[Projektphase - Revision]]
+[[Projektphase - Nutzung]]
+
+## 10 Kostenplanung
+[[Risiken mit Kostenplanung]]
+[[Ziele der Kostenplanung]]
+[[Vorgehensweise Kostenplanung]]
+
+Kumulative Kostenplanung wichtiger als unterteilte Kostenplanung
+[[Arten von Kostenkurven]]
+
+
+[[Kostenarten]]
+[[Kostenträger]]
+[[Budget]]
+
+wichtig: [[Kostenbestandteile]]
+
+## 11 Steuerung und Kontrolle
+[[PM Kap_12 Steuerung und Kontrolle_vorl.pdf]]
+
+[[Metapher Urlaubsreise]]
+
+

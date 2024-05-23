@@ -1,5 +1,5 @@
 ##### 1. Projektdefinition
-[[Projektdefinition]]
+[[Definition Projekt]]
 - Einmaligkeit
 - Begrenzung der Ressourcen
 - Zielvorgaben

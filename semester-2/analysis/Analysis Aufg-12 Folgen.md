@@ -10,3 +10,4 @@ path:analysis/aufgaben file:"Aufg-12_Folgen"
 ```expander
 path:goodnotes file:"Aufg-12_Folgen"
 ```
+[[Bearbeitung Aufg-12_Folgen.pdf]]

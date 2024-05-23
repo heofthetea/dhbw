@@ -28,12 +28,39 @@
 		- $\forall_{n \gt k}\ g(n) \leq c * f(n) \Longleftrightarrow g \in O(f)$ 
 - [[Rechenregeln Big O]] dienen dazu, Komplexität von verschiedenen Algorithmen zu vergleichen
 	- mit wichtigste Regel: [[Grenzwertbetrachtung in Big O]]: $\lim_{n \rightarrow \infty} \frac{g(n)}{f(n)} \in \mathbb{R} \Rightarrow g \in O(f)$
-	- [[Order of Magnitudes Grenzwerte]] (Cheat Sheet mit common Laufzeiten)
 
 > [!warning] zu beachten bei Grenzwertbetrachtung 
 > - $0 \in \mathbb{R}$ 
 > - "oben muss in Unten drin sein"
 > - Oft muss [[Regel von L'Hopital]] angewendet werden
+
+#### Logarithmen
+[[Logarithmus]] ist die [[Umkehrfunktion]] zum Exponenten.
+- wichtige Basen:
+	- [[Logarithmus Dualis]] (Basis $2$): Wichtigste in Informatik (weil Binärsystem und so)
+		- ist idR gemeint, wenn _nur_ $log\, x$ irgendwo steht
+	- **natürlicher Logarithmus**: Logarithmus zur Basis [[Eulersche Zahl|e]]
+> [!warning]- Basis ist für [[Komplexität]] irrelevant
+> [[Basen ineinander überführen]]: Unterschiedliche Basen sind lediglich ein konstanter Faktor
+
+- [[Rechenregeln Logarithmus]]
+	- Elementare Rechenregeln ergeben sich durch die _Identität_ des [[Logarithmus]] als [[Umkehrfunktion]] zur Potenz
+	- Wichtig: [[Basen ineinander überführen]]
+		- jeder [[Logarithmus]] kann durch $c \cdot ln\, x$ ausgedrückt werden
+		- $log_{a}\, x = \frac{log_{b}\, x}{log_{b}\, a}$
+		- Anwendungsfall: _"Transformiere Logarithmus von Basis $b$ in Basis $a$_
+- [[Ableitung von Logarithmen]]:
+$$log_{a}(x)'= \frac{1}{ln(a) \cdot x}$$
+
+#### Komplexitätsklassen
+Bekannte/Häufige Laufzeiten von Algorithmen kategorisiert
+[[Komplexitätsklassen verschiedener Funktionen]]:
+- $O(c)$ < $O(log\, x)$ < $\sqrt{x}$ < $O(n^{c})$ < $O(c^{n})$ < $O(n!)$ < $O(n^{n})$
+- konstant < logarithmisch < polynomiell < exponentiell < faktoriell
+
+> [!info] Modern hardware is kinda trash
+> [[Fähigkeiten moderner Hardware]] - ein Algorithmus mit [[Komplexität]] $O(n^{2})$ kann an einem Tag nur $29$ MB an Daten verarbeiten!! 
+
 
 
 [^1]: nicht wesentlich = nur um einen konstanten Faktor

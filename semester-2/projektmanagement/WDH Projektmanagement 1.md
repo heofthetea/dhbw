@@ -1,4 +1,4 @@
-- [[Projektdefinition]]:
+- [[Definition Projekt]]:
 	- Zielvorgabe, einzigartig, abgrenzung von anderen Vorhaben, projektspezifische Organisation
 - **Projektmanagement** ist eine Führungsaufgabe, die ein Projekt leitet ([[Fragenkatalog 001]])
 	- Zielsetzung

@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ded08c939667cf6f",
+        "id": "4ab8ab0ef9710754",
         "type": "tabs",
-        "dimension": 24.968789013732835,
         "children": [
           {
-            "id": "56e78a02ca066393",
+            "id": "e3c09e593fc5f19f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/java/Hub Java.md",
+                "file": "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
                 "mode": "source",
                 "source": false
               },
@@ -25,56 +24,22 @@
         ]
       },
       {
-        "id": "dda9d96686c6074b",
+        "id": "48cf5565d9cbad16",
         "type": "tabs",
-        "dimension": 75.03121098626715,
         "children": [
           {
-            "id": "fe6b5edb9aa26aa7",
+            "id": "100bcaf96ac238ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/java/Code Block.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdb1cd88387fbd87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/java/Übung - UML Interfaces Vereine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "505ff28db2be7052",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8b2e23864993af79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intension/ubuntu/Desktop file.md",
+                "file": "semester-2/web-engineering/code/GeoCalculator.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intension/ubuntu/Desktop file.md"
+                "file": "semester-2/web-engineering/code/GeoCalculator.md"
               }
             }
           },
@@ -163,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intension/ubuntu/Desktop file.md",
+                "file": "semester-2/web-engineering/code/GeoCalculator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intension/ubuntu/Desktop file.md",
+                "file": "semester-2/web-engineering/code/GeoCalculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,53 +174,53 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b2e23864993af79",
+  "active": "100bcaf96ac238ce",
   "lastOpenFiles": [
-    "semester-2/java/Ablauf Java Vorlesung.md",
-    "semester-2/java/Hub Java.md",
-    "semester-2/java/Übung 3 - Gehaltsberechnung.md",
-    "semester-2/java/code/mitarbeiter_datenbank/GehaltsBerechnung.java",
-    "semester-2/java/code/mitarbeiter_datenbank/CEO.java",
-    "semester-2/java/code/mitarbeiter_datenbank/Manager.java",
-    "semester-2/java/code/mitarbeiter_datenbank/Angestellter.java",
-    "semester-2/java/code/mitarbeiter_datenbank/GehaltBerechenbar.java",
-    "semester-2/java/code/mitarbeiter_datenbank/Arbeiter.java",
-    "semester-2/java/code/mitarbeiter_datenbank/Mitarbeiter.java",
-    "semester-2/java/code/mitarbeiter_datenbank",
-    "semester-2/java/Local Class.md",
-    "semester-2/java/Interface.md",
-    "semester-2/java/Default Implementation Interface.md",
-    "semester-2/java/Übung - UML Interfaces Vereine.md",
-    "semester-2/java/Aggregation and Composition.md",
-    "semester-2/java/Abstract Class.md",
-    "semester-2/java/volatile modifier.md",
-    "semester-2/java/Java Modifier.md",
-    "semester-2/java/transient modifier.md",
-    "semester-2/java/final modifier.md",
-    "semester-2/java/static modifier.md",
-    "semester-2/java/Code Block.md",
-    "semester-2/java/resources/2023-Java-Slides.pdf",
-    "semester-2/java/Übung - Programmausgabe Inheritance.md",
-    "semester-2/java/Java Scopes.md",
-    "semester-2/java/Type Casting.md",
-    "semester-1/forschungsmethoden/002/Ablauf Wissenschaftliches Arbeiten.md",
+    "semester-2/web-engineering/geo-calc/img/rectangle.png",
+    "semester-2/web-engineering/geo-calc/img/circle.png",
+    "semester-2/web-engineering/geo-calc/img/triangle.png",
+    "semester-2/web-engineering/geo-calc/img/pictures.py",
+    "semester-2/web-engineering/geo-calc/img/square.png",
+    "semester-2/web-engineering/geo-calc/img",
+    "semester-2/web-engineering/geo-calc/square.png",
+    "semester-2/web-engineering/geo-calc/pictures.py",
+    "semester-2/web-engineering/code/Hub Web Engineering Projekt.md",
+    "semester-2/web-engineering/Hub Web Engineering.md",
+    "semester-2/algorithmen/labor/Aufgabe 02 Labor.md",
+    "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
+    "semester-2/algorithmen/labor/002-searching/plot.py",
+    "semester-2/algorithmen/labor/002-searching/output/searching",
+    "semester-2/algorithmen/labor/002-searching/output",
+    "semester-2/algorithmen/labor/002-searching/searching.c",
+    "semester-2/algorithmen/labor/002-searching/sorting.c",
+    "semester-2/algorithmen/labor/002-searching",
+    "semester-2/algorithmen/labor/Revision C Projekt.md",
+    "semester-1/programmieren/concepts/Segmentation Fault.md",
+    "goodnotes/Semester 2/Analysis/Any1 Mitschrieb Grenzwertuntersuchung.pdf",
+    "semester-2/analysis/Teilfolge.md",
+    "semester-2/analysis/Hub Analysis.md",
+    "semester-2/algorithmen/complexity/Komplexität.md",
+    "semester-2/algorithmen/Library Komplexität.md",
+    "semester-2/analysis/Order of Magnitudes Grenzwerte.md",
+    "semester-2/algorithmen/Komplexitätsklassen verschiedener Funktionen.md",
+    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+    "semester-2/algorithmen/complexity/Landau Notation.md",
+    "semester-1/logik/Potenzmenge.md",
+    "semester-2/algorithmen/complexity/Logarithmische Laufzeit.md",
+    "semester-2/algorithmen/Ableitung von Logarithmen.md",
+    "semester-1/programmieren/concepts/linked-list/Logarithmus Dualis.md",
+    "semester-2/algorithmen/Komplexitätsklassen graphisch.md",
+    "semester-2/projektmanagement/Hub Projektmanagement 2.md",
+    "semester-2/projektmanagement/Kostenbestandteile.md",
+    "semester-1/projektmanagement/005 Terminmanagement.md",
+    "semester-2/projektmanagement/Lö Projektmanagement Projekt.md",
+    "semester-2/projektmanagement/Nutzwertananlyse.md",
+    "semester-2/projektmanagement/Metapher Urlaubsreise.md",
+    "semester-2/projektmanagement/images/Pasted image 20240522104145.png",
     "semester-2/java/images/Pasted image 20240521144802.png",
-    "semester-2/java/Polymorphism.md",
-    "semester-2/java/Annotation.md",
-    "semester-2/java/Overloading and Overriding.md",
-    "semester-2/java/Inheritance.md",
-    "semester-2/java/Everything is an Object.md",
-    "semester-2/java/Super reference.md",
-    "semester-2/java/String representation of object.md",
-    "semester-2/algorithmen/sources/Algorithmen.pdf",
     "semester-2/algorithmen/images/Pasted image 20240521120719.png",
     "semester-2/algorithmen/images/Pasted image 20240521120312.png",
     "semester-2/algorithmen/images/Pasted image 20240521120214.png",
-    "semester-2/algorithmen/images/Pasted image 20240521114529.png",
-    "semester-2/algorithmen/images/Pasted image 20240521103716.png",
-    "semester-2/icc/images/Pasted image 20240517124330.png",
-    "semester-2/icc/images/Pasted image 20240517124339.png",
-    "semester-2/icc/images/Pasted image 20240517123951.png",
-    "semester-2/icc/images/Pasted image 20240517121901.png"
+    "semester-2/algorithmen/images/Pasted image 20240521114529.png"
   ]
 }

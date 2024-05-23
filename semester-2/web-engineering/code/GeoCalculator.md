@@ -19,7 +19,7 @@ Calculate Area
 - [ ] rectangle
 - [ ] triangle
 - [ ] circle
-- [ ] any shape with 4 edges
+- [ ] any shape with 4 edges (4-sided polygon)
 
 ##### 3D
 Calculate Volume

@@ -1,6 +1,6 @@
-06.12. [[Projektdefinition]] Turmbau
+06.12. [[Definition Projekt]] Turmbau
 ![[AB_turmbau.pdf]]
-Warum [[Projektdefinition]]?
+Warum [[Definition Projekt]]?
 
 #### Rahmenbedingungen:
 1. muss ohne fremde HIlfe stehen

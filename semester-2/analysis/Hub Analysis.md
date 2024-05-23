@@ -5,14 +5,14 @@
 ```expander
 path:"goodnotes/Semester 2/Analysis"
 ```
+[[11 Grenzwert sfojshfljh.pdf]]
 [[Any0 Ausblick Mitschrieb.pdf]]
-[[Any1 Grenzwertuntersuchung Mitschrieb.pdf]]
-[[Sammlung Grenzwerte.pdf]]
+[[Any1 Grenzwerte.pdf]]
+[[Any1 Mitschrieb Grenzwertuntersuchung.pdf]]
 
 
 ## Merkblätter
 [[Rechenregeln konvergenter Folgen]]
-
 
 
 ## Stuff
@@ -31,6 +31,9 @@ path:"goodnotes/Semester 2/Analysis"
 [[Grenzwert]]
 [[Regel von L'Hopital]]
 [[Asymptote]]
+[[Folge]]
+[[Teilfolge]]
+
 
 [[Vollständigkeitsaxiom der Reellen Zahlen]]
 

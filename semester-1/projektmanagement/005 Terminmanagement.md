@@ -21,6 +21,7 @@ _Wenn Deadline gesetzt_ --> sehr schwierig, wieder raus zu bekommen; Alles dran 
 5. Kenntlichmachen von Buffern
 
 ### 4 Einflussgrößen
+[[Magisches Dreieck]]
 1) Qantität
 2) Qualität
 3) Projektdauer + Anzahl der Mitarbeiter

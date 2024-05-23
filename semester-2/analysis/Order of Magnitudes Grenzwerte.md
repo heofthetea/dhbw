@@ -17,3 +17,6 @@ $\forall_{k>0,\ a \geq 0}$ gilt:
 7. $2^{n}$
 8. $n \cdot 2^{n} = 2^{n+1}$ 
 9. $n^{n}$ 
+
+
+- see also: [[Komplexitätsklassen verschiedener Funktionen]]

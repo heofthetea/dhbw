@@ -2,8 +2,8 @@
 Kanten enthalten keine Information mehr, sondern nur Knoten
 _dicker Balken_ kennzeichnet _kritischen_ Pfad
 
-| frühester Anfangszeitpunkt | Dauer | frühester Endzeitpunkt |
-| ---- | ---- | ---- |
+| frühester Anfangszeitpunkt | Dauer  | frühester Endzeitpunkt |
+| -------------------------- | ------ | ---------------------- |
 | Spätester Anfangszeitpunkt | Puffer | spätester Endzeitpunkt |
 ![[mpm_example.png]]
 
