@@ -8,12 +8,12 @@
 > OOP Analogie: _Implementierung_ von [[Interface]]
 - gehört zu einer [[Signatur]] $\Sigma = \set{F, P}$ 
 - Enthält [[Universum]] $\Delta$ 
-- Ordnet jedem [[Funktion|Funktionssymbol]] $f \in F$ eine [[Funktion]] und jedem [[Prädikat]] $p \in P$ eine [[Relation]] über $\Delta$ zu
+- Ordnet jedem [[Abbildung|Funktionssymbol]] $f \in F$ eine [[Abbildung]] und jedem [[Prädikat]] $p \in P$ eine [[Relation]] über $\Delta$ zu
 
 ### [[Interpretation]] 
 > Macht eine logische Formel $\varphi$ entweder $true$ oder $false$
 #### Aussagenlogik
-- [[Funktion]] $I: V \rightarrow \mathbb{B}$ 
+- [[Abbildung]] $I: V \rightarrow \mathbb{B}$ 
 #### Prädikatenlogik
 - ist eine [[Struktur]] für die [[Signatur]], die durch Formel gegeben ist
 	==> $I = \set{\Delta, F_{\Delta}, P_{\Delta}}$ 

@@ -1,6 +1,6 @@
 [[Fragenkatalog 004]]
 
-![[05-Planungsprozess und Aufwandsschaetzung_vorl.pdf]]
+![[PM Kap_05 Planungsprozess und Aufwandsschätzung_vorl.pdf]]
 ## Einstieg: Elbphilharmonie
 [[Übung Elbphilharmonie]]
 #### Lösung

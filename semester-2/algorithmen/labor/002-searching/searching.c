@@ -29,25 +29,7 @@ int main()
 }
 
 
-void init(uint32_t *numbers, uint32_t length)
-{
-    srand(time(NULL)); // seed the random number generator
-    for (int i = 0; i < length; i++)
-    {
-        numbers[i] = rand() % 0xffffffff; // generate a random number in the range [0, 255]
-    }
-    // place_random_number(numbers, length);
-}
-
-
-void place_random_number(uint32_t *numbers, uint32_t length)
-{
-    int index = rand() % length; 
-    numbers[index] = TO_FIND; 
-}
-
-
-
+//----------------------------------------------------------------------------------------------------
 
 int32_t linear_search(uint32_t *numbers, uint32_t length)
 {
@@ -71,20 +53,43 @@ int32_t binary_search(uint32_t *numbers, uint32_t length, uint64_t low, uint64_t
         return -1;
     }
 
-    int pivot = low + (high - low) / 2;
-    uint32_t at_pivot = numbers[pivot];
+    int mid = low + (high - low) / 2;
+    uint32_t at_mid = numbers[mid];
 
 
-    if (at_pivot == TO_FIND)
+    if (at_mid == TO_FIND)
     {
-        return pivot;
+        return mid;
     }
-    if (TO_FIND < at_pivot)
+    if (TO_FIND < at_mid)
     {
-        return binary_search(numbers, length, low, pivot - 1);
+        return binary_search(numbers, length, low, mid - 1);
     }
-    return binary_search(numbers, length, pivot + 1, high);
+    return binary_search(numbers, length, mid + 1, high);
 }
+
+//----------------------------------------------------------------------------------------------------
+
+void init(uint32_t *numbers, uint32_t length)
+{
+    srand(time(NULL)); // seed the random number generator
+    for (int i = 0; i < length; i++)
+    {
+        numbers[i] = rand() % 0xffffffff; // generate a random number in the range [0, 255]
+    }
+    // place_random_number(numbers, length);
+}
+
+
+void place_random_number(uint32_t *numbers, uint32_t length)
+{
+    int index = rand() % length; 
+    numbers[index] = TO_FIND; 
+}
+
+
+
+
 
 int compare(const void *a, const void *b)
 {

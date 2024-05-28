@@ -1,6 +1,6 @@
 
 Komplexität ist _immer_ abhängig von der Größe der Eingabe
-> ==> Koomplexität nur sinnvoll als [[Funktion]] darstellbar
+> ==> Koomplexität nur sinnvoll als [[Abbildung]] darstellbar
 
 Größe wird abstrahiert zu _Größeneinheit_ ($GE$)
 - ein Buchstabe = 1 GE

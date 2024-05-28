@@ -6,7 +6,7 @@
 
 ### Komplexität
 - [[Komplexität]] beschreibt wie viel _Zeit_ oder _Speicher_ ein Algorithmus braucht
-	- Ist immer als [[Funktion]] [[Komplexität und Eingabe|abhängig von der Größe der Eingabe]] dargestellt
+	- Ist immer als [[Abbildung]] [[Komplexität und Eingabe|abhängig von der Größe der Eingabe]] dargestellt
 	- Betrachtet wird der [[Worst Case]] oder der [[Average Case]], je nach Anwendungskontext
 	- [[Komplexität bei großen n]]: Je größer $n$ wird, desto weniger ausschlaggebend sind niederwertige Terme
 		--> bei [[Polynom|Polynomen]] wird immer nur das _höchststellige_ Polynom betrachtet

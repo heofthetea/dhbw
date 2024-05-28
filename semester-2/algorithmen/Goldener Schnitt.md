@@ -1,0 +1,1 @@
+$$\Phi = \frac{1 + \sqrt{5}}{2}\approx1.6180$$

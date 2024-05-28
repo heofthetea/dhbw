@@ -11,5 +11,5 @@ $O = \frac{1}{4}n^{2}+ 2n$
 ### 2. 
 Einmal durch Liste durch
 Jedes Element braucht genau 1 ZE
---> $O(n)$ [[lineare]]
+--> $O(n)$ [[lineare Laufzeit]]
 

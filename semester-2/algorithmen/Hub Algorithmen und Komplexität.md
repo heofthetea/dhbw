@@ -38,9 +38,6 @@
 - [[Optimized Euclid]]
 [[Binary Search]]
 
-
-
-
 ## Komplexität
 [[Komplexität]]
 [[Komplexität und Eingabe]]
@@ -83,6 +80,27 @@
 
 - [[Basen ineinander überführen]]
 - Anwendung: [[Anzahl Spielrunden]]
+
+
+### Dynamic Programming
+[[fibonacci.py]]
+[[Fibonacci-Folge]]
+[[Optimierung des naiven rekursiven Fibonacci-Algorithmus]]
+[[Dynamic Programming]]
+
+[[Übung Dynamic Programming]]
+[[Grenzen des Dynamic Programming]]
+[[Warum Rekursion]]
+
+#### Komplexität rekursiver Programme
+[[Komplexität Rekursion]]
+[[Rekurrenzrelation]]
+[[Divide and Conquer]]
+- [[Binary Search]]
+
+
+
+
 
 
 

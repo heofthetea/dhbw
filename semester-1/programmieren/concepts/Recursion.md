@@ -1,7 +1,8 @@
 > Recursion is a programming technique where a function calls itself to solve smaller instances of the same problem until a base case is reached, facilitating problem-solving by breaking it down into smaller, more manageable tasks. (thanks, chatGPT)
 
 [[Rekursive Prädikate]], [[Beispiel Rekursion]]
-- Recursion makes comupter science unique
+- Recursion makes comupter science unique (is trash tho lol)
+- Every [[Recursion]] needs to have a [[Base Case]] 
 ## Google's definition
 ![[Pasted image 20240510104428.png]]
 ## Beispiel: Fakultät

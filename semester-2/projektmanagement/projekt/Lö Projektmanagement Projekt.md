@@ -7,9 +7,12 @@
 	- man muss mit arbeiten, ohne sich in was neues einzuarbeiten
 - Anforderung an Prototypen
 	- Persinstence on App-Close
-- Wichtige Informationen im [[Lastenheft]] des Projekts
+- Wichtige Informationen im [[Lastenheft]] des Projekts ([[Lastenheft_DHBW-Verwaltung.pdf]])
 	--> ist aber zu umfangreich, kann nicht ganz umgesetzt werden
 - Projekt größtenteils agil, aber Anfang soll [[Rein Sequentielles Modell|rein sequentiell]] erfolgen --> diese Aufwandsschätzung da
 
 
---> 
+
+---
+- [[Selection of Android Development Tools]]
+- 

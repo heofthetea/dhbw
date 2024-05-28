@@ -6,3 +6,6 @@ zwei ganzzahlige Arrays _variabler_ Größe:
 ==> Aufgabe: Suchen
 [[Linear Search]], [[Binary Search]]
 
+### Code
+[[searching.c]], [[plot_searching.py]] 
+

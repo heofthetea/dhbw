@@ -1,1 +1,3 @@
 [[Strategieausarbeitung]]
+[[Tipps von Lorki]]
+

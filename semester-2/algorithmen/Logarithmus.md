@@ -12,7 +12,7 @@ Seien $x, b\in \mathbb{R}^{n}$ positive Reelle zahlen, sei $b\neq 1$ und $x = b^
 
 ### Wichtige Basen
 - 1 ist keine Basis lol
-- $b = 2$ ist in Informatik die wichtigste Basis --> [[Logarithmus Dualis]]
+- $b = 2$ ist in Informatik die wichtigste Basis -> [[Logarithmus Dualis]]
 	- kurz geschrieben: $ld(x)$ 
 	- oder: einfach $log$
 - $b = e$ --> [[Eulersche Zahl]]
