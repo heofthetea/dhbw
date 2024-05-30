@@ -1,3 +1,0 @@
-[[Zotero Installation]]
-
-[[Zotero workflow]]

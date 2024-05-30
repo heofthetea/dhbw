@@ -4,80 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "d5599afa0b86d4c0",
+        "id": "9b18879a396e2573",
         "type": "tabs",
-        "dimension": 52.462006079027354,
         "children": [
           {
-            "id": "4ab665e20aac5ac5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a031e72884bbca26",
+            "id": "43a3124fd62e4c23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/examples/Binary Search.md",
+                "file": "semester-2/projektmanagement/android-ide/Bewertung Android Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b95147eb99bbc6d",
+            "id": "5defddf10abc6cd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Rekurrenzrelation.md",
+                "file": "semester-2/web-engineering/GeoCalculator Source Code.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "524a470ef1fe247d",
+            "id": "9ea92c6ea2812a39",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1f30540fb2ac4d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/labor/Aufgabe 02 Labor Suchen.md",
+                "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "d747e67d70cb63df",
-        "type": "tabs",
-        "dimension": 47.537993920972646,
-        "children": [
-          {
-            "id": "f148b12acdfce759",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-2/algorithmen/sources/Algorithmen.pdf"
-              },
-              "pinned": true
-            }
-          }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,13 +98,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -156,18 +129,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md"
+                "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md"
               }
             }
           },
           {
             "id": "ed2892acd5243c11",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +147,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -185,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,45 +184,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4ab665e20aac5ac5",
+  "active": "a1f30540fb2ac4d5",
   "lastOpenFiles": [
+    "wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
+    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
+    "semester-2/web-engineering/GeoCalculator Source Code.md",
+    "semester-2/web-engineering/Hub Web Engineering.md",
+    "semester-2/web-engineering/code/GeoCalculator.md",
+    "semester-2/web-engineering/code/Hub Web Engineering Projekt.md",
+    "semester-2/projektmanagement/android-ide/Bewertung Android Tools.md",
+    "semester-2/projektmanagement/android-ide/Lö Projektmanagement Projekt.md",
+    "semester-2/projektmanagement/android-ide/Selection of Android Development Tools.md",
+    "semester-2/Master Semester 2.md",
+    "semester-2/projektmanagement/projekt/Bewertung Android Tools.md",
+    "semester-2/projektmanagement/android-ide/Toolanalyse für App-Entwicklung_Teil2-1.pdf",
+    "semester-2/projektmanagement/android-ide/Kategorien Android Tools.md",
+    "semester-2/projektmanagement/android-ide",
+    "semester-2/projektmanagement/projekt/Selection of Android Development Tools.md",
+    "semester-2/projektmanagement/projekt/Lö Projektmanagement Projekt.md",
+    "semester-2/algorithmen/sources/Algorithmen.pdf",
+    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
     "semester-2/algorithmen/examples/Binary Search.md",
     "semester-2/algorithmen/Rekurrenzrelation.md",
     "semester-2/algorithmen/labor/Aufgabe 02 Labor Suchen.md",
+    "semester-2/icc/Cultural Model of Communication.md",
+    "semester-2/java/Übung UML modelling - Bibliothek.md",
+    "semester-2/java/Übung UML Modelling - Vereine.md",
+    "semester-2/java/Java Stream.md",
+    "semester-2/java/Java Stream Match.md",
+    "semester-2/java/code/StreamsExample.class",
+    "semester-2/java/code/StreamsExample.java",
+    "semester-2/java/Java Optional.md",
+    "semester-2/java/Reduce.md",
+    "semester-2/java/Filter.md",
+    "semester-2/java/code/Enums.class",
+    "semester-2/java/code/Enums.java",
+    "semester-2/java/code/Enums$Colour.class",
+    "semester-2/algorithmen/labor/002-searching/binary_search.py",
     "semester-2/algorithmen/labor/002-searching/plot_searching.py",
-    "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
-    "semester-2/algorithmen/Divide and Conquer.md",
-    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "semester-1/lineare-algebra/Aufschriebe/Abbildung.md",
-    "semester-2/algorithmen/Komplexität Rekursion.md",
-    "semester-2/algorithmen/Übung Dynamic Programming.md",
-    "semester-2/algorithmen/Travelling Salesman Problem.md",
-    "semester-2/algorithmen/Grenzen des Dynamic Programming.md",
-    "semester-2/algorithmen/Warum Rekursion.md",
-    "semester-2/algorithmen/Ackermann-Funktion.md",
     "semester-2/algorithmen/images/Pasted image 20240528110846.png",
-    "semester-2/algorithmen/übungen/Übung - Komplexität mit Schleifen.md",
-    "semester-2/algorithmen/labor/make_smol.py",
-    "semester-2/algorithmen/labor/dynamic_practice.py",
-    "semester-2/analysis/aufgaben/dynamic_practice.py",
-    "semester-2/algorithmen/Static Typing.md",
-    "semester-2/algorithmen/Dynamic Typing.md",
-    "semester-2/algorithmen/Dynamic Programming.md",
-    "semester-2/algorithmen/Optimierung des naiven rekursiven Fibonacci-Algorithmus.md",
-    "semester-2/algorithmen/examples/Fibonacci-Folge.md",
-    "semester-1/programmieren/concepts/Base Case.md",
-    "semester-1/logik/prolog/5.5 Rekursion/Basisklausel.md",
-    "semester-1/programmieren/concepts/Recursion.md",
-    "semester-2/algorithmen/Goldener Schnitt.md",
-    "semester-2/algorithmen/labor/fibonacci.py",
-    "semester-2/analysis/aufgaben/fibonacci_math.py",
-    "semester-2/algorithmen/labor/002-searching/fibonacci.py",
-    "semester-2/algorithmen/Fähigkeiten moderner Hardware.md",
-    "semester-2/algorithmen/Komplexitätsklassen verschiedener Funktionen.md",
-    "intension/linux/Wayland Screen Recording Issue on Zoom, Discord.md",
-    "semester-2/algorithmen/sources/Algorithmen.pdf",
-    "goodnotes/Semester 2/Analysis/Aufgaben/Bearbeitung Aufg-12_Folgen.pdf",
-    "semester-2/analysis/aufgaben/Aufg-12_Folgen.pdf",
     "semester-2/web-engineering/geo-calc/img/rectangle.png",
     "semester-2/web-engineering/geo-calc/img/circle.png",
     "semester-2/web-engineering/geo-calc/img/triangle.png",
