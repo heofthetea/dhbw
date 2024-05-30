@@ -40,4 +40,10 @@ class Macbook implements IDevice {
 ```
 ## in UML
 --> Arrow should be dotted lol
+```mermaid
+classDiagram
+	direction LR
+
+	Macbook ..> IDevice
+```
 ![[Pasted image 20240507162914.png]]

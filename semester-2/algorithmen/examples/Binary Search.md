@@ -18,17 +18,17 @@ int32_t binary_search(uint32_t *numbers, uint32_t length, uint64_t low, uint64_t
         return -1;
     }
 
-    int mid = low + (high - low) / 2;
-    uint32_t at_mid = numbers[mid];
+    int pivot = low + (high - low) / 2;
+    uint32_t at_pivot = numbers[pivot];
 
-    if (at_mid == TO_FIND)
+    if (at_pivot == TO_FIND)
     {
-        return mid;
+        return pivot;
     }
-    if (TO_FIND < at_mid)
+    if (TO_FIND < at_pivot)
     {
-        return binary_search(numbers, length, low, mid - 1);
+        return binary_search(numbers, length, low, pivot - 1);
     }
-    return binary_search(numbers, length, mid + 1, high);
+    return binary_search(numbers, length, pivot + 1, high);
 }
 ```

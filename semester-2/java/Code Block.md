@@ -12,6 +12,8 @@ class MyClass {
 Variables declared inside of the [[Code Block]] cannot be accessed from outside the code block
 
 - however, (contrary to C), inside the code block, no existing variable identifier can be overwritten
+- A non-static block gets executed _once_, when an [[Object]] is created
+	- gets executed even _before_ the [[Constructor]]
 
 ### Static block
 --> [[Java Modifier]]

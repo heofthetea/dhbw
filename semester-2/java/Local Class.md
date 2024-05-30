@@ -47,15 +47,4 @@ public class OuterClass {
 }
 ```
 
-#### Directly implement interface with anonymous class
-[[Interface]]
-```java
-public class OuterClass {
-	MyInterface myInterface = new MyInterface() {
-		@Override
-		public int add(int a, int b) {
-			return 0;
-		}
-	};
-}
-```
+[[Anonymous Class]]

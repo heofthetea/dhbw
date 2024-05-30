@@ -15,4 +15,6 @@
 
 ---
 - [[Selection of Android Development Tools]]
+- [[Kategorien Android Tools]]
+- [[Bewertung Android Tools]]
 - 

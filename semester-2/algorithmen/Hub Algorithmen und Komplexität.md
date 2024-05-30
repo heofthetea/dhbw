@@ -91,7 +91,7 @@
 [[Übung Dynamic Programming]]
 [[Grenzen des Dynamic Programming]]
 [[Warum Rekursion]]
-
+#todo Übung: Levinstein-Distanz mit Wagner-Fischer-Algorithmus
 #### Komplexität rekursiver Programme
 [[Komplexität Rekursion]]
 [[Rekurrenzrelation]]

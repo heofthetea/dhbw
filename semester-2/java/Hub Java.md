@@ -23,6 +23,8 @@ Script:
 [[Übung 3 - Gehaltsberechnung]]
 [[Übung 4 - more UML diagrams]]
 [[WeekDay.java]]
+[[Übung UML Modelling - Vereine]]
+[[Übung UML modelling - Bibliothek]]
 
 
 
@@ -83,8 +85,6 @@ Script:
 [[Everything is an Object]]
 
 [[Java Modifier]]
-[[Local Class]]
-
 
 ### Inheritance
 [[Inheritance]]
@@ -93,7 +93,7 @@ Script:
 [[Java Scopes]]
 
 [[Übung - Programmausgabe Inheritance]]
-[[Übung - UML Interfaces Vereine]]
+[[Übung UML Modelling - Vereine]]
 
 
 
@@ -111,6 +111,23 @@ Script:
 [[Java Stack]]
 [[Garbage Collection]]
 [[Manually call garbage collection]]
+
+
+## Java Concepts
+[[Java make Type comparable]]
+[[StringBuilder]]
+[[Java Exception]]
+[[Local Class]]
+
+
+[[Java Enumeration]]
+[[Java Generics]]
+[[Lambda expressions]]
+[[Method Reference]]
+[[Bulk Operators]]
+
+
+
 
 
 
