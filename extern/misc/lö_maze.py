@@ -33,5 +33,9 @@ def dfs():
         move(dir)
         dfs()
     
+if __name__ == "__main__":
+    lol = 2 + 4
+    print(lol)
 
-
+# hi copilot
+# hi copilot
