@@ -4,55 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "9b18879a396e2573",
+        "id": "7fefef94cea54045",
         "type": "tabs",
         "children": [
           {
-            "id": "43a3124fd62e4c23",
+            "id": "9dc68e6ef3580f16",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/web-engineering/Hub Web Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ef0967e95aacfc2d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/web-engineering/html/HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5ccaa8503448629a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/web-engineering/css/CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "47f579b4785fdb13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/projektmanagement/android-ide/Bewertung Android Tools.md",
+                "file": "semester-2/web-engineering/css/inline CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5defddf10abc6cd4",
+            "id": "3f6d0d79b1d4e5dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/web-engineering/GeoCalculator Source Code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ea92c6ea2812a39",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a1f30540fb2ac4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
+                "file": "semester-2/projektmanagement/android-ide/Selection of Android Development Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -129,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md"
+                "file": "semester-2/projektmanagement/android-ide/Selection of Android Development Tools.md"
               }
             }
           },
@@ -139,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
+                "file": "semester-2/projektmanagement/android-ide/Selection of Android Development Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
+                "file": "semester-2/projektmanagement/android-ide/Selection of Android Development Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,44 +208,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a1f30540fb2ac4d5",
+  "active": "3f6d0d79b1d4e5dd",
   "lastOpenFiles": [
-    "wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
-    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
-    "semester-2/web-engineering/GeoCalculator Source Code.md",
+    "semester-2/web-engineering/css/inline CSS.md",
+    "semester-2/web-engineering/css/css rule.md",
+    "semester-2/web-engineering/css/why use css.md",
+    "semester-2/web-engineering/css/CSS selector.md",
+    "semester-2/web-engineering/css/Link a stylesheet.md",
+    "semester-1/logik/prolog/Prolog Library.md",
+    "semester-2/web-engineering/css/CSS.md",
+    "semester-2/web-engineering/basics/just use a div.md",
+    "semester-2/web-engineering/basics/HTML table.md",
+    "semester-2/web-engineering/html/DOM Tree.md",
     "semester-2/web-engineering/Hub Web Engineering.md",
-    "semester-2/web-engineering/code/GeoCalculator.md",
-    "semester-2/web-engineering/code/Hub Web Engineering Projekt.md",
-    "semester-2/projektmanagement/android-ide/Bewertung Android Tools.md",
-    "semester-2/projektmanagement/android-ide/Lö Projektmanagement Projekt.md",
+    "semester-2/web-engineering/html/HTML.md",
     "semester-2/projektmanagement/android-ide/Selection of Android Development Tools.md",
-    "semester-2/Master Semester 2.md",
-    "semester-2/projektmanagement/projekt/Bewertung Android Tools.md",
-    "semester-2/projektmanagement/android-ide/Toolanalyse für App-Entwicklung_Teil2-1.pdf",
-    "semester-2/projektmanagement/android-ide/Kategorien Android Tools.md",
-    "semester-2/projektmanagement/android-ide",
-    "semester-2/projektmanagement/projekt/Selection of Android Development Tools.md",
-    "semester-2/projektmanagement/projekt/Lö Projektmanagement Projekt.md",
-    "semester-2/algorithmen/sources/Algorithmen.pdf",
-    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "semester-2/algorithmen/examples/Binary Search.md",
-    "semester-2/algorithmen/Rekurrenzrelation.md",
-    "semester-2/algorithmen/labor/Aufgabe 02 Labor Suchen.md",
-    "semester-2/icc/Cultural Model of Communication.md",
-    "semester-2/java/Übung UML modelling - Bibliothek.md",
-    "semester-2/java/Übung UML Modelling - Vereine.md",
-    "semester-2/java/Java Stream.md",
-    "semester-2/java/Java Stream Match.md",
-    "semester-2/java/code/StreamsExample.class",
-    "semester-2/java/code/StreamsExample.java",
-    "semester-2/java/Java Optional.md",
-    "semester-2/java/Reduce.md",
-    "semester-2/java/Filter.md",
-    "semester-2/java/code/Enums.class",
-    "semester-2/java/code/Enums.java",
-    "semester-2/java/code/Enums$Colour.class",
-    "semester-2/algorithmen/labor/002-searching/binary_search.py",
-    "semester-2/algorithmen/labor/002-searching/plot_searching.py",
+    "semester-2/algorithmen/labor/quiz/quiz Searches.md",
+    "semester-2/web-engineering/code/GeoCalculator.md",
+    "semester-2/analysis/aufgaben/LaTeX_logo.svg.png",
+    "semester-2/web-engineering/geo-calc/audio/horse.mp3",
+    "semester-2/web-engineering/geo-calc/audio/VOXScrm_Wilhelm scream (ID 0477)_BSB.mp3",
+    "semester-2/web-engineering/geo-calc/audio",
+    "semester-2/web-engineering/geo-calc/audiO",
+    "semester-2/web-engineering/geo-calc/VOXScrm_Wilhelm scream (ID 0477)_BSB.mp3",
+    "semester-2/algorithmen/labor/quiz/searches_quiz.v2.csv.bak",
+    "semester-2/algorithmen/labor/quiz/searches_quiz_v2.csv",
+    "semester-2/web-engineering/html/HTML links to sections.md",
+    "semester-2/web-engineering/basics/HTML list.md",
+    "intension/t1000/KVM virtual machine.md",
+    "intension/linux/git/Merge Conflict.md",
+    "intension/linux/git/Git.md",
+    "intension/linux/git/Bare Repository.md",
+    "semester-2/web-engineering/html/HTML images.md",
+    "semester-2/web-engineering/html/HTML id.md",
+    "semester-2/marketing/Tipps von Lorki.md",
+    "semester-2/marketing/Marketing periode 5.md",
+    "semester-2/marketing/per5.py",
+    "semester-2/projektmanagement/android-ide/Bewertung Android Tools.md",
+    "goodnotes/23B Battle Royale.pdf",
+    "semester-2/algorithmen/labor/quiz/lu37351jj9z.tmp",
     "semester-2/algorithmen/images/Pasted image 20240528110846.png",
     "semester-2/web-engineering/geo-calc/img/rectangle.png",
     "semester-2/web-engineering/geo-calc/img/circle.png",
@@ -230,7 +255,6 @@
     "semester-2/web-engineering/geo-calc/square.png",
     "semester-2/projektmanagement/images/Pasted image 20240522104145.png",
     "semester-2/java/images/Pasted image 20240521144802.png",
-    "semester-2/algorithmen/images/Pasted image 20240521120719.png",
-    "semester-2/algorithmen/images/Pasted image 20240521120312.png"
+    "semester-2/algorithmen/images/Pasted image 20240521120719.png"
   ]
 }

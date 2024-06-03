@@ -6,4 +6,4 @@ Formal:
 3. Kombiniere die Teillösungen zu einer Gesamtlösung kombiniert
 
 ### Beispiele
-[[Merge Sort]], [[Quick Sort]] (manchmal), [[Binary Search]] (auch wenn nur ein Teilproblem interessiert)
+[[Merge Sort]], [[Quick Sort]] (manchmal?), [[Binary Search]] (auch wenn nur ein Teilproblem interessiert)

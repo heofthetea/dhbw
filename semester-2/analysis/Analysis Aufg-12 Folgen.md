@@ -1,4 +1,5 @@
 #analysis-aufgabe
+[[Folge]], [[Fibonacci-Folge]]
 ## Aufgabenblatt
 ```expander
 path:analysis/aufgaben file:"Aufg-12_Folgen"

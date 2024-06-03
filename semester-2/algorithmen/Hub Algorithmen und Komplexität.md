@@ -7,6 +7,8 @@
 # Main  Vorlesung
 ---
 [[Library Komplexität]]
+[[Library Komplexität Rekursion]]
+
 ### Script
 [[Algorithmen.pdf]]
 [[AdditionalExercises.pdf]]
@@ -85,6 +87,7 @@
 ### Dynamic Programming
 [[fibonacci.py]]
 [[Fibonacci-Folge]]
+[[Fibonacci-Algorithmus]]
 [[Optimierung des naiven rekursiven Fibonacci-Algorithmus]]
 [[Dynamic Programming]]
 

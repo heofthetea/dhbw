@@ -9,9 +9,11 @@ not to confuse with [[Dynamic Typing]]
 
 ### Anwendungskriterien
 - Überlappende Teilprobleme
+	- Gegenbeispiel: [[Quick Sort]]: Beide Hälften des Arrays sind unterschiedlich
 - Optimale Substruktur
 	- Die globale Lösung setzt sich auch tatsächlich aus _lokalen_ Lösungen zusammen
-	- Gegenbeispiel: [[Merge Sort]] (ohne den Merge teil)
+	- Gegenbeispiel: [[Merge Sort]] (ohne den Merge teil): Zwei sortierte listen concatinated ergeben keine gesamt sortierte Liste
+	- weiteres Beispiel: [[Travelling Salesman Problem|TSP]]
 
 ## Beispiel
 Routing

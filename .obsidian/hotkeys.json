@@ -190,5 +190,13 @@
       ],
       "key": "P"
     }
+  ],
+  "colored-text:color-text": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
   ]
 }

@@ -67,7 +67,7 @@ path:web-engineering/html
 ## CSS
 [[CSS]]
 
-[[Stylesheet]]
+[[Link a stylesheet]]
 
 
 

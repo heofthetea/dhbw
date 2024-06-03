@@ -1,3 +1,4 @@
+[[Recursion]]
 ### Beispiel Potenz
 ```python
 def pr(m, n):
@@ -6,4 +7,5 @@ def pr(m, n):
 	return m * pr(m, n - 1)
 ```
 
-[[Rekurrenzrelation]]
+- Weniger offensichtlich als für [[Iteration]]
+- Ansatz: [[Rekurrenzrelation]] bilden und daraus ableiten, wie oft sich die Funktion selbst aufruft

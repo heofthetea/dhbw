@@ -6,7 +6,8 @@
 
 [[DOM Tree]]
 
-
+[[Resource Location in HTML]]
+[[HTML id]]
 ### Tags
 [[HTML essential tags]]
 [[HTML head]]
@@ -15,6 +16,13 @@
 [[HTML links to sections]]
 [[HTML Section]]
 [[HTML images]]
+[[HTML div]]
+[[HTML table]]
+[[HTML list]]
+
+
+
+
 
 
 
