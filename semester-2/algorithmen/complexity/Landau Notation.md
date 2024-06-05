@@ -1,7 +1,7 @@
 > Colloquially: "Big O"
 
 $O(f)$ ist eine [[Menge]]
-
+<span style="color:rgb(0, 176, 240)">O</span> steht für _Ordnung_ einer Funktion
 
 [[Beschränktheit]],  [[Grenzwert]]
 

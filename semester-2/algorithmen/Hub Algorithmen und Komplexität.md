@@ -8,6 +8,8 @@
 ---
 [[Library Komplexität]]
 [[Library Komplexität Rekursion]]
+[[Kahoot winning streak]]
+
 
 ### Script
 [[Algorithmen.pdf]]
@@ -20,6 +22,9 @@
 [[Throw faster hardware at the problem]]
 [[Binary Search auf Universum]]
 
+[[Wie kommen Klausuraufgaben zustande]]
+
+[[Lazy Evaluation]]
 ## Intro
 
 [[Definition Algorithmus]]
@@ -59,6 +64,13 @@
 ### Big O
 [[Landau Notation]]
 [[Rechenregeln Big O]]
+[[weitere Landau Symbole]]
+- [[Übung weitere Landau Symbole]]
+- [[Verschiedene Landau Symbole als Menge]]
+- [[Landau Notation in Praxis]]
+- 
+
+
 
 #### Rechenregeln
 [[Regel von L'Hopital]]
@@ -84,6 +96,7 @@
 - Anwendung: [[Anzahl Spielrunden]]
 
 
+
 ### Dynamic Programming
 [[fibonacci.py]]
 [[Fibonacci-Folge]]
@@ -99,16 +112,21 @@
 [[Komplexität Rekursion]]
 [[Rekurrenzrelation]]
 [[Divide and Conquer]]
-- [[Binary Search]]
+[[Master Theorem]]
+- [[Beispiel Master Theorem]]
+- [[Übung Master Theorem]]
 
 
-
-
-
-
-
-
-## Archetypes of Algorithms
+## Arrays
+- [[Array]]
+- [[Arrays im Speicher]]
+- [[Use cases of Arrays]]
+- [[Array zur Datenhaltung]]
+- [[Operationen auf Arrays]]
+	- [[Löschen aus Array]]
+	- [[Einfügen in Array]]
+- [[Row-major Array-Speicher]]
+- 
 
 
 

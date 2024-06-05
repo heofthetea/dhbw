@@ -31,6 +31,7 @@ $$fibonacci\_{recursive}\ \in\ O(F_n)$$
 #### Oder:
 $$fibo\_{recursive}\in O(\Phi^{n})$$
 ### Iterativ
+[[Iteration]]
 ```python
 def fibonacci_iterative(n):
     a, b = 1, 1

@@ -48,7 +48,7 @@
 	- Wichtig: [[Basen ineinander überführen]]
 		- jeder [[Logarithmus]] kann durch $c \cdot ln\, x$ ausgedrückt werden
 		- $log_{a}\, x = \frac{log_{b}\, x}{log_{b}\, a}$
-		- Anwendungsfall: _"Transformiere Logarithmus von Basis $b$ in Basis $a$_
+		- Anwendungsfall: _"Transformiere Logarithmus von Basis $b$ in Basis $a$"_
 - [[Ableitung von Logarithmen]]:
 $$log_{a}(x)'= \frac{1}{ln(a) \cdot x}$$
 

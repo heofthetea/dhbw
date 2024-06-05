@@ -1,0 +1,6 @@
+- Adäquate Kompetenzverteilung
+- Gute Planungsunterlagen mit [[Definition of Done]]
+- Offenheit innerhalb des Teams
+	- [[Communication]]
+- Adäquate Kontrollverfahren
+- Tätigkeitsnachweise (evtl.)

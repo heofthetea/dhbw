@@ -1,0 +1,13 @@
+- Eigenständig ([[Array zur Datenhaltung]])
+	- Für Daten, die weitgehend statisch sind
+		- wie oft wechseln die Daten
+	- Für Daten mit _überschaubarer_ Maximalgröße
+		- wird weniger Speicher blockiert
+	- Für mathematische Objekte (mit fester Dimensionsgröße)
+		- Vektoren (1d [[Array]])
+		- Matrix (2d [[Array]])
+- **Baustein für komplexere Datentypen**
+	- [[Java Array List]] (dynamic Array)
+	- [[Baum|Bäume]] (verwende Indexwerte zur Verzeigerung)
+	- [[Heap]] (durch geschickte Organisation _ohne_ Verzeigerung)
+	- [[Stack]] (mit Indexwert als Stack pointer)

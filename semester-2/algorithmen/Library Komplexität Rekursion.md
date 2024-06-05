@@ -1,4 +1,4 @@
-- [[Recursion]] und [[Iteration]] sind fundamentale Ansätze
+- [[Recursion]] und [[Iteration]] sind fundamentale Ansätze, um auf $n$ Elementen einer Datenstruktur zu arbeiten 
 - vergleich von [[Fibonacci-Algorithmus]] auf beiden implementiert
 	- [[Iteration]] hat [[lineare Laufzeit]]
 	- [[Recursion]] hat [[exponentielle Laufzeit]], ist also _horrible_
@@ -9,6 +9,7 @@
 ### Dynamic Programming
 - Ansatz von [[Dynamic Programming]]: Zwischenergebnisse einer [[Recursion]] cachen
 - Ist fundamental eine _Optimierung_
+	==> Erst Algorithmus entwickeln, dann optimieren
 > [!warning] Anforderungen an Probleme für Viability [[Dynamic Programming]]
 > 1. **Teilprobleme überlappen** sich
 > 2. **Optimale Substruktur**: Gelöste Teilprobreme ergeben zusammengesetzt auch wirklich das Ausgangsproblem 
