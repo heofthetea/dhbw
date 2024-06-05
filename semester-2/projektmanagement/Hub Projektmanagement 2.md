@@ -75,7 +75,8 @@ wichtig: [[Kostenbestandteile]]
 [[Sprint]]
 [[SCRUM Rollen]]
 - [[Product Owner]]
-- 
+- [[Scrum Team]]
+- [[Scrum Master]]
 [[SCRUM Aktivitäten]]
 
 [[nichtfunktionale Anforderungen]]

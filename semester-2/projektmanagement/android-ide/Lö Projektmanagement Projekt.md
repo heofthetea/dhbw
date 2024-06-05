@@ -21,3 +21,9 @@
 
 ## Development
 use [[SCRUM]] lol
+
+- Create [[Epic|Epics]] and [[User Story|User Stories]] 
+	- Work with Excel 🤮
+	- Auch priorisieren
+	- nichtfunktionale USs als [[Task]]
+- Finde eine Referenzstory (in size M / planning poker value 5) --> planningpoker.com
