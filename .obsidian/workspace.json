@@ -35,9 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intension/linux/AppImage.md",
+                "file": "semester-2/analysis/Analysis Aufg-14 Folgen 4.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2a0f0ad5f4830653",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "goodnotes/Semester 2/Analysis/Aufgaben/Bearbeitung Aufg-14_Folgen_4.pdf"
               }
             }
           },
@@ -74,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intension/linux/AppImage.md"
+                "file": "goodnotes/Semester 2/Analysis/Aufgaben/Bearbeitung Aufg-14_Folgen_4.pdf"
               }
             }
           },
@@ -161,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intension/linux/AppImage.md",
+                "file": "goodnotes/Semester 2/Analysis/Aufgaben/Bearbeitung Aufg-14_Folgen_4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intension/linux/AppImage.md",
+                "file": "goodnotes/Semester 2/Analysis/Aufgaben/Bearbeitung Aufg-14_Folgen_4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,10 +218,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "04c9e80b1ebf4628",
+  "active": "2a0f0ad5f4830653",
   "lastOpenFiles": [
-    "intension/linux/Desktop file.md",
+    "semester-2/analysis/Analysis Aufg-14 Folgen 4.md",
+    "semester-2/analysis/Hub Analysis.md",
     "intension/linux/AppImage.md",
+    "intension/linux/Desktop file.md",
     "intension/linux/Extract Contents from AppImage.md",
     "intension/linux/Hub Linux.md",
     "intension/linux/usr filesystem.md",
@@ -235,8 +248,6 @@
     "semester-2/projektmanagement/SCRUM Aktivitäten.md",
     "semester-2/projektmanagement/nichtfunktionale Anforderungen.md",
     "semester-2/projektmanagement/Sprint Review.md",
-    "semester-2/projektmanagement/Sprint.md",
-    "semester-2/projektmanagement/SCRUM.md",
     "semester-2/projektmanagement/images/Pasted image 20240605101822.png",
     "semester-2/java/movie-database/movieproject2024.db",
     "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
