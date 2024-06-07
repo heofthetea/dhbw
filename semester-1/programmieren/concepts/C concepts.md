@@ -1,3 +1,5 @@
+> Looking at this 4 months later, it's truly hilarious just _how_ bad my note-taking was when I started out lol
+
 ## keywords
 `signed` --> specifies a value should be signed
 
@@ -60,6 +62,7 @@ system("clear");
 
 
 ## Arrays
+[[Array]]
 **You know what an array is, you're only here for the syntax**
 ### character array
 **Strings need ending character** ==> `char[64]` can only hold 63 characters

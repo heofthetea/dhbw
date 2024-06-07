@@ -38,5 +38,6 @@
   "newFileLocation": "current",
   "newFileFolderPath": "temp",
   "attachmentFolderPath": "./images",
-  "tabSize": 4
+  "tabSize": 4,
+  "propertiesInDocument": "visible"
 }

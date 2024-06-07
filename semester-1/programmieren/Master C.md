@@ -3,6 +3,10 @@
 ## Libraries
 > A library doesn't make sense here anymore, as this is the very early attempts of me trying to make obsidian work for me - not having explored these concepts yet.
 > Instead, I've decided to transpose this file into a sort of _hub_, to still get that satisfactory big central node in the graph view.
+
+
+[[C]]
+
 ## script
 [[creferenz.pdf]]
 

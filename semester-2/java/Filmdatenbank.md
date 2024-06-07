@@ -1,7 +1,5 @@
 enthält Filme, Schauspieler, Regisseure.
-
-
-
+[[Anforderungen_java_projekt.pdf]]
 ### Daten laden
 - absichtlich weirdes Datenformat, um Sachen "etwas interessanter zu gestalten"
 - _Kind of_ CSV, aber scuffed
@@ -24,7 +22,7 @@ Aufbau:
 #### Umsetzung
 - unnötige Leerzeichen ignorieren
 - Duplikate ignorieren (--> use Set?)
-- [[Java Exception|Exception]] Handling für Datensatz, der Fehler hervorruft --> ist aber nicht intended von Johannes!!!!\
+- [[Java Exception|Exception]] Handling für Datensatz, der Fehler hervorruft --> ist aber nicht intended von Johannes!!!!
 
 
 ## Features des Tools

@@ -8,83 +8,154 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8dc01f2f1383a312",
+            "id": "0b1a6e5ee5f288f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c628e8bed313e120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Row-major Array-Speicher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85516c5b352a4ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Verschiedene Landau Symbole als Menge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "076e874dde9e684b",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "semester-2/projektmanagement/resources/PM Kap_11 Agiles Vorgehen mit Scrum_vorl.pdf"
+                "file": "semester-2/algorithmen/weitere Landau Symbole.md",
+                "mode": "source",
+                "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "55196f9be1583be7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-2/projektmanagement/resources/PM Kap_11 Agiles Vorgehen mit Scrum_vorl.pdf"
-              }
-            }
-          },
-          {
-            "id": "04c9e80b1ebf4628",
+            "id": "2de45de773a356f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/analysis/Analysis Aufg-14 Folgen 4.md",
+                "file": "intension/linux/Root Directory.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2a0f0ad5f4830653",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "goodnotes/Semester 2/Analysis/Aufgaben/Bearbeitung Aufg-14_Folgen_4.pdf"
-              }
-            }
-          },
-          {
-            "id": "8cd77ee5dc7b3757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intension/linux/Extract Contents from AppImage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05fd89c985a7a0fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intension/linux/Hub Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b1a6e5ee5f288f9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
+      },
+      {
+        "id": "9378a6385b742d8e",
+        "type": "split",
+        "children": [
+          {
+            "id": "b0140ea87d4d4244",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "390cae115d721552",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/java/TODO Java Projekt.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "4663b9eedac15394",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-2/algorithmen/sources/Algorithmen.pdf"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "87d3800ca3bb30d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Master Theorem.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "733055b860e40101",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2e5004baf1c92ec4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Library Komplexität Rekursion.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "8bb67ac2c6ca3fa9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/java/Java Array List.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -162,17 +233,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "goodnotes/Semester 2/Analysis/Aufgaben/Bearbeitung Aufg-14_Folgen_4.pdf"
+                "file": "intension/linux/Root Directory.md"
               }
             }
           },
           {
             "id": "ed2892acd5243c11",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "goodnotes/Semester 2/Analysis/Aufgaben/Bearbeitung Aufg-14_Folgen_4.pdf",
+                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +252,8 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -189,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "goodnotes/Semester 2/Analysis/Aufgaben/Bearbeitung Aufg-14_Folgen_4.pdf",
+                "file": "intension/linux/Root Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,53 +291,52 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2a0f0ad5f4830653",
+  "active": "2de45de773a356f0",
   "lastOpenFiles": [
-    "semester-2/analysis/Analysis Aufg-14 Folgen 4.md",
-    "semester-2/analysis/Hub Analysis.md",
-    "intension/linux/AppImage.md",
-    "intension/linux/Desktop file.md",
-    "intension/linux/Extract Contents from AppImage.md",
-    "intension/linux/Hub Linux.md",
-    "intension/linux/usr filesystem.md",
-    "intension/linux/My Filesystem Conventions.md",
-    "intension/linux/Root Directory.md",
-    "semester-2/projektmanagement/Hub Projektmanagement 2.md",
-    "semester-2/projektmanagement/android-ide/Lö Projektmanagement Projekt.md",
-    "semester-2/projektmanagement/User Story.md",
-    "semester-2/projektmanagement/resources/PM Kap_11 Agiles Vorgehen mit Scrum_vorl.pdf",
-    "semester-2/projektmanagement/Agile Philosophy.md",
-    "semester-2/projektmanagement/Sequentiell vs. Agil.md",
-    "semester-2/projektmanagement/Task.md",
-    "semester-2/projektmanagement/SCRUM Rollen.md",
-    "semester-2/projektmanagement/Acceptance Criterium.md",
-    "semester-2/projektmanagement/Scrum Team.md",
-    "semester-2/projektmanagement/Planning Poker.md",
-    "semester-2/projektmanagement/Product Backlog.md",
-    "semester-2/projektmanagement/Scrum Priorisierung.md",
-    "semester-2/projektmanagement/Product Owner.md",
-    "semester-2/projektmanagement/Epic.md",
-    "semester-2/projektmanagement/images/Pasted image 20240605103435.png",
-    "semester-2/projektmanagement/SCRUM Aktivitäten.md",
-    "semester-2/projektmanagement/nichtfunktionale Anforderungen.md",
-    "semester-2/projektmanagement/Sprint Review.md",
-    "semester-2/projektmanagement/images/Pasted image 20240605101822.png",
-    "semester-2/java/movie-database/movieproject2024.db",
+    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+    "semester-2/java/Java Array List.md",
+    "semester-2/algorithmen/datenstrukturen/Kindknoten.md",
+    "semester-2/algorithmen/datenstrukturen/Baum.md",
+    "semester-2/algorithmen/datenstrukturen",
+    "semester-2/algorithmen/sources/Algorithmen.pdf",
+    "semester-2/algorithmen/Library Komplexität Rekursion.md",
+    "semester-2/algorithmen/Master Theorem.md",
+    "semester-1/lineare-algebra/Polynom.md",
+    "semester-2/algorithmen/Library Komplexität.md",
+    "semester-2/algorithmen/Big Omega.md",
+    "semester-2/algorithmen/weitere Landau Symbole.md",
+    "semester-2/algorithmen/complexity/Big O.md",
+    "semester-2/algorithmen/Big Theta.md",
+    "semester-2/algorithmen/Big Tilde.md",
+    "semester-2/algorithmen/Row-major Array-Speicher.md",
+    "semester-2/algorithmen/Verschiedene Landau Symbole als Menge.md",
+    "semester-2/java/Java.md",
+    "semester-1/programmieren/C.md",
+    "semester-1/programmieren/Master C.md",
+    "semester-2/java/Hub Java.md",
+    "semester-2/java/Java Array.md",
+    "semester-1/programmieren/concepts/C concepts.md",
+    "semester-2/algorithmen/images/Pasted image 20240607103705.png",
+    "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
+    "semester-2/java/TODO Java Projekt.md",
     "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
-    "semester-2/java/movie-database/de/heofthetea/movies",
-    "semester-2/java/movie-database/de/heofthetea",
-    "semester-2/java/movie-database/de",
-    "semester-2/java/movie-database",
+    "semester-2/java/Filmdatenbank Modell.md",
+    "semester-2/java/Filmdatenbank.md",
+    "goodnotes/23B Battle Royale.pdf",
+    "semester-2/algorithmen/labor/003-sorting/plot_sorting.py",
+    "semester-2/algorithmen/labor/003-sorting/plot_sorting.pu",
+    "semester-2/algorithmen/labor/003-sorting/output/sorting",
+    "semester-2/algorithmen/labor/003-sorting/output",
+    "semester-2/algorithmen/labor/003-sorting/sorting.c",
+    "semester-2/algorithmen/labor/003-sorting",
+    "semester-2/projektmanagement/images/Pasted image 20240605103435.png",
+    "semester-2/projektmanagement/images/Pasted image 20240605101822.png",
     "semester-2/projektmanagement/images/Pasted image 20240605095139.png",
     "semester-2/projektmanagement/images/Pasted image 20240605093758.png",
-    "semester-2/projektmanagement/resources/PM Kap_12 Steuerung und Kontrolle_vorl.pdf",
     "semester-2/projektmanagement/images/Pasted image 20240605092331.png",
     "semester-2/projektmanagement/images/Pasted image 20240605092113.png",
     "semester-2/projektmanagement/images/Pasted image 20240605091136.png",
-    "semester-2/java/movie_database/de/heofthetea/movies",
-    "semester-2/java/movie_database/de/heofthetea",
     "semester-2/java/images/Pasted image 20240604173137.png",
-    "semester-2/algorithmen/images/Pasted image 20240604113346.png",
-    "semester-2/algorithmen/images/Pasted image 20240604112702.png"
+    "semester-2/algorithmen/images/Pasted image 20240604113346.png"
   ]
 }

@@ -6,9 +6,11 @@
 
 # Main  Vorlesung
 ---
+[[Kahoot winning streak]]
+
+## Libraries
 [[Library Komplexität]]
 [[Library Komplexität Rekursion]]
-[[Kahoot winning streak]]
 
 
 ### Script
@@ -62,14 +64,11 @@
 [[Übung O-Bestimmung]]
 [[Übung Rechenregeln Big O]]
 ### Big O
-[[Landau Notation]]
+[[Big O]]
 [[Rechenregeln Big O]]
 [[weitere Landau Symbole]]
-- [[Übung weitere Landau Symbole]]
 - [[Verschiedene Landau Symbole als Menge]]
 - [[Landau Notation in Praxis]]
-- 
-
 
 
 #### Rechenregeln
@@ -116,7 +115,6 @@
 - [[Beispiel Master Theorem]]
 - [[Übung Master Theorem]]
 
-
 ## Arrays
 - [[Array]]
 - [[Arrays im Speicher]]
@@ -126,17 +124,17 @@
 	- [[Löschen aus Array]]
 	- [[Einfügen in Array]]
 - [[Row-major Array-Speicher]]
-- 
-
-
 
 
 ## Data Structures
 [[Binary Tree]]
+[[Baum]]
 
 
 
 ## Sortieren
+[[Quick Sort]]
+[[Bubble Sort]]
 
 
 ## Schlüsselmengen/Wert-Verwaltung

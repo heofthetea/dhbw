@@ -1,14 +1,14 @@
-> Colloquially: "Big O"
-
-$O(f)$ ist eine [[Menge]]
-<span style="color:rgb(0, 176, 240)">O</span> steht für _Ordnung_ einer Funktion
-
-[[Beschränktheit]],  [[Grenzwert]]
-
+> Formal: <span style="color:rgb(245, 154, 35)">Landau Notation
+</span>
 
 Für eine Funktion f bezeichnet $O(f)$ die Menge aller Funktionen $g$ mit:
 $$\exists_{k} \in \mathbb{N},\ \exists_{c} \in \mathbb{R}^{\geq 0}\ \ \forall_{n \gt k}\ g(n) \leq c \cdot f(n)$$
 
+
+- $O(f)$ ist eine [[Menge]]
+- <span style="color:rgb(0, 176, 240)">O</span> steht für _Ordnung_ einer Funktion
+
+[[Beschränktheit]]
 #### Auf weniger Mathematik:
 - Ab einer bestimmten Grenze $k$ für $n$ ist $g(n)$ kleiner oder gleich $c \cdot f(n)$ für einen _konstanten_ Faktor $c$
 

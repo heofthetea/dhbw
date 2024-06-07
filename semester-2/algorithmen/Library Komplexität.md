@@ -1,4 +1,5 @@
 #library 
+see also: [[Library Komplexität Rekursion]]
 ### Algorithmen Allgemein
 - [[Definition Algorithmus]]
 	- Transformiert *Input* in *Output*, in *wohl-definierten* und _endlich_ vielen Schritten
@@ -21,7 +22,7 @@
 > $$\sum_{i = 1}^{n} i= \frac{n(n + 1)}{2}$$
 
 
-- [[Komplexität]] wird idR dargestellt durch [[Landau Notation]] (Big O)
+- [[Komplexität]] wird idR dargestellt durch [[Big O]] (Big O)
 	- $O(f)$ ist die [[Menge]] aller Funktionen, die langfristig nicht _wesentlich_[^1] schneller wachsen als $f$ 
 	- Mathematisch: 
 		- $k, n \in \mathbb{N}, \ \ \ c \in \mathbb{R}$ 

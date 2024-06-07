@@ -1,4 +1,4 @@
-[[Landau Notation]]
+[[Big O]]
 
 1. $f \in O(f)$ 
 2. $g \in O(f) \Rightarrow c\cdot g \in O(f)$ _Konstanter Faktor_
