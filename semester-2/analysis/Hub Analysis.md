@@ -48,5 +48,7 @@ tag: analysis-aufgabe
 [[Analysis Aufg-12 Folgen]]
 [[Analysis Aufg-13 Folgen 3]]
 [[Analysis Aufg-14 Folgen 4]]
+[[Analysis Aufg-15 PotenzReihen]]
+
 [[Analysis Aufgaben Template]]
 

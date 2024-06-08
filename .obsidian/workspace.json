@@ -8,49 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b1a6e5ee5f288f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c628e8bed313e120",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/Row-major Array-Speicher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85516c5b352a4ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/Verschiedene Landau Symbole als Menge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "076e874dde9e684b",
+            "id": "62a9b727ac424e4e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/weitere Landau Symbole.md",
+                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
                 "mode": "source",
                 "source": false
               },
@@ -58,104 +22,65 @@
             }
           },
           {
-            "id": "2de45de773a356f0",
+            "id": "f38effc7289ad1b6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semester-2/analysis/aufgaben/Aufg-15_PotenzReihen.pdf"
+              }
+            }
+          },
+          {
+            "id": "1c62deec5527776a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb23f532197b2f42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intension/linux/Root Directory.md",
+                "file": "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3384a399bf1af690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Library Komplexität Rekursion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
-        "id": "9378a6385b742d8e",
-        "type": "split",
+        "id": "b0140ea87d4d4244",
+        "type": "tabs",
         "children": [
           {
-            "id": "b0140ea87d4d4244",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "390cae115d721552",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/java/TODO Java Projekt.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "4663b9eedac15394",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-2/algorithmen/sources/Algorithmen.pdf"
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "87d3800ca3bb30d7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Master Theorem.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "d1c72b4060843cd0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semester-2/algorithmen/sources/AdditionalExercises.pdf"
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "733055b860e40101",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2e5004baf1c92ec4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Library Komplexität Rekursion.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "8bb67ac2c6ca3fa9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/java/Java Array List.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lineare",
+                "query": "cast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,18 +158,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intension/linux/Root Directory.md"
+                "file": "semester-2/algorithmen/Übung Levenshtein-Distanz.md"
               }
             }
           },
           {
             "id": "ed2892acd5243c11",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "file": "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,8 +176,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -262,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intension/linux/Root Directory.md",
+                "file": "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,44 +214,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2de45de773a356f0",
+  "active": "fb23f532197b2f42",
   "lastOpenFiles": [
+    "semester-2/algorithmen/Library Komplexität Rekursion.md",
+    "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
     "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+    "semester-2/algorithmen/labor/vorlesung/__pycache__/levenshtein.cpython-310.pyc",
+    "semester-2/algorithmen/labor/vorlesung/__pycache__",
+    "semester-2/algorithmen/labor/vorlesung/levenshtein_tests.py",
+    "semester-1/programmieren/concepts/C concepts.md",
+    "semester-2/java/Type Casting.md",
+    "semester-2/algorithmen/labor/vorlesung/levenshtein.py",
+    "semester-2/algorithmen/labor/vorlesung",
+    "semester-2/algorithmen/labor/vorle",
+    "semester-2/algorithmen/sources/AdditionalExercises.pdf",
+    "semester-2/analysis/aufgaben/Aufg-15_PotenzReihen.pdf",
+    "semester-2/algorithmen/sources/Algorithmen.pdf",
+    "semester-2/algorithmen/Row-major Array-Speicher.md",
+    "semester-2/algorithmen/Verschiedene Landau Symbole als Menge.md",
+    "semester-2/algorithmen/weitere Landau Symbole.md",
+    "intension/linux/Root Directory.md",
+    "goodnotes/Semester 2/Analysis/Ana2 Mitschrieb Reihen.pdf",
+    "semester-2/java/TODO Java Projekt.md",
+    "semester-2/java/Java.md",
+    "semester-2/analysis/Analysis Aufg-12 Folgen.md",
+    "semester-2/analysis/Hub Analysis.md",
+    "semester-2/analysis/Analysis Aufg-13 Folgen 3.md",
+    "semester-2/analysis/Analysis Aufg-14 Folgen 4.md",
+    "semester-2/analysis/Analysis Aufg-15 PotenzReihen.md",
+    "semester-2/algorithmen/Master Theorem.md",
     "semester-2/java/Java Array List.md",
     "semester-2/algorithmen/datenstrukturen/Kindknoten.md",
     "semester-2/algorithmen/datenstrukturen/Baum.md",
-    "semester-2/algorithmen/datenstrukturen",
-    "semester-2/algorithmen/sources/Algorithmen.pdf",
-    "semester-2/algorithmen/Library Komplexität Rekursion.md",
-    "semester-2/algorithmen/Master Theorem.md",
     "semester-1/lineare-algebra/Polynom.md",
     "semester-2/algorithmen/Library Komplexität.md",
     "semester-2/algorithmen/Big Omega.md",
-    "semester-2/algorithmen/weitere Landau Symbole.md",
     "semester-2/algorithmen/complexity/Big O.md",
     "semester-2/algorithmen/Big Theta.md",
-    "semester-2/algorithmen/Big Tilde.md",
-    "semester-2/algorithmen/Row-major Array-Speicher.md",
-    "semester-2/algorithmen/Verschiedene Landau Symbole als Menge.md",
-    "semester-2/java/Java.md",
-    "semester-1/programmieren/C.md",
-    "semester-1/programmieren/Master C.md",
-    "semester-2/java/Hub Java.md",
-    "semester-2/java/Java Array.md",
-    "semester-1/programmieren/concepts/C concepts.md",
     "semester-2/algorithmen/images/Pasted image 20240607103705.png",
-    "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
-    "semester-2/java/TODO Java Projekt.md",
-    "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
-    "semester-2/java/Filmdatenbank Modell.md",
-    "semester-2/java/Filmdatenbank.md",
-    "goodnotes/23B Battle Royale.pdf",
-    "semester-2/algorithmen/labor/003-sorting/plot_sorting.py",
-    "semester-2/algorithmen/labor/003-sorting/plot_sorting.pu",
-    "semester-2/algorithmen/labor/003-sorting/output/sorting",
-    "semester-2/algorithmen/labor/003-sorting/output",
-    "semester-2/algorithmen/labor/003-sorting/sorting.c",
-    "semester-2/algorithmen/labor/003-sorting",
     "semester-2/projektmanagement/images/Pasted image 20240605103435.png",
     "semester-2/projektmanagement/images/Pasted image 20240605101822.png",
     "semester-2/projektmanagement/images/Pasted image 20240605095139.png",

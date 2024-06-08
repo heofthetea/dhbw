@@ -3,7 +3,7 @@
 ```expander
 path:analysis/aufgaben file:"Aufg-13_Folgen_3"
 ```
-## Bearbeitung
+
 
 ```expander
 path:goodnotes file:"Aufg-13_Folgen_3"

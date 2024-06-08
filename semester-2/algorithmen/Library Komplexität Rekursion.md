@@ -20,6 +20,7 @@
 - (teilweise) aus [[Übung Dynamic Programming]]
 1. Cachen nur, wenn es mit _Sicherheit_ die beste Lösung für das Teilproblem ist
 2. Ansatz: Erst naiven [[Recursion|Rekursions]]-Ansatz finden, dann mit [[Dynamic Programming]] optimieren! 
+3. make use of a `min()` Function to compute the best recursive call!
 
 ## Komplexitätsberechnung Rekursion
 [[Komplexität Rekursion]]
