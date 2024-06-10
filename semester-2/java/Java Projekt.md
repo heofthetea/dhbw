@@ -1,7 +1,6 @@
-Sollte auf Moodle sein hoffentlich
 [[Anforderungen_java_projekt.pdf]]
 [[TODO Java Projekt]]
-
+[[Java Project - How to deal with Data Sets]]
 
 
 ## Code

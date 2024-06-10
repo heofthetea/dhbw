@@ -63,24 +63,74 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b0140ea87d4d4244",
         "type": "tabs",
         "children": [
           {
-            "id": "d1c72b4060843cd0",
+            "id": "3167af7f66dd984a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/sources/AdditionalExercises.pdf"
+                "file": "semester-2/java/Java Project - How to deal with Data Sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dd91204fe7dccdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/java/Java Project - Network Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36b4e61a72a53222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/java/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7d4914004ea97b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/java/TODO Java Projekt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c33c266148fef69c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/marketing/Marketing periode 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cast",
+                "query": "exponential growth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/algorithmen/Übung Levenshtein-Distanz.md"
+                "file": "semester-2/marketing/Marketing periode 5.md"
               }
             }
           },
@@ -168,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
+                "file": "semester-2/marketing/Marketing periode 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
+                "file": "semester-2/marketing/Marketing periode 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,11 +265,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fb23f532197b2f42",
+  "active": "c33c266148fef69c",
   "lastOpenFiles": [
-    "semester-2/algorithmen/Library Komplexität Rekursion.md",
-    "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
+    "semester-2/java/Java Project - How to deal with Data Sets.md",
+    "semester-2/java/Java Project - Network Graph.md",
+    "semester-2/java/Java.md",
+    "semester-2/java/TODO Java Projekt.md",
+    "semester-2/java/Java Projekt.md",
+    "semester-2/algorithmen/Polynomielle Laufzeit.md",
+    "semester-2/algorithmen/complexity/Complexity.md",
+    "semester-2/algorithmen/complexity/Komplexität.md",
     "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+    "semester-2/algorithmen/linearithmische Laufzeit.md",
+    "semester-2/algorithmen/complexity/Logarithmische Laufzeit.md",
+    "semester-1/programmieren/concepts/linked-list/Quick Sort.md",
+    "semester-2/algorithmen/examples/Binary Search.md",
+    "semester-2/algorithmen/exponentielle Laufzeit.md",
+    "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
+    "semester-2/algorithmen/Konstante Laufzeit.md",
+    "semester-2/algorithmen/sources/AdditionalExercises.pdf",
+    "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
+    "semester-2/algorithmen/Library Komplexität Rekursion.md",
     "semester-2/algorithmen/labor/vorlesung/__pycache__/levenshtein.cpython-310.pyc",
     "semester-2/algorithmen/labor/vorlesung/__pycache__",
     "semester-2/algorithmen/labor/vorlesung/levenshtein_tests.py",
@@ -227,7 +294,6 @@
     "semester-2/algorithmen/labor/vorlesung/levenshtein.py",
     "semester-2/algorithmen/labor/vorlesung",
     "semester-2/algorithmen/labor/vorle",
-    "semester-2/algorithmen/sources/AdditionalExercises.pdf",
     "semester-2/analysis/aufgaben/Aufg-15_PotenzReihen.pdf",
     "semester-2/algorithmen/sources/Algorithmen.pdf",
     "semester-2/algorithmen/Row-major Array-Speicher.md",
@@ -235,22 +301,8 @@
     "semester-2/algorithmen/weitere Landau Symbole.md",
     "intension/linux/Root Directory.md",
     "goodnotes/Semester 2/Analysis/Ana2 Mitschrieb Reihen.pdf",
-    "semester-2/java/TODO Java Projekt.md",
-    "semester-2/java/Java.md",
     "semester-2/analysis/Analysis Aufg-12 Folgen.md",
     "semester-2/analysis/Hub Analysis.md",
-    "semester-2/analysis/Analysis Aufg-13 Folgen 3.md",
-    "semester-2/analysis/Analysis Aufg-14 Folgen 4.md",
-    "semester-2/analysis/Analysis Aufg-15 PotenzReihen.md",
-    "semester-2/algorithmen/Master Theorem.md",
-    "semester-2/java/Java Array List.md",
-    "semester-2/algorithmen/datenstrukturen/Kindknoten.md",
-    "semester-2/algorithmen/datenstrukturen/Baum.md",
-    "semester-1/lineare-algebra/Polynom.md",
-    "semester-2/algorithmen/Library Komplexität.md",
-    "semester-2/algorithmen/Big Omega.md",
-    "semester-2/algorithmen/complexity/Big O.md",
-    "semester-2/algorithmen/Big Theta.md",
     "semester-2/algorithmen/images/Pasted image 20240607103705.png",
     "semester-2/projektmanagement/images/Pasted image 20240605103435.png",
     "semester-2/projektmanagement/images/Pasted image 20240605101822.png",

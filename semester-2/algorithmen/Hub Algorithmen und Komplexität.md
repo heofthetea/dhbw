@@ -56,6 +56,16 @@
 [[Worst Case]]
 
 [[Beispiel Komplexität Matrixmultiplikation]]
+
+
+#### Concrete
+- [[Konstante Laufzeit]]
+- [[Logarithmische Laufzeit]]
+- [[lineare Laufzeit]]
+- [[Polynomielle Laufzeit]]
+- [[exponentielle Laufzeit]]
+- [[linearithmische Laufzeit]]
+- 
 ###  Übungen
 [[Übung - Euclids worst-case]]
 [[übung - Datenstrukturen]]

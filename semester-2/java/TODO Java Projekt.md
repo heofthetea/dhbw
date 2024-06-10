@@ -49,6 +49,7 @@
 	- [ ] All information about actor is displayed (id, details)
 
 #### Networks
+[[Java Project - Network Graph]]
 - [ ] Movie network
 	- [ ] query by `movie_id`
 	- [ ] Get List of all actors acting in the movie

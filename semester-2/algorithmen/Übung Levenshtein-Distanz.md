@@ -54,3 +54,5 @@ def levenshtein_d(str_a, str_b, a, b, cache):
 The cache has to have the dimensions: `int [len(a) + 1] [len(b) + 1]`
 
 > [!warning] OKAY IDFK THIS DOESN'T WORK I HAVE NO FUCKING CLUE DAFUQ
+> **WELL YEAH BECAUSE YOU'RE NOT INITIALIZING THE FUCKING CACHE ON THE [[Base Case]]**
+

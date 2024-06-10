@@ -1,5 +1,5 @@
 > Very simple algorthm
-> But: exponential growth ($O(n^{2})$)
+> But [[Polynomielle Laufzeit]] ($O(n^2)$)
 
 Beispiel: $50\,000$ needs 24 seconds lol
 

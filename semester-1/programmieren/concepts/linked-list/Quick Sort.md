@@ -10,7 +10,7 @@
 ![[quick_sort.png]]
 
 _Runtime Complexity_: 
-- _average case_: $O(\log_{2}(n))$ ([[Logarithmus Dualis]])
+- _average case_: $O(\log_{2}(n))$ --> [[Logarithmische Laufzeit]]
 - _worst case_: Pivot is always the largest element --> Runtime Complexity of $O(n^{2})$ [[Runtime Bubble vs QuickSort]]
 
 

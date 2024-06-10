@@ -1,6 +1,5 @@
-$n \cdot log\ n \in O(n^{2})$ 
+$$log\, n$$ 
 
 > [!info] Konkrete Basis des [[Logarithmus]] ist für [[Komplexität|Komplexitätsbetrachtung]] nicht von Relevanz
 > Aus [[Basen ineinander überführen]] ergibt sich, dass unterschiedliche Basen lediglich ein Konstanter Faktor sind --> weg abstrahiert
-#### proof
-![[Pasted image 20240514120929.png]]
+> - Oftmals aber [[Logarithmus Dualis]] (in z.B. [[Binary Search]])
