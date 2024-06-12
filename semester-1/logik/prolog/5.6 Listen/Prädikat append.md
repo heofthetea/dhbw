@@ -1,4 +1,4 @@
-> returns $true$ wenn alle Argumente eine [[Liste]] sind und
+> returns $true$ wenn alle Argumente eine [[Prolog Liste]] sind und
 
 - _1. Argument_: Liste $A$
 - _2. Argument_: Liste $B$

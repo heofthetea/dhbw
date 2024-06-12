@@ -6,7 +6,7 @@
 3. _falsch_ (kein bracket syntax im Tail)
 4. _korrekt_, 4 Elemente
 5. _korrekt_, 4 Elemente
-6. _falsch_ (tail keine [[Liste]])
+6. _falsch_ (tail keine [[Prolog Liste]])
 7. _true_, 7 Elemente
 
 ### 5.62

@@ -3,7 +3,7 @@ Berechnet Volumen und Formen für verschiedene geometrische Körper in 2D und 3D
 
 --> Web Frameworks sind verboten!!! Only plain [[HTML]], [[CSS]] and [[JavaScript]] is allowed!
 
-
+[[geocalc colour palette]]
 ### Aufbau
 
 3 Verschiedene Web Pages, zwischen denen man Navigieren kann.

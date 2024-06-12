@@ -4,7 +4,7 @@ path:linked-list
 [[Bubble Sort]]
 [[Delete Node]]
 [[Doubly linked list (global variables)]]
-[[Doubly Linked List]]
+[[Doubly Linked List (C)]]
 [[Implementation Quick Sort]]
 [[Quick Sort]]
 [[Runtime Bubble vs QuickSort]]

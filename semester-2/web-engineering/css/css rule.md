@@ -16,3 +16,6 @@ table, th, tr, td {  
 	border-collapse: collapse;
 }
 ```
+
+
+> [!warning] The attribute specification the **futhest down** in the [[DOM Tree]] gets actually evaluated by the [[Browser]]!!

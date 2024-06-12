@@ -116,16 +116,16 @@
 ---
 ## Listen
 [[Hub Prolog 5.6 Listen]]
-- [[Alles ist Liste]]: [[Liste|Listen]] sind universelle Datenstruktur (Objekt, Liste, Vektor, etc)
+- [[Alles ist Liste]]: [[Prolog Liste|Listen]] sind universelle Datenstruktur (Objekt, Liste, Vektor, etc)
 - Besondere Liste: [[Leere Liste]] 
-	- [[Basisklausel]] einer [[Rekursive Prädikate|rekursiven Operation]] auf [[Liste|Listen]] besitzt immer aus einer [[Leere Liste|Leeren Liste]] als Argument
+	- [[Basisklausel]] einer [[Rekursive Prädikate|rekursiven Operation]] auf [[Prolog Liste|Listen]] besitzt immer aus einer [[Leere Liste|Leeren Liste]] als Argument
 - _Notationsformen_:
-	- [[Liste#Head|Head]]-[[Liste#Tail|Tail]]-Notation: `[H | T]` --> Hierbei ist `H` ein _beliebiger_ [[Term]], `T` eine [[Liste]]
+	- [[Prolog Liste#Head|Head]]-[[Prolog Liste#Tail|Tail]]-Notation: `[H | T]` --> Hierbei ist `H` ein _beliebiger_ [[Term]], `T` eine [[Prolog Liste]]
 	- "normale" Form: Wie in _python_ `[a, b, c, ...]`
 	- _Mix_ aus beiden ist Möglich:
 		- `[1, 2 | T ]
 		- `[H | [b, c, d]]`
-- [[Liste|Listen]] können wie in anderen Programmiersprachen [[Verschachtelte Liste|verschachtelt]] werden (Beispiel siehe [[Übung 5.69 Zebra]])
+- [[Prolog Liste|Listen]] können wie in anderen Programmiersprachen [[Verschachtelte Liste|verschachtelt]] werden (Beispiel siehe [[Übung 5.69 Zebra]])
 
 
 ### Arbeiten mit Listen

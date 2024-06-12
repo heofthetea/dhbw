@@ -1,4 +1,5 @@
 Enables to write type secure [[Class|classes]]
+#todo this lacks in-depth
 
 ```java
 public class MyList<T> {

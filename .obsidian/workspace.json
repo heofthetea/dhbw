@@ -8,129 +8,71 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62a9b727ac424e4e",
+            "id": "87834a6e6fa98a00",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "file": "semester-2/java/collect Stream.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "f38effc7289ad1b6",
+            "id": "c1a40a561bf8c40e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "semester-2/analysis/aufgaben/Aufg-15_PotenzReihen.pdf"
+                "file": "semester-2/java/movie-database/Anforderungen_java_projekt.pdf"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "09e0ccbba4253623",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1c62deec5527776a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "fb23f532197b2f42",
+            "id": "ab25324146073846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
+                "file": "semester-2/algorithmen/unstable sorting algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3384a399bf1af690",
+            "id": "1e28808c86a26b4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Library Komplexität Rekursion.md",
+                "file": "semester-2/projektmanagement/nichtfunktionale Anforderungen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12f2507f743cb219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/stable sorting algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "b0140ea87d4d4244",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3167af7f66dd984a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/java/Java Project - How to deal with Data Sets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dd91204fe7dccdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/java/Java Project - Network Graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36b4e61a72a53222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/java/Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7d4914004ea97b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/java/TODO Java Projekt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c33c266148fef69c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/marketing/Marketing periode 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exponential growth",
+                "query": "nichtfunktional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/marketing/Marketing periode 5.md"
+                "file": "semester-2/java/movie-database/Anforderungen_java_projekt.pdf"
               }
             }
           },
@@ -219,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/marketing/Marketing periode 5.md",
+                "file": "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/marketing/Marketing periode 5.md",
+                "file": "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,53 +207,53 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c33c266148fef69c",
+  "active": "c1a40a561bf8c40e",
   "lastOpenFiles": [
-    "semester-2/java/Java Project - How to deal with Data Sets.md",
-    "semester-2/java/Java Project - Network Graph.md",
-    "semester-2/java/Java.md",
-    "semester-2/java/TODO Java Projekt.md",
-    "semester-2/java/Java Projekt.md",
-    "semester-2/algorithmen/Polynomielle Laufzeit.md",
-    "semester-2/algorithmen/complexity/Complexity.md",
-    "semester-2/algorithmen/complexity/Komplexität.md",
-    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "semester-2/algorithmen/linearithmische Laufzeit.md",
-    "semester-2/algorithmen/complexity/Logarithmische Laufzeit.md",
-    "semester-1/programmieren/concepts/linked-list/Quick Sort.md",
-    "semester-2/algorithmen/examples/Binary Search.md",
-    "semester-2/algorithmen/exponentielle Laufzeit.md",
-    "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
-    "semester-2/algorithmen/Konstante Laufzeit.md",
-    "semester-2/algorithmen/sources/AdditionalExercises.pdf",
-    "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
-    "semester-2/algorithmen/Library Komplexität Rekursion.md",
-    "semester-2/algorithmen/labor/vorlesung/__pycache__/levenshtein.cpython-310.pyc",
-    "semester-2/algorithmen/labor/vorlesung/__pycache__",
-    "semester-2/algorithmen/labor/vorlesung/levenshtein_tests.py",
-    "semester-1/programmieren/concepts/C concepts.md",
-    "semester-2/java/Type Casting.md",
-    "semester-2/algorithmen/labor/vorlesung/levenshtein.py",
-    "semester-2/algorithmen/labor/vorlesung",
-    "semester-2/algorithmen/labor/vorle",
-    "semester-2/analysis/aufgaben/Aufg-15_PotenzReihen.pdf",
     "semester-2/algorithmen/sources/Algorithmen.pdf",
-    "semester-2/algorithmen/Row-major Array-Speicher.md",
-    "semester-2/algorithmen/Verschiedene Landau Symbole als Menge.md",
-    "semester-2/algorithmen/weitere Landau Symbole.md",
-    "intension/linux/Root Directory.md",
-    "goodnotes/Semester 2/Analysis/Ana2 Mitschrieb Reihen.pdf",
-    "semester-2/analysis/Analysis Aufg-12 Folgen.md",
-    "semester-2/analysis/Hub Analysis.md",
+    "semester-2/algorithmen/unstable sorting algorithm.md",
+    "semester-2/algorithmen/stable sorting algorithm.md",
+    "semester-2/projektmanagement/resources/Lastenheft_DHBW-Verwaltung.pdf",
+    "semester-2/projektmanagement/nichtfunktionale Anforderungen.md",
+    "semester-2/projektmanagement/Hub Projektmanagement 2.md",
+    "semester-2/projektmanagement/Task.md",
+    "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
+    "semester-2/java/collect Stream.md",
+    "semester-2/java/Java Stream.md",
+    "semester-2/java/Hub Java.md",
+    "semester-2/java/Java project without maven.md",
+    "semester-2/java/Java Generics.md",
+    "semester-2/java/Java Projekt.md",
+    "semester-2/java/TODO Java Projekt.md",
+    "semester-2/java/movie-database/movies.csv",
+    "semester-2/java/movie-database/lib/hamcrest-core-1.3.jar",
+    "semester-2/java/movie-database/hamcrest-core-1.3.jar",
+    "semester-2/java/movie-database/src/java/de/heofthetea/movies/test/MovieDbReaderTest.java",
+    "semester-2/java/java Project Data Sets.md",
+    "semester-2/java/movie-database/lib/junit-4.13.2.jar",
+    "semester-2/java/movie-database/lib",
+    "semester-2/java/movie-database/src/junit-4.13.2.jar",
+    "semester-2/java/movie-database/src/resources",
+    "semester-2/java/JVM.md",
+    "semester-2/java/JRE.md",
+    "semester-2/java/JAR.md",
+    "semester-2/java/Manifest file.md",
+    "semester-2/java/java project - relations.md",
+    "semester-2/java/Java Project - handle duplicates.md",
+    "semester-2/java/Interface.md",
+    "semester-2/java/Java Project questions.md",
+    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+    "semester-2/algorithmen/circular List.md",
+    "semester-2/analysis/Tupel.md",
+    "semester-2/algorithmen/Bogo Sort.md",
+    "semester-2/algorithmen/images/Pasted image 20240611114128.png",
+    "semester-2/algorithmen/images/Pasted image 20240611111150.png",
+    "semester-2/algorithmen/images/Pasted image 20240611111121.png",
+    "semester-2/algorithmen/images/Pasted image 20240611102235.png",
+    "semester-2/algorithmen/images/Pasted image 20240611094404.png",
+    "semester-2/algorithmen/images/Pasted image 20240611092048.png",
+    "semester-2/web-engineering/html/images/Pasted image 20240610142135.png",
     "semester-2/algorithmen/images/Pasted image 20240607103705.png",
     "semester-2/projektmanagement/images/Pasted image 20240605103435.png",
-    "semester-2/projektmanagement/images/Pasted image 20240605101822.png",
-    "semester-2/projektmanagement/images/Pasted image 20240605095139.png",
-    "semester-2/projektmanagement/images/Pasted image 20240605093758.png",
-    "semester-2/projektmanagement/images/Pasted image 20240605092331.png",
-    "semester-2/projektmanagement/images/Pasted image 20240605092113.png",
-    "semester-2/projektmanagement/images/Pasted image 20240605091136.png",
-    "semester-2/java/images/Pasted image 20240604173137.png",
-    "semester-2/algorithmen/images/Pasted image 20240604113346.png"
+    "semester-2/projektmanagement/images/Pasted image 20240605101822.png"
   ]
 }

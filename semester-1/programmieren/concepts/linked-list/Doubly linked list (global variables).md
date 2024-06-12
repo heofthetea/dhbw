@@ -143,5 +143,5 @@ Pattern:
 
 
 ## Implementation with local variables
-[[Doubly Linked List]]
+[[Doubly Linked List (C)]]
 

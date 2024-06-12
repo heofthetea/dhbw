@@ -26,7 +26,7 @@
 [[Recursion]]
 [[Master Linked Lists]]
 - [[Quick Sort]]
-- [[Doubly Linked List]]
+- [[Doubly Linked List (C)]]
 [[Splitting up large projects]]
 
 ## Übungen

@@ -1,7 +1,7 @@
 [[d_linked_list_local.c]]
-
-- Consists of individual [[Node|Nodes]], linked to each other
-- The _List_ itself is instance of a _struct_, storing [[Head]], [[Tail]] and length of the list, as well as (optional) a [[Node]] `current`, in case observation to a specific Node in the list is needed when passing the list.
+[[Doubly Linked List]]
+- Consists of individual [[Node (doubly linked list)|Nodes]], linked to each other
+- The _List_ itself is instance of a _struct_, storing [[Head]], [[Tail]] and length of the list, as well as (optional) a [[Node (doubly linked list)]] `current`, in case observation to a specific Node in the list is needed when passing the list.
 ### 1. make typedef out of reading struct
 Also move important pointers _into_ this struct
 ```c

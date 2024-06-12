@@ -43,7 +43,7 @@ typedef struct
 ```
 
 #### b2)
-- _reicht das???_ oder will der ne [[Doubly Linked List|Linked List]] / dynamic array haben
+- _reicht das???_ oder will der ne [[Doubly Linked List (C)|Linked List]] / dynamic array haben
 - --> JA WILL ER BRO TF
 ```c
 typedef struct

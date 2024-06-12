@@ -12,19 +12,30 @@
 - [ ] Well enough testing is implemented
 - [ ] Code is documented
 - [ ] Code is clean
+
+### Testing
+- [x] [[JUnit]] is imported into the project correctly
 ### Modellierung
-- [ ] Erstellen von Klassen
-	- [ ] Schauspieler
-	- [ ] Regisseur
-	- [ ] Film
+Does it make sense to implement an [[Interface]] `Relation`?
+
+- [x] Erstellen von Klassen
+	- [x] Schauspieler
+	- [x] Regisseur
+	- [x] Film
+	- [x] Actor-Movie Relation
+	- [x] Director-Movie Relation
 - [ ] [[UML Diagram]] 
 
+Further Classes required for Operation:
+- [x] Reader
+- [ ] Main (serves as Entrypoint)
+- [ ] a unique class for searches and networks?
 ### File Handling
 - [ ] Remove duplicate rows
 	- [ ] Duplicate rows are verified to exist
-- [ ] Load entities
-	- [ ] Each type of entity is loaded into its own array
-	- [ ] Each loaded array is sorted
+- [x] Load entities
+	- [x] Each type of entity is loaded into its own array
+	- [x] Each loaded array is sorted (unessecary)
 - [ ] Remove duplicates
 	- [ ] No duplicate entries exist in the final form of an array
 	Can Duplicates be removed using [[Filter]]?

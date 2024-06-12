@@ -1,4 +1,4 @@
-> Wie [[Doubly Linked List|Verkettete Liste]] in anderen Programmiersprachen
+> Wie [[Doubly Linked List (C)|Verkettete Liste]] in anderen Programmiersprachen
 
 $$[Head\ | \ Tail]$$
 ### Head

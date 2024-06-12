@@ -42,15 +42,17 @@ Script:
 [[JRE]]
 
 [[Java EE vs Java SE]]
+[[Java project without maven]]
 
 
+compilation:
 [[JAR]]
-
-
+[[Manifest file]]
 
 ## General Syntax
 [[Question mark operator]]
 [[Code Block]]
+[[C concepts#bitwise operations]]
 
 ## Object Oriented Programming
 [[OOP]]
@@ -76,8 +78,6 @@ Script:
 
 [[Java Array]]
 [[Type Casting]]
-
-[[C concepts#bitwise operations]]
 
 
 [[Reference Equality]]
@@ -106,10 +106,6 @@ Script:
  [[JUnit Test suite]]
  [[JUnit Assertion]]
 
-
-
-
-
 ## Java under the Hood
 > This is probably the most interesting part of this lecture lol
 
@@ -133,6 +129,7 @@ Script:
 [[Lambda expressions]]
 [[Method Reference]]
 [[Bulk Operators]]
+[[Java Stream]]
 
 
 

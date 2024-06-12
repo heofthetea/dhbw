@@ -1,6 +1,16 @@
 [[Anforderungen_java_projekt.pdf]]
 [[TODO Java Projekt]]
 [[Java Project - How to deal with Data Sets]]
+[[java Project Data Sets]]
+
+[[Java Project questions]]
+
+[[Java Project - handle duplicates]]
+
+**BRO FUCK YOU NOT A SINGLE SOUL ON THIS PLANET USES JAVA WITHOUT BUILD TOOLS TO MANAGE THEIR FILESYSTEM**
+
+[[java project - relations]]
+
 
 
 ## Code

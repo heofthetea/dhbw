@@ -27,6 +27,8 @@
 [[Wie kommen Klausuraufgaben zustande]]
 
 [[Lazy Evaluation]]
+[[Design by Contract]]
+
 ## Intro
 
 [[Definition Algorithmus]]
@@ -137,6 +139,42 @@
 	- [[Einfügen in Array]]
 - [[Row-major Array-Speicher]]
 
+## Listen
+- [[Liste]]
+	- [[Doubly Linked List]]
+	- [[Singly Linked List]]
+	- [[Homogene Liste]]
+	- [[Heterogene Liste]]
+- [[Knoten]]
+- [[circular List]]
+- [[Listenanker]]
+- [[Head]]
+- [[Tail]]
+- [[Vor- und Nachteile von Listen]]
+- [[Zyklische Verankerung Doubly Linked List]]\
+- [[Liste vs Array]]
+- [[Doubly vs Singly linked List]]
+## Sortieren
+- [[Sortieren formal]]
+- [[Lexikalisches Sortieren]]
+
+[[in-place Sortieren]]
+[[out-of-place Sortieren]]
+
+[[stable sorting algorithm]]
+[[unstable sorting algorithm]]
+
+### Dumme Sortierungen
+- [[Bogo Sort]]
+- [[Miracle Sort]]
+- [[Stalin Sort]]
+### Einfache Sortierungen
+[[Bubble Sort]]
+[[Selection Sort]]
+
+
+### Effiziente Vefahren
+[[Quick Sort]]
 
 ## Data Structures
 [[Binary Tree]]
@@ -144,9 +182,6 @@
 
 
 
-## Sortieren
-[[Quick Sort]]
-[[Bubble Sort]]
 
 
 ## Schlüsselmengen/Wert-Verwaltung

@@ -17,11 +17,12 @@ classDiagram
 	Mannschaft <|-- Fußballmannschaft
 	Mannschaft <|-- Handballmannschaft
 	
-	Trainer "1"--"1" Fußballmannschaft
-	Trainer "1"o--"n" Handballmannschaft
 	
 	Verein "1"*--"n" Mannschaft
 	Stadt "1"*--"n" Verein
+	
+	Trainer "1"--"1" Fußballmannschaft
+	Trainer "1"o--"n" Handballmannschaft
 	
 	Fußballturnier "n"o--"m" Fußballmannschaft
 	

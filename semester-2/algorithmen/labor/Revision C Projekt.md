@@ -2,7 +2,7 @@
 	- Next let's make it scale
 	- then measure the time that takes lul
 
---> Create a [[Doubly Linked List]]
+--> Create a [[Doubly Linked List (C)]]
 Measure how long it takes to create a list with $10^n$ elements
 
 

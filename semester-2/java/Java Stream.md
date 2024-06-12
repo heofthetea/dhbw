@@ -11,6 +11,7 @@ Core Concept: Each Stream operation returns the modified stream to keep on worki
 [[Java Stream Match]]
 
 [[Distinct]]
+[[collect Stream]]
 
 
 

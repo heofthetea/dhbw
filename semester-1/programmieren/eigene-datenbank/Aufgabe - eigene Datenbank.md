@@ -1,5 +1,5 @@
 _Deadline_: Ende des Semesters
-Realisiert mit [[Doubly Linked List|Verketteten Listen]]
+Realisiert mit [[Doubly Linked List (C)|Verketteten Listen]]
 ==> eigener Datentyp
 mindestens 4 Elemente
 

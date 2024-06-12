@@ -1,4 +1,4 @@
- [[Liste]]
+ [[Prolog Liste]]
  [[Rekursive Prädikate]]
 ## löaid flkaj fölkj
 Write a 3-place predicate combine_list which takes three lists as arguments and combines the elements of the first two lists into the third as follows:

@@ -3,6 +3,7 @@
 - Benutzerfreundlichkeit
 - Performance
 - Sicherheit
+- Dokumentation
 ### Beispiele
 - "Das Anzeigen eines Artikels darf nicht länger als 2 Minuten sein."
 - "Der Artikelstamm muss persistent sein"
