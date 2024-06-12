@@ -23,14 +23,24 @@
             "id": "c1a40a561bf8c40e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b78f8aec16c1408c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "semester-2/java/movie-database/Anforderungen_java_projekt.pdf"
+                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "09e0ccbba4253623",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/java/movie-database/Anforderungen_java_projekt.pdf"
+                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md"
               }
             }
           },
@@ -161,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
+                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
+                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,60 +210,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "vscode-editor:Create Code File": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1a40a561bf8c40e",
+  "active": "b78f8aec16c1408c",
   "lastOpenFiles": [
-    "semester-2/algorithmen/sources/Algorithmen.pdf",
     "semester-2/algorithmen/unstable sorting algorithm.md",
-    "semester-2/algorithmen/stable sorting algorithm.md",
-    "semester-2/projektmanagement/resources/Lastenheft_DHBW-Verwaltung.pdf",
-    "semester-2/projektmanagement/nichtfunktionale Anforderungen.md",
-    "semester-2/projektmanagement/Hub Projektmanagement 2.md",
-    "semester-2/projektmanagement/Task.md",
     "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
-    "semester-2/java/collect Stream.md",
-    "semester-2/java/Java Stream.md",
-    "semester-2/java/Hub Java.md",
-    "semester-2/java/Java project without maven.md",
-    "semester-2/java/Java Generics.md",
     "semester-2/java/Java Projekt.md",
-    "semester-2/java/TODO Java Projekt.md",
+    "semester-2/java/movie-database/src/java/de/heofthetea/movies/test/MovieDbReaderTest.java",
+    "semester-2/java/movie-database/src/java/de/heofthetea/movies/MovieDbReader.java",
+    "semester-2/java/movie-database/src/java/de/heofthetea/movies/Database.java",
+    "semester-2/java/movie-database/src/java/de/heofthetea/movies/Main.java",
+    "semester-2/java/movie-database/src/java/de/heofthetea/movies/entities/Actor.java",
+    "semester-2/java/movie-database/src/java/de/heofthetea/movies/entities/Movie.java",
+    "semester-2/java/movie-database/src/java/de/heofthetea/movies/entities/ActorMovie.java",
     "semester-2/java/movie-database/movies.csv",
     "semester-2/java/movie-database/lib/hamcrest-core-1.3.jar",
-    "semester-2/java/movie-database/hamcrest-core-1.3.jar",
-    "semester-2/java/movie-database/src/java/de/heofthetea/movies/test/MovieDbReaderTest.java",
-    "semester-2/java/java Project Data Sets.md",
-    "semester-2/java/movie-database/lib/junit-4.13.2.jar",
-    "semester-2/java/movie-database/lib",
-    "semester-2/java/movie-database/src/junit-4.13.2.jar",
-    "semester-2/java/movie-database/src/resources",
-    "semester-2/java/JVM.md",
-    "semester-2/java/JRE.md",
-    "semester-2/java/JAR.md",
-    "semester-2/java/Manifest file.md",
-    "semester-2/java/java project - relations.md",
-    "semester-2/java/Java Project - handle duplicates.md",
-    "semester-2/java/Interface.md",
-    "semester-2/java/Java Project questions.md",
-    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "semester-2/algorithmen/circular List.md",
-    "semester-2/analysis/Tupel.md",
-    "semester-2/algorithmen/Bogo Sort.md",
-    "semester-2/algorithmen/images/Pasted image 20240611114128.png",
-    "semester-2/algorithmen/images/Pasted image 20240611111150.png",
-    "semester-2/algorithmen/images/Pasted image 20240611111121.png",
-    "semester-2/algorithmen/images/Pasted image 20240611102235.png",
-    "semester-2/algorithmen/images/Pasted image 20240611094404.png",
-    "semester-2/algorithmen/images/Pasted image 20240611092048.png",
-    "semester-2/web-engineering/html/images/Pasted image 20240610142135.png",
-    "semester-2/algorithmen/images/Pasted image 20240607103705.png",
-    "semester-2/projektmanagement/images/Pasted image 20240605103435.png",
-    "semester-2/projektmanagement/images/Pasted image 20240605101822.png"
+    "intension/linux/Root Directory.md",
+    "intension/linux/AppImage.md",
+    "intension/linux/Hub Linux.md",
+    "intension/linux/Extract Contents from AppImage.md",
+    "intension/linux/My Filesystem Conventions.md",
+    "intension/linux/usr filesystem.md",
+    "intension/linux/bash/Bash for loop.md",
+    "intension/linux/bash/Bash script.md",
+    "intension/linux/bash/Bash Array.md",
+    "intension/linux/git/Merge Conflict.md",
+    "intension/linux/git/Git.md",
+    "intension/linux/git/Bare Repository.md",
+    "intension/linux/Wayland Screen Recording Issue on Zoom, Discord.md",
+    "semester-2/web-engineering/geo-calc/img/rectangle.png",
+    "semester-2/web-engineering/geo-calc/img/circle.png",
+    "semester-2/web-engineering/geo-calc/img/triangle.png",
+    "semester-2/web-engineering/geo-calc/img/square.png",
+    "intension/Master intension.md",
+    "intension/t1000/Hub T1000.md",
+    "intension/linux/Relative Path.md",
+    "intension/java/images/Pasted image 20240514153625.jpg",
+    "intension/linux/Tarballs.md",
+    "intension/linux/git/Copy-Modify-Merge Principle.md",
+    "intension/linux/git/Lock-Modify-Unlock Principle.md",
+    "intension/DevOps.md",
+    "intension/t1000/KVM virtual machine.md",
+    "intension/t1000/README.md",
+    "intension/linux/Mount a USB.md",
+    "intension/linux/Gnome Extensions.md",
+    "intension/t1000/images/Pasted image 20240322111527.png",
+    "intension/images/Pasted image 20240321161358.png",
+    "intension/images/Pasted image 20240311165056.png",
+    "intension/images/Pasted image 20240322111527.png",
+    "intension/keycloak/images/Pasted image 20240305142450.png"
   ]
 }

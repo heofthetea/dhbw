@@ -151,7 +151,7 @@
 - [[Head]]
 - [[Tail]]
 - [[Vor- und Nachteile von Listen]]
-- [[Zyklische Verankerung Doubly Linked List]]\
+- [[Zyklische Verankerung Doubly Linked List]]
 - [[Liste vs Array]]
 - [[Doubly vs Singly linked List]]
 ## Sortieren
