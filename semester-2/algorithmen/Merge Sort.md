@@ -7,6 +7,7 @@
 
 
 ### Pseudo-Code
+requires implementation of [[2-way merge|merge]] function
 ```python
 def merge_sort(arr):
 	if len(arr) <= 1:
@@ -22,3 +23,6 @@ def merge_sort(arr):
 [[linearithmische Laufzeit]]
 $$\in O(n \log n)$$
 [[out-of-place Sortieren]] --> beim [[2-way merge|Merge]] wird eine neue Liste erstellt ($O(n)$ Space complexity)
+
+## Beispiel
+![[Pasted image 20240614115128.png]]

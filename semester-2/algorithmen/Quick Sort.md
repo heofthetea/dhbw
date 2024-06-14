@@ -7,6 +7,7 @@
 
 
 ### Pseudo Code
+requires implementation of [[Partitioning Quick Sort|partition]] function
 ```python
 def quick_sort(arr, low, high):
 	if high >= low:

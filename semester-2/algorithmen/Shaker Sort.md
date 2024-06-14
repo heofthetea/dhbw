@@ -2,4 +2,4 @@
 --> verhindert worst case, dass kleinstes Element ganz rechts ist
 
 ### Komplexität
-wie bubble sort, aber um einen minimalen konstanten Faktor besser
+wie bubble sort, aber um einen minimalen konstanten Faktor besser ($\frac{1}{4}$)

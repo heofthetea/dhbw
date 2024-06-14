@@ -68,29 +68,15 @@
                 }
               },
               {
-                "id": "1c41045f12b4aa07",
+                "id": "26e263f96677cd10",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/algorithmen/Partitioning Quick Sort.md",
+                    "file": "semester-2/algorithmen/Merge Sort.md",
                     "mode": "source",
                     "source": false
                   }
-                }
-              },
-              {
-                "id": "26e263f96677cd10",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Partitioning Quick Sort.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
                 }
               },
               {
@@ -135,14 +121,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/algorithmen/Shaker Sort.md",
+                    "file": "semester-2/algorithmen/2-way merge.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 1
           },
           {
             "id": "7ae5308c53d3325d",
@@ -191,18 +177,6 @@
                   "type": "markdown",
                   "state": {
                     "file": "semester-2/algorithmen/Quick Sort.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7cc404d3ee957335",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/2-way merge.md",
                     "mode": "source",
                     "source": false
                   }
@@ -291,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/algorithmen/Shaker Sort.md"
+                "file": "semester-2/algorithmen/Merge Sort.md"
               }
             }
           },
@@ -301,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/algorithmen/Shaker Sort.md",
+                "file": "semester-2/algorithmen/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/algorithmen/Shaker Sort.md",
+                "file": "semester-2/algorithmen/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,25 +321,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe8e96602e97ef93",
+  "active": "26e263f96677cd10",
   "lastOpenFiles": [
-    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "semester-2/algorithmen/Shaker Sort.md",
-    "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
-    "semester-2/algorithmen/Merge Sort.md",
+    "semester-1/programmieren/code/own_database/test.sh",
+    "semester-2/algorithmen/Partitioning Quick Sort.md",
+    "semester-2/algorithmen/Beispiel Insertion Sort.md",
+    "semester-1/programmieren/concepts/linked-list/Hoare Partitioning.md",
     "semester-2/algorithmen/Quick Sort.md",
     "semester-2/algorithmen/2-way merge.md",
+    "semester-2/algorithmen/Merge Sort.md",
+    "semester-2/algorithmen/Shaker Sort.md",
+    "semester-2/algorithmen/images/Pasted image 20240614115507.png",
+    "semester-2/algorithmen/images/Pasted image 20240614115128.png",
+    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+    "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
     "intension/linux/k-way Merge.md",
     "semester-2/algorithmen/sources/Algorithmen.pdf",
     "semester-2/algorithmen/Komplexitätsanalyse Quick Sort.md",
     "semester-2/algorithmen/Master Theorem.md",
     "semester-2/algorithmen/NL Partitioning.md",
-    "semester-1/programmieren/concepts/linked-list/Hoare Partitioning.md",
     "semester-2/algorithmen/Beispiel Quick Sort.md",
-    "semester-2/algorithmen/Partitioning Quick Sort.md",
     "semester-2/algorithmen/allgemein/Throw faster hardware at the problem.md",
     "semester-2/algorithmen/Insertion Sort.md",
-    "semester-2/algorithmen/Beispiel Insertion Sort.md",
     "semester-2/algorithmen/Library Lineare Datenstrukturen.md",
     "semester-2/algorithmen/Doubly vs Singly linked List.md",
     "semester-2/algorithmen/Library Komplexität.md",
@@ -381,7 +358,6 @@
     "semester-1/programmieren/concepts/linked-list/images",
     "semester-2/algorithmen/Selection Sort.md",
     "goodnotes/Semester 2/Algorithms/Alg0 Intro.pdf",
-    "semester-2/algorithmen/complexity/Summenformel auflösen.md",
     "semester-2/algorithmen/images/Pasted image 20240614084806.png",
     "semester-2/algorithmen/labor/004-sorting-bash/populate",
     "semester-2/algorithmen/labor/004-sorting-bash/giant.data",
@@ -392,8 +368,6 @@
     "semester-2/java/movie-database/src/java/de/heofthetea/movies/test/MovieDbReaderTest.java",
     "semester-2/web-engineering/geo-calc/img/rectangle.png",
     "semester-2/web-engineering/geo-calc/img/circle.png",
-    "semester-2/web-engineering/geo-calc/img/triangle.png",
-    "semester-2/web-engineering/geo-calc/img/square.png",
-    "intension/java/images/Pasted image 20240514153625.jpg"
+    "semester-2/web-engineering/geo-calc/img/triangle.png"
   ]
 }
