@@ -7,7 +7,7 @@
 | $O(1)$           | konstant                          | elementare Operationen                                              | Variable assignment             |
 | $O(log\, n)$     | logarithmisch                     | [[Divide and Conquer]] - eine Hälfte _discarded_                    | [[Binary Search]]               |
 | $O(n)$           | linear                            | Iteration über alle Elemente                                        | [[Linear Search]]               |
-| $O(n\ log\, n)$  | "linearithmisch", "super-linear"  | [[Divide and Conquer]] - beide Hälften weiter bearbeitet            | [[Quick Sort]]                  |
+| $O(n\ log\, n)$  | "linearithmisch", "super-linear"  | [[Divide and Conquer]] - beide Hälften weiter bearbeitet            | [[Hoare Partitioning]]                  |
 | $O(n^{2})$       | quadratisch                       | Jedes Element mit jedem vergleichen                                 | [[Bubble Sort]]                 |
 | $O(n^{k \gt 2})$ | polynomiell (kubisch...)          | _kubisch_: jedes Tripel                                             | Matrix Multiplikation           |
 | $O(2^n)$         | exponentiell                      | Bilden aller Teilmengen ([[Potenzmenge]])                           | Brute-Force (optimiert)         |

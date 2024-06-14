@@ -1,4 +1,4 @@
-[[Implementation Quick Sort]]
+[[Implementation Quick Sort]], [[Quick Sort]], [[Partitioning Quick Sort]]
 - Select index close to middle (this element is the _Pivot_)
 - iterate through the list from left to right _and_ from right to left:
 	- search for Elements _larger than Pivot_ located _left_ of Pivot
@@ -13,4 +13,6 @@ _Runtime Complexity_:
 - _average case_: $O(\log_{2}(n))$ --> [[Logarithmische Laufzeit]]
 - _worst case_: Pivot is always the largest element --> Runtime Complexity of $O(n^{2})$ [[Runtime Bubble vs QuickSort]]
 
+### Beispiel
 
+![[Pasted image 20240614093431.png]]

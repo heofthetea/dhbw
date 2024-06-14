@@ -30,6 +30,9 @@
 		- Faustregel: $c \cdot n$ ~> $c^{n}$  
 			- $r(n) = r(\frac{n}{2})$ --> $O(log_{2}\, n)$ ([[Binary Search]])
 ### [[Master Theorem]]
+> [!hint] Hier nur beschrieben für [[Big O]]. Gilt aber in exakt selber Durchführung auch für [[Big Theta]].
+
+
 Dient der Berechnung von [[Komplexität Rekursion|rekursiver Komplexität]] für [[Divide and Conquer]]-Algorithmen
 $$f(n)= a \cdot f\left(\left\lfloor\frac{n}{b}\right\rfloor\right)+c(n),\ \ \ \ mit \ c(n) \in O(n^{d})$$
 - $a$: Kostenaufwand für Bilden der [[Recursion]]

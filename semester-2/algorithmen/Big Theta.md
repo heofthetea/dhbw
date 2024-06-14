@@ -1,4 +1,4 @@
-> Zwei Algorithmen haben im wesentlichen dieselbe [[Komplexität]]
+> Zwei Algorithmen haben im wesentlichen <span style="color:rgb(245, 154, 35)">dieselbe</span> [[Komplexität]]
 
 - Im wesentlichen = Bis auf einen konstanten Vorfaktor
 

@@ -4,85 +4,215 @@
     "type": "split",
     "children": [
       {
-        "id": "ccf55407bb5c49c3",
+        "id": "a6e8b053aa5c1117",
         "type": "tabs",
+        "dimension": 47.00996677740864,
         "children": [
           {
-            "id": "87834a6e6fa98a00",
+            "id": "fea1cce980dcd886",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/java/collect Stream.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1a40a561bf8c40e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b78f8aec16c1408c",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "09e0ccbba4253623",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ab25324146073846",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/unstable sorting algorithm.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "1e28808c86a26b4e",
+            "id": "fc3e73ab91b6ae4d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/projektmanagement/nichtfunktionale Anforderungen.md",
+                "file": "semester-2/algorithmen/Library Lineare Datenstrukturen.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "12f2507f743cb219",
+            "id": "40d3226e40c70436",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/stable sorting algorithm.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
+      },
+      {
+        "id": "e78023309a6ee428",
+        "type": "split",
+        "dimension": 52.99003322259136,
+        "children": [
+          {
+            "id": "14291fc408e812f7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "863a499c4b26c7fe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Beispiel Insertion Sort.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1c41045f12b4aa07",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Partitioning Quick Sort.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "26e263f96677cd10",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Partitioning Quick Sort.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b0ff42811577eeff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-1/programmieren/concepts/linked-list/Hoare Partitioning.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "94474313ebe1be0c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Beispiel Quick Sort.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8cae3455751bad99",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/NL Partitioning.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fe8e96602e97ef93",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Shaker Sort.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "7ae5308c53d3325d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2311c7d3499a246c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Selection Sort.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b1e4c32f814b9503",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-2/algorithmen/sources/Algorithmen.pdf"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "afe1c43fe3aff336",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Doubly vs Singly linked List.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5b4e6014ac334953",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Quick Sort.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7cc404d3ee957335",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/2-way merge.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -161,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md"
+                "file": "semester-2/algorithmen/Shaker Sort.md"
               }
             }
           },
@@ -171,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "file": "semester-2/algorithmen/Shaker Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +318,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "file": "semester-2/algorithmen/Shaker Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,53 +347,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b78f8aec16c1408c",
+  "active": "fe8e96602e97ef93",
   "lastOpenFiles": [
-    "semester-2/algorithmen/unstable sorting algorithm.md",
+    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+    "semester-2/algorithmen/Shaker Sort.md",
+    "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
+    "semester-2/algorithmen/Merge Sort.md",
+    "semester-2/algorithmen/Quick Sort.md",
+    "semester-2/algorithmen/2-way merge.md",
+    "intension/linux/k-way Merge.md",
+    "semester-2/algorithmen/sources/Algorithmen.pdf",
+    "semester-2/algorithmen/Komplexitätsanalyse Quick Sort.md",
+    "semester-2/algorithmen/Master Theorem.md",
+    "semester-2/algorithmen/NL Partitioning.md",
+    "semester-1/programmieren/concepts/linked-list/Hoare Partitioning.md",
+    "semester-2/algorithmen/Beispiel Quick Sort.md",
+    "semester-2/algorithmen/Partitioning Quick Sort.md",
+    "semester-2/algorithmen/allgemein/Throw faster hardware at the problem.md",
+    "semester-2/algorithmen/Insertion Sort.md",
+    "semester-2/algorithmen/Beispiel Insertion Sort.md",
+    "semester-2/algorithmen/Library Lineare Datenstrukturen.md",
+    "semester-2/algorithmen/Doubly vs Singly linked List.md",
+    "semester-2/algorithmen/Library Komplexität.md",
+    "semester-2/algorithmen/images/Pasted image 20240614100741.png",
+    "semester-1/programmieren/concepts/linked-list/Runtime Bubble vs QuickSort.md",
+    "semester-2/algorithmen/images/Pasted image 20240614095111.png",
+    "semester-2/algorithmen/images/Pasted image 20240614094518.png",
+    "semester-2/algorithmen/Liste vs Array.md",
+    "semester-2/algorithmen/examples/Binary Search.md",
+    "semester-2/algorithmen/Arrays im Speicher.md",
+    "semester-2/algorithmen/Array.md",
+    "semester-1/programmieren/concepts/linked-list/images/Pasted image 20240614093431.png",
+    "semester-1/programmieren/concepts/linked-list/images",
+    "semester-2/algorithmen/Selection Sort.md",
+    "goodnotes/Semester 2/Algorithms/Alg0 Intro.pdf",
+    "semester-2/algorithmen/complexity/Summenformel auflösen.md",
+    "semester-2/algorithmen/images/Pasted image 20240614084806.png",
+    "semester-2/algorithmen/labor/004-sorting-bash/populate",
+    "semester-2/algorithmen/labor/004-sorting-bash/giant.data",
+    "semester-2/algorithmen/labor/004-sorting-bash/small.data",
+    "semester-2/algorithmen/labor/004-sorting-bash",
+    "semester-2/algorithmen/labor/004-sortijg",
     "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
-    "semester-2/java/Java Projekt.md",
     "semester-2/java/movie-database/src/java/de/heofthetea/movies/test/MovieDbReaderTest.java",
-    "semester-2/java/movie-database/src/java/de/heofthetea/movies/MovieDbReader.java",
-    "semester-2/java/movie-database/src/java/de/heofthetea/movies/Database.java",
-    "semester-2/java/movie-database/src/java/de/heofthetea/movies/Main.java",
-    "semester-2/java/movie-database/src/java/de/heofthetea/movies/entities/Actor.java",
-    "semester-2/java/movie-database/src/java/de/heofthetea/movies/entities/Movie.java",
-    "semester-2/java/movie-database/src/java/de/heofthetea/movies/entities/ActorMovie.java",
-    "semester-2/java/movie-database/movies.csv",
-    "semester-2/java/movie-database/lib/hamcrest-core-1.3.jar",
-    "intension/linux/Root Directory.md",
-    "intension/linux/AppImage.md",
-    "intension/linux/Hub Linux.md",
-    "intension/linux/Extract Contents from AppImage.md",
-    "intension/linux/My Filesystem Conventions.md",
-    "intension/linux/usr filesystem.md",
-    "intension/linux/bash/Bash for loop.md",
-    "intension/linux/bash/Bash script.md",
-    "intension/linux/bash/Bash Array.md",
-    "intension/linux/git/Merge Conflict.md",
-    "intension/linux/git/Git.md",
-    "intension/linux/git/Bare Repository.md",
-    "intension/linux/Wayland Screen Recording Issue on Zoom, Discord.md",
     "semester-2/web-engineering/geo-calc/img/rectangle.png",
     "semester-2/web-engineering/geo-calc/img/circle.png",
     "semester-2/web-engineering/geo-calc/img/triangle.png",
     "semester-2/web-engineering/geo-calc/img/square.png",
-    "intension/Master intension.md",
-    "intension/t1000/Hub T1000.md",
-    "intension/linux/Relative Path.md",
-    "intension/java/images/Pasted image 20240514153625.jpg",
-    "intension/linux/Tarballs.md",
-    "intension/linux/git/Copy-Modify-Merge Principle.md",
-    "intension/linux/git/Lock-Modify-Unlock Principle.md",
-    "intension/DevOps.md",
-    "intension/t1000/KVM virtual machine.md",
-    "intension/t1000/README.md",
-    "intension/linux/Mount a USB.md",
-    "intension/linux/Gnome Extensions.md",
-    "intension/t1000/images/Pasted image 20240322111527.png",
-    "intension/images/Pasted image 20240321161358.png",
-    "intension/images/Pasted image 20240311165056.png",
-    "intension/images/Pasted image 20240322111527.png",
-    "intension/keycloak/images/Pasted image 20240305142450.png"
+    "intension/java/images/Pasted image 20240514153625.jpg"
   ]
 }

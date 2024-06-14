@@ -18,6 +18,7 @@
 
 ## Contents
 [[C concepts]]
+[[Pointer]]
 [[Functions]]
 [[Strings|Strings]]
 [[Structs]]
@@ -25,7 +26,7 @@
 [[Floating Points]]
 [[Recursion]]
 [[Master Linked Lists]]
-- [[Quick Sort]]
+- [[Hoare Partitioning]]
 - [[Doubly Linked List (C)]]
 [[Splitting up large projects]]
 

@@ -15,3 +15,8 @@ Quiz Academy: https://u.quizacademy.io/course/CGGWSC
 
 ### Vorlesung
 [[sorting.c]] (one of my cleaner codes)
+
+
+## 004
+[[shuf]]
+[[UNIX sort]]

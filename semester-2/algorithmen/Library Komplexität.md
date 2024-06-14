@@ -1,11 +1,11 @@
 #library 
 see also: [[Library Komplexität Rekursion]]
-### Algorithmen Allgemein
+## Algorithmen Allgemein
 - [[Definition Algorithmus]]
 	- Transformiert *Input* in *Output*, in *wohl-definierten* und _endlich_ vielen Schritten
 	- [[Computers are idiots]] and [[Speech is unprecise]] - Ein Algorithmus muss von jedem Idioten durchgeführt werden können
 
-### Komplexität
+## Komplexität
 - [[Komplexität]] beschreibt wie viel _Zeit_ oder _Speicher_ ein Algorithmus braucht
 	- Ist immer als [[Abbildung]] [[Komplexität und Eingabe|abhängig von der Größe der Eingabe]] dargestellt
 	- Betrachtet wird der [[Worst Case]] oder der [[Average Case]], je nach Anwendungskontext
@@ -35,7 +35,7 @@ see also: [[Library Komplexität Rekursion]]
 > - "oben muss in Unten drin sein"
 > - Oft muss [[Regel von L'Hopital]] angewendet werden
 
-#### Logarithmen
+### Logarithmen
 [[Logarithmus]] ist die [[Umkehrfunktion]] zum Exponenten.
 - wichtige Basen:
 	- [[Logarithmus Dualis]] (Basis $2$): Wichtigste in Informatik (weil Binärsystem und so)
@@ -53,7 +53,7 @@ see also: [[Library Komplexität Rekursion]]
 - [[Ableitung von Logarithmen]]:
 $$log_{a}(x)'= \frac{1}{ln(a) \cdot x}$$
 
-#### Komplexitätsklassen
+### Komplexitätsklassen
 Bekannte/Häufige Laufzeiten von Algorithmen kategorisiert
 [[Komplexitätsklassen verschiedener Funktionen]]:
 - $O(c)$ < $O(log\, x)$ < $\sqrt{x}$ < $O(n^{c})$ < $O(c^{n})$ < $O(n!)$ < $O(n^{n})$
@@ -61,6 +61,14 @@ Bekannte/Häufige Laufzeiten von Algorithmen kategorisiert
 
 > [!info] Modern hardware is kinda trash
 > [[Fähigkeiten moderner Hardware]] - ein Algorithmus mit [[Komplexität]] $O(n^{2})$ kann an einem Tag nur $29$ MB an Daten verarbeiten!! 
+
+### Verschiedene Landau-Sympole
+1. [[Big O]]: $g \in O(f)$ --> $g$ wächst i.w. <span style="color:rgb(245, 154, 35)">maximal</span> so schnell wie $f$
+2. [[Big Omega]]: $g \in \Omega(f)$ --> $g$ wächst i.w. <span style="color:rgb(245, 154, 35)">mindestens</span> so schnell wie $f$
+3. [[Big Theta]]: $g \in \Theta(f)$ --> $g$ wächst i.w. <span style="color:rgb(245, 154, 35)">genau</span> so schnell wie $f$
+4. [[Big Tilde]]: $g \textasciitilde f$ --> [[Big Theta]] mit konstantem Faktor $c=1$ 
+
+
 
 
 

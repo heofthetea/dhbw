@@ -2,7 +2,7 @@ Bisher alles _statisch_ gelöst -> Array, immer feste Länge
 _dynamisch_: Elemente löschen, hinzufügen ändert Länge der Liste
 
 ## In memory
-pointer gets initialized to 0 as default
+[[pointer]] gets initialized to 0 as default
 Once a successor is created: Update after to pointer of new address
 
 |  | 10 |

@@ -1,4 +1,4 @@
-Comparable to a [[C concepts#Pointer / Address Operators]|Pointer]], but more abstract
+Comparable to a [[Pointer]], but more abstract
 - Accesses an Element in the [[Java Heap]] - But not any RAM addresses directly!!!
 
 [[null]] is an _empty_ Reference, comparable to a NullPointer (but _not_ the same!!!)

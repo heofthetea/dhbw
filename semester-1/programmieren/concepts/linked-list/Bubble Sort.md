@@ -1,6 +1,9 @@
 > Very simple algorthm
 > But [[Polynomielle Laufzeit]] ($O(n^2)$)
 
+
+[[in-place Sortieren]]
+
 Beispiel: $50\,000$ needs 24 seconds lol
 
 1) iterate over list from start to finish
@@ -46,7 +49,7 @@ void swap(int * arr, int a, int b) {
 
 ### On list
 [[bubble_sort_list.c]]
-- swap _pointers_ instead of values
+- swap [[Pointer|pointer]] instead of values
 - okay maybe doing this stuff recursively wasn't such a good idea
 
 

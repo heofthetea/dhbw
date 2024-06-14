@@ -6,6 +6,6 @@ path:linked-list
 [[Doubly linked list (global variables)]]
 [[Doubly Linked List (C)]]
 [[Implementation Quick Sort]]
-[[Quick Sort]]
+[[Hoare Partitioning]]
 [[Runtime Bubble vs QuickSort]]
 [[Sort List]]

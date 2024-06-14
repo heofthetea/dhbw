@@ -1,7 +1,7 @@
 - [[Logarithmische Laufzeit]] $O(log\, n)$
 - [[Divide and Conquer]] Algorithmus
 
-(Approach is quite similar to [[Quick Sort]])
+(Approach is quite similar to [[Hoare Partitioning]])
 ### Idee
 Liste muss bereits _sortiert_ sein
 1. Finde mitte der Liste

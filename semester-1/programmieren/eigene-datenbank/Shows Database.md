@@ -14,7 +14,7 @@
 - [x] use controlled "end of string" characters and look for them manually via for-loop
 - [ ] HANDLE YOUR BULLSHIT FILE HANDLING
 - [x] actually make this bullshit a [[Doubly linked list (global variables)]] fucking idiot
-- [ ] [[Quick Sort]]
+- [ ] [[Hoare Partitioning]]
 - [ ] 
 #### Tasks until 25.01.
 - [x] Menu

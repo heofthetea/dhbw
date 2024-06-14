@@ -10,7 +10,7 @@ D --> B
 
 ### Erkennen von circular list
 --> Algorithmus von Hase und Igel
-Idee: Ein Pointer läuft doppelt so schnell wie der andere --> wenn die Pointer gleich sind, 
+Idee: Ein [[Pointer]] läuft doppelt so schnell wie der andere --> wenn die [[Pointer]] gleich sind, 
 ```python
 def is_cyclic(list):
 	hase, igel = list

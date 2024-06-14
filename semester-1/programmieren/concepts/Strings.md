@@ -50,7 +50,7 @@ searches for a character in a string.
 //prototype
 char* strchr(char*, char)
 ```
-returns **pointer**  to _first_ occurance of given character, or `0` (null-pointer) if not found.
+returns [[Pointer]]  to _first_ occurance of given character, or `0` (null-pointer) if not found.
 
 #### strstr
 searches for substring in a string.

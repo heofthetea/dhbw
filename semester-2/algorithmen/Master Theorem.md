@@ -3,7 +3,11 @@
 $$f(n)= a \cdot f\left(\left\lfloor\frac{n}{b}\right\rfloor\right)+c(n),\ \ \ \ mit \ c(n) \in O(n^{d})$$ wobei $a \geq 1\in \mathbb{N}$,  $b \geq 2 \in \mathbb{N}$,  $d \geq 0 \in \mathbb{R}$ 
 - $a\cdot f\left(\frac{n}{b}\right)$ ist [[Recursion|rekursive]] Berechnung der Teillösungen
 	- $a$ beschreibt die Kosten der Rekursion
+	- --> Wie oft wird Rekursion aufgerufen?
 - $c(n)$ ist Teilen und Rekombinieren
+> [!warning] zusätzlichen konstanten Aufwand nicht vergessen!!
+> $c(n) = c_{1} \cdot n + c_{2}$ 
+
  **Fallunterscheidung**:
 1. $a < b^{d} \Rightarrow f(n) \in O(n^d)$
 2. $a = b \Rightarrow f(n) \in O(log_{b}(n)\cdot n^{d})$ 

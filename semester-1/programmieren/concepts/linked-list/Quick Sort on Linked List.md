@@ -1,6 +1,6 @@
-> Implementation of [[Quick Sort]] for the [[Doubly Linked List (C)]] of the [[Shows Database]].
+> Implementation of [[Hoare Partitioning]] for the [[Doubly Linked List (C)]] of the [[Shows Database]].
 
-> The _most_ elegant way, by far, would have been to simply convert the [[Doubly Linked List (C)|List]] into an [[Array]] of pointers to [[Node (doubly linked list)|Nodes]], sort that (see [[random_names.c]]) and convert back.
+> The _most_ elegant way, by far, would have been to simply convert the [[Doubly Linked List (C)|List]] into an [[Array]] of [[Pointer|pointers]] to [[Node (doubly linked list)|Nodes]], sort that (see [[random_names.c]]) and convert back.
 ### Swap
 Since in this case, the nodes get swapped around, there is a bunch of edge cases to consider:
 1. Either one of the [[Node (doubly linked list)|Nodes]] being the [[Head]] or [[Tail]] of the [[Doubly Linked List (C)]]
@@ -109,7 +109,7 @@ Node *partition(List *list, int low, int high, int depth)
 ```
 
 ### Sorting
-The usual, trivial [[Recursion]] of [[Quick Sort]]:
+The usual, trivial [[Recursion]] of [[Hoare Partitioning]]:
 ```c
 void quick_sort(List *list, int low, int high, int depth)
 {

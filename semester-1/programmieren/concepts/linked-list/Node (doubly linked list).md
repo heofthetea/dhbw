@@ -6,7 +6,7 @@ A _Node_ of a ·[[Doubly Linked List (C)]] stores exactly three attributes:
 ```python
 typedef struct Node
 {
-	 Object *data;
+	 Object *payload;
 	 Node *previous;
 	 Node *next;
 } Node;

@@ -1,4 +1,4 @@
-[[Quick Sort]]
+[[Hoare Partitioning]]
 ## Pseudo-Code
 ```python
 def quick_sort(list, left, right):

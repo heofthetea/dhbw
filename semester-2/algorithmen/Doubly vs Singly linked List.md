@@ -13,6 +13,6 @@
 | Schlüssel finden              | [[lineare Laufzeit]]         | [[lineare Laufzeit]]         |
 | Schlüssel einfügen            | [[Konstante Laufzeit]]       | [[Konstante Laufzeit]]       |
 | Schlüssel bedingt einfügen    | [[lineare Laufzeit]]         | [[lineare Laufzeit]]         |
-| Schlüssel lpschen             | [[lineare Laufzeit]]         | [[lineare Laufzeit]]         |
+| Schlüssel löschen             | [[lineare Laufzeit]]         | [[lineare Laufzeit]]         |
 
-[^1]: Trick: Bei [[Iteration]] über [[Liste]] immer direkt dein next-Pointer des Nachfolgers anschauen, dann hat man direkt den nächsten Pointer, wenn man ein Element löscht
+[^1]: Trick: Bei [[Iteration]] über [[Liste]] immer direkt dein next-[[Pointer]] des Nachfolgers anschauen, dann hat man direkt den nächsten Pointer, wenn man ein Element löscht

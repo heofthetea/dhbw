@@ -11,6 +11,7 @@
 ## Libraries
 [[Library Komplexität]]
 [[Library Komplexität Rekursion]]
+[[Library Lineare Datenstrukturen]]
 
 
 ### Script
@@ -67,7 +68,6 @@
 - [[Polynomielle Laufzeit]]
 - [[exponentielle Laufzeit]]
 - [[linearithmische Laufzeit]]
-- 
 ###  Übungen
 [[Übung - Euclids worst-case]]
 [[übung - Datenstrukturen]]
@@ -134,11 +134,12 @@
 - [[Arrays im Speicher]]
 - [[Use cases of Arrays]]
 - [[Array zur Datenhaltung]]
+- [[Random Access auf Arrays]]
 - [[Operationen auf Arrays]]
 	- [[Löschen aus Array]]
 	- [[Einfügen in Array]]
 - [[Row-major Array-Speicher]]
-
+- [[Dynamic Array]]
 ## Listen
 - [[Liste]]
 	- [[Doubly Linked List]]
@@ -170,11 +171,24 @@
 - [[Stalin Sort]]
 ### Einfache Sortierungen
 [[Bubble Sort]]
+- [[Shaker Sort]]
 [[Selection Sort]]
+[[Insertion Sort]]
+- [[Beispiel Rekursion]]
+
 
 
 ### Effiziente Vefahren
 [[Quick Sort]]
+- [[Partitioning Quick Sort]]
+	- [[Hoare Partitioning]]
+	- [[NL Partitioning]]
+- [[Beispiel Quick Sort]]
+- [[Komplexitätsanalyse Quick Sort]]
+[[Merge Sort]]
+- [[2-way merge]]
+- [[k-way Merge]]
+
 
 ## Data Structures
 [[Binary Tree]]
