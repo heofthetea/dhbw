@@ -49,6 +49,13 @@ tag: analysis-aufgabe
 [[Analysis Aufg-13 Folgen 3]]
 [[Analysis Aufg-14 Folgen 4]]
 [[Analysis Aufg-15 PotenzReihen]]
+[[Analysis Aufg-16 Stetigkeit]]
+
 
 [[Analysis Aufgaben Template]]
 
+### Altklausuren
+[[DHBW-Klausur_Analysis_2021_Lsg.pdf]]
+[[DHBW-Klausur_Analysis_2022_Lsg.pdf]]
+[[DHBW-Klausur_Analysis_2023_Lsg.pdf]]
+[[DHBW-WH-Klausur_II_Analysis_2022_Lsg.pdf]]

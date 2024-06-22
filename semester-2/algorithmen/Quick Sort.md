@@ -1,13 +1,13 @@
-[[Divide and Conquer]], [[Hoare Partitioning]]
+[[Divide and Conquer]], [[Hoare Partitioning]], [[NL Partitioning]]
 
 1. Wenn $|S| \leq 1$: fertig
 2. Wähle Pivot $p \in S$
-	1. [[Partitioning Quick Sort|Partitioniere]] Teilmengen
+	1. [[Partitioning|Partitioniere]] Teilmengen
 3. Sortiere beide Hälften [[Recursion|rekursiv]]
 
 
 ### Pseudo Code
-requires implementation of [[Partitioning Quick Sort|partition]] function
+requires implementation of [[Partitioning|partition]] function
 ```python
 def quick_sort(arr, low, high):
 	if high >= low:
@@ -21,12 +21,20 @@ def quick_sort(arr, low, high):
 [[Beispiel Quick Sort]]
 
 ## Partitioning
-[[Partitioning Quick Sort]], [[Hoare Partitioning]], [[NL Partitioning]]
+[[Partitioning]], [[Hoare Partitioning]], [[NL Partitioning]]
 
 ## Analyse
 - [[unstable sorting algorithm]]
 - [[in-place Sortieren]]
 - [[Komplexitätsanalyse Quick Sort]]
-### Best/average case: 
-- [[linearithmische Laufzeit]]
 
+> [!warning] [[Quick Sort]] ist ineffizient bei kleinen Arrays
+> [[Partitioning]] und rekursiver Aufruf sorgt für unnötig viel Overhead verglichen mit z.B.[[Insertion Sort]]
+#### Best/average case: 
+- [[linearithmische Laufzeit]]
+$$\mathcal{O}(n\ log\, n)$$
+#### Worst Case
+Der Pivot ist in jeder Iteration das erste oder letzte Element des Arrays
+- Kann durch Heuristiken in Pivotauswahl mehr oder weniger vermieden werden
+--> mit jedem Rekursionsschritt wird Array nur ein element kleiner
+$$\mathcal{O}(n^{2})$$ (gleich wie [[Selection Sort]])

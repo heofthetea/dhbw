@@ -16,6 +16,8 @@
 [[Fragenkatalog 003]]
 [[Fragenkatalog 004]]
 [[Fragenkatalog 009]]
+[[Fragenkatalog 010]]
+
 
 # Vorlesungen
 ## 09 Phasenmodelle
@@ -81,6 +83,7 @@ wichtig: [[Kostenbestandteile]]
 
 [[nichtfunktionale Anforderungen]]
 [[Planning Poker]]
+[[Burndown Chart]]
 
 
 #### Begriffe
@@ -108,5 +111,22 @@ wichtig: [[Kostenbestandteile]]
 [[Wenn Projektkosten aus dem Ruder laufen]]
 
 
+
+
+## 13 Risikoplanung
+[[PM Kap_07 Risikoplanung und Risikomanagement_vorl.pdf]]
+
+[[Riskoanalyse Wohnungsrenovierung]]
+[[Aufteilung Risiko]]
+[[Risiken abwägen]]
+[[Risikoplanung]]
+[[Risikoplanung in Scrum]]
+[[Risikomanagement]]
+[[Risikobehandlung]]
+
+[[Risikoanalyse]]
+
+
+[[Übung Risikoplanung]]
 
 

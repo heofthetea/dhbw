@@ -8,16 +8,21 @@
 
 ### Pseudo-Code
 requires implementation of [[2-way merge|merge]] function
+- Note: Passing an [[Leere Liste|empty list]] to the [[2-way merge]] function is required because _I_ implemented it recursively
 ```python
 def merge_sort(arr):
-	if len(arr) <= 1:
-		return arr
-	arr_l = arr[:len(arr)//2]
-	arr_r = arr[len(arr)//2:]
-
-	return merge(arr_l, arr_r)
+    if len(arr) <= 1:
+        return arr
+    arr_l = arr[:len(arr) // 2]
+    arr_r = arr[len(arr) // 2:]
+	
+    return merge(
+		merge_sort(arr_l),
+		merge_sort(arr_r),
+		[]
+    )
 ```
-
+==> check out [[merge_sort.py]] for testing
 
 ### Komplexität
 [[linearithmische Laufzeit]]

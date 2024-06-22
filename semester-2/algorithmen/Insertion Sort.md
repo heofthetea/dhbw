@@ -16,7 +16,7 @@ def insert_sort(arr):
 		j = i
 		while j > 0 and arr[j] < arr[j - 1]:
 			arr[j], arr[j - 1] = arr[j - 1], arr[j]
-			j = j-1
+			j = j - 1
 	return arr
 ```
 

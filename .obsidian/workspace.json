@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a6e8b053aa5c1117",
+        "id": "7516f807cb7ca6cf",
         "type": "tabs",
-        "dimension": 47.00996677740864,
+        "dimension": 45.04264392324094,
         "children": [
           {
-            "id": "fea1cce980dcd886",
+            "id": "7e7a77fc07e6a2ca",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "file": "semester-2/algorithmen/Hub Algorithmen.md",
                 "mode": "source",
                 "source": false
               },
@@ -23,88 +23,40 @@
             }
           },
           {
-            "id": "fc3e73ab91b6ae4d",
+            "id": "7cdfc47baf9d5169",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "semester-2/algorithmen/Library Lineare Datenstrukturen.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "file": "semester-2/java/movie-database/Anforderungen_java_projekt.pdf"
+              }
             }
           },
           {
-            "id": "40d3226e40c70436",
+            "id": "39d65bb356bf00c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/programmieren/concepts/Recursion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
       },
       {
-        "id": "e78023309a6ee428",
+        "id": "6865c4e95e1fed6b",
         "type": "split",
-        "dimension": 52.99003322259136,
+        "dimension": 54.957356076759055,
         "children": [
           {
-            "id": "14291fc408e812f7",
+            "id": "88c9211656184796",
             "type": "tabs",
             "children": [
               {
-                "id": "863a499c4b26c7fe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Beispiel Insertion Sort.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "26e263f96677cd10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Merge Sort.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b0ff42811577eeff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-1/programmieren/concepts/linked-list/Hoare Partitioning.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "94474313ebe1be0c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Beispiel Quick Sort.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8cae3455751bad99",
+                "id": "f3e59c3900e03b7f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -116,38 +68,51 @@
                 }
               },
               {
-                "id": "fe8e96602e97ef93",
+                "id": "793aba85ea5754d4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/algorithmen/2-way merge.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "7ae5308c53d3325d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2311c7d3499a246c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Selection Sort.md",
+                    "file": "semester-2/algorithmen/Bogo Sort.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "b1e4c32f814b9503",
+                "id": "1f66a15e166842ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Indirektes Sortieren.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "052b7774de6b738a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87c55eaf47bc75a8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Library Sortieren.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b77353308492bbdf",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -157,33 +122,8 @@
                   },
                   "pinned": true
                 }
-              },
-              {
-                "id": "afe1c43fe3aff336",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Doubly vs Singly linked List.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5b4e6014ac334953",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Quick Sort.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "horizontal"
@@ -215,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nichtfunktional",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -265,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/algorithmen/Merge Sort.md"
+                "file": "semester-2/algorithmen/Library Sortieren.md"
               }
             }
           },
@@ -275,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/algorithmen/Merge Sort.md",
+                "file": "semester-2/algorithmen/Library Sortieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/algorithmen/Merge Sort.md",
+                "file": "semester-2/algorithmen/Library Sortieren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,56 +257,56 @@
       "vscode-editor:Create Code File": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26e263f96677cd10",
+  "active": "87c55eaf47bc75a8",
   "lastOpenFiles": [
-    "semester-1/programmieren/code/own_database/test.sh",
-    "semester-2/algorithmen/Partitioning Quick Sort.md",
-    "semester-2/algorithmen/Beispiel Insertion Sort.md",
-    "semester-1/programmieren/concepts/linked-list/Hoare Partitioning.md",
-    "semester-2/algorithmen/Quick Sort.md",
-    "semester-2/algorithmen/2-way merge.md",
-    "semester-2/algorithmen/Merge Sort.md",
-    "semester-2/algorithmen/Shaker Sort.md",
-    "semester-2/algorithmen/images/Pasted image 20240614115507.png",
-    "semester-2/algorithmen/images/Pasted image 20240614115128.png",
-    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
-    "intension/linux/k-way Merge.md",
-    "semester-2/algorithmen/sources/Algorithmen.pdf",
-    "semester-2/algorithmen/Komplexitätsanalyse Quick Sort.md",
-    "semester-2/algorithmen/Master Theorem.md",
-    "semester-2/algorithmen/NL Partitioning.md",
-    "semester-2/algorithmen/Beispiel Quick Sort.md",
-    "semester-2/algorithmen/allgemein/Throw faster hardware at the problem.md",
-    "semester-2/algorithmen/Insertion Sort.md",
-    "semester-2/algorithmen/Library Lineare Datenstrukturen.md",
-    "semester-2/algorithmen/Doubly vs Singly linked List.md",
-    "semester-2/algorithmen/Library Komplexität.md",
-    "semester-2/algorithmen/images/Pasted image 20240614100741.png",
-    "semester-1/programmieren/concepts/linked-list/Runtime Bubble vs QuickSort.md",
-    "semester-2/algorithmen/images/Pasted image 20240614095111.png",
-    "semester-2/algorithmen/images/Pasted image 20240614094518.png",
-    "semester-2/algorithmen/Liste vs Array.md",
-    "semester-2/algorithmen/examples/Binary Search.md",
-    "semester-2/algorithmen/Arrays im Speicher.md",
-    "semester-2/algorithmen/Array.md",
-    "semester-1/programmieren/concepts/linked-list/images/Pasted image 20240614093431.png",
-    "semester-1/programmieren/concepts/linked-list/images",
-    "semester-2/algorithmen/Selection Sort.md",
-    "goodnotes/Semester 2/Algorithms/Alg0 Intro.pdf",
-    "semester-2/algorithmen/images/Pasted image 20240614084806.png",
-    "semester-2/algorithmen/labor/004-sorting-bash/populate",
-    "semester-2/algorithmen/labor/004-sorting-bash/giant.data",
-    "semester-2/algorithmen/labor/004-sorting-bash/small.data",
-    "semester-2/algorithmen/labor/004-sorting-bash",
-    "semester-2/algorithmen/labor/004-sortijg",
+    "semester-2/algorithmen/Hub Algorithmen.md",
+    "semester-2/algorithmen/rekursiv.md",
+    "semester-2/algorithmen/Library Sortieren.md",
     "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
-    "semester-2/java/movie-database/src/java/de/heofthetea/movies/test/MovieDbReaderTest.java",
-    "semester-2/web-engineering/geo-calc/img/rectangle.png",
-    "semester-2/web-engineering/geo-calc/img/circle.png",
-    "semester-2/web-engineering/geo-calc/img/triangle.png"
+    "semester-1/programmieren/concepts/Recursion.md",
+    "semester-2/algorithmen/NL Partitioning.md",
+    "semester-2/algorithmen/Quick Sort.md",
+    "semester-2/algorithmen/Partitioning.md",
+    "semester-1/programmieren/eigene-datenbank/Shows Database.md",
+    "semester-2/algorithmen/Komplexitätsanalyse Quick Sort.md",
+    "semester-1/programmieren/concepts/linked-list/Runtime Bubble vs Quick Sort.md",
+    "semester-2/algorithmen/Indirektes Sortieren.md",
+    "semester-2/algorithmen/sources/Algorithmen.pdf",
+    "semester-2/algorithmen/Selection Sort.md",
+    "semester-2/algorithmen/Bogo Sort.md",
+    "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
+    "semester-2/algorithmen/Stalin Sort.md",
+    "semester-2/algorithmen/Excel Sort.md",
+    "semester-2/algorithmen/Miracle Sort.md",
+    "semester-2/marketing/Unlauterer Wettbewerb.md",
+    "semester-2/marketing/images",
+    "semester-2/algorithmen/Insertion Sort.md",
+    "semester-2/algorithmen/Merge Sort.md",
+    "semester-2/algorithmen/labor/003-sorting/__pycache__/stalin_sort.cpython-310.pyc",
+    "semester-2/algorithmen/labor/003-sorting/__pycache__",
+    "semester-2/algorithmen/labor/003-sorting/excel_sort.py",
+    "semester-2/algorithmen/out-of-place Sortieren.md",
+    "semester-2/algorithmen/labor/003-sorting/stalin_sort.py",
+    "semester-2/algorithmen/labor/003-sorting/StalinSort.java",
+    "semester-2/algorithmen/Lexikalisches Sortieren.md",
+    "semester-2/algorithmen/Sortieren formal.md",
+    "semester-2/analysis/Hub Analysis.md",
+    "semester-2/java/Hub Java.md",
+    "semester-2/analysis/altklausuren/DHBW-Klausur_Analysis_2023_Lsg.pdf",
+    "semester-2/java/movie-database/test.db",
+    "semester-2/projektmanagement/images/Pasted image 20240619114449.png",
+    "semester-2/projektmanagement/images/Pasted image 20240619113231.png",
+    "semester-2/projektmanagement/images/Pasted image 20240619113153.png",
+    "semester-2/projektmanagement/images/Pasted image 20240619103649.png",
+    "images/Pasted image 20240619093024.png",
+    "semester-2/web-engineering/images/Pasted image 20240617133741.png",
+    "semester-2/web-engineering/images/Pasted image 20240617133212.png",
+    "semester-2/web-engineering/images/Pasted image 20240617132657.png",
+    "semester-2/analysis/images/Pasted image 20240615181305.png",
+    "semester-2/analysis/aufgaben/bs_plot.png"
   ]
 }

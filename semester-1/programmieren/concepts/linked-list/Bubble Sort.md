@@ -2,7 +2,7 @@
 > But [[Polynomielle Laufzeit]] ($O(n^2)$)
 
 
-[[in-place Sortieren]]
+[[in-place Sortieren]], [[stable sorting algorithm]]
 
 Beispiel: $50\,000$ needs 24 seconds lol
 

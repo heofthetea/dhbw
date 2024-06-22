@@ -38,7 +38,7 @@
 [[Hub Marketing]]
 [[Hub Web Engineering]]
 [[Hub ICC 2]]
-[[Hub Algorithmen und Komplexität]]
+[[Hub Algorithmen]]
 [[Hub Java|Hub Java]]
 
 

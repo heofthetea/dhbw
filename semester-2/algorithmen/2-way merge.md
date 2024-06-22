@@ -11,7 +11,7 @@
 ### Pseudo Code
 Probably not the most efficient way, but should work
 ```python
-def merge(arr_l, arr_r, out)
+def merge(arr_l, arr_r, out):
 	if len(arr_l) == 0:
 		out.extend(arr_r)
 		return out
@@ -22,7 +22,7 @@ def merge(arr_l, arr_r, out)
 	
 	if arr_l[0] < arr_r[0]:
 		out.append(arr_l[0])
-		return out(arr_l[1:], arr_r, out)
+		return merge(arr_l[1:], arr_r, out)
 		
 	out.append(arr_r[0])
 	return merge(arr_l, arr_r[1:], out)

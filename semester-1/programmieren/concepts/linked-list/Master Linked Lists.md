@@ -7,5 +7,5 @@ path:linked-list
 [[Doubly Linked List (C)]]
 [[Implementation Quick Sort]]
 [[Hoare Partitioning]]
-[[Runtime Bubble vs QuickSort]]
+[[Runtime Bubble vs Quick Sort]]
 [[Sort List]]

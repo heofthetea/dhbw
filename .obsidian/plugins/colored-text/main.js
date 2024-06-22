@@ -25432,7 +25432,6 @@ var ColoredFont = class extends import_obsidian5.Plugin {
   }
   getCurrentTheme() {
     let theme = this.app.getTheme();
-    console.log(theme);
     if (theme === "moonstone") {
       theme = "light";
     } else if (theme === "obsidian") {

@@ -18,3 +18,8 @@
 
 ## Negotiation
 [[Zeitplan ICC 2]]
+[[Persönlichkeitsquiz Negotiation style]]
+[[BATNA]]
+[[ZOPA]]
+
+

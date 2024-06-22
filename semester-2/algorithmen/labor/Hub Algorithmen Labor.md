@@ -20,3 +20,8 @@ Quiz Academy: https://u.quizacademy.io/course/CGGWSC
 ## 004
 [[shuf]]
 [[UNIX sort]]
+
+
+## Wisdom
+[[Methode vs Funktion]]
+

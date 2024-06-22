@@ -3,7 +3,7 @@ $$S = (2, 17, 5, 3, 9, 5, 11, 13, 15)$$
 
 ![[Pasted image 20240614095111.png]]
 
-> [!hint] In Zukunft Zwischenstände beim [[Partitioning Quick Sort|Partitionieren]] nur klein in Bleistift eintragen.
+> [!hint] In Zukunft Zwischenstände beim [[Partitioning|Partitionieren]] nur klein in Bleistift eintragen.
 
 > [!warning] Bei einer ein-elementigen [[Liste]] wird _trotzdem_ noch ein rekursiver Aufruf getätigt, der dann halt sofort terminiert!
 

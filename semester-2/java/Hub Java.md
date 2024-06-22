@@ -15,7 +15,7 @@ Script:
 
 [[Java Projekt]]
 [[Filmdatenbank]]
-- [[TODO Java Projekt]]
+- [[Epic Java Projekt]]
 - [[Filmdatenbank Modell]]
 
 
@@ -130,6 +130,8 @@ compilation:
 [[Method Reference]]
 [[Bulk Operators]]
 [[Java Stream]]
+[[Sorting in Java]]
+
 
 
 

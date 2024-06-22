@@ -1,7 +1,7 @@
 [[Anforderungen_java_projekt.pdf]]
-[[TODO Java Projekt]]
+[[Epic Java Projekt]]
 [[Java Project - How to deal with Data Sets]]
-[[java Project Data Sets]]
+[[java Project Entities]]
 
 [[Java Project questions]]
 
@@ -35,7 +35,7 @@ Dreht sich um Filme und Schauspieler
 - [[Zip compression algorithm|Zip]] Datei!!!
 - Name: `Filmprojekt_23B_<Matrikelnummer>.zip`
 - Abgabeschluss: 04.08.2024
-- 
+||
 
 ### Tipps
 - unnötig komplexer Code soll vermieden werden
