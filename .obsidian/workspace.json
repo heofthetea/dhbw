@@ -6,7 +6,7 @@
       {
         "id": "7516f807cb7ca6cf",
         "type": "tabs",
-        "dimension": 45.04264392324094,
+        "dimension": 45.362473347547976,
         "children": [
           {
             "id": "7e7a77fc07e6a2ca",
@@ -15,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen.md",
+                "file": "semester-2/web-engineering/Hub Web Engineering.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,7 +49,7 @@
       {
         "id": "6865c4e95e1fed6b",
         "type": "split",
-        "dimension": 54.957356076759055,
+        "dimension": 54.63752665245203,
         "children": [
           {
             "id": "88c9211656184796",
@@ -61,7 +61,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/algorithmen/NL Partitioning.md",
+                    "file": "semester-2/web-engineering/CSS Grid Layout.md",
                     "mode": "source",
                     "source": false
                   }
@@ -90,8 +90,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "f6ed045a5692b003",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "intension/linux/usr filesystem.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "052b7774de6b738a",
@@ -177,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -204,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/algorithmen/Library Sortieren.md"
+                "file": "intension/linux/usr filesystem.md"
               }
             }
           },
@@ -214,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/algorithmen/Library Sortieren.md",
+                "file": "intension/linux/usr filesystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/algorithmen/Library Sortieren.md",
+                "file": "intension/linux/usr filesystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,11 +275,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87c55eaf47bc75a8",
+  "active": "f6ed045a5692b003",
   "lastOpenFiles": [
-    "semester-2/algorithmen/Hub Algorithmen.md",
-    "semester-2/algorithmen/rekursiv.md",
+    "Reasons to quit.md",
+    "intension/linux/Desktop file.md",
     "semester-2/algorithmen/Library Sortieren.md",
+    "semester-2/web-engineering/CSS Grid Layout.md",
+    "semester-2/web-engineering/resources/2024_WE1_Kap3_F64-78.pdf",
+    "semester-2/web-engineering/Hub Web Engineering.md",
+    "semester-2/web-engineering/code/GeoCalculator.md",
+    "semester-2/web-engineering/code/Hub Web Engineering Projekt.md",
+    "semester-2/web-engineering/geo-calc/useless.html",
+    "semester-2/web-engineering/ELEGANCE UX design.md",
+    "semester-2/web-engineering/images/Pasted image 20240624151526.png",
+    "semester-2/web-engineering/DAU.md",
+    "semester-2/algorithmen/Hub Algorithmen.md",
+    "semester-2/java/Java.md",
+    "goodnotes/Semester 2/Analysis/Aufschriebe/Ana4 Kurvendiskussion.pdf",
+    "goodnotes/Semester 2/Analysis/Aufgaben/Aufg-17_DiffRechnung Bearbeitung.pdf",
+    "semester-2/marketing/Unlauterer Wettbewerb.md",
+    "semester-2/analysis/Analysis Aufg-17 DiffRechnung.md",
+    "semester-2/analysis/Hub Analysis.md",
+    "semester-2/algorithmen/rekursiv.md",
     "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
     "semester-1/programmieren/concepts/Recursion.md",
     "semester-2/algorithmen/NL Partitioning.md",
@@ -279,25 +310,10 @@
     "semester-2/algorithmen/Selection Sort.md",
     "semester-2/algorithmen/Bogo Sort.md",
     "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
-    "semester-2/algorithmen/Stalin Sort.md",
-    "semester-2/algorithmen/Excel Sort.md",
-    "semester-2/algorithmen/Miracle Sort.md",
-    "semester-2/marketing/Unlauterer Wettbewerb.md",
     "semester-2/marketing/images",
-    "semester-2/algorithmen/Insertion Sort.md",
-    "semester-2/algorithmen/Merge Sort.md",
     "semester-2/algorithmen/labor/003-sorting/__pycache__/stalin_sort.cpython-310.pyc",
     "semester-2/algorithmen/labor/003-sorting/__pycache__",
     "semester-2/algorithmen/labor/003-sorting/excel_sort.py",
-    "semester-2/algorithmen/out-of-place Sortieren.md",
-    "semester-2/algorithmen/labor/003-sorting/stalin_sort.py",
-    "semester-2/algorithmen/labor/003-sorting/StalinSort.java",
-    "semester-2/algorithmen/Lexikalisches Sortieren.md",
-    "semester-2/algorithmen/Sortieren formal.md",
-    "semester-2/analysis/Hub Analysis.md",
-    "semester-2/java/Hub Java.md",
-    "semester-2/analysis/altklausuren/DHBW-Klausur_Analysis_2023_Lsg.pdf",
-    "semester-2/java/movie-database/test.db",
     "semester-2/projektmanagement/images/Pasted image 20240619114449.png",
     "semester-2/projektmanagement/images/Pasted image 20240619113231.png",
     "semester-2/projektmanagement/images/Pasted image 20240619113153.png",
@@ -306,7 +322,6 @@
     "semester-2/web-engineering/images/Pasted image 20240617133741.png",
     "semester-2/web-engineering/images/Pasted image 20240617133212.png",
     "semester-2/web-engineering/images/Pasted image 20240617132657.png",
-    "semester-2/analysis/images/Pasted image 20240615181305.png",
-    "semester-2/analysis/aufgaben/bs_plot.png"
+    "semester-2/analysis/images/Pasted image 20240615181305.png"
   ]
 }

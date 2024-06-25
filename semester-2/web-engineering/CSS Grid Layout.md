@@ -23,6 +23,12 @@ body {
 }
 ```
 
+Creates a Grid with rows 10% and the remainder (= 90%) height
+and 3 rows with size 10%, 80% and 10% respectively
+
+
+> [!hint] Using `1fr` for the last column will simply fill up the remaining space
+
 
 ### Short notation
 - you can use `column-row-end: -1` for the last row as in python

@@ -1,5 +1,6 @@
 ![[Algorithmen.pdf#page=95]]
 
+[[Master Theorem]]
 ### Bearbeitung
 1. $f(n) \in O(n^{2})$
 2. $f(n)\in O(log(n) \cdot n^{2})$

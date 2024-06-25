@@ -34,7 +34,7 @@
     "editor:move-caret-down",
     "editor:move-caret-up"
   ],
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "newFileLocation": "current",
   "newFileFolderPath": "temp",
   "attachmentFolderPath": "./images",

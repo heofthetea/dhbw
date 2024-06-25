@@ -1,0 +1,7 @@
+
+| E                        | L                      | E                          | G                                              | A                            | N                                        | C                                                           | E                                                                   |
+| ------------------------ | ---------------------- | -------------------------- | ---------------------------------------------- | ---------------------------- | ---------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------- |
+| Empathy                  | Layout                 | Essentialism               | Guidance                                       | Aesthetics                   | Novelty                                  | Consistency                                                 | Engagement                                                          |
+| Mitfühlen mit dem Nutzer | Übersichtliches Layout | Don't overload the website | Give users information about state, offer help | Have the website look pretty | Incorporate new and unconventional ideas | the way you use the website should be consistent throughout | Try and keep the user engaged in using the website ==> gamification |
+
+![[Pasted image 20240624151526.png]]

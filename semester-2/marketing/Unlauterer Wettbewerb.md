@@ -23,7 +23,7 @@ laut BPB:
 	- geografische Herkunft
 > [!warning] Auch wahre Aussagen können irreführend wirken, wenn sie falsch verstanden werden können!
 
-
+==EINGEHEN AUF GREENWASHING!!==
 ### vergleichende Werbung
 > [!warning] Vergleichende Werbung ist nicht verboten, muss aber dennch den Regeln entsprechen
 > ==> Keine Irreführung oder falsche Fakten über Konkurrenten behaupten

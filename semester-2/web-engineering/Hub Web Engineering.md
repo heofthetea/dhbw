@@ -5,6 +5,10 @@
 	- Präsentation/Live-Demo der Anwendung ($25\%$)
 ### Scripts
 [[2024_WebEngineering1_Kap1.pdf]]
+[[2024_WE1_Kap3_F51-63.pdf]]
+[[2024_WE1_Kap3_F64-78.pdf]]
+[[2024_WE1_Kap2.pdf]]
+
 
 
 ### Sources
@@ -92,7 +96,9 @@ path:web-engineering/html
 [[CSS Grid Layout]]
 
 
-
+## UX
+[[DAU]]
+[[ELEGANCE UX design]]
 
 
 ## JavaScript

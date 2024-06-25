@@ -35,7 +35,7 @@
 
 Dient der Berechnung von [[Komplexität Rekursion|rekursiver Komplexität]] für [[Divide and Conquer]]-Algorithmen
 $$f(n)= a \cdot f\left(\left\lfloor\frac{n}{b}\right\rfloor\right)+c(n),\ \ \ \ mit \ c(n) \in O(n^{d})$$
-- $a$: Kostenaufwand für Bilden der [[Recursion]]
+- $a$: Anzahl der [[Recursion|rekursiven]] Aufrufe
 - $c(n)$: Kostenaufwand für Zusammensetzung der Teilelemente --> muss [[Polynom|polynomielle]] [[Komplexität|Laufzeit]] haben
 ##### Fallunterscheidung
 1. $a < b^{d} \Rightarrow f(n) \in O(n^d)$ --> <span style="color:rgb(0, 122, 255)">Kombination </span>dominiert <span style="color:rgb(126, 198, 54)">Rekursion</span>
