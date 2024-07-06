@@ -42,7 +42,7 @@ Further Classes required for Operation:
 	- [x] Each loaded array is sorted (unessecary)
 - [x] Remove duplicates
 	- [x] No duplicate entries exist in the final form of an array
-	Can Duplicates be removed using [[Filter]]? --> they can, but you need to override hashCode()
+	Can Duplicates be removed using [[filter Operation]]? --> they can, but you need to override hashCode()
 
 ### Funtionality
 - [x] Write CLI

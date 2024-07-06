@@ -19,6 +19,11 @@
 - [[Bewertung Android Tools]]
 - [[Glossary Android Tools]]
 
+[[Android Project Programming]]
+[[Demo Android Project]]
+
+
+
 ## Development
 use [[SCRUM]] lol
 

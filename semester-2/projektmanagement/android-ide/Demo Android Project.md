@@ -1,0 +1,7 @@
+- Inkrement zur Demonstration --> _keine_ PPP!
+- Taskboard und Burndown Chart
+- Impediment Backlog
+- Sind neue Ideen oder Erweterungen während des Sprints entstanden? --> Yes
+- [[Product Owner]]:
+	- Welche Stories wurden für ersten Sprint ausgewählt?
+	- Welche werden für den nächsten ausgewählt?

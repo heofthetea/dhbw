@@ -17,7 +17,13 @@
 [[Fragenkatalog 004]]
 [[Fragenkatalog 009]]
 [[Fragenkatalog 010]]
+[[Fragenkatalog 011]]
+[[Fragenkatalog 012]]
 
+
+## Klausurvorbereitung
+[[Probeklausur._prm.pdf]]
+- [[Bearbeitung Probeklausur PRM]]
 
 # Vorlesungen
 ## 09 Phasenmodelle
@@ -78,7 +84,7 @@ wichtig: [[Kostenbestandteile]]
 [[SCRUM Rollen]]
 - [[Product Owner]]
 - [[Scrum Team]]
-- [[Scrum Master]]
+- [[Certified Scrum Black Belt Grand Master]]
 [[SCRUM Aktivitäten]]
 
 [[nichtfunktionale Anforderungen]]
@@ -130,3 +136,11 @@ wichtig: [[Kostenbestandteile]]
 [[Übung Risikoplanung]]
 
 
+## 14 Qualitätsplanung
+[[PM Kap_13 Qualitätsplanung_vorl.pdf]]
+
+[[Softwarequalität]]
+[[Definition Qualität]]
+[[Qualitätsbaum]]
+[[Kano Modell]]
+[[Qualitätsplanung]]

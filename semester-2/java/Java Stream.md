@@ -5,9 +5,11 @@ Used for List manipulation
 Core Concept: Each Stream operation returns the modified stream to keep on working on that
 - A stream does have an effect on the original array!f
 
-[[Map]]
-[[Filter]]
+[[map Operation]]
+[[filter Operation]]
 [[Reduce]]
+[[forEach Operation]]
+
 [[Java Stream Match]]
 
 [[Distinct]]

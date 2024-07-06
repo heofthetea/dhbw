@@ -28,6 +28,8 @@ def merge_sort(arr):
 [[linearithmische Laufzeit]]
 $$\in O(n \log n)$$
 [[out-of-place Sortieren]] --> beim [[2-way merge|Merge]] wird eine neue Liste erstellt ($O(n)$ Space complexity)
+--> _aber_: [[stable sorting algorithm|stabil]]
+
 
 ## Beispiel
 ![[Pasted image 20240614115128.png]]

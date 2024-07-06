@@ -45,7 +45,7 @@ USs sollen eher kurz und klein sein, Anforderungen sind ausführlich und sehr in
 ### 49. Welche Rollen gibt es in [[SCRUM]]
 [[SCRUM Rollen]]
 - [[Product Owner]]
-- [[Scrum Master]]
+- [[Certified Scrum Black Belt Grand Master]]
 - [[Scrum Team]]
 
 ### 50. Wo ist Projektleiter 

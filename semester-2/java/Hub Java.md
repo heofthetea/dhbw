@@ -112,6 +112,7 @@ compilation:
 [[JAVA Primitive Data Type]]
 
 [[Java Heap]]
+[[Java Map]]
 [[Java Stack]]
 [[Garbage Collection]]
 [[Manually call garbage collection]]
@@ -131,6 +132,8 @@ compilation:
 [[Bulk Operators]]
 [[Java Stream]]
 [[Sorting in Java]]
+
+[[Java Methods as Parameters]]
 
 
 

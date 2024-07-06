@@ -13,6 +13,7 @@
 [[Library Komplexität Rekursion]]
 [[Library Lineare Datenstrukturen]]
 [[Library Sortieren]]
+[[Library Datenstrukturen]]
 
 
 ### Script
@@ -189,22 +190,58 @@
 	- [[NL Partitioning]]
 - [[Beispiel Quick Sort]]
 - [[Komplexitätsanalyse Quick Sort]]
-- [[k-pivot Quick Sort]]
+- [[k-pivot Quick Sort ]]
+- [[Nachteil Quick und Merge Sort]] 
 [[Merge Sort]]
 - [[2-way merge]]
 - [[k-way Merge]]
-
+- [[Bottom-up Merge Sort]]
+- [[Merge Sort on List]]
+[[Heap Sort]]
+[[Proof untere Schranke Sortieren]]
+- [[Bottom-up Merge Sort]]
+- [[Merge Sort on List]]
 
 ## Data Structures
-[[Binary Tree]]
-[[Baum]]
+- [[Binary Tree]]
+- [[Baum]]
+- [[Heap]]
+	- [[Min-Heap]]
+	- [[Max-Heap]]
+	- [[Anwendung Heap]] 
+	- [[Beispiel Heap aus Wörtern]]
+	- [[Operationen auf Heaps]]
+	- [[Übung Aufbau Heap aus Array]]
+	- [[Heaps are an Array]]
+	- [[Heapify]]
+	- [[Heap Eigenschaften]]
 
 
+[[Dictionary]]
+- [[Operationen auf Dictionaries]]
+[[Binary Search Tree]]
+- [[Suchen auf BST]]
+- [[Einfügen in BST]]
+- [[Sortierte Ausgabe eines BST]]
+- [[Löschen aus BST]]
+- [[Höhenbalance]]
 
+[[AVL Baum]]
+- [[Baumrotation]]
+- [[Übung Rotation]]
+- [[Einfügen in AVL Baum]]
+	- [[Übung Einfügen AVL]]
+- [[Löschen aus AVL-Baum]]
 
-
-## Schlüsselmengen/Wert-Verwaltung
-"was der Rechner 90% der Zeit macht, ist Suchen und Sortieren"
-
+[[Hash Map]]
+- [[Hashing]]
+	- [[Hash-Funktion]]
+	- [[Übung Hashing]] (! important resource)
+	- [[Optimale Füllung Hash Maps]]
+	- [[Hashing von Strings]]
+- [[Kollision]]
+	- [[Linear Probing]]
+	- [[Chaining]]
+	- [[Re-hashing]]
 
 ## Graphentheorie

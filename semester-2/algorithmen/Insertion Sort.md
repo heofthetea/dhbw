@@ -7,6 +7,8 @@
 
 ==> Out-Array ist einfach der Anfang des In-Arrays für [[in-place Sortieren]] 
 
+> [!warning] Vertauscht immer nur benachbarte Elemente 
+
 
 ### Pseudo Code
 ```python

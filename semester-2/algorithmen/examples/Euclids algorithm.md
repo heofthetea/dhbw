@@ -26,5 +26,3 @@ def ggt(a, b):
 
 ### Problem: ggt(0)
 [[Off-by-one error]]
-
-![[Pasted image 20240510103051.png]]

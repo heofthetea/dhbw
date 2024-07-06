@@ -6,7 +6,7 @@ Excerpt from [[Epic Java Projekt]]
 	- [ ] The output does not contain duplicate names
 	- [ ] The output adheres to format specified in [[Anforderungen_java_projekt.pdf]]
 ---
-using [[Filter]] appears to be the most elegant solution
+using [[filter Operation]] appears to be the most elegant solution
 ```java
 movies.stream().
 	filter(movie -> actorPlaysInMovie(movie)).

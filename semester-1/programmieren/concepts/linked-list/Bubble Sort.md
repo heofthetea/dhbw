@@ -7,7 +7,7 @@
 Beispiel: $50\,000$ needs 24 seconds lol
 
 1) iterate over list from start to finish
-2) alwas compare Element $i$ with $i+1$
+2) always compare Element $i$ with $i+1$
 	1) if larger: swap elements
 3) repeat over and over, until list is sorted
 

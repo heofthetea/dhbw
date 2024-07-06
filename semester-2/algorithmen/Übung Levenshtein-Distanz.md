@@ -1,4 +1,4 @@
-#todo Übung: Levenshtein-Distanz mit Wagner-Fischer-Algorithmus
+Übung: Levenshtein-Distanz mit Wagner-Fischer-Algorithmus
 
 [[Dynamic Programming]]
 

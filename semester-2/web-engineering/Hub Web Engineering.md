@@ -54,9 +54,11 @@ path:web-engineering/html
 [[HTML Section]]
 [[HTML structure]]
 [[HTML table]]
+[[HTML button]]
 [[Pasted image 20240513132936.png]]
 [[Pasted image 20240513133326.png]]
 [[Resource Location in HTML]]
+[[HTML input tag]]
 
 ### Wisdoms
 [[div tower of doom]]
@@ -102,6 +104,28 @@ path:web-engineering/html
 
 
 ## JavaScript
+[[JavaScript]]
+[[document keyword]]
+[[JS get Element by id]]
+[[JS tweak element currently in]]
+[[link external JavaScript file]]
+[[embeded JavaScript]]
+[[JavaScript Function]]
+[[JS alert]]
+[[JS selectors]]
+
+[[JS Variable]]
+[[JS Node]]
+
+
+
+
+### JS extended content
+[[JS Event Listener]]
+[[Java Map]]
+[[JS Node]]
+
+
 
 
 ## Internet Protocols

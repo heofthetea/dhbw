@@ -5,4 +5,4 @@
 - kein Fan der Kursdynamik 
 - cramped Klausurenphase
 - intransparente Notengebung af
-- little to no freedom in c
+- little to no freedom in choosing subjects 

@@ -6,7 +6,7 @@
       {
         "id": "7516f807cb7ca6cf",
         "type": "tabs",
-        "dimension": 45.362473347547976,
+        "dimension": 36.940298507462686,
         "children": [
           {
             "id": "7e7a77fc07e6a2ca",
@@ -15,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/web-engineering/Hub Web Engineering.md",
+                "file": "semester-2/algorithmen/Hub Algorithmen.md",
                 "mode": "source",
                 "source": false
               },
@@ -23,37 +23,42 @@
             }
           },
           {
-            "id": "7cdfc47baf9d5169",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-2/java/movie-database/Anforderungen_java_projekt.pdf"
-              }
-            }
-          },
-          {
-            "id": "39d65bb356bf00c7",
+            "id": "8ac11ffd376fa8c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/programmieren/concepts/Recursion.md",
+                "file": "semester-2/algorithmen/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "28303aab2b534dc7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/algorithmen/Library Sortieren.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
       },
       {
-        "id": "6865c4e95e1fed6b",
+        "id": "f4719395afa4600d",
         "type": "split",
-        "dimension": 54.63752665245203,
+        "dimension": 63.059701492537314,
         "children": [
           {
             "id": "88c9211656184796",
             "type": "tabs",
+            "dimension": 81.00664767331433,
             "children": [
               {
                 "id": "f3e59c3900e03b7f",
@@ -68,64 +73,39 @@
                 }
               },
               {
-                "id": "793aba85ea5754d4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Bogo Sort.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "1f66a15e166842ff",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/algorithmen/Indirektes Sortieren.md",
+                    "file": "semester-2/algorithmen/Linear Probing.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "f6ed045a5692b003",
+                "id": "048dd0b8bd240fcd",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "intension/linux/usr filesystem.md",
+                    "file": "semester-2/algorithmen/Linear Probing.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
-            "id": "052b7774de6b738a",
+            "id": "47309b8c57585e45",
             "type": "tabs",
+            "dimension": 18.99335232668566,
             "children": [
               {
-                "id": "87c55eaf47bc75a8",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Library Sortieren.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "b77353308492bbdf",
+                "id": "4bce817414ff6592",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -135,8 +115,47 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "b3f65139153fbe7d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Übung Hashing.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "86d58cfdd573262d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Library Datenstrukturen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "beb1657e6bb2f985",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Library Sortieren.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -168,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intension/linux/usr filesystem.md"
+                "file": "semester-2/algorithmen/Linear Probing.md"
               }
             }
           },
@@ -228,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intension/linux/usr filesystem.md",
+                "file": "semester-2/algorithmen/Linear Probing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intension/linux/usr filesystem.md",
+                "file": "semester-2/algorithmen/Linear Probing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,53 +293,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6ed045a5692b003",
+  "active": "1f66a15e166842ff",
   "lastOpenFiles": [
-    "Reasons to quit.md",
+    "intension/linux/Extract Contents from AppImage.md",
+    "intension/linux/AppImage.md",
+    "intension/linux/Hub Linux.md",
+    "intension/linux/My Filesystem Conventions.md",
     "intension/linux/Desktop file.md",
-    "semester-2/algorithmen/Library Sortieren.md",
-    "semester-2/web-engineering/CSS Grid Layout.md",
-    "semester-2/web-engineering/resources/2024_WE1_Kap3_F64-78.pdf",
-    "semester-2/web-engineering/Hub Web Engineering.md",
-    "semester-2/web-engineering/code/GeoCalculator.md",
-    "semester-2/web-engineering/code/Hub Web Engineering Projekt.md",
-    "semester-2/web-engineering/geo-calc/useless.html",
-    "semester-2/web-engineering/ELEGANCE UX design.md",
-    "semester-2/web-engineering/images/Pasted image 20240624151526.png",
-    "semester-2/web-engineering/DAU.md",
+    "intension/linux/Desktop files or how Application launchers work.md",
+    "semester-2/algorithmen/Library Datenstrukturen.md",
+    "semester-2/web-engineering/geo-calc/formulary.js",
+    "semester-2/algorithmen/Löschen aus BST.md",
     "semester-2/algorithmen/Hub Algorithmen.md",
-    "semester-2/java/Java.md",
-    "goodnotes/Semester 2/Analysis/Aufschriebe/Ana4 Kurvendiskussion.pdf",
-    "goodnotes/Semester 2/Analysis/Aufgaben/Aufg-17_DiffRechnung Bearbeitung.pdf",
-    "semester-2/marketing/Unlauterer Wettbewerb.md",
-    "semester-2/analysis/Analysis Aufg-17 DiffRechnung.md",
-    "semester-2/analysis/Hub Analysis.md",
-    "semester-2/algorithmen/rekursiv.md",
-    "semester-2/java/movie-database/Anforderungen_java_projekt.pdf",
-    "semester-1/programmieren/concepts/Recursion.md",
-    "semester-2/algorithmen/NL Partitioning.md",
-    "semester-2/algorithmen/Quick Sort.md",
-    "semester-2/algorithmen/Partitioning.md",
-    "semester-1/programmieren/eigene-datenbank/Shows Database.md",
-    "semester-2/algorithmen/Komplexitätsanalyse Quick Sort.md",
-    "semester-1/programmieren/concepts/linked-list/Runtime Bubble vs Quick Sort.md",
-    "semester-2/algorithmen/Indirektes Sortieren.md",
+    "semester-2/algorithmen/Library Sortieren.md",
     "semester-2/algorithmen/sources/Algorithmen.pdf",
-    "semester-2/algorithmen/Selection Sort.md",
-    "semester-2/algorithmen/Bogo Sort.md",
-    "semester-1/programmieren/concepts/linked-list/Bubble Sort.md",
-    "semester-2/marketing/images",
-    "semester-2/algorithmen/labor/003-sorting/__pycache__/stalin_sort.cpython-310.pyc",
-    "semester-2/algorithmen/labor/003-sorting/__pycache__",
-    "semester-2/algorithmen/labor/003-sorting/excel_sort.py",
-    "semester-2/projektmanagement/images/Pasted image 20240619114449.png",
-    "semester-2/projektmanagement/images/Pasted image 20240619113231.png",
-    "semester-2/projektmanagement/images/Pasted image 20240619113153.png",
-    "semester-2/projektmanagement/images/Pasted image 20240619103649.png",
-    "images/Pasted image 20240619093024.png",
-    "semester-2/web-engineering/images/Pasted image 20240617133741.png",
-    "semester-2/web-engineering/images/Pasted image 20240617133212.png",
-    "semester-2/web-engineering/images/Pasted image 20240617132657.png",
-    "semester-2/analysis/images/Pasted image 20240615181305.png"
+    "semester-2/algorithmen/Heap Eigenschaften.md",
+    "semester-2/algorithmen/Wurzel.md",
+    "intension/linux/Root Directory.md",
+    "semester-2/algorithmen/Dictionary.md",
+    "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
+    "semester-1/projektmanagement/Master Projektmanagement 1.md",
+    "semester-2/algorithmen/Excel Sort.md",
+    "semester-2/java/Java Generics.md",
+    "semester-2/algorithmen/Heaps are an Array.md",
+    "semester-2/algorithmen/Key.md",
+    "semester-2/algorithmen/Hashing.md",
+    "semester-2/algorithmen/Übung Hashing.md",
+    "semester-2/algorithmen/Übung Einfügen AVL.md",
+    "semester-2/algorithmen/images/Alg3 Data Structures.pdf",
+    "semester-2/algorithmen/Einfügen in AVL Baum.md",
+    "semester-1/digitaltechnik/Aufgaben/Digitaltechnik klausurrelevant.md",
+    "semester-2/algorithmen/Baumrotation.md",
+    "semester-2/algorithmen/images/Pasted image 20240705121016.png",
+    "semester-2/algorithmen/images/Pasted image 20240705111829.png",
+    "semester-2/algorithmen/images/Pasted image 20240705110204.png",
+    "semester-2/algorithmen/images/Pasted image 20240705103702.png",
+    "semester-2/algorithmen/images/Pasted image 20240705103643.png",
+    "semester-2/algorithmen/images/Pasted image 20240705102524.png",
+    "semester-2/algorithmen/images/Pasted image 20240705094006.png",
+    "semester-2/algorithmen/images/Pasted image 20240705092840.png",
+    "semester-2/algorithmen/labor/heap/output/heap_sort",
+    "semester-2/algorithmen/labor/heap/output",
+    "semester-2/analysis/altklausuren/DHBW-WH-Klausur_II_Analysis_2022_Lsg.pdf",
+    "semester-2/java/movie-database/src/tea/the/of/he/movies/Database.java~",
+    "semester-2/java/movie-database/src/tea/the/of/he/movies/entities/ActorMovie.java~",
+    "semester-2/java/movie-database/src/tea/the/of/he/movies/entities/DirectorMovie.java~",
+    "semester-2/algorithmen/labor/heap/heap_sort.c",
+    "semester-2/web-engineering/geo-calc/img/bsod.png",
+    "semester-2/algorithmen/images/Pasted image 20240628103617.png"
   ]
 }

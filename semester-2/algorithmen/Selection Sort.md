@@ -1,4 +1,4 @@
-> auf [[Array]]
+> **Selection** des kleinsten Elements in jedem Durchgang 
 1. finde kleinstes Element $a_{min}$ der [[Folge]] $a_{n}\ mit\ n \geq 0$ ([[Linear Search]])
 2. vertausche $a_{min}$ mit $a_{0}$
 3. repeat for $n \geq 1$
@@ -6,6 +6,7 @@
 [[unstable sorting algorithm]], [[in-place Sortieren]] [[Polynomielle Laufzeit]] ($O(n^{2})$)
 
 ### Pseudo code
+auf [[Array]]
 ```python
 def selection_sort(arr):
 	for i in range(len(arr) - 1):

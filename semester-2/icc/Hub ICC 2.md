@@ -21,5 +21,6 @@
 [[Persönlichkeitsquiz Negotiation style]]
 [[BATNA]]
 [[ZOPA]]
+[[Negotiation is about why, not what]]
 
-
+[[Negotiation exam]]

@@ -8,4 +8,8 @@ file:"Fragenkatalog"
 [[Fragenkatalog 002]]
 [[Fragenkatalog 003]]
 [[Fragenkatalog 004]]
+[[Fragenkatalog 009]]
+[[Fragenkatalog 010]]
+[[Fragenkatalog 011]]
+
 [[Fragenkataloge.pdf]]
