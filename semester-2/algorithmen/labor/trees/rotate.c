@@ -5,8 +5,8 @@
 #include <stdint.h>
 #include <stdbool.h>
 
-
-typedef struct Node {
+typedef struct Node
+{
     int data;
     struct Node *left;
     struct Node *right;
@@ -16,9 +16,8 @@ void truncate();
 Node *new_node(int data);
 Node *rotate_left(Node *root);
 Node *rotate_right(Node *root);
-void write_tree_to_file(Node *root, char* message);
+void write_tree_to_file(Node *root, char *message);
 void write_tree_recursive(Node *node, FILE *file);
-
 
 int main()
 {
@@ -38,10 +37,9 @@ int main()
     return 0;
 }
 
-
-
-Node *new_node(int data) {
-    Node * new = malloc(sizeof(Node));
+Node *new_node(int data)
+{
+    Node *new = malloc(sizeof(Node));
     new->data = data;
     new->left = NULL;
     new->right = NULL;
@@ -49,14 +47,14 @@ Node *new_node(int data) {
     return new;
 }
 
-
-Node * rotate_right(Node* root) {
-    Node * pivot = root->left;
-    Node * temp = pivot->right;
+Node *rotate_right(Node *root)
+{
+    Node *pivot = root->left;
+    Node *temp = pivot->right;
     pivot->right = root;
-    root->left =temp;
+    root->left = temp;
 
-    return pivot;    
+    return pivot;
 }
 
 Node *rotate_left(Node *root)
@@ -72,14 +70,15 @@ Node *rotate_left(Node *root)
 
 // very beautiful solution
 // I'm very proud of myself for that
-void truncate() {
+void truncate()
+{
     FILE *file = fopen("tree.md", "w");
     fclose(file);
 }
 
-void write_tree_to_file(Node *root, char * message)
+void write_tree_to_file(Node *root, char *message)
 {
-    FILE *file = fopen("tree.md", "a"); 
+    FILE *file = fopen("tree.md", "a");
     if (file == NULL)
     {
         printf("Failed to open file.\n");
@@ -96,23 +95,24 @@ void write_tree_to_file(Node *root, char * message)
     fclose(file);
 }
 
-void write_tree_recursive(Node *node, FILE *file) {
-    if (node == NULL) {
+void write_tree_recursive(Node *node, FILE *file)
+{
+    if (node == NULL)
+    {
         return;
     }
 
     fprintf(file, "  %d\n", node->data);
 
-    if (node->left != NULL) {
+    if (node->left != NULL)
+    {
         fprintf(file, "  %d --> %d\n", node->data, node->left->data);
         write_tree_recursive(node->left, file);
     }
 
-    if (node->right != NULL) {
+    if (node->right != NULL)
+    {
         fprintf(file, "  %d --> %d\n", node->data, node->right->data);
         write_tree_recursive(node->right, file);
     }
 }
-
-
-

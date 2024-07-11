@@ -47,6 +47,11 @@
 ### Baumrotationen
 [[Baumrotation]]
 - Operation, um die [[Höhenbalance]] eines Baums zu verändern ==> alle Eigenschaften eines [[Binary Search Tree|Suchbaums]] bleiben aber erhalten!!
+- Bildlich: "einfach rüber ziehen, und Glied, das ersetzt wird, umhängen"
+[[Doppelrotation]] 
+- wenn Vorzeichen der [[Höhenbalance|Balancen]] von <span style="color:rgb(245, 154, 35)">Wurzel</span> und <span style="color:rgb(245, 154, 35)">Pivot</span> der [[Baumrotation|Rotation]] unterschiedlich sind
+- eine Rotation zum "Vorbereiten" der eigentlichen Rotation => Danach sind die Vorzeichen gleich
+	- "ich will eigentlich nach links, also muss ich davor nach rechts" 
 ## AVL Trees
 [[AVL Baum]]
 [[Binary Search Tree]] mit Anforderung an [[Höhenbalance]]
@@ -55,22 +60,45 @@
 	- wenn $\ \ \ 1$: <span style="color:rgb(245, 154, 35)">rechter</span> Teilbaum ist tiefer
 	- wenn $\ \ \ 0$: beide Teilbäume <span style="color:rgb(245, 154, 35)">gleich</span> tief (optimal)
 	- sobald $\pm 2$: Muss durch [[Baumrotation|Rotationen]] behoben werden
-#todo
+
+> [!hint] [[Höhenbalance]] wird durch [[Baumrotation|Baumrotationen]] gewährleistet
+> 
+
+#### Operationen
+> [!note] Operationen sind gleich wie auf [[Binary Search Tree|BSTs]] + [[Baumrotation|Baumrotationen]]
+
+
+- [[Einfügen in AVL Baum]]
+	- [[Höhenbalance]] kann nur geringfügig gestört werden ==> maximal _eine_ [[Doppelrotation]]
+	1. neuen [[Knoten]] einfügen + [[Höhenbalance]] neu kalkulieren
+	2. Falls $\not\in (-1, 1)$ : [[Höhenbalance]] wieder herstellen (ggf. [[Doppelrotation]] bei unterschiedlichen Vorzeichen)
+
+> [!warning] Nach einer [[Baumrotation|Rotation]] kann aufgehört werden!
+- [[Löschen aus AVL-Baum]]
+	- Höhenbalance kann stark beeinträchtigt werden
+	1. von gelöschtem Knoten aus [[Pfad]] zur [[Wurzel]] hoch gehen + [[Höhenbalance]] kalkulieren
+	2. _für jede_ Dysbalance: [[Baumrotation|Rotieren]]
+
+> [!warning] Beim [[Einfügen in AVL Baum|Einfügen]] muss **bis zur Wurzel durch gegangen werden!** 
+
+
 ## Hash Maps
 
-#todo
+### Hashing
+[[Hashing]] - Transformiere großen [[Key]] in einen kleineren [[Key]]
+==> Kann 
 
 
 
 
 ## Scorecard
 
-| Operation                | [[Heap]]                  | [[Binary Search Tree\|BST]]      | [[AVL Baum]]           | [[Hash Map]] |
-| ------------------------ | ------------------------- | -------------------------------- | ---------------------- | ------------ |
-| [[Key]] finden           | $\mathcal{O}(n)$          | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ |              |
-| Element einfügen         | $\mathcal{O}(log\, n)$    | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ |              |
-| Element bedingt einfügen | $\mathcal{O}(n)$?         | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ |              |
-| Element entfernen        | $\mathcal{O}(log\, n)$    | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ |              |
-| Sortierte Ausgabe        | $\mathcal{O}(n\ log\, n)$ | $\mathcal{O}(n)$                 | $\mathcal{O}(n)$       |              |
-|                          |                           | * Worst case is $\mathcal{O}(n)$ |                        |              |
+| Operation                | [[Heap]]                  | [[Binary Search Tree\|BST]]      | [[AVL Baum]]           | [[Hash Map]]              |
+| ------------------------ | ------------------------- | -------------------------------- | ---------------------- | ------------------------- |
+| [[Key]] finden           | $\mathcal{O}(n)$          | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ | $\mathcal{O}(1)$          |
+| Element einfügen         | $\mathcal{O}(log\, n)$    | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ | $\mathcal{O}(1)$          |
+| Element bedingt einfügen | $\mathcal{O}(n)$          | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ | $\mathcal{O}(1)$          |
+| Element entfernen        | $\mathcal{O}(log\, n)$    | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ | $\mathcal{O}(1)$          |
+| Sortierte Ausgabe        | $\mathcal{O}(n\ log\, n)$ | $\mathcal{O}(n)$                 | $\mathcal{O}(n)$       | $\mathcal{O}(n\ log\, n)$ |
+|                          |                           | * Worst case is $\mathcal{O}(n)$ |                        |                           |
 

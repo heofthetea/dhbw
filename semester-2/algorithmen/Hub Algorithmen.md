@@ -236,6 +236,7 @@
 - [[Übung Rotation]]
 - [[Einfügen in AVL Baum]]
 	- [[Übung Einfügen AVL]]
+	- [[Doppelrotation]]
 - [[Löschen aus AVL-Baum]]
 
 [[Hash Map]]

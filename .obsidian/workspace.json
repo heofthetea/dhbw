@@ -6,7 +6,7 @@
       {
         "id": "7516f807cb7ca6cf",
         "type": "tabs",
-        "dimension": 36.940298507462686,
+        "dimension": 46.05543710021322,
         "children": [
           {
             "id": "7e7a77fc07e6a2ca",
@@ -20,18 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "8ac11ffd376fa8c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/Binary Search Tree.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -53,7 +41,7 @@
       {
         "id": "f4719395afa4600d",
         "type": "split",
-        "dimension": 63.059701492537314,
+        "dimension": 53.94456289978679,
         "children": [
           {
             "id": "88c9211656184796",
@@ -78,19 +66,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/algorithmen/Linear Probing.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "048dd0b8bd240fcd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Linear Probing.md",
+                    "file": "semester-2/algorithmen/Übung Hashing.md",
                     "mode": "source",
                     "source": false
                   }
@@ -187,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:todo",
+                "query": "Doppelrotatio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,13 +180,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -237,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/algorithmen/Linear Probing.md"
+                "file": "semester-2/algorithmen/Übung Hashing.md"
               }
             }
           },
@@ -247,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/algorithmen/Linear Probing.md",
+                "file": "semester-2/algorithmen/Übung Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/algorithmen/Linear Probing.md",
+                "file": "semester-2/algorithmen/Übung Hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,53 +268,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f66a15e166842ff",
+  "active": "ee94c1566480ea7f",
   "lastOpenFiles": [
-    "intension/linux/Extract Contents from AppImage.md",
-    "intension/linux/AppImage.md",
-    "intension/linux/Hub Linux.md",
-    "intension/linux/My Filesystem Conventions.md",
-    "intension/linux/Desktop file.md",
-    "intension/linux/Desktop files or how Application launchers work.md",
-    "semester-2/algorithmen/Library Datenstrukturen.md",
-    "semester-2/web-engineering/geo-calc/formulary.js",
-    "semester-2/algorithmen/Löschen aus BST.md",
     "semester-2/algorithmen/Hub Algorithmen.md",
-    "semester-2/algorithmen/Library Sortieren.md",
-    "semester-2/algorithmen/sources/Algorithmen.pdf",
-    "semester-2/algorithmen/Heap Eigenschaften.md",
-    "semester-2/algorithmen/Wurzel.md",
-    "intension/linux/Root Directory.md",
-    "semester-2/algorithmen/Dictionary.md",
-    "semester-2/algorithmen/Übung Levenshtein-Distanz.md",
-    "semester-1/projektmanagement/Master Projektmanagement 1.md",
-    "semester-2/algorithmen/Excel Sort.md",
-    "semester-2/java/Java Generics.md",
-    "semester-2/algorithmen/Heaps are an Array.md",
-    "semester-2/algorithmen/Key.md",
-    "semester-2/algorithmen/Hashing.md",
-    "semester-2/algorithmen/Übung Hashing.md",
-    "semester-2/algorithmen/Übung Einfügen AVL.md",
-    "semester-2/algorithmen/images/Alg3 Data Structures.pdf",
+    "semester-2/algorithmen/Library Datenstrukturen.md",
+    "semester-2/algorithmen/Doppelrotation.md",
+    "semester-2/algorithmen/Löschen aus AVL-Baum.md",
     "semester-2/algorithmen/Einfügen in AVL Baum.md",
-    "semester-1/digitaltechnik/Aufgaben/Digitaltechnik klausurrelevant.md",
+    "semester-2/algorithmen/Löschen aus BST.md",
+    "semester-2/algorithmen/Library Komplexität.md",
     "semester-2/algorithmen/Baumrotation.md",
+    "semester-2/algorithmen/labor/trees/rotate",
+    "semester-2/algorithmen/labor/trees/output/tree.md",
+    "semester-2/algorithmen/labor/trees/tree.md",
+    "semester-2/web-engineering/CSS Grid Layout.md",
+    "semester-2/algorithmen/Einfügen in BST.md",
+    "semester-2/algorithmen/sources/Algorithmen.pdf",
+    "semester-2/algorithmen/labor/trees/output/rotate",
+    "semester-2/algorithmen/labor/trees/output",
+    "semester-2/algorithmen/labor/trees/rotate.c",
+    "semester-2/algorithmen/labor/trees",
+    "semester-2/java/movie-database/uml.pdf",
+    "semester-2/algorithmen/labor/vorlesung/weird_algo_klausur.c",
+    "semester-2/algorithmen/Suchen auf BST.md",
+    "semester-2/algorithmen/Binary Search Tree.md",
+    "intension/linux/Hub Linux.md",
+    "semester-2/web-engineering/Open System Interconnection Model.md",
+    "semester-2/web-engineering/images/Pasted image 20240708155949.png",
+    "semester-2/web-engineering/Hub Web Engineering.md",
+    "semester-2/web-engineering/Syntax and Semantics in Protocols.md",
+    "semester-2/web-engineering/IP.md",
+    "semester-2/web-engineering/protocols/TCP.md",
+    "semester-2/web-engineering/resources/2024_WE1_Kap5.pdf",
+    "semester-2/web-engineering/geo-calc/img/sphere.png",
+    "semester-2/web-engineering/geo-calc/img/s.png",
+    "semester-2/web-engineering/geo-calc/img/sphere.py",
+    "semester-2/algorithmen/Library Sortieren.md",
+    "semester-2/algorithmen/AVL Baum.md",
+    "semester-2/analysis/Hub Analysis.md",
+    "semester-2/web-engineering/geo-calc/README.md",
+    "semester-2/web-engineering/Layouting Flexbox.md",
+    "semester-2/web-engineering/Flexbox.md",
     "semester-2/algorithmen/images/Pasted image 20240705121016.png",
     "semester-2/algorithmen/images/Pasted image 20240705111829.png",
     "semester-2/algorithmen/images/Pasted image 20240705110204.png",
     "semester-2/algorithmen/images/Pasted image 20240705103702.png",
     "semester-2/algorithmen/images/Pasted image 20240705103643.png",
     "semester-2/algorithmen/images/Pasted image 20240705102524.png",
-    "semester-2/algorithmen/images/Pasted image 20240705094006.png",
-    "semester-2/algorithmen/images/Pasted image 20240705092840.png",
-    "semester-2/algorithmen/labor/heap/output/heap_sort",
-    "semester-2/algorithmen/labor/heap/output",
-    "semester-2/analysis/altklausuren/DHBW-WH-Klausur_II_Analysis_2022_Lsg.pdf",
-    "semester-2/java/movie-database/src/tea/the/of/he/movies/Database.java~",
-    "semester-2/java/movie-database/src/tea/the/of/he/movies/entities/ActorMovie.java~",
-    "semester-2/java/movie-database/src/tea/the/of/he/movies/entities/DirectorMovie.java~",
-    "semester-2/algorithmen/labor/heap/heap_sort.c",
-    "semester-2/web-engineering/geo-calc/img/bsod.png",
-    "semester-2/algorithmen/images/Pasted image 20240628103617.png"
+    "semester-2/algorithmen/images/Pasted image 20240705094006.png"
   ]
 }

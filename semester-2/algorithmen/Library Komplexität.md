@@ -26,9 +26,9 @@ see also: [[Library Komplexität Rekursion]]
 	- $O(f)$ ist die [[Menge]] aller Funktionen, die langfristig nicht _wesentlich_[^1] schneller wachsen als $f$ 
 	- Mathematisch: 
 		- $k, n \in \mathbb{N}, \ \ \ c \in \mathbb{R}$ 
-		- $\forall_{n \gt k}\ g(n) \leq c * f(n) \Longleftrightarrow g \in O(f)$ 
+		- $\forall_{n \gt k}\ g(n) \leq c \cdot f(n) \Longleftrightarrow g \in O(f)$ 
 - [[Rechenregeln Big O]] dienen dazu, Komplexität von verschiedenen Algorithmen zu vergleichen
-	- mit wichtigste Regel: [[Grenzwertbetrachtung in Big O]]: $\lim_{n \rightarrow \infty} \frac{g(n)}{f(n)} \in \mathbb{R} \Rightarrow g \in O(f)$
+	- mit wichtigste Regel: [[Grenzwertbetrachtung in Big O]]: $$\lim_{n \rightarrow \infty} \frac{g(n)}{f(n)} \in \mathbb{R} \Rightarrow g \in O(f)$$
 
 > [!warning] zu beachten bei Grenzwertbetrachtung 
 > - $0 \in \mathbb{R}$ 
@@ -41,6 +41,7 @@ see also: [[Library Komplexität Rekursion]]
 	- [[Logarithmus Dualis]] (Basis $2$): Wichtigste in Informatik (weil Binärsystem und so)
 		- ist idR gemeint, wenn _nur_ $log\, x$ irgendwo steht
 	- **natürlicher Logarithmus**: Logarithmus zur Basis [[Eulersche Zahl|e]]
+
 > [!warning]- Basis ist für [[Komplexität]] irrelevant
 > [[Basen ineinander überführen]]: Unterschiedliche Basen sind lediglich ein konstanter Faktor
 
