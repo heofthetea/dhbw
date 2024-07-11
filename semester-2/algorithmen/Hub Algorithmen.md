@@ -20,6 +20,11 @@
 [[Algorithmen.pdf]]
 [[AdditionalExercises.pdf]]
 
+### Altklausuren
+[[klausur_2015_ueb_a.pdf]]
+[[klausur-2016_ueb_a.pdf]]
+[[klausur-2018_ueb_a.pdf]]
+
 ## MISC
 [[FizzBuzz Test]]
 [[Pre-mature Optimization is the root of all evil]]

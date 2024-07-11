@@ -12,6 +12,11 @@ def rotate_left(tree, root, pivot):
 	root.right = temp #re-attach Teilbaum
 ```
 
+
+## Implementierung
+[[rotate.c]], 
+[[tree]]
+
 ## Rechtsrotation
 
 ![[Pasted image 20240705102524.png]]

@@ -13,9 +13,8 @@
 - Get Parent Element: $\left\lfloor\frac{k - 1}{2}\right\rfloor$ 
 - Get Child Elements: $2k +1$; $2k + 2$
 
-
 #### Operationen
-> [!note] Hier wird immer von [[Max-Heap]] ausgegangen
+> [!info] Hier wird immer von [[Max-Heap]] ausgegangen
 
 [[Operationen auf Heaps]]
 - `find_max`: [[Wurzel]] heraus suchen lol
@@ -38,8 +37,18 @@
 
 > [!warning] Ein [[Binary Search Tree|BST]] kann entarten (= jeder Knoten hat _ein_ Kind) -> ist dann äquivalent zu einer [[Liste]]
 
-#todo
+#### Operationen
+- [[Suchen auf BST]]: Von [[Ordnungsrelation]] gebrauch machen - bei jedem [[Knoten]] schauen, in welche Richtung man gehen muss --> $\mathcal{O}(log\, n)$
+- [[Einfügen in BST]]: Nach Element [[Suchen auf BST|suchen]] - dort, wo es sein _sollte_, einfügen --> $\mathcal{O}(log\, n)$
+- [[Löschen aus BST]]: Abhängig davon, wo der [[Knoten]] liegt --> immer $\in \mathcal{O}(log\, n)$ tho
+	1. [[Blatt]]: simply yeet
+	2. ein [[Kindknoten|Kind]]: Ersetze [[Knoten]] durch Kind
+	3. zwei [[Kindknoten|Kinder]]: Ersetze [[Knoten]] durch <span style="color:rgb(245, 154, 35)">größten</span> Knoten im <span style="color:rgb(245, 154, 35)">linken</span> Teilbaum
+### Baumrotationen
+[[Baumrotation]]
+- Operation, um die [[Höhenbalance]] eines Baums zu verändern ==> alle Eigenschaften eines [[Binary Search Tree|Suchbaums]] bleiben aber erhalten!!
 ## AVL Trees
+[[AVL Baum]]
 [[Binary Search Tree]] mit Anforderung an [[Höhenbalance]]
 - Für jeden [[Knoten]] $K$ soll gelten: $-1 \leq depth(K.right)- depth(K.left) \leq 1$
 	- wenn $-1$: <span style="color:rgb(245, 154, 35)">linker</span> Teilbaum ist tiefer
@@ -49,7 +58,7 @@
 #todo
 ## Hash Maps
 
-
+#todo
 
 
 

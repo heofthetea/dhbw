@@ -12,5 +12,4 @@ Idee: [[Höhenbalance]] (Höhenbalance)
 
 > [!hint] Höhe eines [[AVL Baum|AVL Baums]] ist immer [[Logarithmus|logarithmisch]]
 
-Klausuraufgabe: Berechne alle Höhenbalancen (für jeden Knoten)
 

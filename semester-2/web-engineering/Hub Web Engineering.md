@@ -8,7 +8,7 @@
 [[2024_WE1_Kap3_F51-63.pdf]]
 [[2024_WE1_Kap3_F64-78.pdf]]
 [[2024_WE1_Kap2.pdf]]
-
+[[2024_WE1_Kap5.pdf]]
 
 
 ### Sources
@@ -126,9 +126,11 @@ path:web-engineering/html
 [[JS Node]]
 
 
-
-
 ## Internet Protocols
+[[2024_WE1_Kap5.pdf]]
 
-
+[[TCP]]
+[[IP]]
+[[Syntax and Semantics in Protocols]]
+[[Open System Interconnection Model]]
 
