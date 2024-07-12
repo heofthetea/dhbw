@@ -40,14 +40,15 @@
 #### Operationen
 - [[Suchen auf BST]]: Von [[Ordnungsrelation]] gebrauch machen - bei jedem [[Knoten]] schauen, in welche Richtung man gehen muss --> $\mathcal{O}(log\, n)$
 - [[Einfügen in BST]]: Nach Element [[Suchen auf BST|suchen]] - dort, wo es sein _sollte_, einfügen --> $\mathcal{O}(log\, n)$
-- [[Löschen aus BST]]: Abhängig davon, wo der [[Knoten]] liegt --> immer $\in \mathcal{O}(log\, n)$ tho
+- [[Löschen aus BST]]: Abhängig davon, wo der [[Knoten]] liegt --> worst case (2 Kinder) $\in \mathcal{O}(log\, n)$, ansonsten $\in \mathcal{O}(1)$
 	1. [[Blatt]]: simply yeet
 	2. ein [[Kindknoten|Kind]]: Ersetze [[Knoten]] durch Kind
 	3. zwei [[Kindknoten|Kinder]]: Ersetze [[Knoten]] durch <span style="color:rgb(245, 154, 35)">größten</span> Knoten im <span style="color:rgb(245, 154, 35)">linken</span> Teilbaum
 ### Baumrotationen
 [[Baumrotation]]
 - Operation, um die [[Höhenbalance]] eines Baums zu verändern ==> alle Eigenschaften eines [[Binary Search Tree|Suchbaums]] bleiben aber erhalten!!
-- Bildlich: "einfach rüber ziehen, und Glied, das ersetzt wird, umhängen"
+- Bildlich: "einfach rüber ziehen, und Glied, das ersetzt wird, umhängen" (code: [[rotate.c]])
+
 [[Doppelrotation]] 
 - wenn Vorzeichen der [[Höhenbalance|Balancen]] von <span style="color:rgb(245, 154, 35)">Wurzel</span> und <span style="color:rgb(245, 154, 35)">Pivot</span> der [[Baumrotation|Rotation]] unterschiedlich sind
 - eine Rotation zum "Vorbereiten" der eigentlichen Rotation => Danach sind die Vorzeichen gleich
@@ -85,8 +86,15 @@
 ## Hash Maps
 
 ### Hashing
-[[Hashing]] - Transformiere großen [[Key]] in einen kleineren [[Key]]
-==> Kann 
+**Idee**: wenn man für jeden möglichen [[Key]] eine eigene Speicheradresse hätte, könnte man [[Konstante Laufzeit|konstant]] drauf zu greifen wie mit [[Arrays im Speicher|Arrays]], aber man hat den Overhead beim [[Operationen auf Arrays|Ein/Ausfügen]] nicht
+**Problem**: Sehr speicher-ineffizient, weil 90% der [[Key|Keys]] realistisch nie genutzt werden
+==> **Lösung**: [[Hashing]] - "klein hacken der Keys"
+
+---
+[[Hash-Funktion]] - Transformiere großen [[Key]] in einen kleineren [[Key]]
+- <span style="color:rgb(245, 154, 35)">Einweg</span>-Funktion (nicht rekonstruierbar) --> [[Modulo]]
+- 
+[[Kollision]]: Passiert, wenn zwei [[Key|Schlüssel]] denselben Hash-Wert haben
 
 
 

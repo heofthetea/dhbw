@@ -1,6 +1,8 @@
 > Ist eine Einweg-Funktion 
 $$h: Object \longrightarrow \mathbb{N}$$
 
+see: [[Modulo]]
+
 [[Abbildung]] von [[Key|Keys]] auf eine [[Teilmenge]] der Natürlichen Zahlen
 - Wertebereich von h muss:
 	- deutlich größer sein als die tatsächliche Anzahl der [[Key|Keys]]

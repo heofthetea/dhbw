@@ -1,0 +1,1 @@
+[[beschrifteter Graph]], bei dem die [[Kante|Kanten]] numerische Werte haben

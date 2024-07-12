@@ -251,3 +251,24 @@
 	- [[Re-hashing]]
 
 ## Graphentheorie
+[[Graph]]
+- [[gerichteter Graph]]
+- [[ungerichteter Graph]]
+- [[beschrifteter Graph]]
+- [[Pfad]]
+- [[verbundener Graph]]
+- [[Zyklus]]
+[[Adjazenzmatrix]]
+[[Adjazenzliste]]
+[[Übung Adjazenz]]
+
+### Operationen
+[[Minimaler Spannbaum]]
+- [[Beispiel Minimaler Spannbaum]]
+- [[Prim Algorithmus]]
+- [[Optimierung Prim]]
+
+[[kürzester Pfad]]
+- [[Dijkstra Algorithm]]
+- [[Beispiel Dijkstra]]
+- \

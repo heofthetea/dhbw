@@ -6,7 +6,7 @@
       {
         "id": "7516f807cb7ca6cf",
         "type": "tabs",
-        "dimension": 46.05543710021322,
+        "dimension": 32.142857142857146,
         "children": [
           {
             "id": "7e7a77fc07e6a2ca",
@@ -41,12 +41,12 @@
       {
         "id": "f4719395afa4600d",
         "type": "split",
-        "dimension": 53.94456289978679,
+        "dimension": 67.85714285714286,
         "children": [
           {
             "id": "88c9211656184796",
             "type": "tabs",
-            "dimension": 81.00664767331433,
+            "dimension": 47.86324786324786,
             "children": [
               {
                 "id": "f3e59c3900e03b7f",
@@ -66,7 +66,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/algorithmen/Übung Hashing.md",
+                    "file": "semester-2/algorithmen/Dijkstra Algorithm.md",
                     "mode": "source",
                     "source": false
                   }
@@ -78,7 +78,7 @@
           {
             "id": "47309b8c57585e45",
             "type": "tabs",
-            "dimension": 18.99335232668566,
+            "dimension": 52.13675213675214,
             "children": [
               {
                 "id": "4bce817414ff6592",
@@ -130,8 +130,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal"
@@ -184,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/algorithmen/Übung Hashing.md"
+                "file": "semester-2/algorithmen/Dijkstra Algorithm.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/algorithmen/Übung Hashing.md",
+                "file": "semester-2/algorithmen/Dijkstra Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/algorithmen/Übung Hashing.md",
+                "file": "semester-2/algorithmen/Dijkstra Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,53 +268,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee94c1566480ea7f",
+  "active": "1f66a15e166842ff",
   "lastOpenFiles": [
+    "semester-2/algorithmen/Greedy Algorithm.md",
+    "semester-2/algorithmen/Dijkstra Algorithm.md",
     "semester-2/algorithmen/Hub Algorithmen.md",
-    "semester-2/algorithmen/Library Datenstrukturen.md",
-    "semester-2/algorithmen/Doppelrotation.md",
-    "semester-2/algorithmen/Löschen aus AVL-Baum.md",
-    "semester-2/algorithmen/Einfügen in AVL Baum.md",
-    "semester-2/algorithmen/Löschen aus BST.md",
-    "semester-2/algorithmen/Library Komplexität.md",
-    "semester-2/algorithmen/Baumrotation.md",
-    "semester-2/algorithmen/labor/trees/rotate",
-    "semester-2/algorithmen/labor/trees/output/tree.md",
-    "semester-2/algorithmen/labor/trees/tree.md",
-    "semester-2/web-engineering/CSS Grid Layout.md",
-    "semester-2/algorithmen/Einfügen in BST.md",
+    "semester-2/algorithmen/Beispiel Dijkstra.md",
+    "semester-2/algorithmen/images/Pasted image 20240712115713.png",
+    "semester-2/algorithmen/kürzester Pfad.md",
+    "semester-2/algorithmen/Gewichteter Graph.md",
+    "semester-2/algorithmen/Optimierung Prim.md",
+    "semester-2/algorithmen/Beispiel Minimaler Spannbaum.md",
+    "semester-2/algorithmen/Prim Algorithmus.md",
+    "semester-2/algorithmen/Minimaler Spannbaum.md",
+    "semester-2/algorithmen/images/Pasted image 20240712105031.png",
+    "semester-2/algorithmen/images/Pasted image 20240712103600.png",
+    "semester-2/algorithmen/ungerichteter Graph.md",
+    "semester-2/web-engineering/protocols/TCP.md",
     "semester-2/algorithmen/sources/Algorithmen.pdf",
+    "semester-2/algorithmen/datenstrukturen/Baum.md",
+    "semester-2/algorithmen/Zyklus.md",
+    "semester-2/algorithmen/verbundener Graph.md",
+    "semester-2/algorithmen/Pfad.md",
+    "semester-2/algorithmen/Übung Adjazenz.md",
+    "semester-2/algorithmen/Adjazenzliste.md",
+    "semester-2/algorithmen/images/Pasted image 20240712095236.png",
+    "semester-2/algorithmen/Adjazenzmatrix.md",
+    "semester-2/algorithmen/Graph.md",
+    "semester-2/algorithmen/beschrifteter Graph.md",
+    "semester-2/algorithmen/images/Pasted image 20240712094553.png",
+    "semester-2/algorithmen/Knoten.md",
+    "semester-2/algorithmen/Kante.md",
+    "semester-2/algorithmen/images/Pasted image 20240712094122.png",
+    "semester-2/algorithmen/images/Pasted image 20240712093411.png",
+    "semester-2/algorithmen/gerichteter Graph.md",
+    "semester-2/algorithmen/Übung Hashing.md",
+    "semester-2/algorithmen/labor/trees/rotate",
     "semester-2/algorithmen/labor/trees/output/rotate",
     "semester-2/algorithmen/labor/trees/output",
     "semester-2/algorithmen/labor/trees/rotate.c",
     "semester-2/algorithmen/labor/trees",
     "semester-2/java/movie-database/uml.pdf",
     "semester-2/algorithmen/labor/vorlesung/weird_algo_klausur.c",
-    "semester-2/algorithmen/Suchen auf BST.md",
-    "semester-2/algorithmen/Binary Search Tree.md",
-    "intension/linux/Hub Linux.md",
-    "semester-2/web-engineering/Open System Interconnection Model.md",
     "semester-2/web-engineering/images/Pasted image 20240708155949.png",
-    "semester-2/web-engineering/Hub Web Engineering.md",
-    "semester-2/web-engineering/Syntax and Semantics in Protocols.md",
-    "semester-2/web-engineering/IP.md",
-    "semester-2/web-engineering/protocols/TCP.md",
     "semester-2/web-engineering/resources/2024_WE1_Kap5.pdf",
     "semester-2/web-engineering/geo-calc/img/sphere.png",
     "semester-2/web-engineering/geo-calc/img/s.png",
-    "semester-2/web-engineering/geo-calc/img/sphere.py",
-    "semester-2/algorithmen/Library Sortieren.md",
-    "semester-2/algorithmen/AVL Baum.md",
-    "semester-2/analysis/Hub Analysis.md",
-    "semester-2/web-engineering/geo-calc/README.md",
-    "semester-2/web-engineering/Layouting Flexbox.md",
-    "semester-2/web-engineering/Flexbox.md",
-    "semester-2/algorithmen/images/Pasted image 20240705121016.png",
-    "semester-2/algorithmen/images/Pasted image 20240705111829.png",
-    "semester-2/algorithmen/images/Pasted image 20240705110204.png",
-    "semester-2/algorithmen/images/Pasted image 20240705103702.png",
-    "semester-2/algorithmen/images/Pasted image 20240705103643.png",
-    "semester-2/algorithmen/images/Pasted image 20240705102524.png",
-    "semester-2/algorithmen/images/Pasted image 20240705094006.png"
+    "semester-2/web-engineering/geo-calc/img/sphere.py"
   ]
 }
