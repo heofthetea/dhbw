@@ -1,6 +1,6 @@
 #master 
 ## Libraries
-[[Prolog Library]]
+[[Library Prolog]]
 ## script
 [[semester-1/logik/scripts/Logik-handout.pdf|Logik-handout]]
 

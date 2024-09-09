@@ -3,5 +3,7 @@
   "things-style@@h2-underline": false,
   "things-style@@h1-color": "#FFFFFF",
   "things-style@@h2-color": "#E052C6",
-  "things-style@@fancy-code": false
+  "things-style@@fancy-code": false,
+  "things-style@@strong-color": "#FFFFFF",
+  "things-style@@em-color": "#FFFFFF"
 }

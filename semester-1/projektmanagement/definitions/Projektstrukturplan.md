@@ -1,5 +1,7 @@
 > PSP: Projektstrukturplan
 > engl.: WBS: Work breakdown structure
+
+[[Baum]]
 #### Drei Arten von Projektstrukturpläne
 Bsp: Erneuern IT- Infrastruktur
 Die _oberste_ Ebene zeichnet PSP aus
@@ -15,7 +17,6 @@ Immer, wenn man Dinge zusammen fassen kann
 In jedem Objekt taucht dasselbe Arbeitspaket auf (z.B. Vorbereitungsphase)
 --> Polymorphism lol
 ##### Funktionsorientierter PSP
-
 Orientiert sich normalerweise an Funktion der Firma
 1) Verkabelung
 2) Hardware installieren
@@ -26,5 +27,5 @@ am Häufigsten verwendet
 verschiedene Phasen:
 1) Planungsphae
 2) Beschaffung
-3) Installatioin
+3) Installation
 4) Testing Phase

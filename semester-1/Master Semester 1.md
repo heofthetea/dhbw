@@ -1,6 +1,6 @@
 #master
 [[Master C]]
-[[Master Projektmanagement]]
+[[Master Projektmanagement 1]]
 [[Master BWL]]
 [[Master ICC]]
 [[Master Lineare Algebra]]

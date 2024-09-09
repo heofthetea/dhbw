@@ -1,0 +1,155 @@
+{
+  "workspaces": {
+    "graph+local graph + 2 windows": {
+      "main": {
+        "id": "35a2d79f119e7529",
+        "type": "split",
+        "children": [
+          {
+            "id": "c2598b68120e3d83",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1699915f3822e5da",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "549f67a59d9db8e7",
+        "type": "split",
+        "children": [
+          {
+            "id": "9308c391259f4420",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee94c1566480ea7f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5013a04cc22c3fa6",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "problematik",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "bbf1059a5e2b57a0",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "e78723705d4741e8",
+        "type": "split",
+        "children": [
+          {
+            "id": "b5a8681910588a45",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bc5c2c9b224723b0",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d06ead6f558f84bf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ed2892acd5243c11",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4e8a9da1bbc0fe4e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "vscode-editor:Create Code File": false,
+          "meld-encrypt:New encrypted note": false,
+          "meld-encrypt:Convert to or from an Encrypted note": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "1699915f3822e5da",
+      "mtime": "2024-05-15T12:52:14+02:00"
+    }
+  },
+  "active": "graph+local graph + 2 windows"
+}

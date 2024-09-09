@@ -1,7 +1,7 @@
 #übung-logik
 ### Pulp Fiction
 
-![[semester-1/goodnotes/Logik/source/Logik-handout.pdf#page=235|Logik-handout page 235]]
+![[Logik-handout.pdf#page=235|Logik-handout page 235]]
 
 [[Goal]]
 [[Regeln (Rules)]]

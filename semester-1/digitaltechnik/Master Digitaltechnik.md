@@ -27,6 +27,7 @@
 [[Fucking Schmitt-Trigger ???????]]
 [[Hub Hamming Code]]
 
+[[Transistor]]
 
 
 

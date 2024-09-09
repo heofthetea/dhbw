@@ -1,0 +1,2 @@
+- anyMatch: Does any element of a [[Java Stream]] match the condition?
+- allMatch: Do all elements match the condition?

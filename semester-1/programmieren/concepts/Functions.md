@@ -31,7 +31,7 @@ A funtions prototype must have _the same signature as the function_!
 
 
 ## call by reference
-**Pass _pointers_ as parameters
+**Pass [[Pointer|pointers]] as parameters
 write directly to global variable instead of returning**
 
 --> Functions have _void_ return type and take _pointers_ as parameters

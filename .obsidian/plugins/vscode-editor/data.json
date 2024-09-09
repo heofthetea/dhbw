@@ -14,7 +14,9 @@
     "pl",
     "txt",
     "h",
-    "tex"
+    "tex",
+    "html",
+    "sh"
   ],
   "folding": true,
   "lineNumbers": true,

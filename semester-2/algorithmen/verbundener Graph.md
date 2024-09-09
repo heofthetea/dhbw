@@ -1,0 +1,1 @@
+Ein [[Graph]] ist verbunden, wenn jeder [[Knoten]] in $V$ von jedem anderen [[Knoten]] über einen [[Pfad]] erreichbar ist.

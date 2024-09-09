@@ -43,7 +43,7 @@ The regular [[segmented_sieve.c]], on my machine, needs ~35 seconds.
 ### Storage of Sieving primes
 
 #### Structure list_uint64
-Roughly emulates a _list_ in python. 
+Lackluster implementation of a [[Dynamic Array]]
 ```c
 typedef struct
 {
@@ -54,7 +54,7 @@ typedef struct
 
 ```
 ##### Attributes
--  _data_ -> Pointer to where the _actual data_ of the list lies. This can be used synonimously with an array using bracket syntax: `list.data[index]`.
+-  _data_ -> [[Pointer]] to where the _actual data_ of the list lies. This can be used synonimously with an array using bracket syntax: `list.data[index]`.
 - _max_size_ -> How much _memory_ has been allocated. Is used when creating the `multiples` list, to keep its size in sync with the `primes` list.
 - _length_ -> equivalent to the return value of `len(list)` in python. Stores how many elements the list currently holds. Can be used to iterate over only the parts of the list that actually store values.
 

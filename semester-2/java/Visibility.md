@@ -1,4 +1,4 @@
-> What part of an [[Object]] is known to other [[Object/Objects]]
+> What part of an [[Object]] is known to other [[Object|Objects]]
 
 - serves to _uncouple_ different functionalities
 

@@ -1,5 +1,5 @@
 [[LAlg Formeln]]
-[[Funktion]]
+[[Abbildung]]
 ## Aufschriebe
 ```expander
 path:"goodnotes/Lineare Algebra/Aufschriebe"

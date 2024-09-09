@@ -1,1 +1,1 @@
-The _first_ [[Node]] of a [[Doubly Linked List]].
+The _first_ [[Node (doubly linked list)]] of a [[Doubly Linked List (C)]].

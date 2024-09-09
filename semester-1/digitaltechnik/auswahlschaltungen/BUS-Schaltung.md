@@ -1,3 +1,4 @@
+[[BUS-System]]
 - *Transport* und _Verteilung_ von binärer Information
 - _unidirektional_: Nur von Sender zu Empfänger
 - _bidirektional_: Sender und Empfänger kommunizieren miteinander (und tauschen ihre Rollen)

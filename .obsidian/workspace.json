@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "abc401533a57ec51",
+        "id": "f025252f25493d6e",
         "type": "tabs",
+        "dimension": 38.059701492537314,
         "children": [
           {
-            "id": "51fcbdc7afe873be",
+            "id": "6f2af3586be0fea2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
+                "file": "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,98 +23,136 @@
             }
           },
           {
-            "id": "bbc4e7ae14eba6b8",
+            "id": "39a969c9d0a8f892",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/naive Euclids algorithm.md",
+                "file": "semester-3/rechnerarchitekturen/Hub Systemnahe Programmierung.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "736f44a3036a6702",
+            "id": "f269f76530b45f11",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/übung - Datenstrukturen.md",
+                "file": "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "a2075f22ba7cde1f",
+            "id": "32da59bca4626a50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/algorithmen/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e105d9cc6e4f33a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/logik/Logik GoodNotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "239904be05b8f978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/algorithmen/Zip compression algorithm.md",
+                "file": "semester-2/web-engineering/Hub Web Engineering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
-        "id": "40b0d33a1d8234f7",
-        "type": "tabs",
+        "id": "5e44c37c29a1d2f6",
+        "type": "split",
+        "dimension": 61.940298507462686,
         "children": [
           {
-            "id": "373e6aaaac67327c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-2/algorithmen/sources/Algorithmen.pdf"
+            "id": "154fab2344ce804a",
+            "type": "tabs",
+            "dimension": 81.00664767331433,
+            "children": [
+              {
+                "id": "215afabd49a3101b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/angewandte_mathematik/Exponentialfunktion.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "24adc76c654f4da0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Halbleiter Prozessoren.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a0fb10817b52fa05",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2a3dd3b54b9809d2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/angewandte_mathematik/Integralrechnung.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5f44530f86e3877d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 4
           },
           {
-            "id": "3f5cc490823e8d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intension/java/Hub Java.md",
-                "mode": "source",
-                "source": false
+            "id": "fd7bfaab03c82f4d",
+            "type": "tabs",
+            "dimension": 18.99335232668566,
+            "children": [
+              {
+                "id": "dad36907c971820c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf"
+                  },
+                  "pinned": true
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -142,8 +181,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "path: \"goodnotes/Semester 1/Digitaltechnik\"",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -159,7 +198,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,9 +229,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "semester-1/logik/Logik GoodNotes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,7 +238,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/logik/Logik GoodNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +254,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/logik/Logik GoodNotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,59 +274,61 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "vscode-editor:Create Code File": false,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e105d9cc6e4f33a1",
+  "active": "5f44530f86e3877d",
   "lastOpenFiles": [
-    "semester-2/algorithmen/Complexity abstract.md",
-    "intension/java/Hub Java.md",
-    "semester-1/programmieren/Master C.md",
-    "semester-2/algorithmen/sources/Algorithmen.pdf",
-    "semester-2/algorithmen/Complexity.md",
-    "semester-2/algorithmen/Zip compression algorithm.md",
-    "semester-2/algorithmen/Hub Algorithmen und Komplexität.md",
-    "semester-2/algorithmen/naive Euclids algorithm.md",
-    "semester-2/algorithmen/übung - Datenstrukturen.md",
-    "semester-2/algorithmen/Binary Search.md",
-    "semester-2/algorithmen/Obere Schranke.md",
-    "semester-2/algorithmen/Optimized Euclid.md",
-    "semester-2/algorithmen/images/Pasted image 20240510114350.png",
-    "semester-2/algorithmen/Thow faster hardware at the problem.md",
-    "semester-2/algorithmen/Faster hardware is not equivalent to a solved problem.md",
-    "semester-2/algorithmen/Off-by-one error.md",
-    "semester-2/algorithmen/Pre-mature Optimization is the root of all evil.md",
-    "semester-2/algorithmen/images/Pasted image 20240510103051.png",
-    "semester-2/algorithmen/Modulo.md",
-    "semester-2/algorithmen/FizzBuzz Test.md",
-    "semester-2/algorithmen/Meta-info Algorithmen.md",
-    "semester-2/algorithmen/Worst Case.md",
-    "semester-2/algorithmen/Average Case.md",
-    "semester-2/algorithmen/Übung - Euclids worst-case.md",
-    "semester-2/Master Semester 2.md",
-    "Master DHBW.md",
-    "semester-2/java/Hub Java.md",
-    "semester-1/programmieren/concepts/Recursion.md",
-    "semester-1/logik/prolog/5.5 Rekursion/Beispiel Rekursion.md",
-    "semester-1/programmieren/concepts/images/Pasted image 20240510104428.png",
-    "semester-1/programmieren/concepts/images",
-    "semester-2/algorithmen/images/Pasted image 20240510095338.png",
-    "semester-2/algorithmen/images",
-    "semester-2/algorithmen/sources/Donald Knuth - The Art of Computer Programming_ Volume 4B_ Combinatorial Algorithms Part 2. 4B-Addison-Wesley Professional (2022).pdf",
-    "semester-2/algorithmen/sources",
-    "semester-2/algorithmen",
-    "Access token.mdenc",
-    "semester-1/forschungsmethoden/002",
-    "semester-2/java/images/Pasted image 20240507170907.png",
-    "semester-2/java/images/Pasted image 20240507170821.png",
-    "semester-2/java/images/Pasted image 20240507162914.png",
-    "semester-2/java/images/Pasted image 20240507160952.png",
-    "semester-2/java/images/Pasted image 20240507155651.png",
-    "semester-2/java/images/Pasted image 20240507155139.png",
-    "semester-2/java/images",
-    "semester-2/java/resources/2023-Java-Slides.pdf"
+    "semester-2/web-engineering/Hub Web Engineering.md",
+    "semester-2/web-engineering/code/GeoCalculator.md",
+    "semester-2/algorithmen/Dictionary.md",
+    "semester-2/web-engineering/GeoCalculator Source Code.md",
+    "extern/notes/Daily Note 06-01-2024.md",
+    "intension/daily_notes/Daily Note 15-03-2024.md",
+    "intension/daily_notes/Daily Note 26-03-2024.md",
+    "intension/daily_notes/Daily Note 07-03-2024.md",
+    "intension/daily_notes/Daily Note 16-04-2024.md",
+    "semester-2/algorithmen/Operationen auf Dictionaries.md",
+    "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
+    "intension/t1000/README.md",
+    "semester-1/projektmanagement/001 Ziele.md",
+    "semester-1/projektmanagement/Master Projektmanagement 1.md",
+    "semester-1/projektmanagement/Projektmanagement GoodNotes.md",
+    "semester-2/projektmanagement/android-ide/Lö Projektmanagement Projekt.md",
+    "goodnotes/Semester 2/Java/Java Übungen.pdf",
+    "semester-2/projektmanagement/android-ide/Selection of Android Development Tools.md",
+    "semester-1/digitaltechnik/Digitaltechnik GoodNotes.md",
+    "semester-1/digitaltechnik/Master Digitaltechnik.md",
+    "semester-2/icc/Hub ICC 2.md",
+    "goodnotes/Semester 2/Web Engineering/Notes Web Engineering.pdf",
+    "semester-2/algorithmen/Hub Algorithmen.md",
+    "semester-2/algorithmen/labor/vorlesung/weird_algo_klausur.c",
+    "intension/Master intension.md",
+    "semester-1/forschungsmethoden/Intro/Forschungsprojekt.md",
+    "intension/README.md",
+    "semester-1/forschungsmethoden/Intro/Ethik.md",
+    "semester-1/forschungsmethoden/Intro/Ethik und Informatik.md",
+    "intension/images/Pasted image 20240322111527.png",
+    "semester-2/algorithmen/labor/fibonacci.py",
+    "semester-1/programmieren/code/fibonacci.py",
+    "goodnotes/Semester 2/misc.pdf",
+    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408173637.png",
+    "semester-2/java/code/squares/Main.java",
+    "goodnotes/Semester 1/Logik/Tipps Klausur Logik.pdf",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083813 1.png",
+    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408173647.png",
+    "semester-2/web-engineering/code/example.html",
+    "semester-3/angewandte_mathematik/images/Pasted image 20240909152752.png",
+    "semester-3/angewandte_mathematik/images/Pasted image 20240909152727.png",
+    "semester-3/angewandte_mathematik/images",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20240909112527.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20240909112400.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20240909111637.png",
+    "semester-3/images/Pasted image 20240909102705.png"
   ]
 }

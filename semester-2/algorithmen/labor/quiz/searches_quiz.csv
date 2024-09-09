@@ -1,0 +1,13 @@
+Text,Type,Answer1,answerResult1,Answer2,answerResult2,Answer3,answerResult3,Answer4,answerResult4,Answer5,answerResult5,Answer6,answerResult6,Explanation,Weblink,Source,Tags
+Linear Search kann sowohl bei sortierten als auch bei unsortierten Arrays verwendet werden.,True/False,,correct,,,,,,,,,,,,,,
+Was ist die Zeitkomplexität von Linear Search?,Single Choice,O(1),incorrect,O(n),correct,O(log n),incorrect,O(n log n),incorrect,,,,,,,,
+Welcher der folgenden Punkte ist ein entscheidender Vorteil von Binary Search gegenüber Linear Search?,Single Choice,Einfachheit,incorrect,Kann bei unsortierten Arrays verwendet werden,incorrect,Schneller bei großen sortierten Arrays ,correct,Weniger Speicherverbrauch,incorrect,,,,,,,,
+"Was passiert, wenn Binary Search auf ein unsortiertes Array angewendet wird?",Single Choice,Das gesuchte Element wird dennoch effizient gefunden.,incorrect,Es wird ein Fehler ausgegeben.,incorrect,Das gesuchte Element wird möglicherweise nicht korrekt gefunden.,correct,"Das Array wird zuerst sortiert, und dann gesucht.",incorrect,,,,,,,,
+"Die schlechteste Zeitkomplexität von Linear Search tritt auf, wenn sich das gesuchte Element am Ende des Arrays befindet oder gar nicht vorhanden ist.",True/False,,correct,,,,,,,,,,,,,,
+"Welcher der beiden Suchalgorithmen wird bei einem sortierten Array typischerweise besser abschneiden, wenn die Größe des Arrays zunimmt?",Multiple Choice,Binary Search,correct,,,,,,,,,,,,,,
+Wie wird der algorithmische Ansatz von Binary Search genannt?,Multiple Choice,Divide and Conquer,correct,,,,,,,,,,,,,,
+"Welche der folgenden Bedingungen müssen erfüllt sein, damit Binary Search korrekt funktioniert? (Wählen Sie alle zutreffenden Antworten aus)",Multiple Choice,Das Array muss sortiert sein.,correct,Das gesuchte Element muss innerhalb des Wertebereichs des Arrays liegen.,correct,,,,,,,,,,,,
+"Was passiert, wenn Binary Search auf ein sortiertes Array mit mehreren Vorkommen des gesuchten Elements angewendet wird?",Multiple Choice,Es kann eines der Vorkommen finden.,correct,,,,,,,,,,,,,,
+Was ist das schlechteste Szenario für Binary Search in einem sortierten Array? (Wählen Sie alle zutreffenden Antworten aus),Multiple Choice,Das gesuchte Element liegt genau eins vom Mittelpunkt des Arrays entfernt.,correct,Das gesuchte Element ist nicht im Array vorhanden.,correct,,,,,,,,,,,,
+"Wenn Binary Search das gesuchte Element in einem Array nicht findet, kann es definitiv bestimmen, dass das Element nicht vorhanden ist.",True/False,,correct,,,,,,,,,,,,,,
+Was ist die Zeitkomplexität von Binary Search?,Multiple Choice,O(log n),correct,,,,,,,,,,,,,,

@@ -1,0 +1,1 @@
+Each [[Knoten]]/[[Node (doubly linked list)]] has only _one_ link to its successor 

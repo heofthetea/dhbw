@@ -1,7 +1,7 @@
 {
   "autoExpand": false,
   "defaultTemplate": "$link",
-  "delay": 300,
+  "delay": 2800,
   "excludeCurrent": true,
   "lineEnding": "",
   "prefixes": {

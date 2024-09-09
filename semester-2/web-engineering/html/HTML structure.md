@@ -4,10 +4,23 @@
     <title>Hello World</title>
 </head>
 <body>
-    <p>Hello World!</p>
+    <header>
+    </header>
+
+	<nav>
+	</nav>
+
+	<main>
+	</main>
+
+
+	<footer>
+	</footer>
 </body>
 </html>
 ```
+
+> This is an established heuristic in modern web development. None of those tags is actually needed, but are considered best practices.
 
 [[HTML essential tags]]
 [[HTML head]]
@@ -26,3 +39,15 @@ One _more_ way to tell the [[Browser]] what type of Document the type is... #bon
 ```
 
 
+## Main Elements
+> Serve to replace the overusage of [[HTML div]]
+
+
+
+[[HTML Article]]
+
+[[HTML Section]]
+
+[[HTML aside]]
+
+[[HTML address]]

@@ -1,0 +1,3 @@
+- Verwendung von [[Array|Arrays]] als Tabellen für Daten
+	- Typischerweise ein <span style="color:rgb(0, 176, 240)">Schlüssel</span> per Element
+	- Zusätzliche Daten, die mit dem Schlüssel assoziiert sind

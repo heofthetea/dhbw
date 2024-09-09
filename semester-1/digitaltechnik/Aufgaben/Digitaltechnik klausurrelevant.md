@@ -11,7 +11,7 @@
 3. Gray-Code (was er ist, wie er gebildet wird)
 	1. zyklisch
 	2. azyklisch
-4. Fehlerkorrektur mit _Hamming-Code_ #todo 
+4. Fehlerkorrektur mit _Hamming-Code_ 
 
 ### Logische Schaltungen
 1. Schaltsymbole

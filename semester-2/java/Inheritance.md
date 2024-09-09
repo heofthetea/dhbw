@@ -2,6 +2,8 @@
 
 
 A Child class inherits all Attributes and Methods from its Parent.
+- [[Constructor|Constructors]] are not inherited !
+	- instead: Call the parent constructor using [[Constructor Chaining]]
 
 ## Class hierarchy tree
 [[Inheritance]] leads to classes being in a tree structure.

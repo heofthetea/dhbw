@@ -1,5 +1,5 @@
 "In Java ist alles ein Objekt, in Prolog ist alles eine Liste". -> [[Alles ist Liste]]
-[[Liste]]
+[[Prolog Liste]]
 [[Verschachtelte Liste]]
 [[Leere Liste]]
 [[Unifikation von Listen]]

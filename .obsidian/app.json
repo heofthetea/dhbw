@@ -34,9 +34,15 @@
     "editor:move-caret-down",
     "editor:move-caret-up"
   ],
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "newFileLocation": "current",
   "newFileFolderPath": "temp",
   "attachmentFolderPath": "./images",
-  "tabSize": 4
+  "tabSize": 4,
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": [
+    "\"/.*/output/.*/\"",
+    "semester-2/java/movie-database/",
+    "/.*/.pyc/"
+  ]
 }

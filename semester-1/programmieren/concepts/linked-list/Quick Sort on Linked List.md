@@ -1,14 +1,14 @@
-> Implementation of [[Quick Sort]] for the [[Doubly Linked List]] of the [[Shows Database]].
+> Implementation of [[Hoare Partitioning]] for the [[Doubly Linked List (C)]] of the [[Shows Database]].
 
-> The _most_ elegant way, by far, would have been to simply convert the [[Doubly Linked List|List]] into an [[Array]] of pointers to [[Node|Nodes]], sort that (see [[random_names.c]]) and convert back.
+> The _most_ elegant way, by far, would have been to simply convert the [[Doubly Linked List (C)|List]] into an [[Array]] of [[Pointer|pointers]] to [[Node (doubly linked list)|Nodes]], sort that (see [[random_names.c]]) and convert back.
 ### Swap
 Since in this case, the nodes get swapped around, there is a bunch of edge cases to consider:
-1. Either one of the [[Node|Nodes]] being the [[Head]] or [[Tail]] of the [[Doubly Linked List]]
-2. The two [[Node|Nodes]] are _adjacent_
+1. Either one of the [[Node (doubly linked list)|Nodes]] being the [[Head]] or [[Tail]] of the [[Doubly Linked List (C)]]
+2. The two [[Node (doubly linked list)|Nodes]] are _adjacent_
 
 To make this function a _tad_ less ugly, we will transform it into an [[oBdA]] case:
 - Hereby, $a$ will _always_ be the node _further to the front_ of the List
-- Thus, the cases *"a being the last element"* and _"b being the first element"_ cannot exist anymore, also there's only one way that the [[Node|Nodes]] could be adjacent ($a$ -> $b$)
+- Thus, the cases *"a being the last element"* and _"b being the first element"_ cannot exist anymore, also there's only one way that the [[Node (doubly linked list)|Nodes]] could be adjacent ($a$ -> $b$)
 ```c
 void swap(List *list, int index_a, int index_b)
 {
@@ -109,7 +109,7 @@ Node *partition(List *list, int low, int high, int depth)
 ```
 
 ### Sorting
-The usual, trivial [[Recursion]] of [[Quick Sort]]:
+The usual, trivial [[Recursion]] of [[Hoare Partitioning]]:
 ```c
 void quick_sort(List *list, int low, int high, int depth)
 {

@@ -1,5 +1,5 @@
 ```expander
-path:goodnotes/Digitaltechnik
+path: "goodnotes/Semester 1/Digitaltechnik"
 ```
 [[D-Technik 1 Mitschrieb.pdf]]
 [[D-Technik 1.2 Transistoren.pdf]]
@@ -12,7 +12,7 @@ path:goodnotes/Digitaltechnik
 [[D-Technik Aufg 04.pdf]]
 [[Digitaltechnik Cheat Sheet.pdf]]
 [[Digitaltechnik_1.pdf]]
-[[semester-1/goodnotes/Digitaltechnik/scripts/Digitaltechnik_2.pdf]]
-[[semester-1/goodnotes/Digitaltechnik/scripts/Digitaltechnik-1.pdf]]
+[[goodnotes/Semester 1/Digitaltechnik/scripts/Digitaltechnik_2.pdf]]
+[[goodnotes/Semester 1/Digitaltechnik/scripts/Digitaltechnik-1.pdf]]
 [[Digitaltechnik-WS19-2.pdf]]
 [[practice D-technik.pdf]]

@@ -1,0 +1,3 @@
+- [[HTML]] per default uses [[Relative Path]]
+- 
+- a 'https://' indicates a remote [[URL]]

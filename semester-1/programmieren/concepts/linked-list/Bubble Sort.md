@@ -1,10 +1,13 @@
 > Very simple algorthm
-> But: exponential growth ($O(n^{2})$)
+> But [[Polynomielle Laufzeit]] ($O(n^2)$)
+
+
+[[in-place Sortieren]], [[stable sorting algorithm]]
 
 Beispiel: $50\,000$ needs 24 seconds lol
 
 1) iterate over list from start to finish
-2) alwas compare Element $i$ with $i+1$
+2) always compare Element $i$ with $i+1$
 	1) if larger: swap elements
 3) repeat over and over, until list is sorted
 
@@ -46,7 +49,7 @@ void swap(int * arr, int a, int b) {
 
 ### On list
 [[bubble_sort_list.c]]
-- swap _pointers_ instead of values
+- swap [[Pointer|pointer]] instead of values
 - okay maybe doing this stuff recursively wasn't such a good idea
 
 

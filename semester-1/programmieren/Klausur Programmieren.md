@@ -27,7 +27,7 @@ nur, was _lesbar_ ist, wird bewertet
 ### 4. Größeres Programm
 - "die guten von den nicht ganz so fitten trennen"
 - Aufwand ~40 minuten (mitsamt Struktogramm)
-- Beispiel: [[Quick Sort]], _EZB Kontrollsumme?_
+- Beispiel: [[Hoare Partitioning]], _EZB Kontrollsumme?_
 
 ## Hilfsmittel
 - Keine eigenen Notizen!!
@@ -45,7 +45,7 @@ nur, was _lesbar_ ist, wird bewertet
 - consider bit-shifting lul
 - `struct` KEYWORD BEFORE NOT TYPEDEFFED STRUCTS
 #### malloc
-- cast `malloc` pointers
+- cast `malloc` [[Pointer|pointers]]
 - for array of pointers (`mystruct **arr`):
 	1. malloc the array with `malloc(sizeof(mystruct *))`
 	2. then malloc each Struct in _for loop_

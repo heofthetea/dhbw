@@ -1,9 +1,10 @@
 ==> Funktioniert analog zu [[CPM Netzplan]], aber mit ekligen Tabellen
-Kanten enthalten keine Information mehr, sondern nur Knoten
+[[Kante|Kanten]] enthalten keine Information mehr, sondern nur [[Knoten]]
 _dicker Balken_ kennzeichnet _kritischen_ Pfad
 
-| frühester Anfangszeitpunkt | Dauer | frühester Endzeitpunkt |
-| ---- | ---- | ---- |
+|                            | TITEL  |                        |
+| -------------------------- | ------ | ---------------------- |
+| frühester Anfangszeitpunkt | Dauer  | frühester Endzeitpunkt |
 | Spätester Anfangszeitpunkt | Puffer | spätester Endzeitpunkt |
 ![[mpm_example.png]]
 

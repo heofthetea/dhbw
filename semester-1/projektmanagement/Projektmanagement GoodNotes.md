@@ -1,8 +1,9 @@
+
 ```expander
-path:"semester-1/goodnotes/Projektmanagement"
+path:"goodnotes/Semester 1/Projektmanagement"
 ```
-[[semester-1/goodnotes/Projektmanagement/scripts/PM Kap_02 Auftrag und Ziele_vorl.pdf]]
-[[semester-1/goodnotes/Projektmanagement/scripts/PM Kap_03 Projektorganisation.pdf]]
+[[goodnotes/Semester 1/Projektmanagement/scripts/PM Kap_02 Auftrag und Ziele_vorl.pdf]]
+[[goodnotes/Semester 1/Projektmanagement/scripts/PM Kap_03 Projektorganisation.pdf]]
 [[PM Kap_04 Unterlagen Projektplanung_vorl.pdf]]
 [[PRM Anekdoten.pdf]]
 [[PRM Kap_02 Auftrag und Ziele_vorl.pdf]]

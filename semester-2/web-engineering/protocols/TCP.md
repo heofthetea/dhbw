@@ -1,5 +1,7 @@
 > Idee: Aufteilung der zu übertragenden Daten in einzelne Packete
 
+[[Minimaler Spannbaum]]
+
 > [!info] Hängt eng zusammen mit [[IP]], oft auch kombiniert zu 'TCP/IP'
 
 - Flexibler weg der Pakete, je nach verfügbarem Web und Kapazitäten

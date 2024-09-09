@@ -1,0 +1,2 @@
+In einem KO-System eines Turniers werden immer [[Logarithmus|logarithmisch]] viele Runden benötigt
+- In jeder Runde wird die Anzahl der Teilnehmenden halbiert (ein Gewinner, der weiter kommt) --> [[Logarithmus Dualis]] 

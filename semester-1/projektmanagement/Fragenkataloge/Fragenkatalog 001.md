@@ -1,5 +1,5 @@
 ##### 1. Projektdefinition
-[[Projektdefinition]]
+[[Definition Projekt]]
 - Einmaligkeit
 - Begrenzung der Ressourcen
 - Zielvorgaben
@@ -8,6 +8,10 @@
 
 ##### 2. Projektmanagement
 **Führungsaufgabe!!** Planung für einhaltung der Ressourcen, Führung der Mitarbeiter etc...
+- Zielsetzung
+- Planung
+- Steuerung
+- Überwachung
 
 ##### 3. Warum gehen Projekte schief?
 - unklare Definition

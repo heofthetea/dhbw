@@ -7,4 +7,14 @@
 - [[Method Signature]] has to be identical
 	- Exception: [[Visibility]] can be made less strict
 		- protected Method made Public
+- Uses the `@Override` [[Annotation]]
 - 
+
+#### Example: [[Square.java]]
+```java
+@Override
+public void setWidth(double width) {
+	super.setWidth(width);
+	super.setHeight(width);
+}
+```

@@ -9,3 +9,4 @@ path:lineare-algebra/Aufgaben file:"Aufg-{{number}}_{{name}}"
 ```expander
 path:goodnotes file:"Aufg-{{number}}_{{name}}"
 ```
+

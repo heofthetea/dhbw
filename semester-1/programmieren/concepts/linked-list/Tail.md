@@ -1,1 +1,1 @@
-The _last_ [[Node]] of a [[Doubly Linked List]].
+The _last_ [[Node (doubly linked list)]] of a [[Doubly Linked List (C)]].

@@ -1,0 +1,2 @@
+- Einfügen am Anfang in [[Konstante Laufzeit|konstanter Laufzeit]]
+- Entfernen am Anfang in [[Konstante Laufzeit|konstanter Laufzeit]]

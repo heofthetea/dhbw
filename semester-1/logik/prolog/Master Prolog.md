@@ -1,6 +1,6 @@
 
 ## Übersicht
-[[Prolog Library]]
+[[Library Prolog]]
 [[Prolog Installation]]
 [[Master Prolog Syntax]]
 [[Besondere Prädikate]]

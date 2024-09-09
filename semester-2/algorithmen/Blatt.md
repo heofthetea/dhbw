@@ -1,0 +1,1 @@
+[[Knoten]] eines [[Baum|Baums]], der keine [[Kindknoten|Kinder]] hat

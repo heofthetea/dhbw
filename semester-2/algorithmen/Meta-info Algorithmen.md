@@ -3,10 +3,10 @@
 - Klausur 90 min
 
 ### Erlaubte Hilfsmittel
-- Ein doppelseitig _handgeschriebenes_ Blatt (darf vom iPad gedruckt wwerden)
+- Ein doppelseitig _handgeschriebenes_ Blatt (darf vom iPad gedruckt werden)
 - KEIN TASCHENRECHNER!!! --> [[Modulo]] could be difficult
 
-> [!info] Klausur falle vielen einfacherr als Logik lol never
+> [!info] Klausur falle vielen einfacher als Logik lol never
 
 
 # General Info

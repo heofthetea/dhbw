@@ -1,3 +1,5 @@
+> Looking at this 4 months later, it's truly hilarious just _how_ bad my note-taking was when I started out lol
+
 ## keywords
 `signed` --> specifies a value should be signed
 
@@ -9,16 +11,16 @@ prints out something
 use: `printf("...", )` 
 
 
-| placeholder | datatype |
-| ---- | ---- |
-| `%d`, `%i"` | integer |
-| `%f` | float |
-| `%lf` | double |
-| `%c` | char |
-| `%u` | unsigned integer |
-| `%s` | string |
-| `%x, %X` | hex-darstellung |
-|  |  |
+| placeholder | datatype         |
+| ----------- | ---------------- |
+| `%d`, `%i"` | integer          |
+| `%f`        | float            |
+| `%lf`       | double           |
+| `%c`        | char             |
+| `%u`        | unsigned integer |
+| `%s`        | string           |
+| `%x, %X`    | hex-darstellung  |
+|             |                  |
 %20d --> _always_ prints out value with 20 bytes (uses _leading_ blanks)
 %-20d --> same, but puts blanks on the right side
 ### scanf
@@ -60,6 +62,7 @@ system("clear");
 
 
 ## Arrays
+[[Array]]
 **You know what an array is, you're only here for the syntax**
 ### character array
 **Strings need ending character** ==> `char[64]` can only hold 63 characters
@@ -201,4 +204,4 @@ uint64_t *temp =(uint64t *) malloc(sizeof(uint64_t));
 ```
 Reserves 8 byte of memory. Returns the pointer _to_ that reserved memory.
 
-> [!warningAlways cast to correct type!! Only this way, memory will behave as expected.
+> [!warningAlways [[Type Casting|cast]] to correct type!! Only this way, memory will behave as expected.
