@@ -10,4 +10,5 @@ path:lineare-algebra/Aufgaben file:"Aufg-03_Induktion"
 ```expander
 path:goodnotes file:"Aufg-03_Induktion"
 ```
+[[goodnotes/Semester 1/Lineare Algebra/Aufgaben/Aufg-03_Induktion.pdf]]
 

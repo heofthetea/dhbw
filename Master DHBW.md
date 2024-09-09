@@ -10,7 +10,7 @@
 [[Master Exports]]
 [[Colour Backups]]
 [[Access Token.mdenc]]
-
+[[Structuring.pdf]]
 ## Praxisphasen
 [[Master intension]]
 [[Hub Wissenschaftliche Arbeiten]]
@@ -20,7 +20,6 @@
 
 ### Semester 1
 [[Master Semester 1]]
----
 
 [[Master C]]
 [[Master Projektmanagement 1]]
@@ -43,3 +42,5 @@
 [[Hub Java|Hub Java]]
 
 
+### Semester 3
+[[Master Semester 3]]

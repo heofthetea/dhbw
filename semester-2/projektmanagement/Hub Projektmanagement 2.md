@@ -50,6 +50,7 @@ Vorgehensmodell:
 [[Projektphase - Nutzung]]
 
 ## 10 Kostenplanung
+[[PM Kap_10 Kostenplanung_vorl.pdf]]
 [[Risiken mit Kostenplanung]]
 [[Ziele der Kostenplanung]]
 [[Vorgehensweise Kostenplanung]]

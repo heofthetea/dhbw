@@ -23,6 +23,7 @@ def selection_sort(arr):
 
 ### Analyse
 #### Komplexität
+Zählt hier die Anzahl der _Vergleiche_. Es passiert immer ein Swap pro Durchlauf. Das letzte Element wird mit sich selbst geetauscht
 [[Summenformel auflösen]]
 > [!hint] das $n(n-1)$ kommt davon, dass $n - 1$ in die eigentliche Summenformel eingesetzt wird!
 

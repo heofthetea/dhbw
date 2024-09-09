@@ -5,11 +5,12 @@
 
 ## 002 Versuchsdesign
 [[Ablauf Wissenschaftliches Arbeiten]]
+[[Konvergenzsatz]]
 
 [[Gütekriterien für Tests]]
 
 [[Befragung]]
-[[Observation]]
+[[Observation]]P
 
 
 [[Experiment]]

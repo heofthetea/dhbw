@@ -1,4 +1,5 @@
 [[Fragenkatalog 001]]
+[[semester-1/projektmanagement/scripts/PM Kap_02 Auftrag und Ziele_vorl.pdf|PM Kap_02 Auftrag und Ziele_vorl]]
 ### in 5 minuten 30 wichtigste Telefonnummern zusammen tragen
 1) Telefonbuch beschaffen
 2) definiere "wichtig"

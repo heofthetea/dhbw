@@ -18,4 +18,4 @@ Seien $x, b\in \mathbb{R}^{n}$ positive Reelle zahlen, sei $b\neq 1$ und $x = b^
 - $b = e$ --> [[Eulersche Zahl]]
 	- $log_{e}\, x$ heißt _natürlicher_ Logarithmus, geschrieben $ln(x)$
 
-[[Basen ineinander überführen]]
+[[Basen ineinander überführen]], [[Rechenregeln Logarithmus]]

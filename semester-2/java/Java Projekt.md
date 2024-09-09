@@ -1,4 +1,3 @@
-[[Anforderungen_java_projekt.pdf]]
 [[Epic Java Projekt]]
 [[Java Project - How to deal with Data Sets]]
 [[java Project Entities]]
@@ -10,25 +9,6 @@
 **BRO FUCK YOU NOT A SINGLE SOUL ON THIS PLANET USES JAVA WITHOUT BUILD TOOLS TO MANAGE THEIR FILESYSTEM**
 
 [[java project - relations]]
-
-
-
-## Code
-```expander
-path: java/movie-database
-```
-[[Actor.java]]
-[[semester-2/java/movie-database/out/tea/the/of/he/movies/entities/Actor.class]]
-[[semester-2/java/movie-database/out/production/movie-database/tea/the/of/he/movies/entities/Actor.class]]
-[[ActorMovie.java]]
-[[semester-2/java/movie-database/out/tea/the/of/he/movies/entities/ActorMovie.class]]
-[[semester-2/java/movie-database/out/production/movie-database/tea/the/of/he/movies/entities/ActorMovie.class]]
-[[Anforderungen_java_projekt.pdf]]
-[[Database.java]]
-[[semester-2/java/movie-database/out/tea/the/of/he/movies/Database.class]]
-[[semester-2/java/movie-database/out/production/movie-database/tea/the/of/he/movies/Database.class]]
-[[DatabaseTest.java]]
-[[DatabaseTest.class]]
 
 
 ## Filmdatenbank

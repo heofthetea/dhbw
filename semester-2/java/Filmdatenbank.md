@@ -48,3 +48,5 @@ Aufbau:
 	- 
 
 ![[Pasted image 20240604173137.png]]
+
+

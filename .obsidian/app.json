@@ -42,6 +42,7 @@
   "propertiesInDocument": "visible",
   "userIgnoreFilters": [
     "\"/.*/output/.*/\"",
-    "\".*/.pyc$/\""
+    "semester-2/java/movie-database/",
+    "/.*/.pyc/"
   ]
 }

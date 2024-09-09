@@ -1,6 +1,0 @@
-#!/bin/sh
-
-
-shuf -i 0-100 -n 100 -o small.data
-
-

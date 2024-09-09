@@ -33,8 +33,8 @@ Eine _Basis-Story_ dient als _Bezugs-Größe_
 Für jede Story:
 Iterativ:
 - Menge an Karten: $K := \{0, 1, 2, 3, 5, 8, ?, 20, Kaffeepause, ...\}$ 
-	- sind _Fibonacci_-Zahlen!!!
+	- sind [[Fibonacci-Folge|Fibonacci]]-Zahlen because lol
 - jeder schätzt (Bsp. 3, 20,...)
 - Jeder erklärt seine Schätzung
 
-In jeder Iteration gleichen sich Werte an --> Konvergenzwert wird jetzt genommen
+In jeder Iteration gleichen sich Werte an --> [[Grenzwert]] wird schlussendlich genommen

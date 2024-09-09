@@ -31,12 +31,11 @@ Detaillierungsgrad schreitet voran, wenn Projekt voran schreitet
 - _unterste_ Ebene in PSP --> kann nicht weiter aufgeteilt werden
 - ist immer das, was ein MA/Team als Arbeitsauftrag bekommt
 
-#### 24. Was ist wichtig beim Schätzen?
-
+#### 24. Was ist wichtig beim Schätzen?s
 Verhältnismäßig _viel_ Wissen
---> je weniger Wissen, desto schlechter ist Schätzung
+--> je weniger Wissen, desto schlechter ist Schätzung ([[Schätzungsproblematik]])
 
 #### 25. Schätzmethoden
 - Expertenschätzung
 - Planning Poker / DELFI-Methode
-- PURT-Schätzung (3-Punkte)
+- PERT-Schätzung (3-Punkte)

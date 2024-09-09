@@ -11,16 +11,16 @@ prints out something
 use: `printf("...", )` 
 
 
-| placeholder | datatype |
-| ---- | ---- |
-| `%d`, `%i"` | integer |
-| `%f` | float |
-| `%lf` | double |
-| `%c` | char |
-| `%u` | unsigned integer |
-| `%s` | string |
-| `%x, %X` | hex-darstellung |
-|  |  |
+| placeholder | datatype         |
+| ----------- | ---------------- |
+| `%d`, `%i"` | integer          |
+| `%f`        | float            |
+| `%lf`       | double           |
+| `%c`        | char             |
+| `%u`        | unsigned integer |
+| `%s`        | string           |
+| `%x, %X`    | hex-darstellung  |
+|             |                  |
 %20d --> _always_ prints out value with 20 bytes (uses _leading_ blanks)
 %-20d --> same, but puts blanks on the right side
 ### scanf

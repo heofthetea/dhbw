@@ -1,0 +1,20 @@
+```expander
+path: java/code
+```
+[[Angestellter.java]]
+[[Arbeiter.java]]
+[[CEO.java]]
+[[Code Block]]
+[[CopilotTest.java]]
+[[Enums.java]]
+[[GehaltBerechenbar.java]]
+[[GehaltsBerechnung.java]]
+[[HelloWorld.java]]
+[[Main.java]]
+[[Manager.java]]
+[[Mitarbeiter.java]]
+[[Rectangle.java]]
+[[Square.java]]
+[[StreamsExample.java]]
+[[test.java]]
+[[WeekDay.java]]

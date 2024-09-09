@@ -7,11 +7,11 @@ Solution: _Zwischenspeichern_ von Ergebnissen
 
 ### Ansatz
 ```python
-fibd(n):
+def fibd(n):
 	if n in [1, 2]:
 		return 1
 	if fib_cache[n] == 0:
-		fib_cache[n] == fibd(n - 1) + fibd(n - 2)
+		fib_cache[n] = fibd(n - 1) + fibd(n - 2)
 	return fib_cache[n]
 ```
 

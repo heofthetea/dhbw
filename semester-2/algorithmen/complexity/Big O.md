@@ -2,7 +2,7 @@
 </span>
 
 Für eine Funktion f bezeichnet $O(f)$ die Menge aller Funktionen $g$ mit:
-$$\exists_{k} \in \mathbb{N},\ \exists_{c} \in \mathbb{R}^{\geq 0}\ \ \forall_{n \gt k}\ g(n) \leq c \cdot f(n)$$
+$$\exists_{k \in \mathbb{N}}\ \exists_{c \in \mathbb{R}^{\geq 0}}\ \ \forall_{n \gt k}\ g(n) \leq c \cdot f(n)$$
 
 
 - $O(f)$ ist eine [[Menge]]

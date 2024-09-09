@@ -1,3 +1,5 @@
+[[Library Graphen]]
+
 ## Heap
 - [[Heap]] - fast vollständiger [[Binary Tree]]
 - [[Heap Eigenschaften]]:
@@ -93,10 +95,24 @@
 ---
 [[Hash-Funktion]] - Transformiere großen [[Key]] in einen kleineren [[Key]]
 - <span style="color:rgb(245, 154, 35)">Einweg</span>-Funktion (nicht rekonstruierbar) --> [[Modulo]]
-- 
+- Es gehen zwangsweise Daten verloren - sollte möglichst gut streuen, um [[Kollision|Kollisionen]] zu vermeiden
 [[Kollision]]: Passiert, wenn zwei [[Key|Schlüssel]] denselben Hash-Wert haben
 
+### Umgang mit Kollisionen
 
+[[Chaining]]:
+- Anstatt der tatsächlichen befindet sich an jedem Hash-Wert ein [[Listenanker]]
+- Wenn Bereits ein Wert existiert, wird der neue einfach in die Liste geschoben
+- **Problem**: Werden die [[Liste|Listen]] zu lang, geht die [[Konstante Laufzeit]] der Map verloren ==> $\Theta\left(\frac{n}{N}\right)$ 
+[[Linear Probing]]:
+- Wenn [[Kollision]] auftritt, schiebe Element einfach wo anders hin
+- Schrittweite $m$ ist für jedes Element gleich
+==> [[Re-hashing]]: Schrittweite $m$ wird durch zweite [[Hash-Funktion]] (vom _Datensatz_!!) ermittelt
+
+
+> [!warning]- $m$ muss [[teilerfremd]] zu $N$ sein
+> Wemm Schrittgröße und Länge der [[Hash Map]] gemeinsame Teiler haben, werden in manchen Fällen nicht alle Felder getroffen
+> - gilt natürlich auch für das [[Bild einer Funktion|Bild]] der [[Re-hashing|Re-Hash-Funktion]]
 
 
 ## Scorecard

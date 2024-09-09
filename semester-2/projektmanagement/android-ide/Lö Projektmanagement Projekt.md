@@ -16,7 +16,7 @@
 ---
 - [[Selection of Android Development Tools]]
 - [[Kategorien Android Tools]]
-- [[Bewertung Android Tools]]
+- [[Bewertung Android Tools]] --> [[calc_rating.py]]
 - [[Glossary Android Tools]]
 
 [[Android Project Programming]]

@@ -25,3 +25,8 @@
 
 [[Negotiation exam]]
 
+[[23B-2988631.Checklist before negotiation.pdf]]
+[[23B-2988631.Checklist before negotiation.docx]]
+[[23B-2988631.self assessment after the negotiation.pdf]]
+[[23B-2988631.self assessment after the negotiation.docx]]
+

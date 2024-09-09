@@ -6,15 +6,15 @@ persönliches Umfeld ist wichtig --> erhöht Motivation
 Projektleiter braucht _direkt_ und _kurzfritig_ Zugriff auf alle Mitarbeiter des Projekts
 
 ### 2. Reine Projektorganisation
-**Baumstruktur**
+[[Baum|Baumstruktur]]
 Projekt unterteilt in viele eigenständige Unterprojekte
 
 Zieht sich für jedes Projekt MA aus Abteilungen --> keine Routineaufgaben, immer Projektspezifisch
 
 **Nachteil**: Wenn Person keine Aufgabe hat, sitzt sie auf der _Bank_
 
-
 ### 3. Matrix-Projektmanagement
+[[Matrix]]
 Ordnet jedem Teilprojekt einer Abteilung zu (und umgekehrt)
 Projektleiter hat **_Weisungsbefugnis_**
 

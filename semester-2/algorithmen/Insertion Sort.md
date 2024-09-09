@@ -13,7 +13,6 @@
 ### Pseudo Code
 ```python
 def insert_sort(arr):
-	arrlen = len(arr)
 	for i in range(1, len(arr)):
 		j = i
 		while j > 0 and arr[j] < arr[j - 1]:

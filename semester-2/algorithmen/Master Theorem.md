@@ -9,7 +9,7 @@ $$f(n)= a \cdot f\left(\left\lfloor\frac{n}{b}\right\rfloor\right)+c(n),\ \ \ \ 
 
  **Fallunterscheidung**:
 1. $a < b^{d} \Rightarrow f(n) \in O(n^d)$
-2. $a = b \Rightarrow f(n) \in O(log_{b}(n)\cdot n^{d})$ 
+2. $a = b^{d} \Rightarrow f(n) \in O(log_{b}(n)\cdot n^{d})$ 
 3. $a \gt b^{d} \Rightarrow f(n) \in O(n^{log_{b}\, a})$ 
 
 ### Anschaulich

@@ -1,5 +1,7 @@
 > PSP: Projektstrukturplan
 > engl.: WBS: Work breakdown structure
+
+[[Baum]]
 #### Drei Arten von Projektstrukturpläne
 Bsp: Erneuern IT- Infrastruktur
 Die _oberste_ Ebene zeichnet PSP aus

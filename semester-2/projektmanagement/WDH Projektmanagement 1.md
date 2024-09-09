@@ -1,5 +1,8 @@
 - [[Definition Projekt]]:
-	- Zielvorgabe, einzigartig, abgrenzung von anderen Vorhaben, projektspezifische Organisation
+	- Zielvorgabe
+	- einzigartig
+	- Abgrenzung von anderen Vorhaben
+	- projektspezifische Organisation
 - **Projektmanagement** ist eine Führungsaufgabe, die ein Projekt leitet ([[Fragenkatalog 001]])
 	- Zielsetzung
 	- Planung
@@ -12,18 +15,19 @@
 	- ändernde oder von vorne herein unrealistische Ziele [[Übung Elbphilharmonie]]
 	- **gescheitert $\neq$ später fertig werden**
 
-
-
 > [!hint] Generelle Prüfungsrelevanz
 > Alles ist Prüfungsrelevant, aber muss nicht auswendig gelernt werden - Gefühl dafür haben reicht
 
 - Projektmanagementprozess
 	- [[Projektstrukturplan]]
+		- Objektorientiert
+		- Funktonsorientiert
+		- Phasenorientiert (häufigstes)
 	- Terminplanung: [[005 Terminmanagement#GANTT-Chart Darstellung]]
 - [[001 Ziele]] - Was ist ein Ziel?
 	- Zielkonflikt:
 		- Ich will Marathonläufer werden, Hanh will nicht, dass ich so viel weg bin --> Konflikt
-	- Ziele sollen nachzuweisende Ergebnisse bei vorgegebenen Randbedingungen der Gesamtheit des Projekt
+	- Ziele sollen nachzuweisende Ergebnisse bei vorgegebenen Randbedingungen der Gesamtheit des Projektes sein
 	- [[SMART]] Prinzip!!!!
 		- steht für:
 			- Spezifisch
@@ -35,8 +39,11 @@
 			- aber man sollte versuchen, so nah wie möglich dahin zo kommen
 	- **Schwierigkeit**: Ziele sollen _lösungsneutral_ formuliert werden --> NICHT AN LÖSUNG FÜR DAS ZIEL DENKEN!!!
 - [[Magisches Dreieck]]
-	- wennn sich ein Aspekt ändert, ändern sich die anderen Auch
+	- wennn sich ein Aspekt ändert, ändern sich die anderen auch
 	- Zusammenspiel aus **Terminziel** (Projektendtermin), **Kostenziel** und **Sachziel** (Ergebnis des Projekts)
+
+> [!hint] think: Zeit, Budget, [[Definition Qualität|Qualität]]
+
 - [[Stakeholder]]
 
 #### [[002 Projektorganisation]]
@@ -54,6 +61,7 @@
 	- **Führen** und Beraten von Mitarbeitern während des Projektes
 	- dauerhaft **informieren** und dokumentieren
 	- Projektmanager ist **rechtlich** dafür **verantwortlich**, Arbeitsnehmerrechte usw. einzuhalten!!
+
 > [!hint] Kompetenz des Projektleiters
 > Projektmanager muss fachlich nicht der beste sein, aber er muss genug davon verstehen, um Feedback der Mitarbeiter einordnen zu können!
 
@@ -65,7 +73,6 @@
 	- Wird immer vom Auftragnehmer erstellt
 	- **wie** soll es gemacht werden, **womit** wird es realisiert?
 		- darf trotzdem nicht zu tief ins Detail gehen, damit Kunde noch was anfangen kann damit
-
 ### [[003 Projektplanung]]
 - [[Projektstrukturplan]]
 	- funktionsorientiert

@@ -7,6 +7,7 @@
 # Main  Vorlesung
 ---
 [[Kahoot winning streak]]
+[[Algo Klausur Tipps]]
 
 ## Libraries
 [[Library Komplexität]]
@@ -14,17 +15,24 @@
 [[Library Lineare Datenstrukturen]]
 [[Library Sortieren]]
 [[Library Datenstrukturen]]
+[[Library Graphen]]
 
 
-### Script
+## Sources
 [[Algorithmen.pdf]]
 [[AdditionalExercises.pdf]]
+[[Donald Knuth - The Art of Computer Programming_ Volume 4B_ Combinatorial Algorithms Part 2. 4B-Addison-Wesley Professional (2022).pdf|Knuth 4B]] 
+[[Donald Knuth - Art of Computer Programming - Volume 3 (Sorting & Searching).pdf|Knuth 3]]
 
 ### Altklausuren
-[[klausur_2015_ueb_a.pdf]]
+[[klausur_2015_ueb_a.pdf]] --> [[goodnotes/Semester 2/Algorithms/Klausur/klausur_2015_ueb_a.pdf|bearbeitung]]
 [[klausur-2016_ueb_a.pdf]]
 [[klausur-2018_ueb_a.pdf]]
+[[klausur-2019_ueb_a.pdf]]
+[[klausur2023_ueb.pdf]]
+[[weird_algo_klausur.c]]
 
+[[Algorithmen GoodNotes]]
 ## MISC
 [[FizzBuzz Test]]
 [[Pre-mature Optimization is the root of all evil]]
@@ -269,6 +277,5 @@
 - [[Optimierung Prim]]
 
 [[kürzester Pfad]]
-- [[Dijkstra Algorithm]]
+- [[Dijkstras Algorithm]]
 - [[Beispiel Dijkstra]]
-- \
