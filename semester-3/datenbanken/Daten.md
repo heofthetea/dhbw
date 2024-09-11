@@ -1,0 +1,1 @@
+Sind Zeichen in [[Syntax|sytaktisch]] korrekter Anordnung.

@@ -1,5 +1,5 @@
 > **I**nternet **P**rotocol
 
-Split up into **IPv4** and **IPv6**
+Split up into [[IPv4]] and [[IPv6]]
 
-### IP address
+

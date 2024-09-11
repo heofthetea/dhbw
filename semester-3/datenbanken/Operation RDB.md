@@ -1,0 +1,2 @@
+- Eine [[Abbildung|Funktion]] auf die [[Daten]] durchführen
+	- man muss [[Daten]] nicht nur ablegen können, sondern auch was damit machen

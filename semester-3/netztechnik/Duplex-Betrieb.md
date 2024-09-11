@@ -1,0 +1,1 @@
+- $A$ und $B$ können gleichzeitig in beide Richtungen kommunizieren

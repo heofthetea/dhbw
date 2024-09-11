@@ -1,3 +1,5 @@
+
+## Prolog
 - Tritt auf, wenn wiederholte [[Unifikation]] eines [[Rekursive Prädikate|rekursiven Prädikats]] mit sich selbst einen "Kreis" erzeugt
 - Beispiel: Frage nach _allen_ natürlichen Zahlen in [[Peano-Axiome|Peano-Axiomen]]
 - In vielen Situationen unvermeidlich

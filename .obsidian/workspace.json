@@ -37,13 +37,13 @@
             }
           },
           {
-            "id": "f269f76530b45f11",
+            "id": "71df125b5566cea7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
+                "file": "semester-3/datenbanken/Hub Datenbanken.md",
                 "mode": "source",
                 "source": false
               },
@@ -51,19 +51,35 @@
             }
           },
           {
-            "id": "32da59bca4626a50",
+            "id": "5bed957c7ce22acb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/web-engineering/Hub Web Engineering.md",
+                "file": "semester-3/netztechnik/Hub Netztechnik.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bc0238ca28b728e4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "5e44c37c29a1d2f6",
@@ -73,69 +89,63 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 81.00664767331433,
+            "dimension": 40.74074074074074,
             "children": [
               {
-                "id": "215afabd49a3101b",
+                "id": "339b3d654a3fd7fc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/angewandte_mathematik/Exponentialfunktion.md",
+                    "file": "semester-3/formale-sprachen/Automat.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "24adc76c654f4da0",
+                "id": "68052f8bfad9f159",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Halbleiter Prozessoren.md",
+                    "file": "semester-3/formale-sprachen/Operationen auf Sprachen.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "a0fb10817b52fa05",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "2a3dd3b54b9809d2",
+                "id": "b24313b461ac20cf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/angewandte_mathematik/Integralrechnung.md",
+                    "file": "semester-3/formale-sprachen/Wort.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "5f44530f86e3877d",
+                "id": "bb20f33256a925c1",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Formale Sprache.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 18.99335232668566,
+            "dimension": 59.25925925925925,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -148,8 +158,45 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "07245b08c4d095aa",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-3/datenbanken/sources/DB_Kap01_Grundlagen_Stud.pdf"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "9e4c62cc7984adf9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "modulhandbuch.pdf"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "f9fa749c62c3e99c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/sources/FSA-handout.pdf"
+                  },
+                  "pinned": true
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -181,7 +228,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path: \"goodnotes/Semester 1/Digitaltechnik\"",
+                "query": "tag: todo path: netztechnik",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -229,22 +277,8 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed2892acd5243c11",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "semester-3/formale-sprachen/Formale Sprache.md"
               }
             }
           },
@@ -254,17 +288,27 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "semester-3/formale-sprachen/Formale Sprache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "32ddca2f97a38a53",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,56 +323,57 @@
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5f44530f86e3877d",
+  "active": "bb20f33256a925c1",
   "lastOpenFiles": [
-    "semester-2/web-engineering/Hub Web Engineering.md",
-    "semester-2/web-engineering/code/GeoCalculator.md",
-    "semester-2/algorithmen/Dictionary.md",
-    "semester-2/web-engineering/GeoCalculator Source Code.md",
-    "extern/notes/Daily Note 06-01-2024.md",
-    "intension/daily_notes/Daily Note 15-03-2024.md",
-    "intension/daily_notes/Daily Note 26-03-2024.md",
-    "intension/daily_notes/Daily Note 07-03-2024.md",
-    "intension/daily_notes/Daily Note 16-04-2024.md",
-    "semester-2/algorithmen/Operationen auf Dictionaries.md",
-    "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
-    "intension/t1000/README.md",
-    "semester-1/projektmanagement/001 Ziele.md",
-    "semester-1/projektmanagement/Master Projektmanagement 1.md",
-    "semester-1/projektmanagement/Projektmanagement GoodNotes.md",
-    "semester-2/projektmanagement/android-ide/Lö Projektmanagement Projekt.md",
-    "goodnotes/Semester 2/Java/Java Übungen.pdf",
-    "semester-2/projektmanagement/android-ide/Selection of Android Development Tools.md",
-    "semester-1/digitaltechnik/Digitaltechnik GoodNotes.md",
-    "semester-1/digitaltechnik/Master Digitaltechnik.md",
-    "semester-2/icc/Hub ICC 2.md",
-    "goodnotes/Semester 2/Web Engineering/Notes Web Engineering.pdf",
-    "semester-2/algorithmen/Hub Algorithmen.md",
-    "semester-2/algorithmen/labor/vorlesung/weird_algo_klausur.c",
-    "intension/Master intension.md",
-    "semester-1/forschungsmethoden/Intro/Forschungsprojekt.md",
-    "intension/README.md",
-    "semester-1/forschungsmethoden/Intro/Ethik.md",
-    "semester-1/forschungsmethoden/Intro/Ethik und Informatik.md",
-    "intension/images/Pasted image 20240322111527.png",
-    "semester-2/algorithmen/labor/fibonacci.py",
-    "semester-1/programmieren/code/fibonacci.py",
-    "goodnotes/Semester 2/misc.pdf",
-    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408173637.png",
-    "semester-2/java/code/squares/Main.java",
-    "goodnotes/Semester 1/Logik/Tipps Klausur Logik.pdf",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083813 1.png",
-    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408173647.png",
-    "semester-2/web-engineering/code/example.html",
-    "semester-3/angewandte_mathematik/images/Pasted image 20240909152752.png",
-    "semester-3/angewandte_mathematik/images/Pasted image 20240909152727.png",
-    "semester-3/angewandte_mathematik/images",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240909112527.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240909112400.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240909111637.png",
-    "semester-3/images/Pasted image 20240909102705.png"
+    "semester-3/formale-sprachen/Wort.md",
+    "semester-3/formale-sprachen/Operationen auf Sprachen.md",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/Formale Sprache.md",
+    "semester-3/formale-sprachen/Alphabet.md",
+    "semester-3/formale-sprachen/Übung 1.22 Operationen auf Wörtern.md",
+    "semester-3/formale-sprachen/images/Pasted image 20240911153143.png",
+    "semester-3/formale-sprachen/leeres Wort.md",
+    "semester-3/formale-sprachen/ASCII.md",
+    "semester-3/formale-sprachen/images/Pasted image 20240911151957.png",
+    "semester-3/formale-sprachen/Formale Sprachen in Praxis.md",
+    "semester-3/formale-sprachen/Grammatik.md",
+    "semester-3/formale-sprachen/Sprachklasse.md",
+    "semester-3/formale-sprachen/Automat.md",
+    "semester-3/formale-sprachen/Übung 1.10 Grammatik.md",
+    "semester-3/formale-sprachen/Produktionsregel.md",
+    "semester-3/formale-sprachen/Terminalsymbol.md",
+    "semester-3/formale-sprachen/images/Pasted image 20240911144826.png",
+    "semester-3/formale-sprachen/Nichtterminalsymbol.md",
+    "semester-1/logik/prolog/5.1 Syntax/syntax/Variable.md",
+    "semester-1/logik/prolog/5.3 Unifikation/Anonyme Variable.md",
+    "semester-3/formale-sprachen/Mermaid State Diagram.md",
+    "semester-3/netztechnik/ISM-Bänder.md",
+    "semester-3/Master Semester 3.md",
+    "semester-3/datenbanken/Netzwerk.md",
+    "semester-3/netztechnik/RFC.md",
+    "semester-3/datenbanken/Anforderungen an elektronische Informationsverarbeitung.md",
+    "semester-3/datenbanken/Von Zeichen zu Wissen.md",
+    "semester-1/digitaltechnik/Redundanz.md",
+    "semester-3/formale-sprachen/images/Pasted image 20240911140651.png",
+    "semester-3/formale-sprachen/images/Pasted image 20240911140535.png",
+    "semester-3/formale-sprachen/images/Pasted image 20240911140037.png",
+    "semester-3/formale-sprachen/images/Pasted image 20240911133145.png",
+    "semester-3/formale-sprachen/images",
+    "semester-3/formale-sprachen/sources/FSA-handout.pdf",
+    "semester-3/formale-sprachen/sources",
+    "semester-3/formale-sprachen",
+    "modulhandbuch.pdf",
+    "semester-3/netztechnik",
+    "semester-3/datenbanken/images/Pasted image 20240910162108.png",
+    "semester-3/datenbanken/images/Pasted image 20240910161452.png",
+    "semester-3/datenbanken/sources/DB_Kap01_Grundlagen_Stud.pdf",
+    "semester-3/datenbanken/images/Pasted image 20240910142634.png",
+    "semester-3/datenbanken/sources/Alfons Kemper, André Eickler - Datenbanksysteme. Eine Einführung-Oldenburg Wissenschaftsverlag (2009).pdf",
+    "semester-3/datenbanken/images",
+    "semester-3/datenbanken/sources"
   ]
 }

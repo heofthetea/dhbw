@@ -1,4 +1,4 @@
-> IEEE754
+> [[IEEE]] $754$
 
 [[Floats.pdf]]
 
