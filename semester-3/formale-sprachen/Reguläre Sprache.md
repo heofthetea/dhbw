@@ -1,6 +1,8 @@
 > begrenzt ausdrucksstark, aber einfach zu handhaben
 > erkannt durch [[endlicher Automat]]
 
+
+- Namensgebung: jede [[Reguläre Sprache]] kann durch eine [[Regular Expression]] ausgedrückt werden
 ## Fähigkeiten
 - Abfolge verschiedener Muster
 - Alternativen

@@ -1,10 +1,11 @@
+[[Minimalsystem]]
 ```mermaid
 	flowchart LR
 	Befehlsspeicher <--"Bus ro"--> CPU <--"Bus rw"---> Datenspeicher
 	CPU <--> I/O
 ```
 
-[[CPU (Central Processing Unit)]]
+[[CPU]]
 
 - Getrennte Adressen für Code und Data:
 	- Adresse $C:\set{0, 1, 2, 3,...}$ und $D:\set{0, 1, 2, 3,...}$ 
@@ -16,7 +17,7 @@
 	- Bonus-Effekt: nicht anfällig gegenüber Viren lol
 > [!warning] Alles, was _ausgeführt_ werden soll, _muss_ im Befehlsspeicher liegen!!
 
-- (meist) gleichzeitige Kommunikation der Speicher mit [[CPU (Central Processing Unit)]], da beide Busse getrennt voneinander arbeiten
+- (meist) gleichzeitige Kommunikation der Speicher mit [[CPU]], da beide Busse getrennt voneinander arbeiten
 		==> hohe Leistungsfähigkeit, aber mehr Aufwand (z.B. [[DSP]])
 
 ![[Pasted image 20240909112527.png]]

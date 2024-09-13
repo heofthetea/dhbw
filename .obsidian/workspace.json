@@ -4,148 +4,221 @@
     "type": "split",
     "children": [
       {
-        "id": "f025252f25493d6e",
-        "type": "tabs",
-        "dimension": 38.059701492537314,
+        "id": "88d1f460d0ce55bc",
+        "type": "split",
+        "dimension": 40.085287846481876,
         "children": [
           {
-            "id": "6f2af3586be0fea2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
-                "mode": "source",
-                "source": false
+            "id": "f025252f25493d6e",
+            "type": "tabs",
+            "dimension": 77.77777777777779,
+            "children": [
+              {
+                "id": "6f2af3586be0fea2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "39a969c9d0a8f892",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Hub Systemnahe Programmierung.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "71df125b5566cea7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Hub Datenbanken.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "5bed957c7ce22acb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Hub Netztechnik.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "bc0238ca28b728e4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 4
           },
           {
-            "id": "39a969c9d0a8f892",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-3/rechnerarchitekturen/Hub Systemnahe Programmierung.md",
-                "mode": "source",
-                "source": false
+            "id": "e6d92ec07f1c1d78",
+            "type": "tabs",
+            "dimension": 22.22222222222222,
+            "children": [
+              {
+                "id": "bb20f33256a925c1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Library Minimalsystem.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "71df125b5566cea7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-3/datenbanken/Hub Datenbanken.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "5bed957c7ce22acb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-3/netztechnik/Hub Netztechnik.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "bc0238ca28b728e4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
+              {
+                "id": "4a0a521f5f430ec9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/CPU.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 4
+        "direction": "horizontal"
       },
       {
         "id": "5e44c37c29a1d2f6",
         "type": "split",
-        "dimension": 61.940298507462686,
+        "dimension": 59.914712153518124,
         "children": [
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 40.74074074074074,
+            "dimension": 74.4539411206078,
             "children": [
               {
-                "id": "339b3d654a3fd7fc",
+                "id": "cded2ab4a9889782",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Automat.md",
+                    "file": "semester-3/formale-sprachen/Operationen auf Wörtern.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "68052f8bfad9f159",
+                "id": "2ff35748eba7c399",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Operationen auf Sprachen.md",
+                    "file": "extern/templates/Template Mermaid State Diagram.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "b24313b461ac20cf",
+                "id": "294e77d559f0d712",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Wort.md",
+                    "file": "semester-3/rechnerarchitekturen/Rechenwerk.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "bb20f33256a925c1",
+                "id": "8886c1f31aefcb0a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Formale Sprache.md",
+                    "file": "semester-3/rechnerarchitekturen/Steuerwerk.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c767b78d9bafa2f7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Binärsystem.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c5c8f33084ddbdbb",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e2dfcd47fd5e24ae",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Rechenregeln Reguläre Ausdrücke.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 6
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 59.25925925925925,
+            "dimension": 25.546058879392213,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -228,7 +301,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: todo path: netztechnik",
+                "query": "opCod",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -278,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/formale-sprachen/Formale Sprache.md"
+                "file": "semester-3/formale-sprachen/Rechenregeln Reguläre Ausdrücke.md"
               }
             }
           },
@@ -288,27 +361,43 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/formale-sprachen/Formale Sprache.md",
+                "file": "semester-3/formale-sprachen/Rechenregeln Reguläre Ausdrücke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "32ddca2f97a38a53",
+            "id": "0114747f0b03b1ef",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {}
             }
+          },
+          {
+            "id": "f6ce5d953238745f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "semester-3/formale-sprachen/Rechenregeln Reguläre Ausdrücke.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,53 +416,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bb20f33256a925c1",
+  "active": "e2dfcd47fd5e24ae",
   "lastOpenFiles": [
-    "semester-3/formale-sprachen/Wort.md",
-    "semester-3/formale-sprachen/Operationen auf Sprachen.md",
+    "semester-3/formale-sprachen/Konkatenation.md",
+    "extern/templates/Template Mermaid State Diagram.md",
+    "semester-3/rechnerarchitekturen/Rechenwerk.md",
+    "Binärsystem.md",
+    "semester-3/rechnerarchitekturen/Steuerwerk.md",
+    "semester-3/formale-sprachen/Operationen auf Wörtern.md",
+    "semester-3/formale-sprachen/Rechenregeln Reguläre Ausdrücke.md",
     "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Formale Sprache.md",
-    "semester-3/formale-sprachen/Alphabet.md",
-    "semester-3/formale-sprachen/Übung 1.22 Operationen auf Wörtern.md",
-    "semester-3/formale-sprachen/images/Pasted image 20240911153143.png",
-    "semester-3/formale-sprachen/leeres Wort.md",
-    "semester-3/formale-sprachen/ASCII.md",
-    "semester-3/formale-sprachen/images/Pasted image 20240911151957.png",
-    "semester-3/formale-sprachen/Formale Sprachen in Praxis.md",
-    "semester-3/formale-sprachen/Grammatik.md",
-    "semester-3/formale-sprachen/Sprachklasse.md",
-    "semester-3/formale-sprachen/Automat.md",
-    "semester-3/formale-sprachen/Übung 1.10 Grammatik.md",
-    "semester-3/formale-sprachen/Produktionsregel.md",
-    "semester-3/formale-sprachen/Terminalsymbol.md",
-    "semester-3/formale-sprachen/images/Pasted image 20240911144826.png",
-    "semester-3/formale-sprachen/Nichtterminalsymbol.md",
-    "semester-1/logik/prolog/5.1 Syntax/syntax/Variable.md",
-    "semester-1/logik/prolog/5.3 Unifikation/Anonyme Variable.md",
-    "semester-3/formale-sprachen/Mermaid State Diagram.md",
-    "semester-3/netztechnik/ISM-Bänder.md",
-    "semester-3/Master Semester 3.md",
-    "semester-3/datenbanken/Netzwerk.md",
-    "semester-3/netztechnik/RFC.md",
-    "semester-3/datenbanken/Anforderungen an elektronische Informationsverarbeitung.md",
-    "semester-3/datenbanken/Von Zeichen zu Wissen.md",
-    "semester-1/digitaltechnik/Redundanz.md",
-    "semester-3/formale-sprachen/images/Pasted image 20240911140651.png",
-    "semester-3/formale-sprachen/images/Pasted image 20240911140535.png",
-    "semester-3/formale-sprachen/images/Pasted image 20240911140037.png",
-    "semester-3/formale-sprachen/images/Pasted image 20240911133145.png",
-    "semester-3/formale-sprachen/images",
+    "semester-3/formale-sprachen/Übung 2.7 Regular Expressions.md",
+    "semester-3/formale-sprachen/Wort.md",
+    "semester-3/formale-sprachen/Regular Expression.md",
+    "semester-3/formale-sprachen/Regular Expression Beispiele.md",
+    "semester-3/formale-sprachen/Reguläre Sprache.md",
+    "semester-3/formale-sprachen/Klenee-Stern.md",
+    "semester-3/formale-sprachen/Übung 1.32 Binärwörter.md",
+    "semester-3/formale-sprachen/images/Pasted image 20240913131756.png",
     "semester-3/formale-sprachen/sources/FSA-handout.pdf",
-    "semester-3/formale-sprachen/sources",
-    "semester-3/formale-sprachen",
-    "modulhandbuch.pdf",
-    "semester-3/netztechnik",
-    "semester-3/datenbanken/images/Pasted image 20240910162108.png",
-    "semester-3/datenbanken/images/Pasted image 20240910161452.png",
+    "semester-3/formale-sprachen/Potenz einer Sprache.md",
+    "semester-3/formale-sprachen/Operationen auf Sprachen.md",
+    "semester-3/formale-sprachen/Formale Sprache.md",
+    "semester-3/formale-sprachen/Mermaid State Diagram.md",
+    "semester-3/rechnerarchitekturen/Hub Systemnahe Programmierung.md",
+    "semester-3/formale-sprachen/Automat.md",
+    "semester-3/rechnerarchitekturen/RISC.md",
+    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
+    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20240912112818.png",
+    "semester-3/rechnerarchitekturen/LSU.md",
+    "semester-3/rechnerarchitekturen/Instruktion.md",
+    "semester-3/rechnerarchitekturen/OPCODE.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20240912111551.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20240912105030.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20240912102357.png",
+    "goodnotes/23B Battle Royale.pdf",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20240912082843.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20240912082829.png",
+    "semester-3/rechnerarchitekturen/mermaid.pdf",
+    "semester-3/rechnerarchitekturen/mermaid-filter.err",
     "semester-3/datenbanken/sources/DB_Kap01_Grundlagen_Stud.pdf",
-    "semester-3/datenbanken/images/Pasted image 20240910142634.png",
-    "semester-3/datenbanken/sources/Alfons Kemper, André Eickler - Datenbanksysteme. Eine Einführung-Oldenburg Wissenschaftsverlag (2009).pdf",
-    "semester-3/datenbanken/images",
-    "semester-3/datenbanken/sources"
+    "modulhandbuch.pdf",
+    "semester-3/formale-sprachen/images/Pasted image 20240911153143.png",
+    "semester-3/formale-sprachen/images/Pasted image 20240911151957.png",
+    "semester-3/formale-sprachen/images/Pasted image 20240911144826.png",
+    "semester-3/formale-sprachen/images",
+    "semester-3/formale-sprachen/sources",
+    "semester-3/formale-sprachen"
   ]
 }

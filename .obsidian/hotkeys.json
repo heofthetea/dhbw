@@ -71,14 +71,6 @@
       "key": "M"
     }
   ],
-  "editor:toggle-blockquote": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "quick-latex:addBlockMath": [],
   "obsidian-footnotes:insert-autonumbered-footnote": [
     {

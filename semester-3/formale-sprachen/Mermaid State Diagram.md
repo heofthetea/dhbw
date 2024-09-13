@@ -12,15 +12,22 @@ stateDiagram-v2
 
 
 ```mermaid
+%%{init: {'themeCSS':''}}%%
+
+
 flowchart LR
-	0(( )) --> A
+	0(( )) --> A((A))
 	A --> A
-	A --"a, b"--> C((double circle pls))
+	A --"a, b"--> C(((double circle pls)))
 ```
-FUCKING LET ME ADD OUTLINES
+
+
+
 
 
 - Essentially regular Flowchart
 - type: `stateDiagram-v2`
 - Start-and End state: `[*]`
 	- which one is determined by whether arrows arrive or leave
+
+---

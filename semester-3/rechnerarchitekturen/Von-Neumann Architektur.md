@@ -1,5 +1,7 @@
 > Auch _Princeton_-Architektur
 
+[[Minimalsystem]]
+
 
 ```mermaid
 flowchart TD
@@ -18,7 +20,7 @@ flowchart TD
 ### Eigenschaften
 - Kompiliertes Programm ist ausführbar (contrary to [[Harvard-Architektur]])
 - Programme können von SSD geladen werden
-- _Sequentielle_ Kommunikation mit [[CPU (Central Processing Unit)]]
+- _Sequentielle_ Kommunikation mit [[CPU]]
 
 > [!warning] weniger performant, dafür allgemeiner einsetzbar
 

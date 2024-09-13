@@ -1,0 +1,1 @@
+- Direcer Transfer von [[Daten]] von SSD in [[Memory]]

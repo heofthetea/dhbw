@@ -1,4 +1,3 @@
-
 [[Hub Systemnahe Programmierung]] (selber Dozent)
 
 in Semester 3: [[Hub Betriebssysteme]]
@@ -8,21 +7,36 @@ in Semester 3: [[Hub Betriebssysteme]]
 (Shit probably have to work with goodnotes again🥲)
 [[Thomas Flik - Mikroprozessortechnik und Rechnerstrukturen-Springer (2004).pdf]]
 
+### Notengebung
+[[Tipps Klausur Rechnerarchitekturen]]
+## Libraries
+[[Library Minimalsystem]]
 
-## Vorlesung
+# Vorlesung
 [[Ausblick Rechnerarchitekturen]]
 
-[[Tipps Klausur Rechnerarchitekturen]]
 
 [[Definition Computer]]
-[[EVA Prinzip]]
+- [[EVA Prinzip]]
+- [[Anweisungsbasierte Definition]]
 [[Historie der Computer]]
 
 [[Microcontroller]]
 
-### 2. Minimalsystem
+## 2. Minimalsystem
 [[Minimalsystem]]
 [[Harvard-Architektur]]
 [[Von-Neumann Architektur]]
-- [[Unverständliche Diagramme für Minimalsystem Architekturen]]
 
+### CPU Grobstruktur
+[[CPU]]
+- [[Steuerwerk]]
+- [[Operationswerk]]
+- [[BUS-Interface]]
+
+[[Befehlszyklus]]
+[[Instruction Set Architecture]]
+- [[i386]]
+- [[RISC]]
+
+###

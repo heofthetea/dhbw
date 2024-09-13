@@ -1,2 +1,4 @@
-1. [[EVA Prinzip]]
-2. [[Anweisungsbasierte Definition]]
+1. ![[EVA Prinzip]]
+2. ![[Anweisungsbasierte Definition]]
+
+

@@ -1,5 +1,5 @@
 [[Mermaid State Diagram]]
-
+[[Template Mermaid State Diagram]]
 
 ### sources
 [[FSA-handout.pdf]]
@@ -19,8 +19,11 @@
 ## 1. Basics
 [[Alphabet]]
 [[Wort]]
+- [[Operationen auf Wörtern]]
 [[Formale Sprache]]
 - [[Operationen auf Sprachen]]
+- [[Potenz einer Sprache]]
+- [[Klenee-Stern]]
 [[Sprachklasse]]
 - [[Reguläre Sprache]]
 - [[Kontextfreie Sprache]]
@@ -31,14 +34,18 @@
 [[Automat]]
 [[Satz - Korrespondenz von Sprachklassen und Maschinenmodellen]]
 
-## 2. Reguläre Sprachen
 [[endlicher Automat]]
 [[Reguläre Sprache]]
 [[Grammatik]]
 - [[Terminalsymbol]]
 - [[Nichtterminalsymbol]]
 - [[Produktionsregel]]
-
+- [[Übung 1.32 Binärwörter]]
+## 2. Reguläre Sprachen
+- [[Regular Expression]]
+	- [[Regular Expression Beispiele]]
+	- [[Rechenregeln Reguläre Ausdrücke]]
+	- [[Übung 2.7 Regular Expressions]]
 ## 3. Kontextfreie Sprachen
 
 ## 4. Kontextsensitive Sprachen
