@@ -22,3 +22,5 @@
 	1. Es gibt nur _einen_ Speicher
 		1. was Befehl und was [[Daten]] ist muss Entwickler entscheiden
 		2. ermöglicht das [[Compiler|kompilieren]] und anschließendes Ausführen von Programmen
+
+#todo CPU

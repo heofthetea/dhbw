@@ -4,4 +4,4 @@ Beispiele:
 - Einträge, auf die von einem anderen Punkt referenziert wird, dürfen nicht gelöscht werden
 - gewisser Wert darf nicht negativ sein
 
-> [!hint] primäre Aufgabe von [[Datenbankmanagementsystem]]
+> [!hint] primäre Aufgabe von [[DBMS]]

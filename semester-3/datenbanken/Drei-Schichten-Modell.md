@@ -1,3 +1,5 @@
+- Konzept zum Datenbankentwurf
+
 ```mermaid
 flowchart TD
 	subgraph A[ ]
@@ -16,7 +18,9 @@ Erfolgt mithilfe von [[Benutzersicht|Benutzersichten]]
 
 ### konzeptionelle Ebene
 Tabellen und [[Relation|Beziehungen]]
+[[Datenbankschema]]
 
 ### interne Ebene
 Dateiorganisation und Zugriffspfade auf die Daten, Details der Datenspeicherung
+- wie sind die Daten auf der Maschine abgespeichert?
 

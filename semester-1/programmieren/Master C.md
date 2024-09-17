@@ -23,7 +23,7 @@
 [[Strings|Strings]]
 [[Structs]]
 [[switch-case]]
-[[Floating Points]]
+[[Floating Point Darstellung]]
 [[Recursion]]
 [[Master Linked Lists]]
 - [[Hoare Partitioning]]

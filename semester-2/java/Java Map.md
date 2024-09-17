@@ -1,4 +1,4 @@
-> Maps a [[Key]] to a Value
+> Maps a [[semester-2/algorithmen/Schlüssel]] to a Value
 
 Is essentially a [[Dictionary]]
 
@@ -10,4 +10,4 @@ Map<String, Object> myMap = new Map<>();
 myMap.put("object 1", new Object())
 ```
 
---> The keys of a [[Java Map|Map]] are a [[Menge|Set]] - each [[Key]] can only exist once, so when trying to add a new element with an existing key, the previoius element will be overwriten 
+--> The keys of a [[Java Map|Map]] are a [[Menge|Set]] - each [[semester-2/algorithmen/Schlüssel]] can only exist once, so when trying to add a new element with an existing key, the previoius element will be overwriten 

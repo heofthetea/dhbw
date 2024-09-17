@@ -39,4 +39,15 @@ in Semester 3: [[Hub Betriebssysteme]]
 - [[i386]]
 - [[RISC]]
 
-###
+### Arithmetisch-logische Einheit
+[[Binärsystem]]
+- [[Hexadezimalsystem]]
+
+[[ALU]]
+- [[Zweierkomplement]]
+- [[Erhöhung der Stellenanzahl]]
+- [[Festkommadarstellung]]
+- [[Floating Point Darstellung]]
+	- [[Flaws von Floating Points]]
+- [[Ripple-Carry-Adder]]
+

@@ -8,7 +8,7 @@
 Kleine, vollständige Bestandteile eines Ganzen
 
 #### iterativ
-Immerr wiederholender [[Agiler Zyklus|Zyklus]]
+Immerr wiederholender [[Spiralmodell|Zyklus]]
 
 ### 43. Nachteile Wasserfallmodell
 - unflexibel

@@ -1,4 +1,4 @@
 - [[Agile Philosophy]]
-- [[Agiler Zyklus]]
+- [[Spiralmodell]]
 - [[Agile Manifesto]]
 ![[Agile Prinzipien]]

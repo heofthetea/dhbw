@@ -1,3 +1,4 @@
+> Ist für die tatsächliche Verarbeitung von Daten in der [[CPU]] zuständig
 
 - erhält: **Steuersignale** von [[Steuerwerk]]
 	- [[Daten]]

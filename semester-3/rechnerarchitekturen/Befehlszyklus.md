@@ -16,9 +16,10 @@ flowchart LR
 5. `Write back`: Ergebnis zurück schreiben
 6. repeat
 
-> [!hint] Führt zu [[Pipeline]]
+> [!hint] Führt zu [[Pipelining]]
 > - Während eine Instruktion ausgeführt wird, kann der Nächste schon geholt werden
 > - Man muss nicht immer warten, bis der ganze [[Befehlszyklus]] für eine [[Instruktion]] durchgelaufen ist
 
 
 [[Befehlszyklus v. Neuman vs Harvard]]
+[[Maschinenzyklus]]

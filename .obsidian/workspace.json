@@ -11,7 +11,7 @@
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 77.77777777777779,
+            "dimension": 65.90693257359924,
             "children": [
               {
                 "id": "6f2af3586be0fea2",
@@ -82,14 +82,28 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "49e3f29a2a8900fc",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/software_architektur/Hub Software Engineering.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 22.22222222222222,
+            "dimension": 34.09306742640076,
             "children": [
               {
                 "id": "bb20f33256a925c1",
@@ -130,95 +144,87 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 74.4539411206078,
+            "dimension": 76.82811016144349,
             "children": [
               {
-                "id": "cded2ab4a9889782",
+                "id": "254a4cc02138d88d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Operationen auf Wörtern.md",
+                    "file": "semester-3/rechnerarchitekturen/BUS-Interface.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "2ff35748eba7c399",
+                "id": "78abeca4ef51ad75",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "extern/templates/Template Mermaid State Diagram.md",
+                    "file": "semester-3/rechnerarchitekturen/Maschinenzyklus.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "294e77d559f0d712",
+                "id": "b1afeb27273e7404",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Rechenwerk.md",
+                    "file": "semester-3/rechnerarchitekturen/Harvard-Architektur.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "8886c1f31aefcb0a",
+                "id": "86cc10f9b278a1ea",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Steuerwerk.md",
+                    "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "c767b78d9bafa2f7",
+                "id": "c349826dde60c52a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Binärsystem.md",
+                    "file": "semester-3/datenbanken/1-n Relation.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "c5c8f33084ddbdbb",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "e2dfcd47fd5e24ae",
+                "id": "ab4819c72f8b8d5d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Rechenregeln Reguläre Ausdrücke.md",
+                    "file": "semester-3/datenbanken/Datenbanken Projekt.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 5
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 25.546058879392213,
+            "dimension": 23.171889838556506,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -267,9 +273,19 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "6770556e59d0b9db",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf"
+                  }
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -301,7 +317,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "opCod",
+                "query": "Schlüssel",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -351,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/formale-sprachen/Rechenregeln Reguläre Ausdrücke.md"
+                "file": "semester-3/datenbanken/Datenbanken Projekt.md"
               }
             }
           },
@@ -361,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/formale-sprachen/Rechenregeln Reguläre Ausdrücke.md",
+                "file": "semester-3/datenbanken/Datenbanken Projekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,7 +397,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/formale-sprachen/Rechenregeln Reguläre Ausdrücke.md",
+                "file": "semester-3/datenbanken/Datenbanken Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -397,7 +413,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -416,53 +433,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e2dfcd47fd5e24ae",
+  "active": "ab4819c72f8b8d5d",
   "lastOpenFiles": [
-    "semester-3/formale-sprachen/Konkatenation.md",
-    "extern/templates/Template Mermaid State Diagram.md",
-    "semester-3/rechnerarchitekturen/Rechenwerk.md",
-    "Binärsystem.md",
-    "semester-3/rechnerarchitekturen/Steuerwerk.md",
-    "semester-3/formale-sprachen/Operationen auf Wörtern.md",
-    "semester-3/formale-sprachen/Rechenregeln Reguläre Ausdrücke.md",
-    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Übung 2.7 Regular Expressions.md",
-    "semester-3/formale-sprachen/Wort.md",
-    "semester-3/formale-sprachen/Regular Expression.md",
-    "semester-3/formale-sprachen/Regular Expression Beispiele.md",
-    "semester-3/formale-sprachen/Reguläre Sprache.md",
-    "semester-3/formale-sprachen/Klenee-Stern.md",
-    "semester-3/formale-sprachen/Übung 1.32 Binärwörter.md",
-    "semester-3/formale-sprachen/images/Pasted image 20240913131756.png",
-    "semester-3/formale-sprachen/sources/FSA-handout.pdf",
-    "semester-3/formale-sprachen/Potenz einer Sprache.md",
-    "semester-3/formale-sprachen/Operationen auf Sprachen.md",
-    "semester-3/formale-sprachen/Formale Sprache.md",
-    "semester-3/formale-sprachen/Mermaid State Diagram.md",
-    "semester-3/rechnerarchitekturen/Hub Systemnahe Programmierung.md",
-    "semester-3/formale-sprachen/Automat.md",
-    "semester-3/rechnerarchitekturen/RISC.md",
-    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
+    "semester-3/datenbanken/Hub Datenbanken.md",
+    "semester-3/datenbanken/Datenbanken Projekt.md",
+    "semester-3/datenbanken/sources/DB_Semesteraufgabe_Studierende.pdf",
+    "semester-3/datenbanken/Kardinalität.md",
+    "semester-3/datenbanken/Min-Max Kardinalität.md",
+    "semester-3/datenbanken/images/Pasted image 20240917161831.png",
+    "semester-3/datenbanken/images/Pasted image 20240917161316.png",
+    "semester-3/datenbanken/Attribut.md",
+    "semester-2/java/Class attributes.md",
+    "semester-3/datenbanken/Relationship.md",
+    "semester-1/lineare-algebra/Aufschriebe/Relation.md",
+    "semester-3/datenbanken/1-n Relation.md",
+    "semester-3/datenbanken/images/Pasted image 20240917160726.png",
+    "semester-3/datenbanken/1-1 Relation.md",
+    "semester-3/datenbanken/images/Pasted image 20240917160713.png",
+    "semester-3/datenbanken/n-m Relation.md",
+    "semester-3/datenbanken/images/Pasted image 20240917160343.png",
+    "semester-3/datenbanken/Relationsrichtung eindeutig machen.md",
+    "semester-3/datenbanken/images/Pasted image 20240917155643.png",
+    "semester-3/datenbanken/images/Pasted image 20240917155511.png",
+    "semester-3/datenbanken/images/Pasted image 20240917155318.png",
+    "semester-3/datenbanken/Weitere Attribute.md",
+    "semester-1/lineare-algebra/Aufschriebe/Abbildung.md",
+    "semester-1/lineare-algebra/Aufschriebe/Injektive Funktion.md",
+    "semester-1/lineare-algebra/Aufschriebe/Relationen sind eine Teilmenge der Produktmenge.md",
+    "semester-3/datenbanken/Schlüsselattribut.md",
+    "semester-3/datenbanken/Beispiel Schlüssel Fahrzeug.md",
+    "semester-2/algorithmen/Schlüssel.md",
     "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240912112818.png",
-    "semester-3/rechnerarchitekturen/LSU.md",
-    "semester-3/rechnerarchitekturen/Instruktion.md",
-    "semester-3/rechnerarchitekturen/OPCODE.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240912111551.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240912105030.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240912102357.png",
+    "semester-3/datenbanken/images/Pasted image 20240917151756.png",
+    "semester-3/datenbanken/UUID.md",
+    "semester-3/datenbanken/images/Pasted image 20240917150907.png",
+    "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
+    "semester-3/datenbanken/Ablauf ERM Modellierung.md",
+    "semester-3/datenbanken/ERM.md",
+    "semester-3/datenbanken/Entität.md",
+    "semester-3/datenbanken/Tipps Klausur Datenbanken.md",
+    "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf",
+    "semester-3/datenbanken/sources/DB_Kap01_Grundlagen_Stud.pdf",
+    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
+    "semester-3/formale-sprachen/sources/FSA-handout.pdf",
     "goodnotes/23B Battle Royale.pdf",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240912082843.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240912082829.png",
     "semester-3/rechnerarchitekturen/mermaid.pdf",
     "semester-3/rechnerarchitekturen/mermaid-filter.err",
-    "semester-3/datenbanken/sources/DB_Kap01_Grundlagen_Stud.pdf",
     "modulhandbuch.pdf",
-    "semester-3/formale-sprachen/images/Pasted image 20240911153143.png",
-    "semester-3/formale-sprachen/images/Pasted image 20240911151957.png",
-    "semester-3/formale-sprachen/images/Pasted image 20240911144826.png",
-    "semester-3/formale-sprachen/images",
-    "semester-3/formale-sprachen/sources",
-    "semester-3/formale-sprachen"
+    "semester-3/formale-sprachen/images"
   ]
 }

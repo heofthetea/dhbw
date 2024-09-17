@@ -30,3 +30,4 @@ flowchart TD
 
 ### Komponenten
 [[Steuerwerk]]
+[[Operationswerk]]

@@ -1,3 +1,5 @@
+[[Ripple-Carry-Adder]], [[Zweierkomplement]], [[Subtraktion mit Komplementbildung]]
+
 ![[Pasted image 20240205171154.png]]
 - durch XORs wird entschieden, ob Subtrahend Summand wird
 	- je nachdem wird Komplement gebildet

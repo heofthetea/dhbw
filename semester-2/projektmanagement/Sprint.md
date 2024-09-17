@@ -1,6 +1,6 @@
 ![[Pasted image 20240605101822.png]]
 
-- Iterativer [[Agiler Zyklus]]
+- Iterativer [[Spiralmodell]]
 - Endprodukt setzt sich aus Zwischenprodukten zusammen
 	==> Am Ende steht ein _lauffähiges_ Inkrement!!
 - Tägliches Meeting: Daily

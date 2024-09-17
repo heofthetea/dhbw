@@ -74,7 +74,7 @@ wichtig: [[Kostenbestandteile]]
 [[Agile Philosophy]]
 [[Agile Manifesto]]
 
-[[Agiler Zyklus]]
+[[Spiralmodell]]
 [[Agil ist nicht für alle Projekte passend]]
 [[Agile Prinzipien]]
 

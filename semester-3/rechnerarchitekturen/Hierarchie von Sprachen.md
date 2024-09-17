@@ -1,4 +1,4 @@
-1. Maschinensprache ([[Binärsystem|binär]])
+1. Maschinensprache ([[Binärsystem als Formale Sprache|binär]])
 	1. kann vom [[Steuerwerk]] interpretiert werden --> _direkt ausführbar_, dafür ABHÄNGIG VON [[CPU]]!!
 	2. Bsp: `74074` 
 2. [[Assemblersprache]]

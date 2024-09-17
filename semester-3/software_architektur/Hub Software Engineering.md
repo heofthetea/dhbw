@@ -13,3 +13,15 @@ download: yEd Graph Editor (for Darstellungen)
 [[Multitasking]]
 
 ---
+
+## 02 Vorgehensmodell
+[[Lebenslauf einer Software]]
+[[CMMI]]
+[[Cowboy Coding]]
+- [[Wasserfallmodell]]
+- [[V-Modell]]
+- [[Spiralmodell]]
+- [[SCRUM]]
+- [[Kanban]]
+
+[[Horizontale und Vertikale Umsetzung]]

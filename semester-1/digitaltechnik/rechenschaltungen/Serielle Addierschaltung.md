@@ -1,4 +1,4 @@
-[[Paralleladdierschaltung]] --> Stelle Addierer in Abhängigkeit von Takt
+[[Ripple-Carry-Adder]] --> Stelle Addierer in Abhängigkeit von Takt
 
 ### Aufbau
 ![[Pasted image 20240205160626.png]]

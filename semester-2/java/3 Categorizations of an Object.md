@@ -1,5 +1,5 @@
 ### State
-> The [[Attribute|Attributes]] and _Data_ of an Object.
+> The [[Attribut|Attributes]] and _Data_ of an Object.
 
 --> Variables and their values
 

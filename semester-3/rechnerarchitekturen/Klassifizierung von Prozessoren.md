@@ -1,4 +1,4 @@
-> Klassifikation nach Flynn (1972)
+ > Klassifikation nach Flynn (1972)
 
 
 x-Achse: [[Instruktion|opCode]]

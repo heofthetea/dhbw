@@ -1,4 +1,6 @@
 nach Anzahl der Operanden
+- 4
+	- Bei jeder [[Instruktion]] wird die [[Adresse]] des nächsten Befehls mitgegeben
 - 3 - Adressierung
 	- [[RTL]]: `(z) <- (x) + (y)`
 	- Hochsprache: `z = x + y`
@@ -22,4 +24,4 @@ nach Anzahl der Operanden
 > `ADD A,x` - 1 Adresse
 > `MUL A B` - 0 Adressen
 > [[RISC]] hat meistens $3$ Aressen
-> 
+

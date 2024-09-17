@@ -128,6 +128,9 @@ union
 ```
 only 4 bytes reserved in total
 
+> [!hint] Man kann zwei Datentypen an dieselbe Stelle legen
+> ==> verschiedene Ansichten auf eine Stelle in [[Memory]]
+
 ## Traps
 ### size limit
 A struct gets a certain amount of Memory reserved (~2 MB)

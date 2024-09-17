@@ -14,6 +14,8 @@
 	- besondere [[Register]] - $R0$ ist `/dev/null` und `/dev/zero`
 - Feste Anzahl an Bytes & fester Aufbau
 
+> [!info] Viele Register, wenig Befehle
+
 
 ## Vorteile
 (bzw. Verbesserungen gegenüber i386)

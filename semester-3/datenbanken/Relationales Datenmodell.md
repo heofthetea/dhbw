@@ -1,6 +1,8 @@
 [[Relation]], [[Datenbank]], [[Datenbanksystem]], 
 
-### Anforderungen
+### Codd's Regeln
+
+
 1. [[Integration RDB]]
 2. [[Operation RDB]]
 3. [[Katalog]]
@@ -11,4 +13,5 @@
 8. [[Synchronisation RDB]]
 9. [[Datensicherung RDB]]
 
-> [!note] Die meisten dieser Anforderungen werden vom [[Datenbankmanagementsystem]] gewährleistet
+> [!note] Die meisten dieser Anforderungen werden vom [[DBMS]] gewährleistet
+

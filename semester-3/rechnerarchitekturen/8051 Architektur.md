@@ -9,3 +9,5 @@
 - $255$ [[Instruktion|Instruktionen]]
 - [[Akkumulator Machine|Akkumulator]] + $R0...R7$ + zwei Spezialregister
 	==> 11 [[Register]]
+
+[[8051 Statusbits]]

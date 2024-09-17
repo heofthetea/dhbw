@@ -9,3 +9,5 @@ verbindet [[CPU]] mit [[BUS-System]]
 
 > [!warning] #todo wird später genauer behandelt
 
+
+> [!hint] Sind die Pins, die unten an ner CPU dran sind

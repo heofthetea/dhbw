@@ -12,7 +12,7 @@ Eine [[Formale Sprache]] $L$ über einem [[Alphabet]] $\Sigma$ ist eine [[Menge]
 - $L_{1} = \set{w \cdot heit | w \in \Sigma^{*}_{de}}$
 	- alle [[Wort|Wörter]] der Deutschen Sprache, die auf "heit" ändern
 - $L_{2} = \set{w \in \Sigma^{*}_{bin}\ |\ |w| \geq 2 \land w[|w| - 1] = 1}$ 
-	- alle Wörter des [[Binärsystem|Binärsystems]], deren vorletzte stelle eine $1$ ist
+	- alle Wörter des [[Binärsystem als Formale Sprache|Binärsystems]], deren vorletzte stelle eine $1$ ist
 
 
 #### informal

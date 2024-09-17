@@ -1,7 +1,10 @@
+[[Binärsystem]], [[Formale Sprache]]
+
+
 ## Definiert als [[Formale Sprache]]:
 $$L_{\mathbb{N}} = \set{1w\ |\ w \in \Sigma^{*}_{bin}} \cup \set{0}$$
 
-- Enthält Wprter über binäres Alphabet, die mit einer $1$ anfangen
+- Enthält Wörter über binäres Alphabet, die mit einer $1$ anfangen
 
 [[Abbildung|Funktion]] $n \longrightarrow \mathbb{N}$:
 - $n(0) =  0$

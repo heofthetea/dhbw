@@ -5,8 +5,9 @@
 	2. Operand: Werte/Daten bzw. Ort/[[Adresse]] der Werte
 
 üblich: `[opCode | Operand]` ([[Instruktion]])
-- opCode an MSB = "Most significant Bit"
+- [[OPCODE]] an MSB = "Most significant Bit"
 - Anzahl der Bits variieren nach [[Instruction Set Architecture|ISA]] 
+- hat sich so eingebürgert --> ist ein Standard
 
 [[Instruktionen mit mehreren Operanden]]
 [[Klassifizierung von Prozessoren]]

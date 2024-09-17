@@ -1,6 +1,6 @@
 [[Hash Map]]
 
-"Kleinhacken" von [[Key|Keys]]
+"Kleinhacken" von [[semester-2/algorithmen/Schlüssel|Keys]]
 - [[Hash-Funktion]] 
 - [[Kollision]]
 

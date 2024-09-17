@@ -1,8 +1,8 @@
 [[Binary Tree]] mit folgenden Eigenschaften:
-- Die [[Knoten]] des [[Baum|Baums]] sind mit [[Key|Keys]] aus einer geordneten [[Menge]] $K$ beschriftet
+- Die [[Knoten]] des [[Baum|Baums]] sind mit [[semester-2/algorithmen/Schlüssel|Keys]] aus einer geordneten [[Menge]] $K$ beschriftet
 - Für jeden [[Knoten]] $K$ gilt:
-	- Alle Schlüssel im linken Teilbaum von $K$ sind kleiner als der [[Key]] von $K$
-	- Alle [[Key|Keys]] im rechten Teilbaum von $K$ sind größer als der  [[Key]] von $K$
+	- Alle Schlüssel im linken Teilbaum von $K$ sind kleiner als der [[semester-2/algorithmen/Schlüssel]] von $K$
+	- Alle [[semester-2/algorithmen/Schlüssel|Keys]] im rechten Teilbaum von $K$ sind größer als der  [[semester-2/algorithmen/Schlüssel]] von $K$
 
 > [!warning] Kann, anders als ein [[Heap]], nur einen Teilbaum haben!
 
