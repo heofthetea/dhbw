@@ -1,4 +1,4 @@
 - abwechselnd von $A$ nach $B$ und umgekehrt
 - beispiel: [[PING]], [[BUS-System]]
 
-#todo mermaid
+![[Pasted image 20240918173752.png]]

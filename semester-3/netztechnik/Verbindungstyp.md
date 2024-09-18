@@ -1,5 +1,4 @@
-#todo Graphik aus Netztechnik
-
+![[Pasted image 20240918173321.png]]
 
 
 

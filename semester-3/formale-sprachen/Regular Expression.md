@@ -1,6 +1,6 @@
 Über dem gegebenen [[Alphabet]] $\Sigma$:
-$$\Sigma \cup \set{\varnothing,\ \epsilon,\ +,\ \cdot,\ *,\ (,\ )}$$
-- dabei darf keins dieser Sondersymbole Teil aus $\Sigma$ sein
+$$R = \Sigma \cup \set{\varnothing,\ \epsilon,\ +,\ \cdot,\ *,\ (,\ )}$$
+- dabei darf keins dieser Sondersymbole Teil aus $\Sigma$ sein: 
 
 > [!warning] Eine einzelner [[Regular Expression]] _beschreibt eine_ [[Formale Sprache]]
 

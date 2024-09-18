@@ -1,7 +1,7 @@
 
 | [[Sprachklasse]] | Maschinenmodell                       |
 | --------------------------------- | ------------------------------------- |
-| [[Reguläre Sprache]]              | [[endlicher Automat]]                 |
+| [[Reguläre Sprache]]              | [[Endlicher Automat]]                 |
 | [[Kontextfreie Sprache]]          | [[Kellerautomat]]                     |
 | [[Kontextsensitive Sprache]]      | [[linear beschränkte Turing machine]] |
 | [[Rekursiv aufzählbare Sprache]]  | [[Turing Machine]]                    |

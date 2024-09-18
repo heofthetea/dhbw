@@ -1,2 +1,0 @@
-#todo Grafik aus Netztechnik
-

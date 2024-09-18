@@ -1,14 +1,16 @@
 
-|     |                           | Ausdehnung            | Anwendung            |
-| --- | ------------------------- | --------------------- | -------------------- |
-| BAN | Body Area Network         | 1m                    | Warables             |
-|     | Personal Area Network     | 10m                   | Bluetooth            |
-|     | Local Area Network        | 10km                  | [[LAN]] & [[WLAN]]   |
-|     | Storage Area Network      | 10km                  |                      |
-|     | Metropolitan Area Network | 100km                 |                      |
-|     | Wide Area Network         | $1\, 000$ km          |                      |
-|     | Global Area Network       | mehrere $10\, 000$ km | Satelliten, Seekabel |
+|         |                           | Ausdehnung            | Anwendung                                       |
+| ------- | ------------------------- | --------------------- | ----------------------------------------------- |
+| BAN     | Body Area Network         | 1m                    | Warables                                        |
+| PAN     | Personal Area Network     | 10m                   | Bluetooth                                       |
+| [[LAN]] | Local Area Network        | 10km                  | [[LAN]] & [[WLAN]]                              |
+| SAN     | Storage Area Network      | 10km                  | Serverorientierte Speichernetzwerke ([[NAS]])   |
+| MAN     | Metropolitan Area Network | 100km                 | Ausbreitung über ein Stadtgebiett (public WiFi) |
+| WAN     | Wide Area Network         | $1\, 000$ km          | Telefonnetzwerke, 5G                            |
+| GAN     | Global Area Network       | mehrere $10\, 000$ km | Satelliten, Seekabel                            |
 
-#todo
+
+---
 
 BRO STOP YAPPING
+(I'll leave this beautiful comment here as a memory to the first lecture)

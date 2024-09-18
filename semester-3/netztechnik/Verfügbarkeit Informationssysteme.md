@@ -1,4 +1,4 @@
-#todo Grafik aus Netztechnik Vorlesung
+![[Pasted image 20240918171052.png]]
 
 $1\ yr = 8760\ h$ 
 

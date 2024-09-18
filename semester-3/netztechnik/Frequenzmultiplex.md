@@ -1,0 +1,2 @@
+- Jeder Kanal hat einen eigenen Frequenzbereich
+- Telefone greifen $300$ - $3400$ Hz Bereich ab - alles drüber ist frei für andere Sachen

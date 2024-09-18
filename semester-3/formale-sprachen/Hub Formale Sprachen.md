@@ -3,15 +3,16 @@
 
 ### sources
 [[FSA-handout.pdf]]
-- 
+
 #### Altklausuren
-- 
 ### Prüfungsleistung
 - Klausur 90 min
 - 10 pages Cheat Sheet
 ## GoodNotes
 
 
+## Libraries
+[[Library Reguläre Sprachen]]
 
 # Vorlesungen
 
@@ -34,7 +35,7 @@
 [[Automat]]
 [[Satz - Korrespondenz von Sprachklassen und Maschinenmodellen]]
 
-[[endlicher Automat]]
+[[Endlicher Automat]]
 [[Reguläre Sprache]]
 [[Grammatik]]
 - [[Terminalsymbol]]
@@ -46,6 +47,22 @@
 	- [[Regular Expression Beispiele]]
 	- [[Rechenregeln Reguläre Ausdrücke]]
 	- [[Übung 2.7 Regular Expressions]]
+
+### Endliche Automaten
+[[Endlicher Automat]]
+[[Lauf]]
+[[DFA]]
+[[NFA]]
+- [[Zustand]]
+- [[Übergangsfunktion]]
+- [[Startzustand]]
+- [[Endzustand]]
+- [[Müllzustand]]
+
+[[Nachteil DFA]]
+[[Äquivalenz DFA und NFA]]
+[[Transformation NFA -> DFA]]
+
 ## 3. Kontextfreie Sprachen
 
 ## 4. Kontextsensitive Sprachen

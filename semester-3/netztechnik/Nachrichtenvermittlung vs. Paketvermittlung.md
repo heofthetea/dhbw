@@ -1,5 +1,4 @@
 
-#todo Grafik aus Netztechnik
 ## Nachrichtenvermittlung
 - Nachricht wird als _ganzes_ verschickt
 --> jeder [[Knoten]] muss warten bis _alle_ [[Daten]] angekommen sind
@@ -11,3 +10,6 @@
 - es wird _einmal_ ein [[kürzester Pfad|optimaler Pfad]] definiert --> ab da wird Verbindung beibehalten
 	- wenn ein [[Knoten]] ausfällt, muss man sich neu organisieren
 	- Vorteil: Alle Pakete kommen in richtiger Reihenfolge an
+
+## Vergleich
+![[Pasted image 20240918173849.png]]

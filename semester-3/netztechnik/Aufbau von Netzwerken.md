@@ -1,5 +1,5 @@
 [[Netzwerk]]
-#todo Grafik aus Netztechnik
+![[Pasted image 20240918172217.png]]
 
 
 [[OSI-7-Schichten Modell]]

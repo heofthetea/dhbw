@@ -5,5 +5,6 @@ Es gibt ein zentrales _shared Medium_
 > [!warning] Benötigt ein **Medien-Zugriffs-Verfahren**
 
 
+## Beispiele
+[[WLAN]], [[BUS-System]]
 
-#todo Grafik von Netztechnik

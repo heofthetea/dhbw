@@ -8,7 +8,10 @@ Eine [[Formale Sprache]] $L$ über einem [[Alphabet]] $\Sigma$ ist eine [[Menge]
 > natürliche Sprachen haben Grenzfälle, wo nicht eindeutig ist ob Fall 'korrekt' ist oder nicht
 
 [[Formale Sprachen in Praxis]]
+[[Operationen auf Sprachen]]
 ### Beispiele
+- $\set{a, b}^{3} \cup {a}^{*}$ 
+	- alle Wörter, die aus genau 3 $a$, 3 $b$ oder nur aus $a$ bestehen
 - $L_{1} = \set{w \cdot heit | w \in \Sigma^{*}_{de}}$
 	- alle [[Wort|Wörter]] der Deutschen Sprache, die auf "heit" ändern
 - $L_{2} = \set{w \in \Sigma^{*}_{bin}\ |\ |w| \geq 2 \land w[|w| - 1] = 1}$ 

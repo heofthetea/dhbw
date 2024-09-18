@@ -1,5 +1,5 @@
 > begrenzt ausdrucksstark, aber einfach zu handhaben
-> erkannt durch [[endlicher Automat]]
+> erkannt durch [[Endlicher Automat]]
 
 
 - Namensgebung: jede [[Reguläre Sprache]] kann durch eine [[Regular Expression]] ausgedrückt werden

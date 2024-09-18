@@ -1,14 +1,15 @@
-#todo Grafik aus Netztechnik
+
+![[Pasted image 20240918174021.png]]
 
 - elektromagnetische Wellen
 - passiert größtenteils unter dem Infrarot-Bereich
 
 ## Ausbreitung
 
-#todo Grafik aus Netztechniken
+![[Pasted image 20240918173947.png]]
 
 
 ### Mikrowellen
 benötigt Line of sight
 
-#todo Grafik aus Netztechnik
+![[Pasted image 20240918174001.png]]

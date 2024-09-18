@@ -1,9 +1,8 @@
-#todo Grafik aus Netztechnik
 
 > Industrial, Scientific, Medical Band
 
 - sind _lizenzfrei_
-
+![[Pasted image 20240918174045.png]]
 
 
 ### wieso mehrere Bänder?
