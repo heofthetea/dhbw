@@ -4,7 +4,7 @@
 
 ![[double_in_memory.png]]
 
-
+> [!warning] Don't compare floating points with an _equals_ Statement!
 
 \1. Bit: Vorzeichen-Bit $V$
 Charakteristik $C$: Exponential-Darstellung der Zahl (festgelegt (design): 

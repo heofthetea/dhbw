@@ -1,3 +1,5 @@
+> Aus einer $n$-bit Zahl zu einer $m \gt n$-Bit Zahl machen, ohne den Wert der Zahl zu verändern
+
 [[Binärsystem]]
 ## unsigned Extension
 

@@ -97,8 +97,7 @@
                   "pinned": true
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -164,19 +163,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Endzustand.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b8db100261af4497",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Dijkstras Algorithm.md",
+                    "file": "README.md",
                     "mode": "source",
                     "source": false
                   }
@@ -193,9 +180,33 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "b9fa6b0d0f1413a3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4df2f497ffdec5e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-1/programmieren/concepts/Floating Point Darstellung.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "fd7bfaab03c82f4d",
@@ -303,7 +314,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -330,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/algorithmen/Dijkstras Algorithm.md"
+                "file": "README.md"
               }
             }
           },
@@ -340,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/algorithmen/Dijkstras Algorithm.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -360,7 +372,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/algorithmen/Dijkstras Algorithm.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -376,7 +388,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -395,8 +408,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b8db100261af4497",
+  "active": "b9fa6b0d0f1413a3",
   "lastOpenFiles": [
+    "semester-1/programmieren/concepts/Floating Point Darstellung.md",
+    "README.md",
+    "semester-3/formale-sprachen/DFA.md",
+    "semester-3/formale-sprachen/Endzustand.md",
+    "intension/t1000/README.md",
+    "semester-3/rechnerarchitekturen/Erhöhung der Stellenanzahl.md",
+    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+    "semester-2/algorithmen/Dijkstras Algorithm.md",
     "semester-3/rechnerarchitekturen/Befehlszyklus v. Neuman vs Harvard.md",
     "semester-3/netztechnik/verbindungslose Kommunikation.md",
     "semester-3/netztechnik/Hub Netztechnik.md",
@@ -425,14 +446,6 @@
     "semester-3/netztechnik/Broadcast Netzwerk.md",
     "semester-3/netztechnik/E-Commerce.md",
     "semester-3/netztechnik/Peer-to-Peer Modell.md",
-    "semester-3/netztechnik/Broadcast.md",
-    "semester-3/netztechnik/Multicast.md",
-    "semester-3/netztechnik/Anycast.md",
-    "semester-3/netztechnik/Unicast.md",
-    "semester-3/netztechnik/DEE.md",
-    "semester-3/netztechnik/Aufbau von Netzwerken.md",
-    "semester-3/netztechnik/Ubiquitous Computing.md",
-    "semester-2/web-engineering/basics/Client Server Architecture.md",
     "goodnotes/23B Battle Royale.pdf",
     "semester-3/formale-sprachen/sources/FSA-handout.pdf",
     "semester-3/netztechnik/sources/Netztechnik-Vorlesung Teil-2.pdf",
