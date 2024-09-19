@@ -2,7 +2,7 @@
 > erkannt durch [[Endlicher Automat]]
 
 
-- Namensgebung: jede [[Reguläre Sprache]] kann durch eine [[Regular Expression]] ausgedrückt werden
+- Namensgebung: jede [[Reguläre Sprache]] kann durch eine [[Regulärer Ausdruck]] ausgedrückt werden
 ## Fähigkeiten
 - Abfolge verschiedener Muster
 - Alternativen

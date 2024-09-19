@@ -13,10 +13,10 @@
 13. $(\epsilon + r)^{*} \equiv r^{*}$
 14. $r^{*}r \equiv rr^{*}$ 
 
-> [!info] Beweis erfolgt durch Umwandeln der [[Regular Expression]] in [[Formale Sprache|Mengenschreibweise]]
+> [!info] Beweis erfolgt durch Umwandeln der [[Regulärer Ausdruck]] in [[Formale Sprache|Mengenschreibweise]]
 
 
-> [!hint] Jede [[Regular Expression]] mit der [[Leere Sprache|leeren Sprache]] kann auf entweder _nur_ $\varnothing$ oder ein anderes RegEx ohne $\varnothing$ vereinfachen.
+> [!hint] Jede [[Regulärer Ausdruck]] mit der [[Leere Sprache|leeren Sprache]] kann auf entweder _nur_ $\varnothing$ oder ein anderes RegEx ohne $\varnothing$ vereinfachen.
 
 > [!warning] [[Konkatenation]] ist _nicht_ kommutativ!
 

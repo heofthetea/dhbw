@@ -12,6 +12,3 @@
 
 
 > [!warning] Es wird bei $1$ angefangen zu zählen!!
-### Potenzierung von Wörtern
-$$w^{0} = \epsilon$$
-$$w^{n + 1} = w^{n} \cdot w$$

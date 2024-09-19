@@ -15,7 +15,7 @@
 		- $1$ kann auch zum Gesamtergebnis addiert werden
 	- Umsetzung: [[Ripple-Carry-Adder]], in der niederwertigster [[Halbaddierer]] durch [[Volladdierer]] mit $CI = 1$ ersetzt wird
 - [[Addier-Subtrahier-Werk]]: Durch _Steuereingang_ $S$ kann gesteuert werden, ob Invertiert wird oder nicht
-	- $XOR$ regelt lol
+	- [[XOR]] regelt lol
 
 ## Multiplikationsschaltung
 - $AND$ ist ein "1-bit Multiplizierer"

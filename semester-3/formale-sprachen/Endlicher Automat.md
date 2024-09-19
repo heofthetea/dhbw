@@ -1,4 +1,4 @@
-[[Automat]], [[Beispiel Zugangskontrolle]], [[Reguläre Sprache]], [[Regular Expression]]
+[[Automat]], [[Beispiel Zugangskontrolle]], [[Reguläre Sprache]], [[Regulärer Ausdruck]]
 
 
 

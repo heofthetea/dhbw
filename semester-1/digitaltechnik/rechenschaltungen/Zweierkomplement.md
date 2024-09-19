@@ -20,3 +20,6 @@ Signing Bit 1 --> negativ
 1. invertieren: $001101$
 2. addiere 1: $001110$ 
 ==> $110010$ im Zweierkomplement ist $-14_{10}$  
+
+## Rechnen
+$a - b = a + (-b) = a + \lnot b + 1$ 

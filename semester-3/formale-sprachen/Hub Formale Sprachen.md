@@ -43,7 +43,7 @@
 - [[Produktionsregel]]
 - [[Übung 1.32 Binärwörter]]
 ## 2. Reguläre Sprachen
-- [[Regular Expression]]
+- [[Regulärer Ausdruck]]
 	- [[Regular Expression Beispiele]]
 	- [[Rechenregeln Reguläre Ausdrücke]]
 	- [[Übung 2.7 Regular Expressions]]

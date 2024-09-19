@@ -1,5 +1,6 @@
 > Ermöglicht Addition _zweier_ Binärer Ziffern
 
+$x + y = c\cdot s$ ($\cdot$ ist Wortkonkatenation)
 ### Rechenregeln
 $0 + 0 = 0$
 $0 + 1 = 1$
@@ -7,13 +8,14 @@ $1 + 0 = 1$
 $1 + 1 = 10$
 
 
-| A | B | Z | Ü |
-| ---- | ---- | ---- | ---- |
-| 0 | 0 | 0 | 0 |
-| 0 | 1 | 1 | 0 |
-| 1 | 0 | 1 | 0 |
-| 1 | 1 | 0 | 1 |
+| A   | B   | Z   | C   |
+| --- | --- | --- | --- |
+| 0   | 0   | 0   | 0   |
+| 0   | 1   | 1   | 0   |
+| 1   | 0   | 1   | 0   |
+| 1   | 1   | 0   | 1   |
 $Z$ ist hierbei die _niederwertigere_ Stelligkeit!!
+- auch genannt $S$ (Sum)
 
 ### Schaltsymbol
 ![[Pasted image 20240202092401.png]]

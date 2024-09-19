@@ -6,12 +6,12 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 40.085287846481876,
+        "dimension": 48.027718550106606,
         "children": [
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 81.00664767331433,
+            "dimension": 42.16524216524217,
             "children": [
               {
                 "id": "6f2af3586be0fea2",
@@ -97,12 +97,13 @@
                   "pinned": true
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 18.99335232668566,
+            "dimension": 57.83475783475783,
             "children": [
               {
                 "id": "bb20f33256a925c1",
@@ -129,8 +130,23 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "ebb4459ffc4c9e5e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -138,12 +154,12 @@
       {
         "id": "5e44c37c29a1d2f6",
         "type": "split",
-        "dimension": 59.914712153518124,
+        "dimension": 51.97228144989339,
         "children": [
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 70.56030389363723,
+            "dimension": 69.89553656220323,
             "children": [
               {
                 "id": "407646f59d0f0670",
@@ -175,19 +191,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/DFA.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b9fa6b0d0f1413a3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
+                    "file": "semester-3/rechnerarchitekturen/Carry-Look-Ahead Adder.md",
                     "mode": "source",
                     "source": false
                   }
@@ -204,14 +208,62 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "365c1742df4342e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/8051 SUBB.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "593af74faf93a394",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-1/digitaltechnik/rechenschaltungen/Zweierkomplement.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "61fae10e7ab4016f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Übergangsrelation.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2135321b616a2bdb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Wort.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 6
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 29.439696106362774,
+            "dimension": 30.10446343779677,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -292,7 +344,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:todo ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -342,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "semester-3/formale-sprachen/Library Reguläre Sprachen.md"
               }
             }
           },
@@ -352,7 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,7 +424,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -408,44 +460,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b9fa6b0d0f1413a3",
+  "active": "ebb4459ffc4c9e5e",
   "lastOpenFiles": [
-    "semester-1/programmieren/concepts/Floating Point Darstellung.md",
-    "README.md",
+    "semester-3/formale-sprachen/Übergangsrelation.md",
+    "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
     "semester-3/formale-sprachen/DFA.md",
-    "semester-3/formale-sprachen/Endzustand.md",
-    "intension/t1000/README.md",
-    "semester-3/rechnerarchitekturen/Erhöhung der Stellenanzahl.md",
-    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
-    "semester-2/algorithmen/Dijkstras Algorithm.md",
-    "semester-3/rechnerarchitekturen/Befehlszyklus v. Neuman vs Harvard.md",
-    "semester-3/netztechnik/verbindungslose Kommunikation.md",
+    "semester-3/formale-sprachen/Funktion.md",
+    "semester-1/lineare-algebra/latex_symbols.pdf",
+    "semester-3/formale-sprachen/Regulärer Ausdruck.md",
+    "semester-3/formale-sprachen/Operationen auf Mengen.md",
+    "semester-3/formale-sprachen/Klenee-Stern.md",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/Wort.md",
+    "semester-3/formale-sprachen/Alphabet.md",
+    "semester-3/formale-sprachen/Operationen auf Sprachen.md",
+    "semester-3/formale-sprachen/Konkatenation.md",
+    "semester-3/formale-sprachen/Operationen auf Wörtern.md",
+    "semester-3/formale-sprachen/Zustand.md",
+    "semester-3/formale-sprachen/Startzustand.md",
+    "semester-3/software_architektur/Hub Software Engineering.md",
     "semester-3/netztechnik/Hub Netztechnik.md",
-    "semester-3/netztechnik/verbindungsorientierte Kommunikation.md",
-    "semester-3/netztechnik/Satellitenkommunikation.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Parallele Multiplikationsschaltung.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Serielle Multiplikationsschaltung.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Multiplikationsschaltung.md",
+    "semester-3/rechnerarchitekturen/ALU.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Ripple-Carry-Adder.md",
+    "semester-3/rechnerarchitekturen/Carry-Look-Ahead Adder.md",
+    "semester-3/rechnerarchitekturen/Hub Systemnahe Programmierung.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Addier-Subtrahier-Werk.md",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240919111540.png",
+    "semester-1/digitaltechnik/rechenschaltungen/Subtraktion mit Komplementbildung.md",
+    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240919104943.png",
     "semester-3/netztechnik/images/Pasted image 20240918174210.png",
     "semester-3/netztechnik/images/Pasted image 20240918174129.png",
-    "semester-3/netztechnik/ISM-Band.md",
     "semester-3/netztechnik/images/Pasted image 20240918174045.png",
-    "semester-3/netztechnik/Rundfunksystem.md",
     "semester-3/netztechnik/images/Pasted image 20240918174021.png",
     "semester-3/netztechnik/images/Pasted image 20240918174001.png",
     "semester-3/netztechnik/images/Pasted image 20240918173947.png",
-    "semester-3/netztechnik/Nachrichtenvermittlung vs. Paketvermittlung.md",
     "semester-3/netztechnik/images/Pasted image 20240918173849.png",
-    "semester-3/netztechnik/Duplex-Verbindung.md",
     "semester-3/netztechnik/images/Pasted image 20240918173824.png",
-    "semester-3/netztechnik/Simplex-Betrieb.md",
-    "semester-3/netztechnik/Verbindungstyp.md",
-    "semester-3/netztechnik/images/Pasted image 20240918173803.png",
-    "semester-3/netztechnik/Halb-Duplex-Betrieb.md",
-    "semester-3/netztechnik/images/Pasted image 20240918173752.png",
-    "semester-3/netztechnik/Klassifizierung von Netzerken.md",
-    "semester-3/netztechnik/Ziele von Netzwerken.md",
-    "semester-3/netztechnik/Peer-to-Peer Netzwerk.md",
-    "semester-3/netztechnik/Broadcast Netzwerk.md",
-    "semester-3/netztechnik/E-Commerce.md",
-    "semester-3/netztechnik/Peer-to-Peer Modell.md",
     "goodnotes/23B Battle Royale.pdf",
     "semester-3/formale-sprachen/sources/FSA-handout.pdf",
     "semester-3/netztechnik/sources/Netztechnik-Vorlesung Teil-2.pdf",
@@ -454,7 +507,6 @@
     "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
     "semester-3/datenbanken/sources/DB_Kap01_Grundlagen_Stud.pdf",
     "semester-3/netztechnik/sources",
-    "semester-3/datenbanken/sources/DB_Semesteraufgabe_Studierende.pdf",
-    "semester-3/rechnerarchitekturen/mermaid.pdf"
+    "semester-3/datenbanken/sources/DB_Semesteraufgabe_Studierende.pdf"
   ]
 }

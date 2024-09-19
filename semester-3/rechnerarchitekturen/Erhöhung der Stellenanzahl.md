@@ -14,6 +14,8 @@ $$(-1)^{a_{n-1}} \cdot \sum\limits_{i = 0}^{n - 2}a_{i}\cdot2^{i} = (-1)^{b_{m-1
 
 - $b_{m - 1} = a_{m-1}$ 
 
-> [!hint] Anschaulich: Vorzeichen abtrennen, [[Folge]] aus Nullen einfügen
+> [!hint] Anschaulich: Vorzeichen abtrennen, [[Folge]] aus Vorzeichen einfügen
+
+- $1010 = 1111\, 1010$
 
 ![[Pasted image 20240916090100.png]]

@@ -30,4 +30,4 @@
 
 
 ### Rechenschaltung
-- [[Addier-Subtrahier-Werk]], [[Serielle Addierschaltung]] nicht selbst produzieren, nur verstehen können
+- [[Addier-Subtrahier-Werk]], [[Serial Adder]] nicht selbst produzieren, nur verstehen können

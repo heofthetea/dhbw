@@ -56,7 +56,7 @@
 - Operand: Entweder direkt Werte (think [[JAVA Primitive Data Type|primitive data type]]) oder [[Adresse|Adressen]] (think [[Reference]])
 - [[Instruktionen mit mehreren Operanden]]:
 	0. [[Stack Machine]] - arbeitet mit einem Stack
-	1. [[Akkumulator Machine]] - man kann nur ein [[Register]] beschreiben
+	1. [[Akkumulator]] - man kann nur ein [[Register]] beschreiben
 	2. Readressierung ($x = x + 5$)
 	3. Adressierung ($a = b + c$)
 > [!hint] Mit der vollständigen Beschreibung des [[Instruction Set Architecture|Instruction Set]] ist ein Prozessor nach außen hin vollständig definiert.

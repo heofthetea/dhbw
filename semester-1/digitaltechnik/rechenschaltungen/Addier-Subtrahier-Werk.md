@@ -1,9 +1,17 @@
 [[Ripple-Carry-Adder]], [[Zweierkomplement]], [[Subtraktion mit Komplementbildung]]
 
+
+
+![[Pasted image 20240919111540.png]]
+
+
+
+
+
+
 ![[Pasted image 20240205171154.png]]
-- durch XORs wird entschieden, ob Subtrahend Summand wird
+- durch [[XOR]]s wird entschieden, ob Subtrahend Summand wird
 	- je nachdem wird Komplement gebildet
-_Idee_: Bei Steuerleitung invertieren
 
 _Enable_-Eingang:
 - statt $XOR$s $AND$s: Information wird _nur_ weitergeleitet, wenn $E = 1$ ist

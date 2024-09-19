@@ -4,7 +4,7 @@
 [[Halbaddierer]]
 [[Volladdierer]]
 [[Ripple-Carry-Adder]]
-[[Serielle Addierschaltung]]
+[[Serial Adder]]
 
 
 [[Halbsubtrahierer]]

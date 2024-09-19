@@ -17,3 +17,7 @@
 [[Hierarchie von Sprachen]]
 [[RTL]]
 [[OPCODE]]
+[[8051 ADD]]
+[[8051 DA]]
+[[8051 MOV]]
+[[8051 SUBB]]

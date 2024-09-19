@@ -1,3 +1,6 @@
+
+> [!hint] Ist einfach ein $AND$ Glied lol
+
 ### Rechenregeln
 
 $0\cdot 0 = 0$

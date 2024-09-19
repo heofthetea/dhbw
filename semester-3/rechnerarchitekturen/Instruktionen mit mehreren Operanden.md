@@ -11,7 +11,7 @@ nach Anzahl der Operanden
 	- `z += x`
 	- `ADD z,x`
 	- `[op | z | x]`
-- 1 - [[Akkumulator Machine]] 
+- 1 - [[Akkumulator]] 
 	- `(A)` fest mit `op` verknüpft (implizite Adressierung)
 	- `(A) <- (A) + x`
 	- `A = A + x`
@@ -20,7 +20,7 @@ nach Anzahl der Operanden
 - 0 - [[Stack Machine]]
 
 > [!hint] [[CPU|Prozessor]]-Zuordnung (meist) nicht eindeutig?
-> z.B. [[8051 Architektur|8051]] zählt sich zu [[Akkumulator Machine]] - aber:
+> z.B. [[8051 Architektur|8051]] zählt sich zu [[Akkumulator]] - aber:
 > `ADD A,x` - 1 Adresse
 > `MUL A B` - 0 Adressen
 > [[RISC]] hat meistens $3$ Aressen
