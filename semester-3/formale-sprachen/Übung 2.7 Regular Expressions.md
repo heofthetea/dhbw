@@ -1,5 +1,5 @@
 [[Regulärer Ausdruck]], [[Formale Sprache]]
-[[FSA-handout.pdf#page=47]]
+[[FSA_Handout.pdf#page=47]]
 
 1. $r_{1} = ((b + c)^{*}a(b + c)^{*}) + ((a + c)^{*}b(a + c)^{*})$ 
 2. $\mathcal{L}(r_{1}) = \set{w \in \Sigma\ |\ |w|_{a} = 1 \lor |w|_{b} = 1}$

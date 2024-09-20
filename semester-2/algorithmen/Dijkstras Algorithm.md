@@ -1,4 +1,4 @@
-[[Beispiel Dijkstra]]
+[[Beispiel Dijkstra]], [[Graph]]
 
 - [[Greedy Algorithm]] ==> Funktioniert nicht, wenn [[Gewichteter Graph|Gewichte]] von externen Faktoren (z.B. anderen Gewichten) abhängig sind
 

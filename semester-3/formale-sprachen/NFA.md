@@ -1,6 +1,6 @@
 > Non-deterministic Finite Automaton
 
-[[Endlicher Automat]], [[ε-Übergang]], [[Übung 2.23 NFA]], [[Graph]], [[DFA]]
+[[Endlicher Automat]], [[ε-Übergang (epsilon-Übergang)]], [[Übung 2.23 NFA]], [[Graph]], [[DFA]]
 
 - besitzt [[Übergangsrelation]] $\Delta$ anstatt [[Übergangsfunktion]]
 - Jeder mögliche [[Lauf]], das Eingabezeichen zu verarbeiten, wird [[asynchronous|parallel]] verarbeitet

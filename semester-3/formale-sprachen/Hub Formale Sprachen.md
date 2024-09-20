@@ -2,7 +2,7 @@
 [[Template Mermaid State Diagram]]
 
 ### sources
-[[FSA-handout.pdf]]
+[[FSA_Handout.pdf]]
 
 #### Altklausuren
 ### Prüfungsleistung
@@ -52,17 +52,23 @@
 [[Endlicher Automat]]
 [[Lauf]]
 [[DFA]]
-[[NFA]]
 - [[Zustand]]
 - [[Übergangsfunktion]]
 - [[Startzustand]]
 - [[Endzustand]]
 - [[Müllzustand]]
+[[NFA]]
+- [[ε-Übergang (epsilon-Übergang)]]
 
 [[Nachteil DFA]]
 [[Äquivalenz DFA und NFA]]
 [[Transformation NFA -> DFA]]
+- [[epsilon-Abschluss]]
+- [[mögliche Folgezustände eines einzelnen Zustand]]
+- [[mögliche Folgezustände einer Zustandsmenge]]
 
+[[Transformation RegEx zu NFA]]
+[[Transformation DFA zu Regex]]
 ## 3. Kontextfreie Sprachen
 
 ## 4. Kontextsensitive Sprachen

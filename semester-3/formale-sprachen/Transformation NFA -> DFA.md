@@ -1,10 +1,12 @@
 ## Ansatz
 - jeder Zustand des [[DFA]] $det(A)$ repräsentiert eine [[Menge]] $M$ von Zuständen von $A$
+- Anstatt von $Q$ zu $Q'$ mehrere übergänge zu haben, hat man verschiedene deterministische Übergänge von $Q$ zu einer _Menge_ an Zuständen
 
 
 ## Algorithmus
-### Hilfsfunktion
-1. $ec$ $\epsilon$-Abschluss: mit $\epsilon$ erreichbare [[Zustand|Zustände]]
-	1. $ec: Q \rightarrow 2^{Q}$ [[Potenzmenge]]
-		1. Man geht so weit, wie man mit $\epsilon$ kommt --> [[rekursiv]]
-2. $\delta'$ mögliche Folgezustände eines _einzelnen_ Zustands von $A$
+### Hilfsfunktionen
+1. [[epsilon-Abschluss]]
+2. [[mögliche Folgezustände eines einzelnen Zustand]]
+3. [[mögliche Folgezustände einer Zustandsmenge]]
+4. [[DFA aus NFA]]
+5. 

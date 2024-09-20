@@ -2,7 +2,7 @@
 > Deterministic Finite Automaton
 > de.: Deterministischer Endlicher Automat (**DEA**)
 
-[[Endlicher Automat]], [[Tabellendarstellung DFA]], [[Lauf]], [[semester-2/algorithmen/Graph|Graph]]
+[[Endlicher Automat]], [[Tabellendarstellung DFA]], [[Lauf]], 
 
 ## Definition
 Ein [[DFA]] ist ein 5-[[Tupel]] $$A = (Q, \Sigma, \delta, q_{0}, F)$$ mit folgenden Komponenten:

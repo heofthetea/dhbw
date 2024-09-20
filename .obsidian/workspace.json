@@ -6,12 +6,12 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 48.027718550106606,
+        "dimension": 39.01918976545842,
         "children": [
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 42.16524216524217,
+            "dimension": 81.00664767331433,
             "children": [
               {
                 "id": "6f2af3586be0fea2",
@@ -103,7 +103,7 @@
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 57.83475783475783,
+            "dimension": 18.99335232668566,
             "children": [
               {
                 "id": "bb20f33256a925c1",
@@ -154,37 +154,13 @@
       {
         "id": "5e44c37c29a1d2f6",
         "type": "split",
-        "dimension": 51.97228144989339,
+        "dimension": 60.98081023454158,
         "children": [
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 69.89553656220323,
+            "dimension": 36.94207027540361,
             "children": [
-              {
-                "id": "407646f59d0f0670",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Übung 2.14 DFA.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7f9b8f3a5ecc0a02",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "1ea5f147bd9cf823",
                 "type": "leaf",
@@ -239,7 +215,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Übergangsrelation.md",
+                    "file": "semester-3/formale-sprachen/ε-Übergang (epsilon-Übergang).md",
                     "mode": "source",
                     "source": false
                   }
@@ -256,14 +232,38 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "9f57cb92013a62da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/DFA.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b71d18c6e5e94782",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Übung 2.39 NFA aus Regex.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 30.10446343779677,
+            "dimension": 63.0579297245964,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -296,7 +296,7 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-3/formale-sprachen/sources/FSA-handout.pdf"
+                    "file": "semester-3/formale-sprachen/sources/FSA_Handout.pdf"
                   },
                   "pinned": true
                 }
@@ -394,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/formale-sprachen/Library Reguläre Sprachen.md"
+                "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md"
               }
             }
           },
@@ -404,7 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
+                "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -424,7 +424,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
+                "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -460,47 +460,46 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ebb4459ffc4c9e5e",
+  "active": "bc0238ca28b728e4",
   "lastOpenFiles": [
+    "semester-3/formale-sprachen/Übung 2.39 NFA aus Regex.md",
+    "semester-3/formale-sprachen/Transformation RegEx zu NFA.md",
+    "semester-3/formale-sprachen/images/Pasted image 20240920132841.png",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "semester-3/formale-sprachen/images/Pasted image 20240920130824.png",
+    "semester-3/formale-sprachen/images/Pasted image 20240920130541.png",
+    "semester-3/formale-sprachen/images/Pasted image 20240920125907.png",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/Übung 2.35 NFA zu DFA.md",
+    "semester-3/formale-sprachen/images/Pasted image 20240920123837.png",
+    "semester-3/formale-sprachen/images/Pasted image 20240920120750.png",
+    "semester-3/formale-sprachen/images/Pasted image 20240920120712.png",
+    "semester-3/formale-sprachen/DFA aus NFA.md",
+    "semester-3/formale-sprachen/Automat.md",
+    "semester-3/formale-sprachen/ε-Übergang (epsilon-Übergang).md",
+    "semester-3/formale-sprachen/Wort.md",
+    "semester-3/formale-sprachen/DFA.md",
+    "semester-2/algorithmen/Library Graphen.md",
+    "semester-3/formale-sprachen/images/Pasted image 20240920113036.png",
+    "semester-3/formale-sprachen/images/Pasted image 20240920112735.png",
+    "semester-3/formale-sprachen/mögliche Folgezustände einer Zustandsmenge.md",
+    "semester-3/formale-sprachen/Transformation NFA -> DFA.md",
+    "semester-3/formale-sprachen/mögliche Folgezustände eines einzelnen Zustand.md",
+    "semester-3/formale-sprachen/images/Pasted image 20240920111344.png",
+    "semester-3/formale-sprachen/epsilon-Abschluss.md",
+    "semester-3/software_architektur/Hub Software Engineering.md",
     "semester-3/formale-sprachen/Übergangsrelation.md",
     "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
-    "semester-3/formale-sprachen/DFA.md",
     "semester-3/formale-sprachen/Funktion.md",
     "semester-1/lineare-algebra/latex_symbols.pdf",
     "semester-3/formale-sprachen/Regulärer Ausdruck.md",
     "semester-3/formale-sprachen/Operationen auf Mengen.md",
     "semester-3/formale-sprachen/Klenee-Stern.md",
-    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Wort.md",
     "semester-3/formale-sprachen/Alphabet.md",
     "semester-3/formale-sprachen/Operationen auf Sprachen.md",
     "semester-3/formale-sprachen/Konkatenation.md",
     "semester-3/formale-sprachen/Operationen auf Wörtern.md",
-    "semester-3/formale-sprachen/Zustand.md",
-    "semester-3/formale-sprachen/Startzustand.md",
-    "semester-3/software_architektur/Hub Software Engineering.md",
-    "semester-3/netztechnik/Hub Netztechnik.md",
-    "semester-1/digitaltechnik/rechenschaltungen/Parallele Multiplikationsschaltung.md",
-    "semester-1/digitaltechnik/rechenschaltungen/Serielle Multiplikationsschaltung.md",
-    "semester-1/digitaltechnik/rechenschaltungen/Multiplikationsschaltung.md",
-    "semester-3/rechnerarchitekturen/ALU.md",
-    "semester-1/digitaltechnik/rechenschaltungen/Ripple-Carry-Adder.md",
-    "semester-3/rechnerarchitekturen/Carry-Look-Ahead Adder.md",
-    "semester-3/rechnerarchitekturen/Hub Systemnahe Programmierung.md",
-    "semester-1/digitaltechnik/rechenschaltungen/Addier-Subtrahier-Werk.md",
-    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240919111540.png",
-    "semester-1/digitaltechnik/rechenschaltungen/Subtraktion mit Komplementbildung.md",
-    "semester-1/digitaltechnik/rechenschaltungen/images/Pasted image 20240919104943.png",
-    "semester-3/netztechnik/images/Pasted image 20240918174210.png",
-    "semester-3/netztechnik/images/Pasted image 20240918174129.png",
-    "semester-3/netztechnik/images/Pasted image 20240918174045.png",
-    "semester-3/netztechnik/images/Pasted image 20240918174021.png",
-    "semester-3/netztechnik/images/Pasted image 20240918174001.png",
-    "semester-3/netztechnik/images/Pasted image 20240918173947.png",
-    "semester-3/netztechnik/images/Pasted image 20240918173849.png",
-    "semester-3/netztechnik/images/Pasted image 20240918173824.png",
     "goodnotes/23B Battle Royale.pdf",
-    "semester-3/formale-sprachen/sources/FSA-handout.pdf",
     "semester-3/netztechnik/sources/Netztechnik-Vorlesung Teil-2.pdf",
     "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf",
     "semester-3/netztechnik/images",
