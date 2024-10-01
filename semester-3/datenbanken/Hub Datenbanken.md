@@ -15,6 +15,9 @@
 [Link zu moodöl](https://elearning.dhbw-stuttgart.de/moodle/mod/folder/view.php?id=394622)
 [[DB_Semesteraufgabe_Studierende.pdf]]
 [[Datenbanken Projekt]]
+[[DB Beispiel Anforderungsanalyse]]
+[[DB Projektidee Ticketsystem]]
+[[DB Projektidee Scotland Yard]]
 ## 01 Grundlagen
 [[Datenbank]]
 [[Begrifflichkeit Datenbank]]
@@ -66,11 +69,18 @@
 
 [[Ablauf ERM Modellierung]]
 [[Schlüsselattribut]]
-[[Weitere Attribute]]
+[[Spezielle Attribute]]
 [[Relationsrichtung eindeutig machen]]
 [[Kardinalität]]
 
-
-
-
-
+[[Übung ERM]]
+[[Übung ternäre Relation]]
+[[n-stellige Relationship]]
+[[Rekursive Relationship]]
+[[Is-a Relationship]]
+- [[Übung Is-a Relationship]]
+[[Aggregation und Partitionierung]]
+- [[Aggregation]]
+- [[Komposition]]
+- [[Schwacher Entitätstyp]]
+[[Übung Modellierung Computer]]

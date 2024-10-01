@@ -57,3 +57,33 @@ $$\mathcal{A} = (Q, \Sigma, \delta, q_{0}, F)$$-  $Q$ ist _endliche_ Menge an [[
 
 - ist einfacher verständlich und übersichtlicher
 - [[Äquivalenz DFA und NFA]] - erkennen beide dieselbe [[Sprachklasse]]
+
+## Automatentransformationen
+### NFA zu DFA
+- [[epsilon-Abschluss]] $ec(q)$: Die [[Menge]] aller von $q$ mit beliebig vielen [[ε-Übergang (epsilon-Übergang)|epsilon-Übergängen]] erreichbaren Zuständen
+- $\delta'$: [[Menge]]  [[mögliche Folgezustände eines einzelnen Zustand]] 
+- $\hat{\delta}$: [[mögliche Folgezustände einer Zustandsmenge]]
+	- für jeden [[Zustand]] der [[Menge|Zustandsmenge]] die jeweiligen $\delta'$ vereinigen
+ 
+#### Algorithmus
+[[Transformation NFA -> DFA]]
+1. [[epsilon-Abschluss]] von [[Startzustand]] berechnen: $S_{0} = ec(q_{0})$
+2. [[mögliche Folgezustände einer Zustandsmenge|mögliche Folgezustände der Menge]] $S_{0}$ für alle Symbole $c \in \Sigma$ berechnen
+	1. für jede _neue_ Menge, die entsteht, einen neuen Zustand $S_{i}$ anlegen
+3. Alle [[Zustand|Zustandsmengen]], die einen [[Endzustand]] $f \in F$ beinhalten, werden zu einem [[Endzustand]] für $det(A)$
+
+> [!warning]- In Schritt $2.$ den [[epsilon-Abschluss]] der Zielzustände berücksichtigen!!
+
+> [!hint] der Zustand, der durch die [[Leere Menge]] beschrieben wird, wird zum [[Müllzustand]] $S_{j}$
+
+### Regular Expression zu NFA
+[[Transformation RegEx -> NFA]]
+[[Regulärer Ausdruck|regulären Ausdruck]] von innen nach Außen bearbeiten:
+1. Zustände für jeden [[Transformation RegEx -> NFA#1. elementare Ausdrücke|Elementarausdruck]] generieren
+2. Elementarzustände richtig mit [[ε-Übergang (epsilon-Übergang)|epsilon-Übergängen]] verbinden:
+	- [[NFA für Konkatenation]]
+	- [[NFA für Vereinigung]]
+	- [[NFA für Klenee-Stern]]
+
+> [!warning]- Kommt ein Elementarsymbol mehrfach im Ausdruck vor, darf der entsprechende Subgraph nicht wiederverwendet werden!!
+

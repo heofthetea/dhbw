@@ -6,7 +6,12 @@
 
 > Klausuren müssen nicht einzeln bestanden werden!!!
 
-
-### misc
+## Inhalte
+- einer von 3 N-bit Addierer
+- Was zu binärer Addition etc. - was ist OV?
+- Was zu [[Floating Point Darstellung]]
+- ein Programm (ca. 2x so lange wie [[Assembler Beispiel 2]]) in Struktogramm übersetzen
+	- Programm wird nicht sinnvoll sein lol
+## misc
 - keine Scherze in der Klausur
 - hinschreiben, dass man weiß dass ein Ergebnis falsch ist, gibt evtl. Teilpunkte

@@ -1,4 +1,4 @@
-[[Why do indices start at 0]]
+[[Why do indices start at 0]], [[Pointer#Pointer arithmetic]]
 Ist literally ein _Block_ im Speicher
 ![[Pasted image 20240604112702.png]]
 

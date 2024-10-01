@@ -6,4 +6,10 @@
 [[Exponentialfunktion]]
 [[Differenzenquotient]]
 [[konvexe und konkave Funktionen]]
-[[Integralrechnung]]
+[[Integral]]
+## 1. Funktionen mehrerer Variablen 
+[[Funktion]]
+[[Stetigkeit]]
+[[Vektorfunktion]]
+[[partielle Ableitung]]
+[[stetig differenzierbar]]

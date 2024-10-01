@@ -8,10 +8,10 @@
 ## Aufbau
 ![[Pasted image 20240919104943.png]]
 
-####  Zeibedarf
+> [!warning] Startwert wird überschrieben !!
+####  Laufzeit
 $$i \cdot (t_{VA} + t_{schieben})$$
 
-> [!warning] Startwert wird überschrieben !!
 
 ### Ablauf
 1. init: Schieberegister füllen; Speicher  $T$ löschen ([[Flipflops]] reset)

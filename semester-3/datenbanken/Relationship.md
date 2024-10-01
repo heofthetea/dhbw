@@ -1,4 +1,4 @@
-[[Relation]], [[Kardinalität]]
+[[Relation]], [[Kardinalität]], [[n-stellige Relationship]]
 
 
 [[Relation]] zwischen [[Entität|Entitäten]]

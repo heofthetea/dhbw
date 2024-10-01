@@ -6,3 +6,8 @@ Beschreibung aller fachlichen Basisanforderungen, die das zu entwickelnde Produk
 		
 enthält _NICHT_, _wie_ das Projekt realisiert werden soll
 	--> beschreibt nur IST-Zustand
+
+> [!hint] Mittlerweile öfter durch Domain-Experts beim Auftragnehmer erstellt
+
+> [!info] Alle Berufe haben ihre eigene Fachsprache: Bei Juristen umständliche Juristensprache, bei Informatikern sind es Akronyme lol
+

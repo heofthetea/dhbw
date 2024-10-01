@@ -1,4 +1,4 @@
-[[Transformation RegEx zu NFA]]
+[[Transformation RegEx -> NFA]]
 
 $$r = ((a + b) + \epsilon)a^{*}b$$
 

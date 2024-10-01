@@ -44,7 +44,7 @@ Verkerhsarten
 - [[Anycast]]
 - [[Broadcast]]
 Betriebsarten
-- [[Simplex-Betrieb]]
+- [[Simplex-Verbindung]]
 - [[Halb-Duplex-Betrieb]]
 - [[Duplex-Verbindung]]
 

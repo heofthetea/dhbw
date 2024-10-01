@@ -11,7 +11,7 @@
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 81.00664767331433,
+            "dimension": 58.78442545109211,
             "children": [
               {
                 "id": "6f2af3586be0fea2",
@@ -98,12 +98,12 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 18.99335232668566,
+            "dimension": 41.21557454890788,
             "children": [
               {
                 "id": "bb20f33256a925c1",
@@ -144,9 +144,33 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "ae802d45b7fd6480",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Transformation RegEx -> NFA.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "68590a909e36c068",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Transformation DFA -> Regex.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -159,68 +183,8 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 36.94207027540361,
+            "dimension": 48.52801519468186,
             "children": [
-              {
-                "id": "1ea5f147bd9cf823",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Carry-Look-Ahead Adder.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4df2f497ffdec5e6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-1/programmieren/concepts/Floating Point Darstellung.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "365c1742df4342e2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/8051 SUBB.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "593af74faf93a394",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-1/digitaltechnik/rechenschaltungen/Zweierkomplement.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "61fae10e7ab4016f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/ε-Übergang (epsilon-Übergang).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "2135321b616a2bdb",
                 "type": "leaf",
@@ -234,36 +198,120 @@
                 }
               },
               {
-                "id": "9f57cb92013a62da",
+                "id": "bc96b3d37340eee0",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/DFA.md",
+                    "file": "semester-3/rechnerarchitekturen/Assembler Beispiel 2.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "b71d18c6e5e94782",
+                "id": "632f5873e05f4334",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Übung 2.39 NFA aus Regex.md",
+                    "file": "semester-3/rechnerarchitekturen/8051 JZ.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5437a5bebd205f93",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Unbedingter Sprung.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e3b4596fbe15a71f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Systembus.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8ba400a3bd7e5d6b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/serielles BUS-System.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "42afeaaf544cfb85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/DB Beispiel Anforderungsanalyse.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "845162ff428613e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/DB Projektidee Ticketsystem.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "44df9ef8c0891624",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Übung ternäre Relation.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "936826c6281ce4d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Übung Modellierung Computer.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 9
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 63.0579297245964,
+            "dimension": 51.47198480531814,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -304,15 +352,17 @@
               {
                 "id": "6770556e59d0b9db",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "pdf",
                   "state": {
                     "file": "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf"
-                  }
+                  },
+                  "pinned": true
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -344,7 +394,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag: todo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -394,7 +444,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md"
+                "file": "semester-3/datenbanken/Übung Modellierung Computer.md"
               }
             }
           },
@@ -404,7 +454,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+                "file": "semester-3/datenbanken/Übung Modellierung Computer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -424,7 +474,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+                "file": "semester-3/datenbanken/Übung Modellierung Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,55 +507,59 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "3d-graph:3D Graph": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "tags-routes:Open tags routes": false
     }
   },
-  "active": "bc0238ca28b728e4",
+  "active": "936826c6281ce4d9",
   "lastOpenFiles": [
-    "semester-3/formale-sprachen/Übung 2.39 NFA aus Regex.md",
-    "semester-3/formale-sprachen/Transformation RegEx zu NFA.md",
-    "semester-3/formale-sprachen/images/Pasted image 20240920132841.png",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/formale-sprachen/images/Pasted image 20240920130824.png",
-    "semester-3/formale-sprachen/images/Pasted image 20240920130541.png",
-    "semester-3/formale-sprachen/images/Pasted image 20240920125907.png",
-    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Übung 2.35 NFA zu DFA.md",
-    "semester-3/formale-sprachen/images/Pasted image 20240920123837.png",
-    "semester-3/formale-sprachen/images/Pasted image 20240920120750.png",
-    "semester-3/formale-sprachen/images/Pasted image 20240920120712.png",
-    "semester-3/formale-sprachen/DFA aus NFA.md",
-    "semester-3/formale-sprachen/Automat.md",
-    "semester-3/formale-sprachen/ε-Übergang (epsilon-Übergang).md",
-    "semester-3/formale-sprachen/Wort.md",
-    "semester-3/formale-sprachen/DFA.md",
-    "semester-2/algorithmen/Library Graphen.md",
-    "semester-3/formale-sprachen/images/Pasted image 20240920113036.png",
-    "semester-3/formale-sprachen/images/Pasted image 20240920112735.png",
-    "semester-3/formale-sprachen/mögliche Folgezustände einer Zustandsmenge.md",
-    "semester-3/formale-sprachen/Transformation NFA -> DFA.md",
-    "semester-3/formale-sprachen/mögliche Folgezustände eines einzelnen Zustand.md",
-    "semester-3/formale-sprachen/images/Pasted image 20240920111344.png",
-    "semester-3/formale-sprachen/epsilon-Abschluss.md",
-    "semester-3/software_architektur/Hub Software Engineering.md",
-    "semester-3/formale-sprachen/Übergangsrelation.md",
-    "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
-    "semester-3/formale-sprachen/Funktion.md",
-    "semester-1/lineare-algebra/latex_symbols.pdf",
-    "semester-3/formale-sprachen/Regulärer Ausdruck.md",
-    "semester-3/formale-sprachen/Operationen auf Mengen.md",
-    "semester-3/formale-sprachen/Klenee-Stern.md",
-    "semester-3/formale-sprachen/Alphabet.md",
-    "semester-3/formale-sprachen/Operationen auf Sprachen.md",
-    "semester-3/formale-sprachen/Konkatenation.md",
-    "semester-3/formale-sprachen/Operationen auf Wörtern.md",
-    "goodnotes/23B Battle Royale.pdf",
-    "semester-3/netztechnik/sources/Netztechnik-Vorlesung Teil-2.pdf",
+    "semester-3/datenbanken/Hub Datenbanken.md",
+    "semester-3/datenbanken/Übung Modellierung Computer.md",
+    "semester-3/datenbanken/Schwacher Entitätstyp.md",
+    "semester-3/datenbanken/Aggregation und Partitionierung.md",
+    "semester-3/datenbanken/images/Pasted image 20241001160638.png",
+    "semester-3/datenbanken/Komposition.md",
+    "semester-1/programmieren/concepts/C concepts.md",
+    "TagsRoutes/reports",
+    "TagsRoutes/logs",
+    "TagsRoutes",
+    "semester-2/java/Aggregation and Composition.md",
+    "semester-2/java/Aggregation.md",
+    "semester-3/datenbanken/images/Pasted image 20241001154851.png",
     "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf",
-    "semester-3/netztechnik/images",
+    "semester-3/datenbanken/Is-a Relationship.md",
+    "semester-3/datenbanken/images/Pasted image 20241001154618.png",
+    "semester-3/datenbanken/Übung Is-a Relationship.md",
+    "semester-3/datenbanken/images/Pasted image 20241001154115.png",
+    "semester-3/datenbanken/images/Pasted image 20241001154021.png",
+    "semester-3/datenbanken/images/Pasted image 20241001151101.png",
+    "semester-3/datenbanken/Rekursive Relationship.md",
+    "semester-3/datenbanken/images/Pasted image 20241001150549.png",
+    "semester-3/datenbanken/n-stellige Relationship.md",
+    "semester-3/datenbanken/Übung ternäre Relation.md",
+    "semester-3/datenbanken/images/Pasted image 20241001150101.png",
+    "semester-3/datenbanken/Übung ERM.md",
+    "semester-3/datenbanken/images/Pasted image 20241001144435.png",
+    "semester-3/datenbanken/images/Pasted image 20241001143433.png",
+    "semester-3/datenbanken/Relationship.md",
+    "semester-3/datenbanken/Min-Max Kardinalität.md",
+    "semester-3/datenbanken/Kardinalität.md",
+    "semester-3/datenbanken/1-n Relation.md",
+    "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
+    "semester-3/datenbanken/DB Projektidee Scotland Yard.md",
+    "semester-3/datenbanken/DB Beispiel Anforderungsanalyse.md",
+    "semester-3/datenbanken/DB Projektidee Ticketsystem.md",
+    "semester-3/datenbanken/Untitled.md",
+    "semester-3/netztechnik/Hub Netztechnik.md",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/Optimierung DFA.md",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "modulhandbuch.pdf",
+    "semester-3/angewandte_mathematik/sources/Teil2_VF_Skript Mathematik Giles-A Nzouankeu Nana DHBW Info Stuttgart WS_2024_2025.pdf",
+    "semester-3/angewandte_mathematik/sources",
     "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
-    "semester-3/datenbanken/sources/DB_Kap01_Grundlagen_Stud.pdf",
-    "semester-3/netztechnik/sources",
-    "semester-3/datenbanken/sources/DB_Semesteraufgabe_Studierende.pdf"
+    "semester-1/lineare-algebra/latex_symbols.pdf"
   ]
 }

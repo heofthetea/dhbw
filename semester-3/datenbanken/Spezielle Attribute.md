@@ -1,4 +1,3 @@
-#todo rename
 geht in [[Normalisierung]]
 
 1. _Zusammengesetzte_ [[Attribut|Attribute]] müssen zerlegt werden!

@@ -11,3 +11,9 @@ $$w = c_{1}...c_{n}\ \ \ mit c_{1...n} \in \Sigma, n \in \mathbb{N}$$
 > Beispiel [[C]]-Programm: Enthält viele "intuitive Wörter", aber das ganze Programm ist ein [[Wort]] der Sprache $L = \set{"Alle\ validen\ C\ Programme"}$ 
 
 [[Operationen auf Wörtern]]
+
+
+## Hardware
+- Die Anzahl der Bits, auf denen eine [[Instruction Set Architecture|Architektur]] aufgebaut ist
+	- für [[i386]]: 32 bit
+- Korrespondiert zu der Breite eines [[BUS-System|Bus-Systems]]

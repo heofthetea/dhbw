@@ -2,5 +2,5 @@
 
 
 
-- Funknetze: [[Simplex-Betrieb]] (sendet nur in eine Richtung)
+- Funknetze: [[Simplex-Verbindung]] (sendet nur in eine Richtung)
 - 

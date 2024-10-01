@@ -15,8 +15,6 @@
 [[Library Reguläre Sprachen]]
 
 # Vorlesungen
-
-
 ## 1. Basics
 [[Alphabet]]
 [[Wort]]
@@ -67,8 +65,16 @@
 - [[mögliche Folgezustände eines einzelnen Zustand]]
 - [[mögliche Folgezustände einer Zustandsmenge]]
 
-[[Transformation RegEx zu NFA]]
-[[Transformation DFA zu Regex]]
+[[Transformation RegEx -> NFA]]
+- [[NFA für Konkatenation]]
+- [[NFA für Vereinigung]]
+- [[NFA für Klenee-Stern]]
+[[Transformation DFA -> Regex]]
+- [[Arden-Lemma]]
+[[Quotientenautomat]]
+- [[Erreichbarer Zustand]]
+- [[Unterscheidbare Zustände]]
+- [[Optimierung DFA]]
 ## 3. Kontextfreie Sprachen
 
 ## 4. Kontextsensitive Sprachen

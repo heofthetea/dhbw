@@ -1,6 +1,8 @@
 > Ermöglicht Addition _zweier_ Binärer Ziffern
 
 $x + y = c\cdot s$ ($\cdot$ ist Wortkonkatenation)
+
+> [!hint] [[Komplexität|Laufzeit]]: $2\Delta T$ 
 ### Rechenregeln
 $0 + 0 = 0$
 $0 + 1 = 1$

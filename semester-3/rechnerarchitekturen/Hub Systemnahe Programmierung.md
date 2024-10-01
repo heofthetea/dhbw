@@ -14,10 +14,39 @@
 	- [[MISD]]
 	- [[MIMD]]
 ## CPU
-[[Hierarchie von Sprachen]]
 [[RTL]]
 [[OPCODE]]
+
+
+## 8051 Befehle
 [[8051 ADD]]
 [[8051 DA]]
 [[8051 MOV]]
 [[8051 SUBB]]
+[[8051 MUL]]
+[[8051 DIV]]
+[[8051 CLR]]
+
+
+[[Assembler Konstanten]]
+[[Assembler Verzweigungsbefehle]]
+## Kapitel 13
+[[Schichten eines Computers]]
+- [[Hierarchie von Sprachen]]
+[[Assemblersprache]]
+- [[Programmerstellung Assembler]]
+- [[Aufbau eines Assemblerprogramms]]
+
+[[ASM Adressierungsarten]]
+- [[unmittelbare Adressierung]]
+- [[direkte Adressierung]]
+- [[indirekte Adressierung]]
+
+[[Unbedingter Sprung]]
+[[Unterprogramm Assembler]]
+
+[[Seitenverwaltung]]
+### Beispielprogramme
+- [[Assembler Beispiel 1]]
+- [[Assembler Beispiel 2]]
+

@@ -56,4 +56,22 @@ in Semester 3: [[Hub Betriebssysteme]]
 - [[Halbaddierer]], [[Volladdierer]]
 - [[Carry-Look-Ahead Adder]]
 - [[Addier-Subtrahier-Werk]]
+- [[Blockbildung]]
+- [[Multiplikation Zweierkomplement]]
+- [[Division Zweierkomplement]]
+	- [[Multiplikation Division Floating Point]]
+
+## 3 Bussystem
+(im Skript Kapitel 6 lol)
+[[serielles BUS-System]]
+[[BUS-System]]
+- [[Adressbus]]
+- [[Datenbus]]
+- [[Steuerbus]]
+- [[Systembus]]
+[[BUS-Schaltung]]
+[[serielle Bus-Schaltung]]
+[[Einteilung BUS-System]]
+[[Seriell-Parallel Crossover]]
+[[RS232 Bus]]
 

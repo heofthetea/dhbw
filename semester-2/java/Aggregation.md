@@ -1,0 +1,1 @@
+> $A$ ist Teil von $B$, aber kann nicht unabhängig von $B$ existieren

@@ -4,8 +4,7 @@
 - Steuerungseingänge werden der Reihe nach in einem bestimmten Zeitintervall angesteuert
 - wird durch [[Master Zähler|Zähler]] umgesetzt
 
-[[16-bit zu 1-bit Multiplexer]]
-
+![[Pasted image 20240129165543.png]]
 ## Anwendung:
 - Datenübertragung durch _Sequentierung_
 - ==> [[Demultiplexer]]

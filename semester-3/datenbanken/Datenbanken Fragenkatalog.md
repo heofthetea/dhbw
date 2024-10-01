@@ -77,4 +77,53 @@
 
 
 > [!help]- 17\. Wie lauten die Beschreibsverfahren für diesen Prozess?
+> [[DB Entwurfsprozess
+
+## 02 Fragenkatalog
+
+> [!help]- 18\. Was versteht man unter einer Anforderungsanalyse, und wdas ist das Ergebnis?
+> - Sammle Daten vom Kunden - **Dokumentation**
+> - Wie hängen Daten zusammen? - **Analyse**
+> - Änderungen vom Kunden im Nachhinein einarbeiten - **Verfolgen**
+> - **Ergebnis**: [[Lastenheft]]
+
+
+> [!help]- 19\. Was ist der konzeptionelle Datenbankentwurf, was ist sein Ziel und welche Methode wird hierzu verwendet?
 > [[DB Entwurfsprozess]]
+> - Aus der Anforderungsanalyse gewonnene Informationen (= reale Welt) zu modellieren ([[ERM]])
+> - **Ziel**: Daten zu speichern, und _Beziehungen_ herzustellen --> greifbar machen
+
+> [!help]- 20\. Was versteht man unter einem Entitäts-Typ und einer [[Entität]]?
+> - Entitätstyp: Vorlage, bisschen wie [[Class]]
+> - Entität: Instanz, bisschen wie [[Object]]
+> 	- in DB sprache: Entitäts-[[Tupel]]
+
+
+> [!help]- 21\. Aus welchen Komponenten besteht das [[ERM]] und was versteht man darunter?
+> - [[Entität]]: ein Objekt der Realen Welt
+> - [[Relationship]]: Beziehung
+> - [[Attribut]]: Was sind die Ausprägungen des Projekts?
+
+> [!help]- 22\. Was versteht man unter dem Wertebereich eines [[Attribut|Attributs]]?
+> Alle erlaubten Werte, wie ein Attribut belegt werden kann (was sind die Grenzen)
+> Welcher Datentyp?
+
+> [!help]- 23\. Wie definiert man Schlüsselattribute eines Entitäts-Typs und warum führt man künstliche Schlüssel ein?
+> - **Definition**:  Ein [[Entität]]-Tupel muss anhand des Schlüssels _eindeutig_ zu identifizieren sein.
+> - künstlich: wenn kein natürliches (oder eine Kombination natürlicher) Attribut diese Anforderung erfüllt - **ACHTUNG: Nicht aus Fauljeit**
+
+> [!help]- 24\. Wie geht man mit Mengenattributen in einem Entitäts-Typ um?
+> Etwas, wovon man beliebig vieles Haben kann (z.B. Telefonnummern)
+> Umgang: In eine eigene Entität auslagern
+
+> [!help]- 25\. Wie sollte der Text in einer Beziehungs-Raute gewählt werden und welches sind die bevorzugten Leserichtungen im [[ERM]]?
+> - Text sollte deskriptiv für die [[Relationship|Beziehung]] sein, klar und eindeutig - **NICHT "hat"**
+> - bevorzugte Leserichtung: links -> rechts, oben -> unten
+
+> [!help]- 26\. Was ist zu tun wenn die Leserichtung in einem [[ERM]] nicht eingehalten werden kann?
+> - Kennzeichnen an den Entitäten - Man schreibt die _Rollen_ hin bzgl. der Beziehung hin
+
+> [!help]- 27\. Was sind die grundsätzlichen Unterschiede zwischen der Chen-Notation und der (min, max)-Notation?
+> - Notation wird anders rum hin geschrieben - [[1-n Relation]] wird "umgedreht"
+> - in der Chen-Notation kann man keine Grenzen abbilden
+

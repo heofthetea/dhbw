@@ -84,7 +84,6 @@
 
 ### Transmissionsschaltungen
 - [[Multiplexer]]: sequenziert Bits aus input ("n zu 1 bit")
-	- Beispiel: [[16-bit zu 1-bit Multiplexer]]
 - [[Demultiplexer]]: parallelisiert Bits aus input ("1 zu n bit")
 	- Umsetzung: [[Datenselektor]] mit _zeitabhängiger_ Beschaltung durch [[#Zähler]]
 - [[BUS-Schaltung]] sendet Information von _Sender_ zu _Receiver_
