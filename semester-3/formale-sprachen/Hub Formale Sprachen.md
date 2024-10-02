@@ -45,7 +45,7 @@
 	- [[Regular Expression Beispiele]]
 	- [[Rechenregeln Reguläre Ausdrücke]]
 	- [[Übung 2.7 Regular Expressions]]
-
+- [[Eigenschaften Regulärer Sprachen]]
 ### Endliche Automaten
 [[Endlicher Automat]]
 [[Lauf]]
@@ -64,6 +64,9 @@
 - [[epsilon-Abschluss]]
 - [[mögliche Folgezustände eines einzelnen Zustand]]
 - [[mögliche Folgezustände einer Zustandsmenge]]
+[[Produktautomat]]
+
+### Automatentransformartionen
 
 [[Transformation RegEx -> NFA]]
 - [[NFA für Konkatenation]]
@@ -74,7 +77,15 @@
 [[Quotientenautomat]]
 - [[Erreichbarer Zustand]]
 - [[Unterscheidbare Zustände]]
-- [[Optimierung DFA]]
+- [[Minimierung DFA]]
+
+### Pumping Lemma
+[[Grenzen Regulärer Sprachen]]
+[[Pumping Lemma]]
+- [[Kontraposition Pumping Lemma]]
+- [[Irregularität einer Sprache zeigen]]
+[[Kontraposition]]
+
 ## 3. Kontextfreie Sprachen
 
 ## 4. Kontextsensitive Sprachen

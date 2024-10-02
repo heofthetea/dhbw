@@ -96,9 +96,23 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "dbac54b26696a68c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 6
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -144,33 +158,9 @@
                   },
                   "pinned": true
                 }
-              },
-              {
-                "id": "ae802d45b7fd6480",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Transformation RegEx -> NFA.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "68590a909e36c068",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Transformation DFA -> Regex.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -183,7 +173,7 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 72.74453941120608,
+            "dimension": 53.56125356125356,
             "children": [
               {
                 "id": "2135321b616a2bdb",
@@ -323,7 +313,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/netztechnik/Leitungsqualität.md",
+                    "file": "semester-3/angewandte_mathematik/Eigentwerttheorie.md",
                     "mode": "source",
                     "source": false
                   }
@@ -335,7 +325,7 @@
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 27.255460588793923,
+            "dimension": 46.43874643874644,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -386,7 +376,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -468,7 +458,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/netztechnik/Leitungsqualität.md"
+                "file": "semester-3/angewandte_mathematik/Eigentwerttheorie.md"
               }
             }
           },
@@ -478,7 +468,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/netztechnik/Leitungsqualität.md",
+                "file": "semester-3/angewandte_mathematik/Eigentwerttheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -498,7 +488,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/netztechnik/Leitungsqualität.md",
+                "file": "semester-3/angewandte_mathematik/Eigentwerttheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -536,48 +526,48 @@
   },
   "active": "e3c2152aa7b53629",
   "lastOpenFiles": [
-    "semester-3/netztechnik/images/Pasted image 20241002115619.png",
-    "semester-3/netztechnik/Hub Netztechnik.md",
-    "semester-3/netztechnik/Leitungsqualität.md",
-    "semester-3/netztechnik/Alien Crosstalk.md",
-    "semester-3/netztechnik/Twisted Pair Leitung.md",
-    "semester-3/netztechnik/images/Pasted image 20241002114531.png",
-    "semester-3/netztechnik/Propagation Delay.md",
-    "semester-3/netztechnik/NEXT.md",
-    "semester-3/netztechnik/ACR.md",
-    "semester-3/netztechnik/Dämpfung.md",
-    "semester-3/netztechnik/images/Pasted image 20241002113628.png",
-    "semester-3/netztechnik/Leitung.md",
-    "semester-3/netztechnik/images/Pasted image 20241002113205.png",
-    "semester-3/netztechnik/images/Pasted image 20241002112731.png",
-    "semester-3/netztechnik/images/Pasted image 20241002112619.png",
-    "semester-3/netztechnik/images/Pasted image 20241002112510.png",
+    "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
+    "semester-3/angewandte_mathematik/Eigentwerttheorie.md",
+    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+    "semester-3/rechnerarchitekturen/Mikro-Befehl.md",
+    "semester-3/rechnerarchitekturen/Mikro-Adresse.md",
+    "semester-3/rechnerarchitekturen/Mikro-Operation.md",
+    "semester-3/rechnerarchitekturen/Steuerwerk mit Mikroprogrammierung.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241002164120.png",
+    "semester-3/rechnerarchitekturen/Steuerwerk.md",
+    "semester-3/rechnerarchitekturen/Rechenwerk.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241002163333.png",
+    "semester-3/rechnerarchitekturen/Spezielle Register.md",
+    "semester-3/rechnerarchitekturen/PSW.md",
+    "semester-3/rechnerarchitekturen/Allgemeine Register.md",
+    "semester-3/rechnerarchitekturen/Akkumulator.md",
+    "semester-3/rechnerarchitekturen/RS232 Bus.md",
+    "semester-3/rechnerarchitekturen/asynchroner BUS.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241002161122.png",
+    "semester-1/digitaltechnik/auswahlschaltungen/BUS-Schaltung.md",
+    "semester-3/rechnerarchitekturen/synchroner BUS.md",
+    "semester-3/rechnerarchitekturen/Einteilung BUS-System.md",
+    "semester-3/rechnerarchitekturen/BUS-System.md",
+    "semester-3/formale-sprachen/Produktautomat.md",
+    "semester-3/formale-sprachen/Übung 2.64 Produktautomat.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241002154142.png",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241002152903.png",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "semester-3/formale-sprachen/Eigenschaften Regulärer Sprachen.md",
+    "semester-3/formale-sprachen/Grenzen Regulärer Sprachen.md",
+    "semester-3/formale-sprachen/Irregularität einer Sprache zeigen.md",
+    "semester-3/formale-sprachen/Pumping Lemma.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241002134907.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241002134512.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241002132943.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241002132531.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241002130346.jpg",
     "modulhandbuch.pdf",
-    "semester-3/netztechnik/Delta Modellierung.md",
-    "semester-3/netztechnik/images/Pasted image 20241002110218.png",
-    "semester-3/netztechnik/Binäre Modulation.md",
-    "semester-3/netztechnik/Symbol.md",
-    "semester-3/netztechnik/images/Pasted image 20241002105253.png",
-    "semester-3/netztechnik/komplexe Zahl.md",
-    "semester-3/netztechnik/images/Pasted image 20241002104913.png",
-    "semester-3/netztechnik/Modulation.md",
-    "semester-3/netztechnik/Modulationsindex.md",
-    "semester-3/netztechnik/images/Pasted image 20241002103900.png",
-    "semester-3/netztechnik/Frequenz.md",
-    "semester-3/netztechnik/Wellenlänge.md",
-    "semester-3/netztechnik/Wire-Coding.md",
-    "semester-3/netztechnik/Channel Coding.md",
-    "semester-3/netztechnik/Hamming Distanz.md",
-    "semester-3/netztechnik/Checksum.md",
-    "semester-3/netztechnik/Generatorpolynom.md",
-    "semester-1/digitaltechnik/Parity.md",
-    "semester-3/netztechnik/Source Coding.md",
-    "semester-3/netztechnik/Huffman Code.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
     "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
     "semester-3/angewandte_mathematik/sources/Teil2_VF_Skript Mathematik Giles-A Nzouankeu Nana DHBW Info Stuttgart WS_2024_2025.pdf",
     "semester-3/angewandte_mathematik/sources",
     "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",

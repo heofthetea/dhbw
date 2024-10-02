@@ -31,6 +31,11 @@ in Semester 3: [[Hub Betriebssysteme]]
 ### CPU Grobstruktur
 [[CPU]]
 - [[Steuerwerk]]
+	- [[Steuerwerk mit Mikroprogrammierung]]
+		- [[Mikro-Operation]]
+		- [[Mikro-Adresse]]
+		- [[Mikro-Befehl]]
+- [[Rechenwerk]]
 - [[Operationswerk]]
 	- [[ALU]]
 	- [[Leitwerk]]
@@ -70,8 +75,14 @@ in Semester 3: [[Hub Betriebssysteme]]
 - [[Steuerbus]]
 - [[Systembus]]
 [[BUS-Schaltung]]
+- [[synchroner BUS]]
+- [[asynchroner BUS]]
 [[serielle Bus-Schaltung]]
-[[Einteilung BUS-System]]
 [[Seriell-Parallel Crossover]]
 [[RS232 Bus]]
+
+
+## 4 Rechenwerk
+[[Rechenwerk]]
+
 

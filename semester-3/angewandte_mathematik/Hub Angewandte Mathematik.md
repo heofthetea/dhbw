@@ -7,6 +7,7 @@
 [[Differenzenquotient]]
 [[konvexe und konkave Funktionen]]
 [[Integral]]
+[[Eigentwerttheorie]]
 ## 1. Funktionen mehrerer Variablen 
 [[Funktion]]
 [[Stetigkeit]]

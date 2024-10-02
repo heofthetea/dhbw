@@ -1,11 +1,17 @@
 > RALU = [[Register]] & [[ALU]]
 
-
-enthält:
+## Komponenten
 - [[ALU]]
 	- [[8051 ADD]]
 	- [[Multiplikationsschaltung]]
 	- 
 - nen ganzen Haufen [[D-Flipflop (Delay-FF)]]
 	- dient als Speicher
-- [[Register]]
+- [[Register]]:
+	- [[Akkumulator]]
+	- [[Allgemeine Register]]
+	- [[Spezielle Register]]
+
+## Interne Struktur
+über internes [[BUS-System]] mit zwei Bussen
+![[Pasted image 20241002163333.png]]

@@ -40,6 +40,8 @@
 	- endliche Anzahl an [[Zustand|Zuständen]]
 	- Kann nur einlesen, nicht schreiben
 - Erkennen [[Reguläre Sprache|reguläre Sprachen]]
+
+> [!hint] In Praxis werden idR [[DFA|DFAs]] verwendet, da dort die Läufe einfacher zu berechnen sind. [[NFA|NFAs]] dienen nur dem einfacheren Verständnis für Menschen.
 ### Deterministischer Endlicher Automat ([[DFA]])
 - [[Wort]] ist akzeptiert, wenn der [[Lauf]] über dem Wort akzeptierend ist
 #### Definiert als 5-[[Tupel]]:

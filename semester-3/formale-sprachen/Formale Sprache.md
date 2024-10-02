@@ -1,11 +1,7 @@
 > möglicherweise unendliche [[Menge]] $L$ von [[Wort|Wörtern]]
 
 Eine [[Formale Sprache]] $L$ über einem [[Alphabet]] $\Sigma$ ist eine [[Menge]] von [[Wort|Wörtern]] aus $\Sigma^{*}:\ L \subset \Sigma^{*}$ 
-
-
-
-> [!hint]- ist **formal**, da $L$ _eindeutig_ definiert ist
-> natürliche Sprachen haben Grenzfälle, wo nicht eindeutig ist ob Fall 'korrekt' ist oder nicht
+- enthält eine Sprache _beliebig_ viele Wörter, heißt sie "unendlich".
 
 [[Formale Sprachen in Praxis]]
 [[Operationen auf Sprachen]]
