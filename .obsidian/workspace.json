@@ -98,7 +98,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -183,7 +183,7 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 48.52801519468186,
+            "dimension": 72.74453941120608,
             "children": [
               {
                 "id": "2135321b616a2bdb",
@@ -216,6 +216,18 @@
                   "type": "markdown",
                   "state": {
                     "file": "semester-3/rechnerarchitekturen/8051 JZ.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c0fc93b419e70671",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Delta Modellierung.md",
                     "mode": "source",
                     "source": false
                   }
@@ -304,14 +316,26 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "e3c2152aa7b53629",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Leitungsqualität.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 9
+            "currentTab": 11
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 51.47198480531814,
+            "dimension": 27.255460588793923,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -444,7 +468,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/datenbanken/Übung Modellierung Computer.md"
+                "file": "semester-3/netztechnik/Leitungsqualität.md"
               }
             }
           },
@@ -454,7 +478,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/datenbanken/Übung Modellierung Computer.md",
+                "file": "semester-3/netztechnik/Leitungsqualität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -474,7 +498,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/datenbanken/Übung Modellierung Computer.md",
+                "file": "semester-3/netztechnik/Leitungsqualität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -507,56 +531,53 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "3d-graph:3D Graph": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "tags-routes:Open tags routes": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "936826c6281ce4d9",
+  "active": "e3c2152aa7b53629",
   "lastOpenFiles": [
-    "semester-3/datenbanken/Hub Datenbanken.md",
-    "semester-3/datenbanken/Übung Modellierung Computer.md",
-    "semester-3/datenbanken/Schwacher Entitätstyp.md",
-    "semester-3/datenbanken/Aggregation und Partitionierung.md",
-    "semester-3/datenbanken/images/Pasted image 20241001160638.png",
-    "semester-3/datenbanken/Komposition.md",
-    "semester-1/programmieren/concepts/C concepts.md",
+    "semester-3/netztechnik/images/Pasted image 20241002115619.png",
+    "semester-3/netztechnik/Hub Netztechnik.md",
+    "semester-3/netztechnik/Leitungsqualität.md",
+    "semester-3/netztechnik/Alien Crosstalk.md",
+    "semester-3/netztechnik/Twisted Pair Leitung.md",
+    "semester-3/netztechnik/images/Pasted image 20241002114531.png",
+    "semester-3/netztechnik/Propagation Delay.md",
+    "semester-3/netztechnik/NEXT.md",
+    "semester-3/netztechnik/ACR.md",
+    "semester-3/netztechnik/Dämpfung.md",
+    "semester-3/netztechnik/images/Pasted image 20241002113628.png",
+    "semester-3/netztechnik/Leitung.md",
+    "semester-3/netztechnik/images/Pasted image 20241002113205.png",
+    "semester-3/netztechnik/images/Pasted image 20241002112731.png",
+    "semester-3/netztechnik/images/Pasted image 20241002112619.png",
+    "semester-3/netztechnik/images/Pasted image 20241002112510.png",
+    "modulhandbuch.pdf",
+    "semester-3/netztechnik/Delta Modellierung.md",
+    "semester-3/netztechnik/images/Pasted image 20241002110218.png",
+    "semester-3/netztechnik/Binäre Modulation.md",
+    "semester-3/netztechnik/Symbol.md",
+    "semester-3/netztechnik/images/Pasted image 20241002105253.png",
+    "semester-3/netztechnik/komplexe Zahl.md",
+    "semester-3/netztechnik/images/Pasted image 20241002104913.png",
+    "semester-3/netztechnik/Modulation.md",
+    "semester-3/netztechnik/Modulationsindex.md",
+    "semester-3/netztechnik/images/Pasted image 20241002103900.png",
+    "semester-3/netztechnik/Frequenz.md",
+    "semester-3/netztechnik/Wellenlänge.md",
+    "semester-3/netztechnik/Wire-Coding.md",
+    "semester-3/netztechnik/Channel Coding.md",
+    "semester-3/netztechnik/Hamming Distanz.md",
+    "semester-3/netztechnik/Checksum.md",
+    "semester-3/netztechnik/Generatorpolynom.md",
+    "semester-1/digitaltechnik/Parity.md",
+    "semester-3/netztechnik/Source Coding.md",
+    "semester-3/netztechnik/Huffman Code.md",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
     "TagsRoutes",
-    "semester-2/java/Aggregation and Composition.md",
-    "semester-2/java/Aggregation.md",
-    "semester-3/datenbanken/images/Pasted image 20241001154851.png",
     "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf",
-    "semester-3/datenbanken/Is-a Relationship.md",
-    "semester-3/datenbanken/images/Pasted image 20241001154618.png",
-    "semester-3/datenbanken/Übung Is-a Relationship.md",
-    "semester-3/datenbanken/images/Pasted image 20241001154115.png",
-    "semester-3/datenbanken/images/Pasted image 20241001154021.png",
-    "semester-3/datenbanken/images/Pasted image 20241001151101.png",
-    "semester-3/datenbanken/Rekursive Relationship.md",
-    "semester-3/datenbanken/images/Pasted image 20241001150549.png",
-    "semester-3/datenbanken/n-stellige Relationship.md",
-    "semester-3/datenbanken/Übung ternäre Relation.md",
-    "semester-3/datenbanken/images/Pasted image 20241001150101.png",
-    "semester-3/datenbanken/Übung ERM.md",
-    "semester-3/datenbanken/images/Pasted image 20241001144435.png",
-    "semester-3/datenbanken/images/Pasted image 20241001143433.png",
-    "semester-3/datenbanken/Relationship.md",
-    "semester-3/datenbanken/Min-Max Kardinalität.md",
-    "semester-3/datenbanken/Kardinalität.md",
-    "semester-3/datenbanken/1-n Relation.md",
-    "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
-    "semester-3/datenbanken/DB Projektidee Scotland Yard.md",
-    "semester-3/datenbanken/DB Beispiel Anforderungsanalyse.md",
-    "semester-3/datenbanken/DB Projektidee Ticketsystem.md",
-    "semester-3/datenbanken/Untitled.md",
-    "semester-3/netztechnik/Hub Netztechnik.md",
-    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Optimierung DFA.md",
     "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "modulhandbuch.pdf",
     "semester-3/angewandte_mathematik/sources/Teil2_VF_Skript Mathematik Giles-A Nzouankeu Nana DHBW Info Stuttgart WS_2024_2025.pdf",
     "semester-3/angewandte_mathematik/sources",
     "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",

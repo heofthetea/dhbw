@@ -1,0 +1,2 @@
+- auch ne Messkurve
+- muss _unter_ der Kennlinie liegen

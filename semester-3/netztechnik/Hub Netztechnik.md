@@ -67,8 +67,9 @@ Betriebsarten
 [[Multiplex]]
 [[Taktrückgewinnung]]
 [[Präambel]]
-
-
+[[Asynchrone Datenübertragung]]
+[[Bandbreite]]
+[[Entscheidungsinhalt]]
 #### Konkrete Instanzen
 - [[OSI-7-Schichten Modell]]
 	- [[Application Layer]]
@@ -84,3 +85,29 @@ Betriebsarten
 - [[Fourier-Transformation]]
 
 
+## 03 Codierung
+[[Codierung]]
+- [[Source Coding]]
+- [[Channel Coding]]
+	- [[Parity]]
+	- [[Hamming Distanz]]
+	- [[Wire-Coding]]
+[[Informationsgehalt]]
+[[präfixfrei]]
+[[Huffman Code]]
+
+### Modulation
+[[Modulation]]
+[[Wellenlänge]]
+[[Binäre Modulation]]
+- [[Delta Modellierung]]
+
+## 04 Leitungstheorie
+[[Leitung]]
+[[Twisted Pair Leitung]]
+[[NEXT]]
+- [[ACR]]
+
+[[Propagation Delay]]
+[[Alien Crosstalk]]
+[[Leitungsqualität]]

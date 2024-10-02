@@ -10,3 +10,9 @@ _One_ Special Bit:
 > [!error]
 > Even number of flips cannot be detected as error!
 
+> [!note] This describes _even_ parity - with _uneven_ Parity, the number of ones must be _uneven_ after parity is applied
+## Example
+$0010 \rightarrow 00101$
+
+
+> [!hint] In Netztechnik: Wir zählen Nullen
