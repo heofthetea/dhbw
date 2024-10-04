@@ -46,6 +46,7 @@
 	- [[Rechenregeln Reguläre Ausdrücke]]
 	- [[Übung 2.7 Regular Expressions]]
 - [[Eigenschaften Regulärer Sprachen]]
+	- [[endliche Sprachen]]
 ### Endliche Automaten
 [[Endlicher Automat]]
 [[Lauf]]
@@ -65,6 +66,7 @@
 - [[mögliche Folgezustände eines einzelnen Zustand]]
 - [[mögliche Folgezustände einer Zustandsmenge]]
 [[Produktautomat]]
+[[Automat zu Komplement]]
 
 ### Automatentransformartionen
 
@@ -84,9 +86,29 @@
 [[Pumping Lemma]]
 - [[Kontraposition Pumping Lemma]]
 - [[Irregularität einer Sprache zeigen]]
-[[Kontraposition]]
+
+### Entscheidungsprobleme
+- [[Leerheitsproblem]]
+- [[Wortproblem]]
+- [[Äquivalenzproblem]]
+- [[Endlichkeitsproblem]]
+
 
 ## 3. Kontextfreie Sprachen
+### Grammatiken
+[[Grammatik]]
+- [[Terminalsymbol]]
+- [[Nichtterminalsymbol]]
+- [[Startsymbol]]
+- [[Produktionsregel]]
+[[Ableitung (Sprache)]]
+
+[[Chomsky Hierarchie]]
+- [[Typ 0 Unbeschränkte Grammatik]]
+- [[Typ 1 Monotone Grammatik]]
+	- [[Typ 1.1 Kontextsensitive Grammatik]]
+- [[Typ 2 Kontextfreie Grammatik]]
+- [[Typ 3 Rechtslineare Grammatik]]
 
 ## 4. Kontextsensitive Sprachen
 

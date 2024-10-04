@@ -1,10 +1,17 @@
-> Erzeugt ein [[Wort|Wörter]] über einem [[Alphabet]]
+> _Konstruktive_ Definition einer [[Formale Sprache|Formalen Sprache]]. Erzeugt ein [[Wort|Wörter]] über einem [[Alphabet]].
 
-Definiert als ein [[Tupel]] $G = (\Sigma, N, P)$, wo
-- $\Sigma$: [[Menge]] aus [[Terminalsymbol|Terminalsymbolen]] (= [[Alphabet]])
-- $N$: [[Menge]] aus [[Nichtterminalsymbol|Nichtterminalsymbolen]]
-- $P$: [[Menge]] aus [[Produktionsregel|Produktionsregeln]]
-### Beispiel
+## Definition
+Eine Chomsky-[[Grammatik]] ist ein **Quadrupel** (4-[[Tupel]]).
+$$G = (N, \Sigma, P, S)$$
+
+mit 
+1. Einer [[Menge]] $N$ aus [[Nichtterminalsymbol|Nichtterminalsymbolen]]
+2. Einer [[Menge]] $\Sigma$ aus [[Terminalsymbol|Terminalsymbolen]]
+3. Einer [[Menge]] $P$ von [[Produktionsregel|Produktionsregeln]]
+4. Einem [[Startsymbol]] $S$ mit $S \in N$
+Es gilt $N \cap \Sigma = \varnothing$
+
+## Beispiel
 ```
 Σ = {x, y, +, (, ), ·}
 N = { E }
@@ -13,5 +20,7 @@ P = { E -> x, E -> y,
 	  E -> E + E,
 	  E -> E · E }
 ```
+
+[[AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]
 
 [[Übung 1.10 Grammatik]]

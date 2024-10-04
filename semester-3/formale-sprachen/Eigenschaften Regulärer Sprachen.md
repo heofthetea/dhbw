@@ -9,3 +9,4 @@ Dann sind die folgenden [[Formale Sprache|Sprachen]] ebenfalls regulär:
 5. $L_{1}^{*}$ --> [[NFA für Klenee-Stern]]
 
 
+[[endliche Sprachen]]

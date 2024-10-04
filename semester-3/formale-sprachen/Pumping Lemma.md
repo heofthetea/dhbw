@@ -2,7 +2,6 @@
 - Wenn $L$ beliebig lange Wörter enthält, muss $A_{L}$ einen [[Zyklus]] enthalten
 - Wenn $A_{L}$ einen Zyklus enthält, kann dieser _beliebig_ oft durchlaufen werden (ohne Einfluss auf die Akzeptanz)
 
-
 ## Formal
 Sei $L$ eine [[Reguläre Sprache]].
 Dann gibt es ein $k \in \mathbb{N}^{\geq 1}$, so dass für jedes [[Wort]] $s \in L$ mit $|s| \geq k$ gilt:

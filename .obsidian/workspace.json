@@ -112,7 +112,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 4
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -173,7 +173,7 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 53.56125356125356,
+            "dimension": 33.80816714150047,
             "children": [
               {
                 "id": "2135321b616a2bdb",
@@ -313,19 +313,31 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/angewandte_mathematik/Eigentwerttheorie.md",
+                    "file": "semester-3/formale-sprachen/Ableitung (Sprache).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "eef84e19f0035ba4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Chomsky Hierarchie.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 11
+            "currentTab": 12
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 46.43874643874644,
+            "dimension": 66.19183285849952,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -458,7 +470,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/angewandte_mathematik/Eigentwerttheorie.md"
+                "file": "semester-3/formale-sprachen/Chomsky Hierarchie.md"
               }
             }
           },
@@ -468,7 +480,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/angewandte_mathematik/Eigentwerttheorie.md",
+                "file": "semester-3/formale-sprachen/Chomsky Hierarchie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -488,7 +500,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/angewandte_mathematik/Eigentwerttheorie.md",
+                "file": "semester-3/formale-sprachen/Chomsky Hierarchie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -524,45 +536,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e3c2152aa7b53629",
+  "active": "eef84e19f0035ba4",
   "lastOpenFiles": [
-    "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
-    "semester-3/angewandte_mathematik/Eigentwerttheorie.md",
-    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
-    "semester-3/rechnerarchitekturen/Mikro-Befehl.md",
-    "semester-3/rechnerarchitekturen/Mikro-Adresse.md",
-    "semester-3/rechnerarchitekturen/Mikro-Operation.md",
-    "semester-3/rechnerarchitekturen/Steuerwerk mit Mikroprogrammierung.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241002164120.png",
-    "semester-3/rechnerarchitekturen/Steuerwerk.md",
-    "semester-3/rechnerarchitekturen/Rechenwerk.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241002163333.png",
-    "semester-3/rechnerarchitekturen/Spezielle Register.md",
-    "semester-3/rechnerarchitekturen/PSW.md",
-    "semester-3/rechnerarchitekturen/Allgemeine Register.md",
-    "semester-3/rechnerarchitekturen/Akkumulator.md",
-    "semester-3/rechnerarchitekturen/RS232 Bus.md",
-    "semester-3/rechnerarchitekturen/asynchroner BUS.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241002161122.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/BUS-Schaltung.md",
-    "semester-3/rechnerarchitekturen/synchroner BUS.md",
-    "semester-3/rechnerarchitekturen/Einteilung BUS-System.md",
-    "semester-3/rechnerarchitekturen/BUS-System.md",
-    "semester-3/formale-sprachen/Produktautomat.md",
-    "semester-3/formale-sprachen/Übung 2.64 Produktautomat.md",
-    "semester-3/formale-sprachen/images/Pasted image 20241002154142.png",
     "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/Typ 1.1 Kontextsensitive Grammatik.md",
+    "semester-3/formale-sprachen/Typ 1 Monotone Grammatik.md",
+    "semester-3/formale-sprachen/Chomsky Hierarchie.md",
+    "semester-3/formale-sprachen/Typ 0 Unbeschränkte Grammatik.md",
+    "semester-3/formale-sprachen/Typ 2 Kontextfreie Grammatik.md",
+    "semester-3/formale-sprachen/Typ 3 Rechtslineare Grammatik.md",
+    "semester-3/formale-sprachen/Sprachklasse.md",
+    "semester-3/formale-sprachen/Ableitung (Sprache).md",
+    "semester-3/formale-sprachen/Endlichkeitsproblem.md",
+    "semester-3/formale-sprachen/Grammatik.md",
+    "semester-3/formale-sprachen/Übung 3.6 Ableitung.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241004131853.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241004131716.png",
+    "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
+    "semester-3/formale-sprachen/Produktionsregel.md",
+    "semester-3/formale-sprachen/Nichtterminalsymbol.md",
+    "semester-3/formale-sprachen/Äquivalenzproblem.md",
+    "semester-3/formale-sprachen/Übung 2.73 Äquivalenzproblem.md",
+    "semester-3/formale-sprachen/Leerheitsproblem.md",
+    "semester-3/formale-sprachen/Wortproblem.md",
+    "semester-3/formale-sprachen/endliche Sprachen.md",
+    "semester-3/formale-sprachen/Eigenschaften Regulärer Sprachen.md",
+    "semester-3/formale-sprachen/Pumping Lemma.md",
+    "semester-3/formale-sprachen/Automat zu Komplement.md",
+    "semester-3/formale-sprachen/Produktautomat.md",
+    "semester-3/formale-sprachen/Kontraposition Pumping Lemma.md",
+    "semester-3/netztechnik/Hub Netztechnik.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241002164120.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241002163333.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241002161122.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241002154142.png",
     "semester-3/formale-sprachen/images/Pasted image 20241002152903.png",
     "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/formale-sprachen/Eigenschaften Regulärer Sprachen.md",
-    "semester-3/formale-sprachen/Grenzen Regulärer Sprachen.md",
-    "semester-3/formale-sprachen/Irregularität einer Sprache zeigen.md",
-    "semester-3/formale-sprachen/Pumping Lemma.md",
     "semester-3/formale-sprachen/images/Pasted image 20241002134907.png",
     "semester-3/formale-sprachen/images/Pasted image 20241002134512.png",
     "semester-3/formale-sprachen/images/Pasted image 20241002132943.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241002132531.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241002130346.jpg",
     "modulhandbuch.pdf",
     "TagsRoutes/reports",
     "TagsRoutes/logs",
