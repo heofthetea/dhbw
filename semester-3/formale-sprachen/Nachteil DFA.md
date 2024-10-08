@@ -1,5 +1,5 @@
 - Benötigt eine [[Übergangsfunktion]] 
-	- sehr ähnliche [[Formale Sprache|Sprachen]] haben unterschiedliche Automaten
+	- sehr ähnliche [[Sprache|Sprachen]] haben unterschiedliche Automaten
 	- aus Funktionsnatur folgt, dass man immer nur _einen_ Folgezustand haben kann
 	- sehr schnell sehr komplexe Automaten
 

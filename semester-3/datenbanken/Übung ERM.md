@@ -1,6 +1,4 @@
-#todo Aufgabenstellung
-
-
+[[ERM]]
 ### Ansatz 1
 
 ![[Pasted image 20241001140731.png]]

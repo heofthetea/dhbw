@@ -1,7 +1,7 @@
 > auch: [[Semi-Entscheidbarkeit|semi-entscheidbare]] Sprachen
 > erkannt durch [[Turing Machine]]
 
-allgemeinste Klasse der [[Formale Sprache|formalen Sprachen]] (in dieser Vorlesung)
+allgemeinste Klasse der [[Sprache|formalen Sprachen]] (in dieser Vorlesung)
 - ist nicht [[Entscheidbarkeit|entscheidbar]]
 - Namensgebung: Mit einem [[Definition Algorithmus|Algorithmus]] generierbar (basically ein [[Large Language Model]])
 - haben eine _endliche_ Anzahl an Regeln

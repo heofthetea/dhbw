@@ -6,6 +6,7 @@ Funktionen sind spezielle _Relationen_:
 [[Injektive Funktion]]
 [[Surjektive Funktion]]
 [[Bijektive Abbildung]]
+[[Partielle Funktion]]
 
 
 

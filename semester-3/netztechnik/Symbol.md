@@ -1,1 +1,1 @@
-- Teil eines [[Alphabet|Alphabets]]
+> Element eines [[Alphabet|Alphabets]]

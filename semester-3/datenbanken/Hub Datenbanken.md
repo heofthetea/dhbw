@@ -81,6 +81,17 @@
 - [[Übung Is-a Relationship]]
 [[Aggregation und Partitionierung]]
 - [[Aggregation]]
-- [[Komposition]]
+- [[Partitionierung]]
 - [[Schwacher Entitätstyp]]
 [[Übung Modellierung Computer]]
+[[Sichtenkonsolidierung]]
+
+## 03 Logischer Entwurf
+[[DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf]]
+[[Relation]]
+[[Relationales Modell]]
+[[Schema einer Relation]]
+[[Instanz einer Relation]]
+[[Schlüsselattribut]]
+[[Relation zu Tabelle]]
+[[ERM zu RM]]

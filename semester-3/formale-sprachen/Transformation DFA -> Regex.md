@@ -15,9 +15,10 @@
 
 
 [[Beispiel 2.40 Transformation DFA zu RegEx]]
-
+[[Übung 2.42 Transformation DFA zu RegEx]]
 ## Algorithmus
-1. [[Rekurrenzrelation]] für jeden [[Zustand]] erstellen
+1. Gleichung für jeden [[Zustand]] erstellen
+	1. Form: $r_{0} = ar_{1} + br_{2}$
 2. von hinten nach vorne: 
 	1. [[Rekurrenzrelation]] zu Form $r_{i} = r_{i}s + t$ bringen
 	2. [[Arden-Lemma]]

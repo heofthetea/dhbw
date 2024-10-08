@@ -1,8 +1,9 @@
 > Existenzabhängiger Entitäts-Typ
 
-[[Entität]], [[Komposition]]
+[[Entität]], [[Partitionierung]]
 
 - Gekennzeichnet durch Doppelstrich um [[Entität]] und [[Relationship|Beziehung]]
+- in [[Relationales Modell]]: es wird das [[Schlüsselattribut]] des Vaterattributs zusätzlich mit aufgenommen
 
 ![[Pasted image 20241001160638.png]]
 

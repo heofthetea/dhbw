@@ -2,9 +2,9 @@
 $$R = \Sigma \cup \set{\varnothing,\ \epsilon,\ +,\ \cdot,\ ^{*},\ (,\ )}$$
 - dabei darf keins dieser Sondersymbole Teil aus $\Sigma$ sein: 
 
-> [!warning] Eine einzelner [[Regulärer Ausdruck]] _beschreibt eine_ [[Formale Sprache]]
+> [!warning] Eine einzelner [[Regulärer Ausdruck]] _beschreibt eine_ [[Sprache]]
 
-> [!warning] Die [[Menge]] aller [[Regulärer Ausdruck|regulären Ausdrücke]] über $\Sigma$ ist selbst eine [[Formale Sprache]] - $R_{\Sigma}$
+> [!warning] Die [[Menge]] aller [[Regulärer Ausdruck|regulären Ausdrücke]] über $\Sigma$ ist selbst eine [[Sprache]] - $R_{\Sigma}$
 
 
 

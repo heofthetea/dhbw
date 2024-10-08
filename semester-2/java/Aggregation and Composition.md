@@ -2,7 +2,7 @@
 
 Java does not differenciate between those via Syntax
 [[Aggregation]]
-[[Komposition]]
+[[Partitionierung]]
 
 
 ## in UML

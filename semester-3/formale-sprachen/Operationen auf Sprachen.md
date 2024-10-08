@@ -1,4 +1,4 @@
-[[Formale Sprache]], [[Wort]],
+[[Sprache]], [[Wort]],
 [[Operationen auf Mengen]]
 
 ### Produkt

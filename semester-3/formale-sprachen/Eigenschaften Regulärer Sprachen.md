@@ -1,7 +1,7 @@
 [[Operationen auf Mengen]], [[Operationen auf Sprachen]]
 
 Seien $L_{1}$ und $L_{2}$ [[Reguläre Sprache|reguläre Sprachen]]. 
-Dann sind die folgenden [[Formale Sprache|Sprachen]] ebenfalls regulär:
+Dann sind die folgenden [[Sprache|Sprachen]] ebenfalls regulär:
 1. $L_{1} \cup L_{2}$ --> [[NFA für Vereinigung]]
 2. $L_{1} \cap L_{2}$ --> [[Produktautomat]]
 3. $L_{1} \cdot L_{2}$ --> [[NFA für Konkatenation]]

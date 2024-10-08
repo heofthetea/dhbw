@@ -3,6 +3,6 @@
 $$\exists_{x \neq 0}\ Ax = \lambda x$$
 
 ### Schlussfolgerungen
-$$\exists_{x \neq 0}\ Ax = \lambda x \Longleftrightarrow ker\, A \neq \set{0} \Longleftrightarrow det(A-\lambda A) = 0$$
+$$\exists_{x \neq 0}\ Ax = \lambda x \Longleftrightarrow ker\, A \neq \set{0} \Longleftrightarrow det(A-\lambda \mathbb{1}) = 0$$
 
 

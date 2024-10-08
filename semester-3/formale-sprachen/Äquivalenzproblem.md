@@ -1,7 +1,7 @@
 > ist für [[Reguläre Sprache|reguläre Sprachen]] entscheidbar, aber [[exponentielle Laufzeit|exponentiell]].
 
 ## Frage
-Sind zwei gegebene [[Formale Sprache|Sprachen]] $L_{1}$ und $L_{2}$ äquivalent?
+Sind zwei gegebene [[Sprache|Sprachen]] $L_{1}$ und $L_{2}$ äquivalent?
 
 ## Algorithmus
 ### Reguläre Sprachen

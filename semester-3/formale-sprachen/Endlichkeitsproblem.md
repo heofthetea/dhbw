@@ -2,7 +2,7 @@
 
 
 ## Frage
-Ist eine gegebene [[Formale Sprache|Sprache]] $L_{1}$ [[endliche Sprachen|endlich]]?
+Ist eine gegebene [[Sprache]] $L_{1}$ [[endliche Sprachen|endlich]]?
 
 ## Algorithmus
 1. Markiere _iterativ_ alle von [[Startzustand]] $q_{0}$ aus erreichbaren [[Zustand|Zustände]] 

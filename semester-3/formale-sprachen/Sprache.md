@@ -1,6 +1,6 @@
 > möglicherweise unendliche [[Menge]] $L$ von [[Wort|Wörtern]]
 
-Eine [[Formale Sprache]] $L$ über einem [[Alphabet]] $\Sigma$ ist eine [[Menge]] von [[Wort|Wörtern]] aus $\Sigma^{*}:\ L \subset \Sigma^{*}$ 
+Eine [[Sprache]] $L$ über einem [[Alphabet]] $\Sigma$ ist eine [[Menge]] von [[Wort|Wörtern]] aus $\Sigma^{*}:\ L \subset \Sigma^{*}$ 
 - enthält eine Sprache _beliebig_ viele Wörter, heißt sie "unendlich".
 
 [[Formale Sprachen in Praxis]]

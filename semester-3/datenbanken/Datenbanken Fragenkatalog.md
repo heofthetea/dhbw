@@ -87,7 +87,6 @@
 > - Änderungen vom Kunden im Nachhinein einarbeiten - **Verfolgen**
 > - **Ergebnis**: [[Lastenheft]]
 
-
 > [!help]- 19\. Was ist der konzeptionelle Datenbankentwurf, was ist sein Ziel und welche Methode wird hierzu verwendet?
 > [[DB Entwurfsprozess]]
 > - Aus der Anforderungsanalyse gewonnene Informationen (= reale Welt) zu modellieren ([[ERM]])
@@ -97,7 +96,6 @@
 > - Entitätstyp: Vorlage, bisschen wie [[Class]]
 > - Entität: Instanz, bisschen wie [[Object]]
 > 	- in DB sprache: Entitäts-[[Tupel]]
-
 
 > [!help]- 21\. Aus welchen Komponenten besteht das [[ERM]] und was versteht man darunter?
 > - [[Entität]]: ein Objekt der Realen Welt
@@ -127,3 +125,27 @@
 > - Notation wird anders rum hin geschrieben - [[1-n Relation]] wird "umgedreht"
 > - in der Chen-Notation kann man keine Grenzen abbilden
 
+## 03 Fragenkatalog
+
+> [!help]-  28\. Was versteht man unter [[n-stellige Relationship|ternären Relation]] und wozu werden sie benötigt?
+> Beziehung zwischen 3 [[Entität|Entitäten]]
+> Benötigt, um Beziehungen zu modellieren, die nicht mit binären Beziehungen dargestellt werden können
+
+> [!help]-  29\. Wozu benötigt man die Modellierung von rekursiven Beziehungen und was ist das Besondere daran?
+> [[Rekursive Relationship]]
+> - Wenn eine Entität eine Beziehung zu sich selbst hat
+> - bildet eine Hieararchie ab ("ein Chef hat viele MItarbeiter")
+
+> [!help]- 30\. Was versteht man unter Spezialisierung und wozu benötigt man diese?
+> - Wenn es eine [[Teilmenge]] der Entitäten gibt, die extra Attribute hat
+> - benötigt, damit man nicht unnötig viele Einträge mit leeren Feldern hat
+
+> [!help]- 31\. Was ist in diesem Zusammenhang eine Vererbung?
+> - Die Spezialisierung erbt die Attribute von der Ausgangs-Entität
+
+> [!help]- 32\. Nennen Sie ein Beispiel für eine Partitionierung. Was ist eine Aggregation?
+> - [[Partitionierung]] und [[Aggregation]] existieren, wenn mehrere Entitäten Teil einer ganzen sind
+> - Beispiel: Fußballteam
+
+> [!help]- 33\. Was versteht man unter einem existenzabhängigen Entitäts-Typ und wie wird diese identifiziert?
+> - Sie nutzen einen Fremdschlüssel als ihren [[Schlüsselattribut]] - Können nicht existieren, wenn Vaterentität nicht mehr existiert

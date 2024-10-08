@@ -1,8 +1,6 @@
 [[Relation]], [[Datenbank]], [[Datenbanksystem]], 
 
 ### Codd's Regeln
-
-
 1. [[Integration RDB]]
 2. [[Operation RDB]]
 3. [[Katalog]]

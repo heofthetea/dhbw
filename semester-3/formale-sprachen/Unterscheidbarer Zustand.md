@@ -1,8 +1,7 @@
-#todo 
 
 > [!hint] [[Relation]] $U$ ist symmetrisch --> $(p, q) \in U \Leftrightarrow (q, p) \in U$
 
-## Algorithmus
+## Definition
 [[Recursion]]
 
 Zwei [[Zustand|Zustände]] $p, q$ sind _unterscheidbar_, wenn:

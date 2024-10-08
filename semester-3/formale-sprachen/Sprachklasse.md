@@ -1,4 +1,4 @@
-[[Formale Sprache]]
+[[Sprache]]
 
 - [[Reguläre Sprache]]
 - [[Kontextfreie Sprache]]

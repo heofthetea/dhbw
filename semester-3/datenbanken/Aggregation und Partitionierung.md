@@ -2,7 +2,7 @@
 
 - wird verwendet, um zu erkennen, dass eine Entität aus weiteren Entitäten zusammengesetzt ist
 
-[[Aggregation]], [[Komposition]]
+[[Aggregation]], [[Partitionierung]]
 
 ![[Pasted image 20241001154851.png]]
 

@@ -1,11 +1,10 @@
-> [!warning] [[Regulärer Ausdruck]] und [[Formale Sprache|Mengenschreibweise]] nicht durcheinander mischen!!
-
+> [!warning] [[Regulärer Ausdruck]] und [[Sprache|Mengenschreibweise]] nicht durcheinander mischen!!
 
 ## Sprachen allgemein
 - [[Alphabet]]: [[Menge]] aus Zeichen
 	-  $\Sigma^{*}$ bezeichneet die [[Menge]] aller [[Wort|Wörter]] über dem [[Alphabet]] $\Sigma$
 - [[Wort]]: [[Folge]] aus Zeichen über einem [[Alphabet]]
-- [[Formale Sprache]]: [[Menge]] aus [[Wort|Wörtern]]
+- [[Sprache]]: [[Menge]] aus [[Wort|Wörtern]]
 ### Operationen
 - [[Operationen auf Wörtern]]:
 	- [[Konkatenation]]: $w\cdot v = wv$
@@ -16,9 +15,9 @@
 	- Teilwort: $w[i, j]$
 		- Zeichen an Position: $w[i]$
 - [[Operationen auf Sprachen]]:
-	- [[Operationen auf Sprachen#Produkt|Produkt]]: $L_{1} \cdot L_{2}$: Jedes [[Wort]] der beiden [[Formale Sprache|Sprachen]] miteinander [[Konkatenation|konkatenieren]]
+	- [[Operationen auf Sprachen#Produkt|Produkt]]: $L_{1} \cdot L_{2}$: Jedes [[Wort]] der beiden [[Sprache|Sprachen]] miteinander [[Konkatenation|konkatenieren]]
 	- [[Operationen auf Sprachen#Potenz|Potenz]]: $L^{n}$: Jedes [[Wort]] der Sprache potenzieren
-	- [[Klenee-Stern]]: $L^{*}$: _alle_ Möglichkeiten, die [[Wort|Wörter]] einer [[Formale Sprache|Sprache]] miteinander zu [[Konkatenation|konkatenieren]]
+	- [[Klenee-Stern]]: $L^{*}$: _alle_ Möglichkeiten, die [[Wort|Wörter]] einer [[Sprache]] miteinander zu [[Konkatenation|konkatenieren]]
 
 > [!warning] $\epsilon \in L^{*}$!!
 
@@ -26,14 +25,14 @@
 [[Regulärer Ausdruck]]
 - beschreiben [[Reguläre Sprache|Reguläre Sprachen]]
 
-> [!hint] Eine [[Regulärer Ausdruck]] kann mit einer [[Formale Sprache|formalen Sprache]] in Mengenschreibweise äquivalent gesetzt werden!
+> [!hint] Eine [[Regulärer Ausdruck]] kann mit einer [[Sprache|formalen Sprache]] in Mengenschreibweise äquivalent gesetzt werden!
 
 ### Syntax
 - $r + s$: [[Operationen auf Mengen#Union|Vereinigung]] von $r$ und $s$ (think: "oder")
 - $r \cdot s$: [[Operationen auf Sprachen#Produkt|Produkt]] von $r$ und $s$ (think: "[[Konkatenation]]")
 - [[Klenee-Stern]] doing [[Klenee-Stern]] things (think "beliebig oft")
 
-> [!hint] Obwohl über [[Formale Sprache|Sprachen]] definiert, wird in der Praxis mit Symbolen gearbeitet: $e \leadsto \set{e}$ 
+> [!hint] Obwohl über [[Sprache|Sprachen]] definiert, wird in der Praxis mit Symbolen gearbeitet: $e \leadsto \set{e}$ 
 
 ## Endliche Automaten
 - [[Endlicher Automat]]
@@ -89,3 +88,57 @@ $$\mathcal{A} = (Q, \Sigma, \delta, q_{0}, F)$$-  $Q$ ist _endliche_ Menge an [[
 
 > [!warning]- Kommt ein Elementarsymbol mehrfach im Ausdruck vor, darf der entsprechende Subgraph nicht wiederverwendet werden!!
 
+### DFA zu Regex
+[[Transformation DFA -> Regex]]
+
+> [!info] Ansatz: für jeden [[Zustand]] [[Rekurrenzrelation]] aufstellen und mit [[Arden-Lemma]] auflösen
+
+- [[Arden-Lemma]]: $r \equiv sr + t \Leftrightarrow r \equiv s^{*}t$ (if $\epsilon \not\in \mathcal{l}(s)$)
+#### Algorithmus
+- Beginne mit [[Endzustand|Endzuständen]]
+1. [[Regulärer Ausdruck|RegEx]] für jeden Zustand erstellen
+	1. Für [[Müllzustand]] wird das direkt eine [[Rekurrenzrelation]]
+2. nacheinander von hinten nach vorne Gleichungen mit [[Arden-Lemma]] umformen und in frühere Zustandsgleichungen einsetzen
+3. wenn bei [[Startzustand]] angekommen: fertig
+
+> [!hint] Ist ziemlich schwer zu beschreiben, s. [[Beispiel 2.40 Transformation DFA zu RegEx]] und [[Übung 2.42 Transformation DFA zu RegEx]]
+
+## Minimierung DFA
+- [[Quotientenautomat]]: [[DFA]] mit minimaler Anzahl an [[Zustand|Zuständen]]
+	- keine zwei [[Zustand|Zustände]] stellen dasselbe bisher eingelesene [[Wort]] dar
+
+> [!hint] Der [[Quotientenautomat]] ist für jede [[Reguläre Sprache|Sprache]] eindeutig.
+
+#### Algorithmus
+[[Minimierung DFA]]
+1. Erstelle Tabelle, um jeden [[Zustand]] jedem anderen zuzuordnen
+2. Jeder [[Endzustand]] ist von jedem Nicht-Endzustand [[Unterscheidbarer Zustand|unterscheidbar]] --> in diesen Feldern eine $0$ eintragen
+3. Für jedes freie Feld:
+	1. erreiche ich mit _irgendeinem_ [[Symbol]] ein als [[Unterscheidbarer Zustand|unterscheidbar]] markiertes Zustandspaar?
+		1. **ja** --> Iterations-Nr eintragen
+		2. **nein** --> Feld leer lassen
+4. iterativ wiederholen, bis kein neues [[Unterscheidbarer Zustand|unterscheidbares]] Zustandspaar mehr dazu kommt
+	1. alle leeren Felder sind äquivalent --> **können zusammengefasst werden**
+
+
+> [!hint] Tabelle ist symmetrisch --> Eine Seite der Diagonale kann bei Durchführung ignoriert werden
+##### Zusammenfassung
+- seien $0$ und $1$ äquivalente Zustände
+	1. Führe alle [[Pfad|Pfade]] zu $1$ zu $0$
+	2. lösche $1$
+
+## Pumping Lemma
+[[Pumping Lemma]]
+
+
+## Entscheidungsprobleme
+
+- [[Leerheitsproblem]]: Ist eine [[Sprache]] leer?
+	- Schau, ob mindestens ein [[Endzustand]] [[Erreichbarer Zustand|erreichbar]] ist
+- [[Wortproblem]]: Ist ein [[Wort]] in einer [[Sprache]]?
+	- mach einen [[Lauf]] durch [[Automat|Automaten]]
+- [[Äquivalenzproblem]]: Sind zwei [[Sprache|Sprachebn]] äquivalent?
+	- überprüfe [[Quotientenautomat|Quotientenautomaten]] der Sprachen auf äquivalenz
+- [[Endlichkeitsproblem]]: Enthält eine [[Sprache]] [[endliche Sprachen|endlich]] viele [[Wort|Wörter]]?
+	- Bilde [[Automat]], der nur die [[Zustand|Zustände]] enthält, die _erreichbar_ und _terminierend_ sind
+	- hat dieser Automat einen [[Zyklus]], ist [[Sprache]] unendlich

@@ -11,7 +11,7 @@
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 58.78442545109211,
+            "dimension": 43.49477682811016,
             "children": [
               {
                 "id": "6f2af3586be0fea2",
@@ -117,7 +117,7 @@
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 41.21557454890788,
+            "dimension": 56.50522317188984,
             "children": [
               {
                 "id": "bb20f33256a925c1",
@@ -173,7 +173,7 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 33.80816714150047,
+            "dimension": 81.00664767331433,
             "children": [
               {
                 "id": "2135321b616a2bdb",
@@ -325,19 +325,103 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Chomsky Hierarchie.md",
+                    "file": "semester-3/datenbanken/Sichtenkonsolidierung.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "feb496c1c64e0293",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Übung Relationales Modell Softwarehaus.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "de25fb4df9727578",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Beispiel Relationales Modell.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9be4ec733f17b47d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Funktion.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9a8b250475a9fa22",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "60156ee5a32463df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Relationales Modell.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f639c1e3534eabc4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Übung 2.42 Transformation DFA zu RegEx.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c2b3c334ea2e01aa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 12
+            "currentTab": 19
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 66.19183285849952,
+            "dimension": 18.99335232668566,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -377,6 +461,18 @@
               },
               {
                 "id": "6770556e59d0b9db",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "c4d10fa6438e9b5d",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -442,8 +538,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -470,7 +565,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/formale-sprachen/Chomsky Hierarchie.md"
+                "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md"
               }
             }
           },
@@ -480,7 +575,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/formale-sprachen/Chomsky Hierarchie.md",
+                "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -500,7 +595,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/formale-sprachen/Chomsky Hierarchie.md",
+                "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -536,53 +631,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "eef84e19f0035ba4",
+  "active": "c2b3c334ea2e01aa",
   "lastOpenFiles": [
-    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Typ 1.1 Kontextsensitive Grammatik.md",
-    "semester-3/formale-sprachen/Typ 1 Monotone Grammatik.md",
-    "semester-3/formale-sprachen/Chomsky Hierarchie.md",
-    "semester-3/formale-sprachen/Typ 0 Unbeschränkte Grammatik.md",
-    "semester-3/formale-sprachen/Typ 2 Kontextfreie Grammatik.md",
-    "semester-3/formale-sprachen/Typ 3 Rechtslineare Grammatik.md",
-    "semester-3/formale-sprachen/Sprachklasse.md",
+    "semester-3/datenbanken/images/Pasted image 20241008180118.png",
+    "semester-2/algorithmen/Excel Sort.md",
+    "semester-3/datenbanken/Übung ERM.md",
+    "semester-3/datenbanken/Schwacher Entitätstyp.md",
+    "semester-3/formale-sprachen/Lauf.md",
+    "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
     "semester-3/formale-sprachen/Ableitung (Sprache).md",
-    "semester-3/formale-sprachen/Endlichkeitsproblem.md",
+    "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "semester-1/lineare-algebra/latex_symbols.pdf",
     "semester-3/formale-sprachen/Grammatik.md",
-    "semester-3/formale-sprachen/Übung 3.6 Ableitung.md",
+    "semester-3/formale-sprachen/Produktautomat.md",
+    "semester-3/formale-sprachen/Chomsky Hierarchie.md",
+    "semester-3/formale-sprachen/Rechtslineare Grammatik.md",
+    "semester-3/formale-sprachen/Kontextsensitive Grammatik.md",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/Kontextfreie Grammatik.md",
+    "semester-3/formale-sprachen/Monotone Grammatik.md",
+    "semester-3/formale-sprachen/Unbeschränkte Grammatik.md",
+    "semester-3/formale-sprachen/Sprache.md",
+    "semester-3/formale-sprachen/Unterscheidbarer Zustand.md",
+    "semester-3/netztechnik/Symbol.md",
+    "semester-3/formale-sprachen/Übung 2.42 Transformation DFA zu RegEx.md",
+    "semester-3/formale-sprachen/Transformation DFA -> Regex.md",
+    "Master DHBW.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241008171030.png",
+    "semester-3/formale-sprachen/Beispiel 2.40 Transformation DFA zu RegEx.md",
+    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+    "semester-3/datenbanken/Hub Datenbanken.md",
+    "extern/lndp/images/VertragBisHerbst24_ausgefüllt.pdf",
+    "extern/lndp/VertragBisHerbst24.pdf",
+    "extern/lndp/images",
+    "extern/lndp/Hub Lange Nacht des Programmierens",
+    "extern/lndp",
+    "semester-3/datenbanken/images/Pasted image 20241008162445.png",
+    "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
+    "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf",
+    "semester-3/datenbanken/images/Pasted image 20241008161213.png",
+    "semester-3/datenbanken/images/Pasted image 20241008154624.png",
+    "semester-3/angewandte_mathematik/pdf/Übungen zum Kapitel 3.pdf",
     "semester-3/formale-sprachen/images/Pasted image 20241004131853.png",
     "semester-3/formale-sprachen/images/Pasted image 20241004131716.png",
-    "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
-    "semester-3/formale-sprachen/Produktionsregel.md",
-    "semester-3/formale-sprachen/Nichtterminalsymbol.md",
-    "semester-3/formale-sprachen/Äquivalenzproblem.md",
-    "semester-3/formale-sprachen/Übung 2.73 Äquivalenzproblem.md",
-    "semester-3/formale-sprachen/Leerheitsproblem.md",
-    "semester-3/formale-sprachen/Wortproblem.md",
-    "semester-3/formale-sprachen/endliche Sprachen.md",
-    "semester-3/formale-sprachen/Eigenschaften Regulärer Sprachen.md",
-    "semester-3/formale-sprachen/Pumping Lemma.md",
-    "semester-3/formale-sprachen/Automat zu Komplement.md",
-    "semester-3/formale-sprachen/Produktautomat.md",
-    "semester-3/formale-sprachen/Kontraposition Pumping Lemma.md",
-    "semester-3/netztechnik/Hub Netztechnik.md",
     "semester-3/rechnerarchitekturen/images/Pasted image 20241002164120.png",
     "semester-3/rechnerarchitekturen/images/Pasted image 20241002163333.png",
     "semester-3/rechnerarchitekturen/images/Pasted image 20241002161122.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241002154142.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241002152903.png",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/formale-sprachen/images/Pasted image 20241002134907.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241002134512.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241002132943.png",
-    "modulhandbuch.pdf",
-    "TagsRoutes/reports",
-    "TagsRoutes/logs",
-    "TagsRoutes",
-    "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf",
-    "semester-3/angewandte_mathematik/sources/Teil2_VF_Skript Mathematik Giles-A Nzouankeu Nana DHBW Info Stuttgart WS_2024_2025.pdf",
-    "semester-3/angewandte_mathematik/sources",
-    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
-    "semester-1/lineare-algebra/latex_symbols.pdf"
+    "semester-3/formale-sprachen/images/Pasted image 20241002154142.png"
   ]
 }

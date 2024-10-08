@@ -14,3 +14,9 @@
 [[Vektorfunktion]]
 [[partielle Ableitung]]
 [[stetig differenzierbar]]
+
+
+## 2. TODO
+
+
+## 3. IDFK

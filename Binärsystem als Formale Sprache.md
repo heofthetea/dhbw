@@ -1,7 +1,7 @@
-[[Binärsystem]], [[Formale Sprache]]
+[[Binärsystem]], [[Sprache]]
 
 
-## Definiert als [[Formale Sprache]]:
+## Definiert als [[Sprache]]:
 $$L_{\mathbb{N}} = \set{1w\ |\ w \in \Sigma^{*}_{bin}} \cup \set{0}$$
 
 - Enthält Wörter über binäres Alphabet, die mit einer $1$ anfangen

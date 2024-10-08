@@ -1,4 +1,4 @@
-> _Konstruktive_ Definition einer [[Formale Sprache|Formalen Sprache]]. Erzeugt ein [[Wort|Wörter]] über einem [[Alphabet]].
+> _Konstruktive_ Definition einer [[Sprache|Formalen Sprache]]. Erzeugt ein [[Wort|Wörter]] über einem [[Alphabet]].
 
 ## Definition
 Eine Chomsky-[[Grammatik]] ist ein **Quadrupel** (4-[[Tupel]]).
@@ -10,6 +10,8 @@ mit
 3. Einer [[Menge]] $P$ von [[Produktionsregel|Produktionsregeln]]
 4. Einem [[Startsymbol]] $S$ mit $S \in N$
 Es gilt $N \cap \Sigma = \varnothing$
+
+> [!hint] $V = N \cup \Sigma$ ist die [[Menge]] aus allen [[Terminalsymbol|Terminalsymbolen]] und [[Nichtterminalsymbol|Nichtterminalsymbolen]]
 
 ## Beispiel
 ```

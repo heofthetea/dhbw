@@ -13,13 +13,14 @@
 
 ## Libraries
 [[Library Reguläre Sprachen]]
+[[Library Chomsky-Hierarchie]]
 
 # Vorlesungen
 ## 1. Basics
 [[Alphabet]]
 [[Wort]]
 - [[Operationen auf Wörtern]]
-[[Formale Sprache]]
+[[Sprache]]
 - [[Operationen auf Sprachen]]
 - [[Potenz einer Sprache]]
 - [[Klenee-Stern]]
@@ -78,7 +79,7 @@
 - [[Arden-Lemma]]
 [[Quotientenautomat]]
 - [[Erreichbarer Zustand]]
-- [[Unterscheidbare Zustände]]
+- [[Unterscheidbarer Zustand]]
 - [[Minimierung DFA]]
 
 ### Pumping Lemma
@@ -104,11 +105,11 @@
 [[Ableitung (Sprache)]]
 
 [[Chomsky Hierarchie]]
-- [[Typ 0 Unbeschränkte Grammatik]]
-- [[Typ 1 Monotone Grammatik]]
-	- [[Typ 1.1 Kontextsensitive Grammatik]]
-- [[Typ 2 Kontextfreie Grammatik]]
-- [[Typ 3 Rechtslineare Grammatik]]
+- [[Unbeschränkte Grammatik]]
+- [[Monotone Grammatik]]
+	- [[Kontextsensitive Grammatik]]
+- [[Kontextfreie Grammatik]]
+- [[Rechtslineare Grammatik]]
 
 ## 4. Kontextsensitive Sprachen
 

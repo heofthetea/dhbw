@@ -1,4 +1,4 @@
-[[Regulärer Ausdruck]], [[Formale Sprache]]
+[[Regulärer Ausdruck]], [[Sprache]]
 [[FSA_Handout.pdf#page=47]]
 
 1. $r_{1} = ((b + c)^{*}a(b + c)^{*}) + ((a + c)^{*}b(a + c)^{*})$ 
