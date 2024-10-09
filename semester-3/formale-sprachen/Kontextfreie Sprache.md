@@ -1,6 +1,5 @@
-> ausdrucksstärker als [[Reguläre Sprache]], aber noch handhabbar
+> ausdrucksstärker als [[Reguläre Sprache]], aber noch handhabbar (= [[Definition Algorithmus|algorithmisch]] handhabbar)
 > erkannt durch [[Kellerautomat]]
-
 
 
 ## Fähigkeiten

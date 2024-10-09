@@ -1,5 +1,6 @@
 [[Relation]], [[Datenbank]], [[Datenbanksystem]], 
 
+> [!hint] Heißt so, weil jede [[Entität]] eine [[Relation]] aus [[Menge|Mengen]] an [[Attribut|Attributen]] ist
 ### Codd's Regeln
 1. [[Integration RDB]]
 2. [[Operation RDB]]

@@ -7,10 +7,10 @@
 - [[Tipps Klausur Datenbanken]]
 
 
-## Libraries
-[[Datenbanken Fragenkatalog]]
-
-
+## Fragenkatalog
+- [[Datenbanken Fragenkatalog]]
+- [[Library Datenbanken 1]]
+- [[Library ER Modellierung]]
 ## Projekt
 [Link zu moodöl](https://elearning.dhbw-stuttgart.de/moodle/mod/folder/view.php?id=394622)
 [[DB_Semesteraufgabe_Studierende.pdf]]
@@ -24,9 +24,10 @@
 
 [[Datenbanksystem]]
 [[DBMS]]
+
 [[Hierarchisches Datenmodell]]
 [[Netzwerk]]
-[[Relationales Datenmodell]]
+[[Relationale Datenbank]]
 - [[Integration RDB]]
 - [[Operation RDB]]
 - [[Katalog]]
@@ -45,6 +46,8 @@
 
 [[Datenbank under the hood]]
 [[DB Entwurfsprozess]]
+
+#### Übungen
 [[Übung DB Entwurf Universität]]
 ### Psychological stuff lol
 [[Von Zeichen zu Wissen]]
@@ -64,27 +67,29 @@
 - [[Anforderungsanalyse Datenbank]]
 - [[ERM]]
 	- [[Entität]]
+	- [[Kardinalität]]
 	- [[Relationship]]
+		- [[n-stellige Relationship]]
+		- [[Rekursive Relationship]]
+		- [[Is-a Relationship]]
 	- [[Attribut]]
+		- [[Schlüsselattribut]]
+		- [[Spezielle Attribute]]
 
 [[Ablauf ERM Modellierung]]
-[[Schlüsselattribut]]
-[[Spezielle Attribute]]
+- [[Sichtenkonsolidierung]]
 [[Relationsrichtung eindeutig machen]]
-[[Kardinalität]]
 
-[[Übung ERM]]
-[[Übung ternäre Relation]]
-[[n-stellige Relationship]]
-[[Rekursive Relationship]]
-[[Is-a Relationship]]
-- [[Übung Is-a Relationship]]
 [[Aggregation und Partitionierung]]
 - [[Aggregation]]
 - [[Partitionierung]]
 - [[Schwacher Entitätstyp]]
+
+#### Übungen
 [[Übung Modellierung Computer]]
-[[Sichtenkonsolidierung]]
+[[Übung ERM]]
+[[Übung ternäre Relation]]
+- [[Übung Is-a Relationship]]
 
 ## 03 Logischer Entwurf
 [[DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf]]

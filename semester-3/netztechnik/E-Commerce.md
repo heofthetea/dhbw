@@ -6,4 +6,4 @@
 | Bsiness to Business       | B2B   | intension lul                   |
 | Government to Consumer    | G2C   | Programme für Steuererklärung   |
 | Consumer to Consumer      | C2C   | Ebay                            |
-| [[Peer-to-Peer Netzwerk]] | P2P   | Gemeinsame nutzung von Musik    |
+| [[Peer-to-Peer Network]] | P2P   | Gemeinsame nutzung von Musik    |

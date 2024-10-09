@@ -1,4 +1,4 @@
-Für eine [[Relationales Datenmodell|Relationale Datenbank]] _immer_ [[SQL]].
+Für eine [[Relationale Datenbank|Relationale Datenbank]] _immer_ [[SQL]].
 Spezifikationen:
 - [[DDL]]
 - [[DML]]

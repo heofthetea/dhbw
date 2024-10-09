@@ -7,6 +7,7 @@ The vault is structured in the following way:
 - `Master` nodes: Used (after Semester 1) exclusively as an Entrypoint to semesters. `Master` Nodes only store references to Hubs.
 - `Hub` nodes: Central nodes for a certain topic (typically one entire module). Contain references to (almost) all nodes relevant to their topic/module.
 - `Library` nodes: These are summaries of certain topics. They try to link to as many notes as possible, but briefly explain those as well. **Use them as an entrypoint for finding a specific topic if you're new to the vault.**
+	- **NOTE** that libraries are a construct of Semester 1. In Semester 3 I kind of abandoned them, save for `Formale Sprachen` and `Rechnerarchitekturen`, and instead relied on Hubs.
 
 ### Projects
 Over the course of the degree, some coding projects pop up. Those are stored in their own repos:

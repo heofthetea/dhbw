@@ -11,6 +11,8 @@ $$R: E_{1} \times E_{2} \rightarrow E_{3}$$
 ## Allgemein
 $$R: E_{1} \times E_{2} \times ... \times E_{n} \rightarrow E_{m}$$
 
+> [!hint] Kann die [[Relationship]] als solch eine [[Abbildung]] gesehen werden, ist in der [[Entität]] represantitive der [[Bild einer Funktion|Bildmenge]] die [[Kardinalität]] $1$.
+> Wenn nicht ist die [[Relationship]] eine [[Relation]] - in dem fall sind alle [[Kardinalität|Kardinalitäten]] $\in \mathbb{N}$
 ## Beispiel
 [[Übung ERM]]
 [[Übung ternäre Relation]]

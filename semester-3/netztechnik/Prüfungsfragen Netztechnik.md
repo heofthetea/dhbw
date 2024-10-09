@@ -22,3 +22,33 @@
 - "Router begrenzen Broadcast-Domains"
 - wenn's nicht so wäre, könnte ein Broadcast "im ganzen Internet rumgeistern"
 
+## Unterschied Permanent Link und Channel Link?
+[[Leitung]]
+- **Permanent**: Fest eingebaut (in Gebäuden etc)
+	- max. 90m
+- **Channel**: PermanePnt Link + bis zu 5m Patch Leitung pro Seite
+	- max. 100m
+
+## Welche wichtigen Kenngrößen gibt es in der Leitungsmessung?
+- Dämpfung
+	- [[NEXT]] (Near End Cross Talk): an nahem Ende messen
+	- FEXT: an fernem Ende messen
+	- Man setzt an einem Ende eine Spannung an, und misst die Spannung am anderen Ende
+- Signallaufzeit + [[Propagation Delay]]
+	- Misst sich genauso wie Dämpfung - nur halt die Zeit
+
+> [!warning] Muss an allen [[Twisted Pair Leitung|Paar]] gemessen werden, weil sie unterschiedlich verdrillt sind
+
+- [[Wiremap]]: Sind alle Pins richtig verbunden?
+- Bitfehlerrate
+- Impedanz
+	- ist der Wellen widerstand?????
+	- ca. $100 \Omega$ 
+- [[Alien Crosstalk]]
+
+==BRO WHAT THE FUCK HALF OF THESE YOU NEVER EVEN MENTIONED FUCKING **ONCE** IN YOUR FUCKING SLIDES HOW THE FUCK CAN YOU BE SO SELF-ENTITLED TO TEST THAT IN THE FUCKING EXAM YOU SELFISH PIECE OF SHIT==
+
+- [[ACR]]
+- [[Alien Crosstalk]]: Einflüsse von Außen auf die [[Leitung]]
+	- nur unter Laborbedingungen messbar
+

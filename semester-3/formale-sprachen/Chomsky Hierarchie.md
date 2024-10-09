@@ -9,3 +9,9 @@
 
 
 > [!hint] Je _höher_ der _Typ_, desto _restriktiver_ die [[Grammatik]] und _weniger mächtig_ die [[Sprachklasse]]
+
+## Diagramme
+
+![[Pasted image 20241009135314.png]]
+
+![[Pasted image 20241009135400.png]]

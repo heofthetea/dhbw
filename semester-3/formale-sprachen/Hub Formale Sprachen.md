@@ -81,7 +81,8 @@
 - [[Erreichbarer Zustand]]
 - [[Unterscheidbarer Zustand]]
 - [[Minimierung DFA]]
-
+[[Transformataion DFA -> Grammatik]]
+[[Transformation rechtslineare Grammatik -> DFA]]
 ### Pumping Lemma
 [[Grenzen Regulärer Sprachen]]
 [[Pumping Lemma]]
@@ -95,8 +96,7 @@
 - [[Endlichkeitsproblem]]
 
 
-## 3. Kontextfreie Sprachen
-### Grammatiken
+## 3. Chomsky-Grammatiken
 [[Grammatik]]
 - [[Terminalsymbol]]
 - [[Nichtterminalsymbol]]
@@ -110,6 +110,19 @@
 	- [[Kontextsensitive Grammatik]]
 - [[Kontextfreie Grammatik]]
 - [[Rechtslineare Grammatik]]
+
+### Kontextfreie Sprachen
+[[Kontextfreie Grammatik]]
+[[Kontextfreie Sprache]]
+[[BNF]]
+[[Chomsky-Normalform]]
+- [[Transformation in CNF]]
+	- [[Entfernen von Epsilon-Regeln]]
+	- [[Entfernen von Kettenregeln]]
+	- [[Reduzierte Grammatik]]
+	
+
+
 
 ## 4. Kontextsensitive Sprachen
 

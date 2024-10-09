@@ -1,5 +1,6 @@
-[[gerichteter Graph]]
+> Ist im Prinzip ein [[gerichteter Graph]]
 
+[[Topologie]]
 
 
 
@@ -28,5 +29,3 @@ flowchart TB
 ```
 
 Problem: Zu kompliziert für den average Otto
-
-[[Graphdatenbank]]

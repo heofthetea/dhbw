@@ -3,5 +3,5 @@
 
 ---
 [[Netzwerk]]
-[[Relationales Datenmodell]]
+[[Relationale Datenbank]]
 [[Hierarchisches Datenmodell]]

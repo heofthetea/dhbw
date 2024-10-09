@@ -1,4 +1,4 @@
-
+> I fucking hate this shit
 
 ### Sources
 
@@ -16,23 +16,13 @@
 # Vorlesungen
 ## 01 Intro
 [[NT Normen]]
-- [[ANSI]]
-- [[ITU]]
-- [[ISOC]]
-	- [[ICANN]]
-- [[EIA & TIA]]
-- [[RIPE]]
-- [[BSI]]
-- [[ISO]]
-- [[IEEE]]
-- [[RFC]]
 [[Von Zeichen zu Wissen]]
 [[Anforderungen an elektronische Informationsverarbeitung]]
-[[Verfügbarkeit Informationssysteme]]
+- [[Verfügbarkeit Informationssysteme]]
 
 [[Terminalnetz]]
 [[Client Server Architecture]]
-[[Peer-to-Peer Netzwerk]]
+[[Peer-to-Peer Network]]
 [[E-Commerce]]
 [[Ubiquitous Computing]]
 [[Aufbau von Netzwerken]]
@@ -48,7 +38,7 @@ Betriebsarten
 - [[Halb-Duplex-Betrieb]]
 - [[Duplex-Verbindung]]
 
-[[Broadcast Netzwerk]]
+[[Shared Medium]]
 [[Klassifizierung von Netzerken]]
 [[Verbindungstyp]]
 [[Nachrichtenvermittlung vs. Paketvermittlung]]
@@ -64,10 +54,7 @@ Betriebsarten
 
 [[Digitale Datenverarbeitung vs. Analoge Datenverarbeitung]]
 [[Kanalbreite]]
-[[Multiplex]]
-[[Taktrückgewinnung]]
-[[Präambel]]
-[[Asynchrone Datenübertragung]]
+
 [[Bandbreite]]
 [[Entscheidungsinhalt]]
 #### Konkrete Instanzen
@@ -80,6 +67,12 @@ Betriebsarten
 	- [[Data Link Layer]]
 	- [[Physical Layer]]
 [[Layer 8]]
+
+### Physische Ebene
+[[Multiplex]]
+[[Taktrückgewinnung]]
+[[Präambel]]
+[[Asynchrone Datenübertragung]]
 - [[Abtasten]]
 	- [[Abtasttheorem]]
 - [[Fourier-Transformation]]
@@ -107,7 +100,55 @@ Betriebsarten
 [[Twisted Pair Leitung]]
 [[NEXT]]
 - [[ACR]]
+[[Wiremap]]
+[[Dämpfung]]
 
 [[Propagation Delay]]
 [[Alien Crosstalk]]
 [[Leitungsqualität]]
+
+### Medienzugriffsverfahren
+[[Zugriffsverfahren]]
+[[Kollision (Zugriffsverfahren)]]
+[[CSMA]]
+- [[CSMA CD]]
+- [[CSMA CA]]
+[[Token Ring]]
+[[Slotted ALOHA]]
+
+
+[[Repeater]]
+[[Hub]]
+
+
+## 05 ?????? BRO GIB DEINEN FOLIEN TITEL DU DUMMHEIT
+### Topologien
+[[Topologie]]
+- Eindimensional
+	- [[Punkt-zu-Punkt Topologie]]
+	- [[BUS-System]]
+	- [[Linien-Topolgie]]
+- Zwei-Dimensional:
+	- [[Ring-Topologie]]
+	- [[Stern-Topologie]]
+	- [[Zell-Topologie]]
+- mehrdimensional:
+	- [[Baum-Topologie]]
+	- [[Mesh Topologie]]
+
+[[Kennwerte Topologie]]
+
+### Kupferverkabelung
+[[Symmetrische Verkabelung]]
+[[Asymmetrische Verkabelung]]
+[[Koaxial-Leitung]]
+[[Sternvier-Leitung]]
+[[Twisted Pair Leitung]]
+
+### Glasfaserverkabelung
+[[Glasfaserkabel]]
+- [[Monomode-Faser]]
+- [[Fasertypen]]
+[[Glasfaser]]
+[[Brechzahl]]
+[[LWL-Fenster]]

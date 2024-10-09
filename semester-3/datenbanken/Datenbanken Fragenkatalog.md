@@ -30,7 +30,7 @@
 > Struktur aus internen Zeigern. Dies arbeitet auf der Datenebene.
 
 
-> [!help]- 8\. Warum dauerte die Entwicklung eines |Produkts aus dem [[Relationales Datenmodell|relationalen]] Konzept von F.T. Codd bei der IBM so lange?
+> [!help]- 8\. Warum dauerte die Entwicklung eines |Produkts aus dem [[Relationale Datenbank|relationalen]] Konzept von F.T. Codd bei der IBM so lange?
 > Er musste Leute erst überzeugen, weil das Modell so mathematisch orientiert war ([[Relation]]).
 
 

@@ -11,7 +11,7 @@
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 43.49477682811016,
+            "dimension": 60.68376068376068,
             "children": [
               {
                 "id": "6f2af3586be0fea2",
@@ -112,12 +112,12 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 56.50522317188984,
+            "dimension": 39.31623931623932,
             "children": [
               {
                 "id": "bb20f33256a925c1",
@@ -158,9 +158,37 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "4039c04eef99dcd5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Library ER Modellierung.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "ddfe5d27fbd8e484",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Library Datenbanken 1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -173,255 +201,171 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 81.00664767331433,
+            "dimension": 65.90693257359924,
             "children": [
-              {
-                "id": "2135321b616a2bdb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Wort.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bc96b3d37340eee0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Assembler Beispiel 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "632f5873e05f4334",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/8051 JZ.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c0fc93b419e70671",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/Delta Modellierung.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5437a5bebd205f93",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Unbedingter Sprung.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e3b4596fbe15a71f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Systembus.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8ba400a3bd7e5d6b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/serielles BUS-System.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "42afeaaf544cfb85",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/DB Beispiel Anforderungsanalyse.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "845162ff428613e6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/DB Projektidee Ticketsystem.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "44df9ef8c0891624",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Übung ternäre Relation.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "936826c6281ce4d9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Übung Modellierung Computer.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e3c2152aa7b53629",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Ableitung (Sprache).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "eef84e19f0035ba4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Sichtenkonsolidierung.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "feb496c1c64e0293",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Übung Relationales Modell Softwarehaus.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "de25fb4df9727578",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Beispiel Relationales Modell.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9be4ec733f17b47d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Funktion.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9a8b250475a9fa22",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "60156ee5a32463df",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Relationales Modell.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f639c1e3534eabc4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Übung 2.42 Transformation DFA zu RegEx.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "c2b3c334ea2e01aa",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
+                    "file": "semester-3/netztechnik/Zugriffsverfahren.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5e125068838af16e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Leitung.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "abe4ad2918811f8d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Leitungsqualität.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fd406a6546a17491",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/1-persistentes CSMA.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "69cfe1997dd37568",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/CSMA CA.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3a425d54e4ccaed1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Punkt-zu-Punkt Topologie.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fb368ad0f17e3fb6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/CSMA CD.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "53c808766d1c2928",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Token Ring.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "228e39c3896f79ec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Topologie.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "30aee00924d8cac5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Topologie.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0c4a011a3a5706d3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Chomsky-Normalform.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a5bf08e8e699b2ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "610f3d012bdbc801",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/n-stellige Relationship.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 19
+            "currentTab": 12
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 18.99335232668566,
+            "dimension": 34.09306742640076,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -538,7 +482,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -565,7 +510,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md"
+                "file": "semester-3/datenbanken/n-stellige Relationship.md"
               }
             }
           },
@@ -575,7 +520,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
+                "file": "semester-3/datenbanken/n-stellige Relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -595,7 +540,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
+                "file": "semester-3/datenbanken/n-stellige Relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -631,53 +576,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c2b3c334ea2e01aa",
+  "active": "610f3d012bdbc801",
   "lastOpenFiles": [
-    "semester-3/datenbanken/images/Pasted image 20241008180118.png",
-    "semester-2/algorithmen/Excel Sort.md",
-    "semester-3/datenbanken/Übung ERM.md",
-    "semester-3/datenbanken/Schwacher Entitätstyp.md",
-    "semester-3/formale-sprachen/Lauf.md",
-    "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
-    "semester-3/formale-sprachen/Ableitung (Sprache).md",
+    "semester-3/datenbanken/Library ER Modellierung.md",
+    "semester-3/datenbanken/n-stellige Relationship.md",
+    "semester-3/formale-sprachen/Produktautomat.md",
+    "semester-3/netztechnik/Topologie.md",
+    "semester-3/datenbanken/Library Datenbanken 1.md",
+    "semester-3/datenbanken/Relationship.md",
+    "semester-3/datenbanken/Aggregation und Partitionierung.md",
+    "semester-2/java/Aggregation and Composition.md",
+    "semester-3/datenbanken/Hub Datenbanken.md",
+    "semester-3/datenbanken/Relationale Datenbank.md",
+    "semester-3/netztechnik/Hub Netztechnik.md",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/software_architektur/Hub Software Engineering.md",
+    "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
+    "README.md",
+    "semester-3/datenbanken/Netzwerk.md",
+    "semester-3/datenbanken/Datenbank.md",
+    "semester-3/datenbanken/Übung Modellierung Computer.md",
+    "semester-3/datenbanken/images/Pasted image 20241009162838.png",
+    "semester-3/formale-sprachen/Chomsky-Normalform.md",
     "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
     "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "semester-3/netztechnik/Mesh Topologie.md",
+    "semester-3/netztechnik/Peer-to-Peer Network.md",
+    "semester-3/netztechnik/images/Pasted image 20241009161056.png",
+    "semester-3/netztechnik/Baum-Topologie.md",
+    "semester-3/netztechnik/images/Pasted image 20241009161039.png",
+    "semester-3/netztechnik/Zell-Topologie.md",
+    "semester-3/netztechnik/images/Pasted image 20241009160953.png",
+    "semester-3/netztechnik/Stern-Topologie.md",
+    "semester-3/netztechnik/Shared Medium.md",
+    "semester-3/netztechnik/images/Pasted image 20241009160801.png",
+    "semester-3/netztechnik/images/Pasted image 20241009160720.png",
+    "semester-3/netztechnik/images/Pasted image 20241009160656.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241009151709.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241009151529.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241009150743.png",
     "semester-1/lineare-algebra/latex_symbols.pdf",
-    "semester-3/formale-sprachen/Grammatik.md",
-    "semester-3/formale-sprachen/Produktautomat.md",
-    "semester-3/formale-sprachen/Chomsky Hierarchie.md",
-    "semester-3/formale-sprachen/Rechtslineare Grammatik.md",
-    "semester-3/formale-sprachen/Kontextsensitive Grammatik.md",
-    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Kontextfreie Grammatik.md",
-    "semester-3/formale-sprachen/Monotone Grammatik.md",
-    "semester-3/formale-sprachen/Unbeschränkte Grammatik.md",
-    "semester-3/formale-sprachen/Sprache.md",
-    "semester-3/formale-sprachen/Unterscheidbarer Zustand.md",
-    "semester-3/netztechnik/Symbol.md",
-    "semester-3/formale-sprachen/Übung 2.42 Transformation DFA zu RegEx.md",
-    "semester-3/formale-sprachen/Transformation DFA -> Regex.md",
-    "Master DHBW.md",
-    "semester-3/formale-sprachen/images/Pasted image 20241008171030.png",
-    "semester-3/formale-sprachen/Beispiel 2.40 Transformation DFA zu RegEx.md",
-    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
-    "semester-3/datenbanken/Hub Datenbanken.md",
     "extern/lndp/images/VertragBisHerbst24_ausgefüllt.pdf",
     "extern/lndp/VertragBisHerbst24.pdf",
     "extern/lndp/images",
     "extern/lndp/Hub Lange Nacht des Programmierens",
     "extern/lndp",
-    "semester-3/datenbanken/images/Pasted image 20241008162445.png",
     "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
     "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf",
-    "semester-3/datenbanken/images/Pasted image 20241008161213.png",
-    "semester-3/datenbanken/images/Pasted image 20241008154624.png",
-    "semester-3/angewandte_mathematik/pdf/Übungen zum Kapitel 3.pdf",
-    "semester-3/formale-sprachen/images/Pasted image 20241004131853.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241004131716.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241002164120.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241002163333.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241002161122.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241002154142.png"
+    "semester-3/angewandte_mathematik/pdf/Übungen zum Kapitel 3.pdf"
   ]
 }

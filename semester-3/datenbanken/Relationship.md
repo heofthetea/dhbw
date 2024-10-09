@@ -1,4 +1,4 @@
-[[Relation]], [[Kardinalität]], [[n-stellige Relationship]]
+[[Kardinalität]]
 
 
 [[Relation]] zwischen [[Entität|Entitäten]]
@@ -8,3 +8,8 @@
 > [!warning] "hat" ist keine gute Bezeichnung!
 
 ![[Pasted image 20240917150743.png]]
+
+## Besondere Relationships
+- [[n-stellige Relationship]]
+- [[Is-a Relationship]]
+- [[Aggregation und Partitionierung]]

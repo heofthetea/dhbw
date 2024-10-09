@@ -1,2 +1,2 @@
-Eines der ersten [[Relationales Datenmodell|Relationalen Datenmodelle]] - von University of Berkeley
+Eines der ersten [[Relationale Datenbank|Relationalen Datenmodelle]] - von University of Berkeley
 
