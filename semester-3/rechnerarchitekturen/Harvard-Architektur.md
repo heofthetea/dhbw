@@ -7,6 +7,8 @@
 
 [[CPU]]
 
+> [!hint] getrennter [[Befehlsspeicher]] und [[Datenspeicher]]
+
 - Getrennte Adressen für Code und Data:
 	- Adresse $C:\set{0, 1, 2, 3,...}$ und $D:\set{0, 1, 2, 3,...}$ 
 - zwei verschiedene [[BUS-System|Bus Systeme]] 

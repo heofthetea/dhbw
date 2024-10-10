@@ -7,8 +7,8 @@
 - [[Register]] fungiert als [[Stack]] i guess??
 
 ## Data Pointer
-- DPTR: 16 bit, 8 bit füë X DATA
+- DPTR: 16 bit, 8 bit für X DATA
 
 ## Program Counter
-[[Adress-Zähler]]
+[[Programm Counter]]
 

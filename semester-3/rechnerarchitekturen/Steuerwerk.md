@@ -4,7 +4,7 @@
 - Input: **Statusmeldung** (engl.: "Conditioning Code"), **Instruktionen**
 	- "Rechnung erfolgreich"
 	- "Ergebnis negativ" ...
-- Output: **Steuersignal** (engl.: "Gating Signal") --> [[Operationswerk]]
+- Output: [[Steuersignal]] (engl.: "Gating Signal") --> [[Operationswerk]]
 
 
 ```mermaid

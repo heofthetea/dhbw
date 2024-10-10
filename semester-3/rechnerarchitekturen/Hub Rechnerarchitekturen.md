@@ -35,6 +35,11 @@ in Semester 3: [[Hub Betriebssysteme]]
 		- [[Mikro-Operation]]
 		- [[Mikro-Adresse]]
 		- [[Mikro-Befehl]]
+	- [[Steuerwerk als Automat]]
+	- [[Wilkes-Stringer Steuerwerk]]
+	- [[Steuersignal]]
+		- [[nicht-codiertes Steuersignal]]
+		- [[nano-codiertes Steuersignal]]
 - [[Rechenwerk]]
 - [[Operationswerk]]
 	- [[ALU]]
@@ -47,6 +52,7 @@ in Semester 3: [[Hub Betriebssysteme]]
 - [[i386]]
 - [[RISC]]
 
+[[Beispiel CPU]]
 ### Arithmetisch-logische Einheit
 [[Binärsystem]]
 - [[Hexadezimalsystem]]
@@ -74,15 +80,39 @@ in Semester 3: [[Hub Betriebssysteme]]
 - [[Datenbus]]
 - [[Steuerbus]]
 - [[Systembus]]
+nach Erkennung
+[[Handshake]]
+[[Bit-Synchronisation]]
+[[Bus zum Speicherzugriff]]
+
 [[BUS-Schaltung]]
 - [[synchroner BUS]]
 - [[asynchroner BUS]]
 [[serielle Bus-Schaltung]]
 [[Seriell-Parallel Crossover]]
 [[RS232 Bus]]
+[[PCI Express Bus]]
 
 
-## 4 Rechenwerk
+## 4 CPU
+
 [[Rechenwerk]]
+- [[Akkumulator]]
+- [[Spezielle Register]]
+- [[Allgemeine Register]]
+[[Instruction Set Architecture]]
 
+## 5 Speicher
+[[Memory]]
+- [[Adresse]]
+- [[Steuerleitung]]
+- [[getrennte Leitungen]]
+- [[Memory Mapped IO]]
+- [[Speicheraufteilung 8051]]
 
+### Adressierung
+[[Adresse]]
+- [[Adressierung]]
+	- [[externe Adressierung]]
+	- [[interne Adressierung]]
+- [[Chip Select]]

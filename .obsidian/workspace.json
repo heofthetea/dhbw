@@ -111,8 +111,7 @@
                   "pinned": true
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -201,7 +200,7 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 65.90693257359924,
+            "dimension": 75.11870845204179,
             "children": [
               {
                 "id": "c2b3c334ea2e01aa",
@@ -353,19 +352,103 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/n-stellige Relationship.md",
+                    "file": "semester-3/rechnerarchitekturen/PCI Express Bus.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c25d49dde3ab7735",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Topologie.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d9fc8565b3e64049",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Hub.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7fc0c255c17b0756",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Wilkes-Stringer Steuerwerk.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fe82976e6b577bd7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Endlicher Automat.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "60eaa4913346ca0d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Memory.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e78f3c120f9fd971",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Speicheraufteilung 8051.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "269ffa40ba038b7f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 12
+            "currentTab": 19
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 34.09306742640076,
+            "dimension": 24.881291547958213,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -427,8 +510,7 @@
                   "pinned": true
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal"
@@ -460,7 +542,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: todo",
+                "query": "tag:todo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -510,7 +592,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/datenbanken/n-stellige Relationship.md"
+                "file": "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md"
               }
             }
           },
@@ -520,7 +602,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/datenbanken/n-stellige Relationship.md",
+                "file": "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -540,7 +622,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/datenbanken/n-stellige Relationship.md",
+                "file": "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -576,45 +658,46 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "610f3d012bdbc801",
+  "active": "269ffa40ba038b7f",
   "lastOpenFiles": [
-    "semester-3/datenbanken/Library ER Modellierung.md",
-    "semester-3/datenbanken/n-stellige Relationship.md",
-    "semester-3/formale-sprachen/Produktautomat.md",
-    "semester-3/netztechnik/Topologie.md",
-    "semester-3/datenbanken/Library Datenbanken 1.md",
-    "semester-3/datenbanken/Relationship.md",
-    "semester-3/datenbanken/Aggregation und Partitionierung.md",
-    "semester-2/java/Aggregation and Composition.md",
-    "semester-3/datenbanken/Hub Datenbanken.md",
-    "semester-3/datenbanken/Relationale Datenbank.md",
-    "semester-3/netztechnik/Hub Netztechnik.md",
-    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/software_architektur/Hub Software Engineering.md",
-    "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
-    "README.md",
-    "semester-3/datenbanken/Netzwerk.md",
-    "semester-3/datenbanken/Datenbank.md",
-    "semester-3/datenbanken/Übung Modellierung Computer.md",
+    "semester-3/rechnerarchitekturen/Mealy-Automat.md",
+    "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md",
+    "semester-3/rechnerarchitekturen/Wilkes-Stringer Steuerwerk.md",
+    "semester-3/rechnerarchitekturen/Adressierung.md",
+    "semester-3/rechnerarchitekturen/direkte Adressierung.md",
+    "Adresse.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241010113114.png",
+    "semester-3/rechnerarchitekturen/interne Adressierung.md",
+    "semester-3/rechnerarchitekturen/Chip Select.md",
+    "semester-3/rechnerarchitekturen/externe Adressierung.md",
+    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241010112106.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241010111512.png",
+    "semester-3/rechnerarchitekturen/getrennte Leitungen.md",
+    "semester-3/rechnerarchitekturen/Speicheraufteilung 8051.md",
+    "semester-3/rechnerarchitekturen/Memory.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241010105757.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241010105530.png",
+    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
+    "semester-3/rechnerarchitekturen/Steuerleitung.md",
+    "semester-3/rechnerarchitekturen/Memory Mapped IO.md",
+    "semester-3/rechnerarchitekturen/Von-Neumann Architektur.md",
+    "semester-3/rechnerarchitekturen/Harvard-Architektur.md",
+    "semester-3/rechnerarchitekturen/Datenspeicher.md",
+    "semester-3/rechnerarchitekturen/Befehlsspeicher.md",
+    "semester-3/rechnerarchitekturen/Beispiel CPU.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241010100501.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241010100253.png",
+    "semester-3/rechnerarchitekturen/Programm Counter.md",
+    "semester-3/rechnerarchitekturen/Steuersignal.md",
+    "semester-3/rechnerarchitekturen/nicht-codiertes Steuersignal.md",
+    "semester-3/rechnerarchitekturen/nano-codiertes Steuersignal.md",
+    "semester-3/rechnerarchitekturen/Steuerwerk.md",
+    "semester-3/formale-sprachen/Endlicher Automat.md",
     "semester-3/datenbanken/images/Pasted image 20241009162838.png",
-    "semester-3/formale-sprachen/Chomsky-Normalform.md",
-    "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
     "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/netztechnik/Mesh Topologie.md",
-    "semester-3/netztechnik/Peer-to-Peer Network.md",
     "semester-3/netztechnik/images/Pasted image 20241009161056.png",
-    "semester-3/netztechnik/Baum-Topologie.md",
     "semester-3/netztechnik/images/Pasted image 20241009161039.png",
-    "semester-3/netztechnik/Zell-Topologie.md",
-    "semester-3/netztechnik/images/Pasted image 20241009160953.png",
-    "semester-3/netztechnik/Stern-Topologie.md",
-    "semester-3/netztechnik/Shared Medium.md",
-    "semester-3/netztechnik/images/Pasted image 20241009160801.png",
-    "semester-3/netztechnik/images/Pasted image 20241009160720.png",
-    "semester-3/netztechnik/images/Pasted image 20241009160656.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241009151709.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241009151529.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241009150743.png",
     "semester-1/lineare-algebra/latex_symbols.pdf",
     "extern/lndp/images/VertragBisHerbst24_ausgefüllt.pdf",
     "extern/lndp/VertragBisHerbst24.pdf",
@@ -622,7 +705,6 @@
     "extern/lndp/Hub Lange Nacht des Programmierens",
     "extern/lndp",
     "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
-    "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf",
-    "semester-3/angewandte_mathematik/pdf/Übungen zum Kapitel 3.pdf"
+    "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf"
   ]
 }

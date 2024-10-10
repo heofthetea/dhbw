@@ -1,6 +1,6 @@
 > Auch _Princeton_-Architektur
 
-[[Minimalsystem]]
+[[Minimalsystem]], [[Memory]]
 
 
 ```mermaid

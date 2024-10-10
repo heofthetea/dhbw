@@ -1,6 +1,6 @@
 > Steuern den Programmablauf
 
-- Allgemein: Setzt [[Adress-Zähler]] neu
+- Allgemein: Setzt [[Programm Counter]] neu
 - Änderung des linearen [[Aufbau eines Assemblerprogramms|Programmablaufs]]
 
 ## Unbedingte Sprünge

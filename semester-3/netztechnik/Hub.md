@@ -1,3 +1,6 @@
+> Sorgt logisch gesehen für [[Broadcast]]
+
+
 [[Repeater]] mit mehreren Anschlüssen
 
 

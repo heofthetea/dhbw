@@ -4,7 +4,7 @@
 ```
 
 - rel ist 8-Bit Zahl im [[Zweierkomplement]]
-- $\pm 127$ relativ zum [[Adress-Zähler|PC]]
+- $\pm 127$ relativ zum [[Programm Counter|PC]]
 
 ```asm
 SJMP label

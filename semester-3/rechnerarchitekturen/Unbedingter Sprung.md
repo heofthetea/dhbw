@@ -1,6 +1,6 @@
 > Springt _immer_ zu einem anderen [[Instruktion|Befehl]]
 
-- lädt den [[Adress-Zähler]]
+- lädt den [[Programm Counter]]
 
 ## Für Keil
 ```asm

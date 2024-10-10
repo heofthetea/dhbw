@@ -1,7 +1,4 @@
-[[Automat]], [[Beispiel Zugangskontrolle]], [[Reguläre Sprache]], [[Regulärer Ausdruck]]
-
-
-
+[[Automat]], [[Beispiel Zugangskontrolle]], [[Reguläre Sprache]], [[Regulärer Ausdruck]]. [[Zustandsdiagramm]]
 
 
 
@@ -16,7 +13,7 @@
 2. Ein [[Endzustand]] muss erreicht sein
 
 [[DFA|Deterministischer Endlicher Automat]]
-[[NFA]]
+[[NFA|Nichtdeterministischer Endlicher Automat]]
 
 ## Beispiel
 [[Übung 1.8 Endlicher Automat]]

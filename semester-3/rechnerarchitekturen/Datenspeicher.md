@@ -1,0 +1,2 @@
+> [[Memory|Speicher]] für [[Daten]]
+

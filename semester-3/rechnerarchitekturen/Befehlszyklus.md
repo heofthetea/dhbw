@@ -5,11 +5,11 @@
 flowchart LR
 	code-fetch --> decode --> operand-fetch --> execute --> write-back --> code-fetch
 ```
-1. `Code fetch`: [[Adress-Zähler]]  an Speicher
+1. `Code fetch`: [[Programm Counter]]  an Speicher
 	1. Wert an dieser Stelle wird von [[CPU]] eingelesen
 2. `Decode`: 
 	1. [[CPU]] stellt fest, welche [[Instruktion]] es ist
-	2. [[Adress-Zähler]] wird erhöht
+	2. [[Programm Counter]] wird erhöht
 3. `Operand fetch`: holen/bereitstellen der [[Variable|Variablen]]
 	1. aus [[Register]], externer Speicher, Berechnungen
 4. `Execute`: [[Variable|Variablen]] verknüpfen
