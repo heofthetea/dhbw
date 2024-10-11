@@ -1,3 +1,5 @@
+> [!hint] [[endliche Sprachen]] sind eine [[Teilmenge]] der [[Reguläre Sprache|regulären Sprachen]]
+
 - Jede endliche Sprache ist regulär
 	- warum? ✨[[Bruteforce]]✨ [[Transformation RegEx -> NFA|NFA aus RegEx]] für jedes Zeichen und $\epsilon$-Übergänge --> wird eine endliche [[Zustand|Zustandsmenge]] sein
 

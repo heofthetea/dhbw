@@ -7,7 +7,7 @@
 > [!warning] Sind nicht transparent - Programmierer kann [[Mikro-Befehl|Mikro-Befehle]] nicht einsehen!
 
 
-> [!info] Mehrere [[Mikro-Befehl|Mikro-Befehle]] bilden ein Mikro-Programm.
+> [!info] Mehrere [[Mikro-Befehl|Mikro-Befehle]] bilden ein [[Mikro-Programm]].
 > Es gibt einen eigenen Speicher dafür --> s. [[Wilkes-Stringer Steuerwerk]]
 
 

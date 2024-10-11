@@ -2,12 +2,13 @@
 
 > [!hint] [[CPU|Prozessoren]] haben keinen [[Endzustand]] --> [[Befehlszyklus|Holen, abarbeiten, holen, abarbeiten,...]]
 
-- Eingabe-[[Wort]]: [[MIkro-Programm]]
-- Ausgabe-[[Wort]]: 
-## Schaltnetz für [[Zustand]]
-- physikalische Realisierung für [[Übergangsfunktion]] $\delta$ 
+- Eingabe-[[Wort]]: [[Mikro-Programm]]
+- Ausgabe-[[Wort]]: [[Mikro-Operation]] als [[Steuersignal]]
 
-## Schaltnetz für Ausgabe
+$$A = (Q, \Sigma_{bin}, Y,  \delta, \beta, q_{0}, F)$$
+
+> [!hint] [[Übergangsfunktion]] und Ausgabefunktion sind jeweils durch ein eigenes Schaltnetz realisiert. Diese werden  hier als Black Box behandelt.
+
 [[Mealy-Automat]]
 - $\beta: X \times Q \rightarrow Y$
 [[Moore-Automat]]
@@ -21,4 +22,4 @@ $Q = \set{q_{1}, q_{2}}$
 $S = q_{1}$ 
 $F = \varnothing$ (kein [[Endzustand]] bei Prozessoren)
 
-#todo Grafik
+![[Pasted image 20241011142940.png]]

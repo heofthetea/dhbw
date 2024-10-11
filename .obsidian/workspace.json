@@ -6,12 +6,12 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 39.01918976545842,
+        "dimension": 38.965884861407254,
         "children": [
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 60.68376068376068,
+            "dimension": 70.37037037037037,
             "children": [
               {
                 "id": "6f2af3586be0fea2",
@@ -116,7 +116,7 @@
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 39.31623931623932,
+            "dimension": 29.629629629629626,
             "children": [
               {
                 "id": "bb20f33256a925c1",
@@ -195,12 +195,12 @@
       {
         "id": "5e44c37c29a1d2f6",
         "type": "split",
-        "dimension": 60.98081023454158,
+        "dimension": 61.034115138592746,
         "children": [
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 75.11870845204179,
+            "dimension": 70.56030389363723,
             "children": [
               {
                 "id": "c2b3c334ea2e01aa",
@@ -359,96 +359,48 @@
                 }
               },
               {
-                "id": "c25d49dde3ab7735",
+                "id": "47e209dfb32d6e84",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/netztechnik/Topologie.md",
+                    "file": "semester-3/formale-sprachen/Chomsky-Normalform.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "d9fc8565b3e64049",
+                "id": "cd5b93cd4e0ce7cd",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/netztechnik/Hub.md",
+                    "file": "semester-3/formale-sprachen/Beispiel Kellerautomat.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "7fc0c255c17b0756",
+                "id": "0f563dc2145d600a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Wilkes-Stringer Steuerwerk.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fe82976e6b577bd7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Endlicher Automat.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "60eaa4913346ca0d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Memory.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e78f3c120f9fd971",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Speicheraufteilung 8051.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "269ffa40ba038b7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md",
+                    "file": "semester-3/rechnerarchitekturen/Library CPU Komponenten.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 19
+            "currentTab": 15
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 24.881291547958213,
+            "dimension": 29.439696106362774,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -510,7 +462,8 @@
                   "pinned": true
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -542,7 +495,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:todo",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -592,7 +545,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md"
+                "file": "semester-3/rechnerarchitekturen/Library CPU Komponenten.md"
               }
             }
           },
@@ -602,7 +555,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md",
+                "file": "semester-3/rechnerarchitekturen/Library CPU Komponenten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -622,7 +575,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md",
+                "file": "semester-3/rechnerarchitekturen/Library CPU Komponenten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -658,47 +611,47 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "269ffa40ba038b7f",
+  "active": "0f563dc2145d600a",
   "lastOpenFiles": [
     "semester-3/rechnerarchitekturen/Mealy-Automat.md",
-    "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md",
-    "semester-3/rechnerarchitekturen/Wilkes-Stringer Steuerwerk.md",
-    "semester-3/rechnerarchitekturen/Adressierung.md",
-    "semester-3/rechnerarchitekturen/direkte Adressierung.md",
-    "Adresse.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241010113114.png",
-    "semester-3/rechnerarchitekturen/interne Adressierung.md",
-    "semester-3/rechnerarchitekturen/Chip Select.md",
-    "semester-3/rechnerarchitekturen/externe Adressierung.md",
+    "semester-3/rechnerarchitekturen/Library CPU Komponenten.md",
     "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241010112106.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241010111512.png",
-    "semester-3/rechnerarchitekturen/getrennte Leitungen.md",
-    "semester-3/rechnerarchitekturen/Speicheraufteilung 8051.md",
-    "semester-3/rechnerarchitekturen/Memory.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241010105757.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241010105530.png",
-    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
-    "semester-3/rechnerarchitekturen/Steuerleitung.md",
-    "semester-3/rechnerarchitekturen/Memory Mapped IO.md",
-    "semester-3/rechnerarchitekturen/Von-Neumann Architektur.md",
-    "semester-3/rechnerarchitekturen/Harvard-Architektur.md",
-    "semester-3/rechnerarchitekturen/Datenspeicher.md",
-    "semester-3/rechnerarchitekturen/Befehlsspeicher.md",
-    "semester-3/rechnerarchitekturen/Beispiel CPU.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241010100501.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241010100253.png",
-    "semester-3/rechnerarchitekturen/Programm Counter.md",
-    "semester-3/rechnerarchitekturen/Steuersignal.md",
-    "semester-3/rechnerarchitekturen/nicht-codiertes Steuersignal.md",
-    "semester-3/rechnerarchitekturen/nano-codiertes Steuersignal.md",
+    "semester-3/formale-sprachen/Beispiel CYK Algorithmus.md",
+    "semester-3/datenbanken/Hub Datenbanken.md",
+    "semester-1/digitaltechnik/Library Rechenschaltungen.md",
+    "semester-1/logik/prolog/Library Prolog.md",
+    "semester-1/digitaltechnik/Library Speicherschaltungen.md",
+    "semester-3/rechnerarchitekturen/Minimalsystem.md",
+    "semester-3/rechnerarchitekturen/Wilkes-Stringer Steuerwerk.md",
+    "semester-3/netztechnik/Zugriffsverfahren.md",
+    "semester-3/formale-sprachen/Beispiel Kellerautomat.md",
+    "semester-3/formale-sprachen/Chomsky-Normalform.md",
+    "semester-3/rechnerarchitekturen/PCI Express Bus.md",
+    "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
+    "semester-3/netztechnik/Topologie.md",
+    "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md",
+    "semester-3/rechnerarchitekturen/Instruktion.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241011142000.png",
+    "semester-3/rechnerarchitekturen/Mikro-Operation.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241011143949.png",
+    "semester-3/rechnerarchitekturen/Mikro-Programm.md",
+    "semester-3/rechnerarchitekturen/Mikro-Befehl.md",
+    "semester-3/rechnerarchitekturen/Moore-Automat.md",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241011142940.png",
+    "semester-3/rechnerarchitekturen/Library Minimalsystem.md",
+    "semester-3/rechnerarchitekturen/Register.md",
+    "semester-3/rechnerarchitekturen/Rechenwerk.md",
     "semester-3/rechnerarchitekturen/Steuerwerk.md",
-    "semester-3/formale-sprachen/Endlicher Automat.md",
-    "semester-3/datenbanken/images/Pasted image 20241009162838.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241011141106.png",
     "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/netztechnik/images/Pasted image 20241009161056.png",
-    "semester-3/netztechnik/images/Pasted image 20241009161039.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241011132325.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241011131717.png",
     "semester-1/lineare-algebra/latex_symbols.pdf",
+    "semester-2/algorithmen/images/Pasted image 20241011130205.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241011123404.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241011120212.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241010113114.png",
+    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
     "extern/lndp/images/VertragBisHerbst24_ausgefüllt.pdf",
     "extern/lndp/VertragBisHerbst24.pdf",
     "extern/lndp/images",

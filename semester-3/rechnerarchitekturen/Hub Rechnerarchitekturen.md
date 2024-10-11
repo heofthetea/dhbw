@@ -11,6 +11,8 @@ in Semester 3: [[Hub Betriebssysteme]]
 [[Tipps Klausur Rechnerarchitekturen]]
 ## Libraries
 [[Library Minimalsystem]]
+[[Library CPU Komponenten]]
+
 
 # Vorlesung
 [[Ausblick Rechnerarchitekturen]]
@@ -23,26 +25,28 @@ in Semester 3: [[Hub Betriebssysteme]]
 
 [[Microcontroller]]
 
-## 2. Minimalsystem
+## Minimalsystem
 [[Minimalsystem]]
 [[Harvard-Architektur]]
 [[Von-Neumann Architektur]]
 
-### CPU Grobstruktur
+## CPU
 [[CPU]]
 - [[Steuerwerk]]
 	- [[Steuerwerk mit Mikroprogrammierung]]
 		- [[Mikro-Operation]]
 		- [[Mikro-Adresse]]
 		- [[Mikro-Befehl]]
+		- [[Mikro-Programm]]
 	- [[Steuerwerk als Automat]]
 	- [[Wilkes-Stringer Steuerwerk]]
 	- [[Steuersignal]]
 		- [[nicht-codiertes Steuersignal]]
 		- [[nano-codiertes Steuersignal]]
-- [[Rechenwerk]]
 - [[Operationswerk]]
-	- [[ALU]]
+	- [[Rechenwerk]]
+		- [[ALU]]
+		- [[Register]]
 	- [[Leitwerk]]
 - [[BUS-Interface]]
 
@@ -54,6 +58,7 @@ in Semester 3: [[Hub Betriebssysteme]]
 
 [[Beispiel CPU]]
 ### Arithmetisch-logische Einheit
+oder: Digitaltechnik 2.0 --> [[Library Rechenschaltungen]]
 [[Binärsystem]]
 - [[Hexadezimalsystem]]
 
@@ -72,7 +77,7 @@ in Semester 3: [[Hub Betriebssysteme]]
 - [[Division Zweierkomplement]]
 	- [[Multiplikation Division Floating Point]]
 
-## 3 Bussystem
+## Bussystem
 (im Skript Kapitel 6 lol)
 [[serielles BUS-System]]
 [[BUS-System]]
@@ -93,14 +98,6 @@ nach Erkennung
 [[RS232 Bus]]
 [[PCI Express Bus]]
 
-
-## 4 CPU
-
-[[Rechenwerk]]
-- [[Akkumulator]]
-- [[Spezielle Register]]
-- [[Allgemeine Register]]
-[[Instruction Set Architecture]]
 
 ## 5 Speicher
 [[Memory]]

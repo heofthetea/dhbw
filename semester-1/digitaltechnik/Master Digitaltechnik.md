@@ -1,7 +1,7 @@
 #master
 ## Library
-[[Speicherschaltungen Library]]
-[[Rechenschaltungen Library]]
+[[Library Speicherschaltungen]]
+[[Library Rechenschaltungen]]
 
 [[Digitaltechnik Cheat Sheet.pdf]]
 

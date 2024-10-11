@@ -2,8 +2,7 @@
 
 #klausurrelevant 
 
-#todo Grafik
-
+![[Pasted image 20241011143949.png]]
 
 - IR = Instruktions-Register
 - PSW = [[PSW]]
@@ -12,7 +11,7 @@
 | -------------------------- | ----------------------------------------- | ----------------------------------------------------------- |
 | $q$                        | [[Zustand]]                               | [[Mikro-Adresse]]                                           |
 | $\vec{x}$                  | Eingabe-[[Wort]]                          | [[Instruktion]] + [[Conditioning Code\|Conditioning Codes]] |
-| $\vec{y}$                  | Ausgabe-[[Wort]]                          | [[Mikro-Operation]]                                         |
+| $\vec{y}$                  | Ausgabe-[[Wort]]                          | [[Mikro-Operation]] als [[Steuersignal]]                    |
 | Zustandsvariablen-Speicher | (speichert aktuellen [[Zustand]])         | Mikro-Adress-[[Register]]                                   |
 | $\delta, \beta$            | [[Übergangsfunktion]] und Ausgabefunktion | Mikro-Programm-Speicher                                     |
 | $(q', \vec{y})$            | $\in Q \times Y$                          | [[Mikro-Befehl]]                                            |

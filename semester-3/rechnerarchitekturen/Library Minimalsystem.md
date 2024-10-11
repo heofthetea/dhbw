@@ -8,8 +8,8 @@
 ## Minimalsystem
 [[Minimalsystem]] definiert ein System, das aus genau den Komponenten besteht, die ein Computer _mindestens_ braucht:
 1. [[CPU]]
-2. Speicher ([[Memory]]) für Befehle und [[Daten]]
-3. I/O - Verbindunb zur Außenwelt
+2. Speicher ([[Memory]]) für [[Befehlsspeicher|Befehle]] und [[Datenspeicher|Daten]]
+3. I/O - Verbindung zur Außenwelt
 4. [[BUS-System]] zur Kommunikation
 
 #### basic Architekturen
@@ -28,7 +28,7 @@
 ![[Pasted image 20240918161722.png|600]]
 
 - [[Steuerwerk]]: Steuert die Vorgänge _in_ der [[CPU]]. (think "CPU of CPU")
-	- nimmt [[Instruktion|Instruktionen]] entgegen und sagt [[Operationswerk]], was zu tun ist
+	- nimmt [[Instruktion|Instruktionen]] entgegen und sagt [[Operationswerk]] über [[Steuersignal]], was zu tun ist
 - [[BUS-Interface]]: Kommunikation der [[CPU]] mit Rest des [[Minimalsystem|Computers]]
 	- sind die Pins, die unten an einer [[CPU]] dran sind
 	- validiert [[Daten]], decodiert [[Instruktion|Instruktionen]], kommuniziert mit [[Memory]]

@@ -120,8 +120,16 @@
 	- [[Entfernen von Epsilon-Regeln]]
 	- [[Entfernen von Kettenregeln]]
 	- [[Reduzierte Grammatik]]
-	
 
+#### Entscheidungsprobleme
+- [[Wortproblem]]: [[CYK Algorithmus]]
+- [[Leerheitsproblem]]: Ist [[Startsymbol]] terminierend?
+- [[Endlichkeitsproblem]]: nur [[Reguläre Sprache|reguläre Sprachen]] sind [[endliche Sprachen|endlich]] 
+
+#### Kellerautomaten
+- [[Kellerautomat]]
+	- [[Konfiguration KA]]
+	- [[Beispiel Kellerautomat]]
 
 
 ## 4. Kontextsensitive Sprachen

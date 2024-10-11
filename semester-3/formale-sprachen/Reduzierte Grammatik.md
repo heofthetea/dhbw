@@ -9,7 +9,7 @@ Eine [[Kontextfreie Grammatik]] $G = (N, \Sigma, P, S)$:
 > 1. fine und entferne **nicht terminierende** Symbole
 > 2. finde und entferne **unerreichbare** Symbole
 
-
+> [!hint] Liefert Lösung für [[Leerheitsproblem]]: Wenn [[Startsymbol]] nicht terminiert, ist die [[Sprache]] leer
 ## Algorithmen
 ![[Pasted image 20241009151529.png]]
 

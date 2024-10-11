@@ -1,6 +1,6 @@
 > Eine Operation der [[CPU]] in mehrere, elementare Operationen zerlegen
 
-- ist ein Gating Signal
+- ist ein [[Steuersignal]]
 ## Beispiel
 Zuweisung: `(A) <- (R1)`
 1. `(R1)` auf internen [[BUS-Schaltung|Bus]] schreiben

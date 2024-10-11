@@ -1,5 +1,6 @@
 > Steuert die Abläufe einer [[CPU]]
 
+[[Steuerwerk mit Mikroprogrammierung]], [[Steuerwerk als Automat]], [[Wilkes-Stringer Steuerwerk]]
 
 - Input: **Statusmeldung** (engl.: "Conditioning Code"), **Instruktionen**
 	- "Rechnung erfolgreich"

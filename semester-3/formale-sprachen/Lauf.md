@@ -12,3 +12,7 @@ $$((q_{0}, c_{0}...c_{n}),(q_{1}, c_{1}...c_{n}), ...(q_{n}, \epsilon))$$
 
 ## Auf [[NFA]]
 ![[Pasted image 20240918151756.png]]
+
+> [!hint] Für [[Kellerautomat]] genau so definiert, mit Rücksicht auf den [[Stack]].
+> Der [[Lauf]] ist also eine [[Folge]] aus [[Konfiguration KA|Konfigurationen]].
+
