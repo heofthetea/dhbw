@@ -17,6 +17,7 @@
 
 
 ## Semester
+[[The X Horsemen of Over-generalization]]
 
 ### Semester 1
 [[Master Semester 1]]
@@ -32,7 +33,6 @@
 
 
 ### Semester 2
---- 
 [[Master Semester 2]]
 
 [[Hub Marketing]]
@@ -44,3 +44,11 @@
 
 ### Semester 3
 [[Master Semester 3]]
+
+[[Hub Rechnerarchitekturen]]
+- [[Hub Systemnahe Programmierung]]
+[[Hub Angewandte Mathematik]]
+[[Hub Software Engineering]]
+[[Hub Datenbanken]]
+[[Hub Netztechnik]]
+[[Hub Formale Sprachen]]

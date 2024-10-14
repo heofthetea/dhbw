@@ -4,9 +4,5 @@
 
 > [!hint] Benötigt weniger Leitungen --> Effizienter
 
-#todo Bild malen und einfügen
+#todo Geschachtelte Tabelle da malen und einfügen
 
-| Signal           | Funktion    |
-| ---------------- | ----------- |
-| $(y_{1}, y_{2})$ | [[ALU]] mit |
-|                  | $           |

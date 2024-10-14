@@ -1,4 +1,3 @@
-[[serielle Bus-Schaltung]], [[synchroner BUS]]
-- schaltet mehrere [[serielle Bus-Schaltung|serielle Busse]] (Lanes) parallel
+[[serielle Bus-Schaltung]], [[synchroner BUS]], [[Seriell-Parallel Crossover]]
 
 > [!hint] Datenübertragungsrate go brrrrrrrrrrrrrrrrrrrrrr

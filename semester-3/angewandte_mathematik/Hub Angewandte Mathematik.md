@@ -16,7 +16,15 @@
 [[stetig differenzierbar]]
 
 
-## 2. TODO
+## 2. Differentialrechnung
+#todo Jordan Matrix, Hesse Matrix, zwei Wege zum Ableiten (mit und ohne Nebenbedingung)
 
-
-## 3. IDFK
+## 4. Integralrechnung
+[[Teil_3 Integralrechnung.pdf]]
+[[Integral]]
+- [[Bestimmtes Integral]]
+- [[Differenzialgleichung]]
+- [[n-dimensionale Integration]]
+- [[Dumme Integrale]]
+- [[Substitution Integral]]
+	- [[Kugelkoordinaten]]

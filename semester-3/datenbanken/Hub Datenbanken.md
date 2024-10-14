@@ -10,7 +10,7 @@
 ## Fragenkatalog
 - [[Datenbanken Fragenkatalog]]
 - [[Library Datenbanken 1]]
-- [[Library ER Modellierung]]
+- [[Library Modellierung]]
 ## Projekt
 [Link zu moodöl](https://elearning.dhbw-stuttgart.de/moodle/mod/folder/view.php?id=394622)
 [[DB_Semesteraufgabe_Studierende.pdf]]
@@ -82,8 +82,8 @@
 
 [[Aggregation und Partitionierung]]
 - [[Aggregation]]
+	- [[Schwacher Entitätstyp]]
 - [[Partitionierung]]
-- [[Schwacher Entitätstyp]]
 
 #### Übungen
 [[Übung Modellierung Computer]]

@@ -2,3 +2,6 @@
 
 [[Datenselektor|Selektorschaltung]] 
 - generiert sich aus [[Adressbus|Adressleitungen]]
+
+> [!hint] Ein IC ist in diesem Kontext ein einzelner Chip auf einer RAM Disk
+

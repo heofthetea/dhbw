@@ -11,7 +11,7 @@
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 70.37037037037037,
+            "dimension": 81.00664767331433,
             "children": [
               {
                 "id": "6f2af3586be0fea2",
@@ -111,12 +111,13 @@
                   "pinned": true
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 29.629629629629626,
+            "dimension": 18.99335232668566,
             "children": [
               {
                 "id": "bb20f33256a925c1",
@@ -165,7 +166,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/Library ER Modellierung.md",
+                    "file": "semester-3/datenbanken/Library Modellierung.md",
                     "mode": "source",
                     "source": false
                   },
@@ -187,7 +188,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -195,85 +196,13 @@
       {
         "id": "5e44c37c29a1d2f6",
         "type": "split",
-        "dimension": 61.034115138592746,
+        "dimension": 61.03411513859274,
         "children": [
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
             "dimension": 70.56030389363723,
             "children": [
-              {
-                "id": "c2b3c334ea2e01aa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/Zugriffsverfahren.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5e125068838af16e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/Leitung.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "abe4ad2918811f8d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/Leitungsqualität.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fd406a6546a17491",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/1-persistentes CSMA.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "69cfe1997dd37568",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/CSMA CA.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3a425d54e4ccaed1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/Punkt-zu-Punkt Topologie.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "fb368ad0f17e3fb6",
                 "type": "leaf",
@@ -388,14 +317,38 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Library CPU Komponenten.md",
+                    "file": "semester-3/rechnerarchitekturen/Steuerleitung.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "66c0849dd6cc34a4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/PSW.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5e5e2284036e9757",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Library Modellierung.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 15
+            "currentTab": 11
           },
           {
             "id": "fd7bfaab03c82f4d",
@@ -461,6 +414,16 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "82523649efc18687",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-3/angewandte_mathematik/sources/Teil_3 Integralrechnung.pdf"
+                  }
+                }
               }
             ],
             "currentTab": 2
@@ -495,7 +458,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag: todo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -545,7 +508,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/rechnerarchitekturen/Library CPU Komponenten.md"
+                "file": "semester-3/datenbanken/Library Modellierung.md"
               }
             }
           },
@@ -555,7 +518,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/rechnerarchitekturen/Library CPU Komponenten.md",
+                "file": "semester-3/datenbanken/Library Modellierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -575,7 +538,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/rechnerarchitekturen/Library CPU Komponenten.md",
+                "file": "semester-3/datenbanken/Library Modellierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -611,53 +574,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0f563dc2145d600a",
+  "active": "5e5e2284036e9757",
   "lastOpenFiles": [
-    "semester-3/rechnerarchitekturen/Mealy-Automat.md",
-    "semester-3/rechnerarchitekturen/Library CPU Komponenten.md",
-    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
-    "semester-3/formale-sprachen/Beispiel CYK Algorithmus.md",
     "semester-3/datenbanken/Hub Datenbanken.md",
-    "semester-1/digitaltechnik/Library Rechenschaltungen.md",
-    "semester-1/logik/prolog/Library Prolog.md",
-    "semester-1/digitaltechnik/Library Speicherschaltungen.md",
-    "semester-3/rechnerarchitekturen/Minimalsystem.md",
-    "semester-3/rechnerarchitekturen/Wilkes-Stringer Steuerwerk.md",
-    "semester-3/netztechnik/Zugriffsverfahren.md",
+    "semester-3/datenbanken/Library Modellierung.md",
+    "semester-3/datenbanken/Relation zu Tabelle.md",
+    "semester-3/datenbanken/Instanz einer Relation.md",
+    "semester-3/rechnerarchitekturen/PSW.md",
+    "semester-3/rechnerarchitekturen/Steuerleitung.md",
     "semester-3/formale-sprachen/Beispiel Kellerautomat.md",
     "semester-3/formale-sprachen/Chomsky-Normalform.md",
     "semester-3/rechnerarchitekturen/PCI Express Bus.md",
     "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
     "semester-3/netztechnik/Topologie.md",
-    "semester-3/rechnerarchitekturen/Steuerwerk als Automat.md",
-    "semester-3/rechnerarchitekturen/Instruktion.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241011142000.png",
-    "semester-3/rechnerarchitekturen/Mikro-Operation.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241011143949.png",
-    "semester-3/rechnerarchitekturen/Mikro-Programm.md",
-    "semester-3/rechnerarchitekturen/Mikro-Befehl.md",
-    "semester-3/rechnerarchitekturen/Moore-Automat.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241011142940.png",
-    "semester-3/rechnerarchitekturen/Library Minimalsystem.md",
-    "semester-3/rechnerarchitekturen/Register.md",
-    "semester-3/rechnerarchitekturen/Rechenwerk.md",
-    "semester-3/rechnerarchitekturen/Steuerwerk.md",
-    "semester-3/formale-sprachen/images/Pasted image 20241011141106.png",
+    "semester-3/netztechnik/Token Ring.md",
+    "semester-3/netztechnik/CSMA CD.md",
+    "semester-3/netztechnik/Zugriffsverfahren.md",
+    "semester-3/netztechnik/Leitung.md",
+    "semester-3/netztechnik/Leitungsqualität.md",
+    "semester-3/netztechnik/1-persistentes CSMA.md",
+    "semester-3/netztechnik/CSMA CA.md",
+    "semester-3/netztechnik/Punkt-zu-Punkt Topologie.md",
+    "Master DHBW.md",
+    "semester-3/Master Semester 3.md",
+    "extern/misc/The X Horsemen of Over-generalization.md",
+    "semester-3/datenbanken/Schema einer Relation.md",
+    "semester-3/formale-sprachen/Lauf.md",
+    "semester-3/datenbanken/Relationales Modell.md",
+    "semester-3/datenbanken/Library Datenbanken 1.md",
     "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/formale-sprachen/images/Pasted image 20241011132325.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241011131717.png",
-    "semester-1/lineare-algebra/latex_symbols.pdf",
-    "semester-2/algorithmen/images/Pasted image 20241011130205.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241011123404.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241011120212.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241010113114.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241014161143.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241014160723.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241014160656.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241014160301.png",
+    "semester-3/angewandte_mathematik/images/Pasted image 20241014160001.png",
+    "goodnotes/Semester 1/Lineare Algebra/Aufschriebe/LAlg 2 Vektorraum Basics.pdf",
+    "goodnotes/Semester 1/Lineare Algebra/Aufschriebe/LAlg 4 Matrizen.pdf",
+    "semester-3/angewandte_mathematik/images/Pasted image 20241014153301.png",
+    "semester-3/angewandte_mathematik/sources/Teil_3 Integralrechnung.pdf",
     "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241014100159.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241014095938.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241014092713.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241014091616.png",
+    "semester-1/lineare-algebra/latex_symbols.pdf",
     "extern/lndp/images/VertragBisHerbst24_ausgefüllt.pdf",
     "extern/lndp/VertragBisHerbst24.pdf",
     "extern/lndp/images",
-    "extern/lndp/Hub Lange Nacht des Programmierens",
-    "extern/lndp",
-    "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
-    "semester-3/datenbanken/sources/DB_Kap02_Konzeptioneller DB-Entwurf_Stud.pdf"
+    "extern/lndp/Hub Lange Nacht des Programmierens"
   ]
 }

@@ -49,6 +49,7 @@ in Semester 3: [[Hub Betriebssysteme]]
 		- [[Register]]
 	- [[Leitwerk]]
 - [[BUS-Interface]]
+- [[CPU Cache]]
 
 [[Befehlszyklus]]
 [[Instruktion]]
@@ -100,16 +101,42 @@ nach Erkennung
 
 
 ## 5 Speicher
-[[Memory]]
+- [[Memory]]\
+	- [[Befehlsspeicher]]
+	- [[Datenspeicher]]
+	- [[IO Speicher]]
+	- [[Speicherzelle]]
+		- [[Speicherzellenmatrix]]
 - [[Adresse]]
 - [[Steuerleitung]]
 - [[getrennte Leitungen]]
 - [[Memory Mapped IO]]
 - [[Speicheraufteilung 8051]]
 
+
+### physical
+- [[RAM]]
+	- [[DRAM]]
+	- [[SDRAM]]
+	- [[DDRRAM]]
+- [[PROM]]
+	- [[EPROM]]
+	- [[EEPROM]]
+- [[Flash Speicher]]
+- [[Ringkernspeicher]]
+- [[NVRAM]]
 ### Adressierung
 [[Adresse]]
 - [[Adressierung]]
 	- [[externe Adressierung]]
 	- [[interne Adressierung]]
+	- [[Beispiel Adressierung]]
 - [[Chip Select]]
+- [[Unvollständige Adressierung]]
+
+
+## Speicherverwaltung
+[[Speicherverwaltung]]
+- [[Segmentierung]]
+	- [[Segment]]
+	- [[Zwei-dimensionaler Speicher]]

@@ -5,10 +5,6 @@
 - Rede [[Relation]] wird aufgeschrieben in der Form:
 
 $$Name: \set{[Attribut_{1}: Domäne_{1},\ ...]}$$
-
-### Schwacher Entitätstyp
-[[Schwacher Entitätstyp]]
-- [[Schlüsselattribut|Primärschlüssel]] des anderen Elements als zusätzliches [[Schlüsselattribut]] dazu nehmen
 ### Beziehung
 [[Relationship]]
 - kann auch als [[Relation]] beschrieben werden, **aber maximal binär!!**

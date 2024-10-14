@@ -2,7 +2,8 @@
 
 #klausurrelevant 
 
-![[Pasted image 20241011143949.png]]
+
+![[Pasted image 20241013204109.png]]
 
 - IR = Instruktions-Register
 - PSW = [[PSW]]
