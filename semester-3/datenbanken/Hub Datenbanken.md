@@ -95,8 +95,21 @@
 [[DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf]]
 [[Relation]]
 [[Relationales Modell]]
+- [[Beziehung als Relation]]
+- [[Rekursive Beziehung als Relation]]
+- [[1-1 Beziehung als Relation]]
+	- [[Is-a Relationship als Relation]]
+- [[Aggregat als Relation]]
+- [[Ternäre Beziehung als Relation]]
 [[Schema einer Relation]]
 [[Instanz einer Relation]]
 [[Schlüsselattribut]]
 [[Relation zu Tabelle]]
 [[ERM zu RM]]
+
+### Integrität
+[[Integrität]]
+
+### Übungen
+[[Übung Anforderungen erstellen]]
+

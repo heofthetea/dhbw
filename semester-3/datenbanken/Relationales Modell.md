@@ -5,14 +5,11 @@
 - Rede [[Relation]] wird aufgeschrieben in der Form:
 
 $$Name: \set{[Attribut_{1}: Domäne_{1},\ ...]}$$
-### Beziehung
-[[Relationship]]
-- kann auch als [[Relation]] beschrieben werden, **aber maximal binär!!**
-- sammelt jeweils das [[Schlüsselattribut]]
-$$Relation: \set{[\underline{id_{A}}, \underline{id_{B}}]}$$
 
-> [!hint]- [[Relation|Relationen]] mit dem gleichen [[Schlüssel]] können zusammengefasst werden.
-> vgl. [[1-n Relation]] durch [[Fremdschlüssel]] auf $n$-seite der [[Relationship]]
+- Attribute sind [[Menge|Mengen]] - alle Werte, die aktuell in der [[Relation]] hier kommen
+	- vgl. [[Sprache]]
+- Domäne ist der **Datentyp** der [[Menge|Mengen]] - können mehrfach !
+	- vgl. [[Alphabet]] mit [[Klenee-Stern]] ($\Sigma^{*}$)
 
 ## Übung
 [[Übung Relationales Modell Softwarehaus]]

@@ -39,9 +39,6 @@
 	- Da [[1-n Relation|1-n Relationen]] eine [[Abbildung]] sind, reicht das [[Urbild]] als [[Schlüssel]] aus 
 		- kann als [[Fremdschlüssel]] in die [[Relation]] des [[Urbild|Urbilds]] gepackt werden
 
-> [!warning] [[Relationship|Relationships]] können nur **binär** dargestellt werden - was man mit [[n-stellige Relationship|n-stelligen]] macht lernen wir hoffentlich noch lol
-> 
-
 - [[Schema einer Relation]]: Like... die Namen?
 	- ist statisch
 - [[Instanz einer Relation]]: Alle _aktuellen_ Elemente der [[Relation]]
