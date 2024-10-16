@@ -1,4 +1,4 @@
->alle Daten müssen vom [[DBMS]] konsistent gespeichert werden. -- **referenzielle Integrität**
+T>alle Daten müssen vom [[DBMS]] konsistent gespeichert werden. -- **referenzielle Integrität**
 
 [[Konsistenzüberwachung]]
 

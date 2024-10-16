@@ -1,7 +1,7 @@
 > ausdrucksstärker als [[Reguläre Sprache]], aber noch handhabbar (= [[Definition Algorithmus|algorithmisch]] handhabbar)
 > erkannt durch [[Kellerautomat]]
 
-
+[[Kontextfreie Grammatik]]
 ## Fähigkeiten
 was [[Reguläre Sprache#Fähigkeiten|reguläre Sprachen]] können; zusätzlich:
 - _verschachtelte_ Strukturen wie [[HTML]]

@@ -144,6 +144,7 @@ Betriebsarten
 [[Koaxial-Leitung]]
 [[Sternvier-Leitung]]
 [[Twisted Pair Leitung]]
+- [[Twisted Pair Anschluss]]
 
 ### Glasfaserverkabelung
 [[Glasfaserkabel]]
@@ -152,3 +153,25 @@ Betriebsarten
 [[Glasfaser]]
 [[Brechzahl]]
 [[LWL-Fenster]]
+[[Duplex Betrieb bei Einzelner Faser]]
+- [[SFP Stecker]]
+
+### Ethernet
+[[Ethernet]]
+- [[TP Schnittstelle]]
+- [[Ethernet mit LWL]]
+- [[MLT-3 Code]]
+- [[Basic Link Codewort]]
+- [[Ethernet Flow Control]]
+- [[Gigabit Ethernet]]
+	- [[1000Base-T PHY]]
+	- [[10GBase-X (WWDM)]]
+	- [[Low-Density Parity Check]]
+[[Paket]]
+
+
+
+## 6. Verkabelung
+[[EN50173 Verkabelung]]
+- [[Backbone Verkabelung]]
+- [[PoE]]

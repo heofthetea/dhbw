@@ -1,4 +1,4 @@
-[[Stack]]
+[[Stack]], [[Kellerautomat]] ohne Zustandsmenge
 
 ![[Pasted image 20240912102357.png]]
 

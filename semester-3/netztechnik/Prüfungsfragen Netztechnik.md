@@ -52,3 +52,18 @@
 - [[Alien Crosstalk]]: Einflüsse von Außen auf die [[Leitung]]
 	- nur unter Laborbedingungen messbar
 
+## Wann braucht man ein Zugriffsverfahren?
+- sobald man ein [[Shared Medium]] hat
+	- also einen Kanal, auf dem alle zugreifen --> [[Broadcast]]-Netzwerke
+	- bsp. WLAN, Bus, etc.
+
+### Welche Zugriffsverfahren gibt's?
+[[Zugriffsverfahren]]
+- dezentral und zentrale Verfahren
+- darunter deterministisch und stochastisch
+	- deterministisch: man kann vorhersagen, wie lange ein Frame braucht (bsp. [[Token Ring]])
+	- stochastisch: [[CSMA]], [[Slotted ALOHA]]
+
+## Wofür Mindestgröße für Nachricht?
+- Wenn [[Kollision (Zugriffsverfahren)]] erkannt wird, muss das an den Sender mitgeteilt werden
+- wenn dieses Jam-Signal länger braucht als das gesendete Frame, merkt der Sender das nicht und es gehen Daten verloren

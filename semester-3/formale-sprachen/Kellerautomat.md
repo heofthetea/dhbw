@@ -29,3 +29,6 @@ $$\Delta \subset Q \times \Sigma \cup \set{\epsilon} \times \Gamma \times \Gamma
 > - Alle Beweise sind schwerer
 
 
+## Beispiel
+[[Beispiel Kellerautomat]]
+[[Übung 3.37 Kellerautomat Palindrome]]

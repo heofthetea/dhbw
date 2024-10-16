@@ -130,7 +130,13 @@
 - [[Kellerautomat]]
 	- [[Konfiguration KA]]
 	- [[Beispiel Kellerautomat]]
+- [[Transformation KFG -> Kellerautomat]]
+- [[Transformation Kellerautomat -> KFG]]
+	- [[Zustandsmenge eliminieren]]
 
+#### Grenzen
+- [[Pumping Lemma für Kontextfreie Sprachen]]
+- [[Ableitungsbaum]]
 
 ## 4. Kontextsensitive Sprachen
 

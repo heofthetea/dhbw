@@ -112,7 +112,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -201,44 +201,8 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 40.36087369420703,
+            "dimension": 81.00664767331433,
             "children": [
-              {
-                "id": "fb368ad0f17e3fb6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/CSMA CD.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "53c808766d1c2928",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/Token Ring.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "228e39c3896f79ec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/Topologie.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "30aee00924d8cac5",
                 "type": "leaf",
@@ -300,72 +264,96 @@
                 }
               },
               {
-                "id": "cd5b93cd4e0ce7cd",
+                "id": "1f1f0b0fb158d137",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Beispiel Kellerautomat.md",
+                    "file": "semester-3/formale-sprachen/Übergangsrelation.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "0f563dc2145d600a",
+                "id": "320b97fc232bcc85",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Steuerleitung.md",
+                    "file": "semester-3/formale-sprachen/Transformation Kellerautomat -> KFG.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "66c0849dd6cc34a4",
+                "id": "4db3ec1593a61a65",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/PSW.md",
+                    "file": "semester-3/formale-sprachen/Zustandsmenge eliminieren.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "5e5e2284036e9757",
+                "id": "c1dc220468f74002",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/Rekursive Beziehung als Relation.md",
+                    "file": "semester-3/formale-sprachen/Reduzierte Grammatik.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "720c4d0d737a1cc1",
+                "id": "a0491fa6cb1ca88f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/Integrität.md",
+                    "file": "semester-3/formale-sprachen/Kontextfreie Grammatik.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4830c6245d164e30",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Transformation KFG -> Kellerautomat.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e122a824bc6e7771",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Min-Max Kardinalität.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 12
+            "currentTab": 11
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 59.63912630579298,
+            "dimension": 18.99335232668566,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -426,7 +414,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -508,7 +496,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/datenbanken/Integrität.md"
+                "file": "semester-3/datenbanken/Min-Max Kardinalität.md"
               }
             }
           },
@@ -518,7 +506,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/datenbanken/Integrität.md",
+                "file": "semester-3/datenbanken/Min-Max Kardinalität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -538,7 +526,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/datenbanken/Integrität.md",
+                "file": "semester-3/datenbanken/Min-Max Kardinalität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -574,53 +562,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "720c4d0d737a1cc1",
+  "active": "e122a824bc6e7771",
   "lastOpenFiles": [
-    "semester-3/datenbanken/Hub Datenbanken.md",
-    "semester-3/datenbanken/Integrität.md",
-    "semester-3/datenbanken/Integration RDB.md",
-    "semester-3/datenbanken/Ternäre Beziehung als Relation.md",
-    "semester-3/datenbanken/Übung DB Entwurf Universität.md",
-    "semester-3/datenbanken/Übung Anforderungen erstellen.md",
-    "semester-3/datenbanken/Übung ternäre Relation.md",
-    "semester-3/datenbanken/Übung Is-a Relationship.md",
-    "semester-3/datenbanken/ERM zu RM.md",
-    "semester-3/datenbanken/Library Modellierung.md",
-    "semester-3/datenbanken/images/Pasted image 20241015151227.png",
-    "semester-3/datenbanken/Relationales Modell.md",
-    "semester-3/datenbanken/Beziehung als Relation.md",
-    "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
-    "semester-3/datenbanken/n-m Relation.md",
-    "semester-3/datenbanken/Rekursive Beziehung als Relation.md",
-    "semester-3/datenbanken/Is-a Relationship als Relation.md",
-    "semester-3/datenbanken/1-1 Beziehung als Relation.md",
-    "semester-3/datenbanken/Aggregat als Relation.md",
-    "semester-3/datenbanken/images/Pasted image 20241015140959.png",
-    "semester-3/datenbanken/1-1 Relation.md",
-    "semester-3/datenbanken/images/Pasted image 20241015135311.png",
-    "semester-3/datenbanken/images/Pasted image 20241015134603.png",
-    "semester-3/datenbanken/Relation zu Tabelle.md",
-    "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
-    "semester-3/datenbanken/Instanz einer Relation.md",
-    "semester-3/rechnerarchitekturen/PSW.md",
-    "semester-3/rechnerarchitekturen/Steuerleitung.md",
-    "semester-3/formale-sprachen/Beispiel Kellerautomat.md",
-    "semester-3/formale-sprachen/Chomsky-Normalform.md",
-    "semester-3/rechnerarchitekturen/PCI Express Bus.md",
+    "semester-3/formale-sprachen/Transformation KFG -> Kellerautomat.md",
+    "semester-3/datenbanken/Spezielle Attribute.md",
+    "semester-3/formale-sprachen/Kontextfreie Grammatik.md",
+    "semester-3/formale-sprachen/Kontextfreie Sprache.md",
+    "semester-3/formale-sprachen/Ableitungsbaum.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241016154829.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241016154728.png",
+    "semester-3/formale-sprachen/Pumping Lemma für Kontextfreie Sprachen.md",
+    "semester-3/formale-sprachen/Pumping Lemma.md",
     "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241014161143.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241014160723.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241014160656.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241014160301.png",
-    "semester-3/angewandte_mathematik/images/Pasted image 20241014160001.png",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241016153352.png",
+    "semester-3/formale-sprachen/Reduzierte Grammatik.md",
+    "semester-3/formale-sprachen/Transformation Kellerautomat -> KFG.md",
+    "semester-3/formale-sprachen/Zustandsmenge eliminieren.md",
+    "semester-3/formale-sprachen/Übung Zustandsmenge eliminieren.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241016135925.png",
+    "semester-3/rechnerarchitekturen/Stack Machine.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241016135237.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241016134303.png",
+    "semester-3/formale-sprachen/Übung 3.37 Kellerautomat Palindrome.md",
+    "semester-3/formale-sprachen/Konfiguration KA.md",
+    "semester-3/formale-sprachen/Übergangsrelation.md",
+    "semester-3/formale-sprachen/Kellerautomat.md",
+    "modulhandbuch.pdf",
+    "semester-3/formale-sprachen/Beispiel Kellerautomat.md",
+    "semester-3/rechnerarchitekturen/PCI Express Bus.md",
+    "semester-3/netztechnik/Topologie.md",
+    "semester-3/netztechnik/CSMA CD.md",
+    "semester-3/netztechnik/Token Ring.md",
+    "semester-3/formale-sprachen/Chomsky-Normalform.md",
+    "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
+    "semester-3/rechnerarchitekturen/Steuerleitung.md",
+    "semester-3/rechnerarchitekturen/PSW.md",
+    "semester-3/netztechnik/images/Pasted image 20241016115239.png",
+    "semester-3/netztechnik/images/Pasted image 20241016115044.png",
+    "semester-3/netztechnik/images/Pasted image 20241016114622.png",
+    "semester-3/netztechnik/images/Pasted image 20241016113246.png",
+    "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
     "goodnotes/Semester 1/Lineare Algebra/Aufschriebe/LAlg 2 Vektorraum Basics.pdf",
     "goodnotes/Semester 1/Lineare Algebra/Aufschriebe/LAlg 4 Matrizen.pdf",
-    "semester-3/angewandte_mathematik/images/Pasted image 20241014153301.png",
     "semester-3/angewandte_mathematik/sources/Teil_3 Integralrechnung.pdf",
     "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
     "semester-1/lineare-algebra/latex_symbols.pdf",
     "extern/lndp/images/VertragBisHerbst24_ausgefüllt.pdf",
-    "extern/lndp/VertragBisHerbst24.pdf",
-    "extern/lndp/images"
+    "extern/lndp/VertragBisHerbst24.pdf"
   ]
 }

@@ -2,6 +2,9 @@
 
 - Störsignale von außen gleichen sich aus
 
+Random Formel die das irgendwie beschreibt:
+$$((+Nutzsignal) + (+Störsignal))-((-Nutzsignal)+((+Störsignal)) = 2xNutzsignal$$
+
 ![[Pasted image 20241002112731.png]]
 
 > [!hint] in einer [[Leitung]] ist jedes Paar anders verdrillt, um Interference untereinander zu minimieren
