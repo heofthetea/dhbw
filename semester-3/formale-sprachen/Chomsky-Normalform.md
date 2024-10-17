@@ -1,3 +1,4 @@
+> kurz: **CNF**
 
 > [!hint] Ermöglicht, aus [[Chomsky Hierarchie]] der Sprachen eine _tatsächliche_ Hierarchie aus [[Teilmenge|Teilmengen]] zu machen 
 

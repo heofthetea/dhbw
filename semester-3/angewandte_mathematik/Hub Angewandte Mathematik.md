@@ -1,3 +1,8 @@
+## Übungen
+[[Übungen zum Kapitel 2.pdf]]
+[[Übungen zum Kapitel 3.pdf]]
+[[Übungen zum Kapitel 4.pdf]]
+
 ## 0 Vorkurs
 [[Abbildung]]
 [[Polynom]], [[exponentielle Laufzeit|Exponentialfunktion]]

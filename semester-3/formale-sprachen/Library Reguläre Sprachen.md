@@ -129,7 +129,9 @@ $$\mathcal{A} = (Q, \Sigma, \delta, q_{0}, F)$$-  $Q$ ist _endliche_ Menge an [[
 
 ## Pumping Lemma
 [[Pumping Lemma]]
-
+[[Kontraposition Pumping Lemma]]
+Anwendung: [[Irregularität einer Sprache zeigen]]
+#todo
 
 ## Entscheidungsprobleme
 

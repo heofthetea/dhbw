@@ -12,6 +12,10 @@ $$\Delta = \set{(q, \epsilon, A, \beta, q)\ |\ A \rightarrow \beta \in P} \ \cup
 > [!hint]- Es gibt **genau** einen [[Zustand]]!
 > [[Stack]] ist so mächtig, dass der [[Kellerautomat]] die [[Zustand|Zustände]] gar nicht braucht.
 
+## In Praxis
+1. Füge für jede [[Produktionsregel]] $A \rightarrow cNb$ eine [[Übergangsrelation]] $(q, \epsilon, A, cNb, q)$ hinzu
+2. Füge für jedes [[Symbol]] $c \in \Sigma$ eine [[Übergangsrelation]] $(q, c, c, \epsilon, q)$ hinzu
+ 
 ## Wörtlich
 - $A_{G}$ simuliert [[Ableitung (Sprache)|Ableitungen]] von $G$
 	- [[Nichtterminalsymbol]] $A$ auf [[Stack]]: [[Produktionsregel]] $A$ wird angewendet

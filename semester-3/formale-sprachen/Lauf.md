@@ -1,4 +1,7 @@
 > Ein Durchlauf durch einen [[Automat]].
+> Formell: **Eine [[Folge]] an [[Konfiguration KA|Konfigurationen]]**.
+
+
 
 - Ein Eingabewort wird [[Symbol]] für [[Symbol]] eingelesen
 - mit jedem [[Symbol]] wird ein neuer [[Zustand]] erreicht

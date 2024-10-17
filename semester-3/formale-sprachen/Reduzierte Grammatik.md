@@ -1,3 +1,4 @@
+
 Eine [[Kontextfreie Grammatik]] $G = (N, \Sigma, P, S)$:
 - $A \in N$ heißt terminierend, wenn $A \Rightarrow^{*} w$ für ein [[Wort]] $w \in \Sigma^{*}$
 	- berechne von hinten nach vorne

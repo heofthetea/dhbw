@@ -13,7 +13,7 @@
 
 ## Libraries
 [[Library Reguläre Sprachen]]
-[[Library Chomsky-Hierarchie]]
+[[Library Kontextfreie Grammatiken]]
 
 # Vorlesungen
 ## 1. Basics
@@ -103,6 +103,7 @@
 - [[Startsymbol]]
 - [[Produktionsregel]]
 [[Ableitung (Sprache)]]
+[[Ableitungsbaum]]
 
 [[Chomsky Hierarchie]]
 - [[Unbeschränkte Grammatik]]
@@ -125,6 +126,7 @@
 - [[Wortproblem]]: [[CYK Algorithmus]]
 - [[Leerheitsproblem]]: Ist [[Startsymbol]] terminierend?
 - [[Endlichkeitsproblem]]: nur [[Reguläre Sprache|reguläre Sprachen]] sind [[endliche Sprachen|endlich]] 
+- [[Äquivalenzproblem]]: nicht entscheidbar für [[Kontextfreie Sprache]]
 
 #### Kellerautomaten
 - [[Kellerautomat]]

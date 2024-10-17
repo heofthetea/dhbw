@@ -24,7 +24,9 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Rechnerarchitekturen"
                 }
               },
               {
@@ -38,7 +40,9 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Systemnahe Programmierung"
                 }
               },
               {
@@ -52,7 +56,25 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Datenbanken"
+                }
+              },
+              {
+                "id": "34c077307a8540a0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Formale Sprachen"
                 }
               },
               {
@@ -66,21 +88,9 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "bc0238ca28b728e4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Netztechnik"
                 }
               },
               {
@@ -94,7 +104,9 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Software Engineering"
                 }
               },
               {
@@ -108,11 +120,13 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Angewandte Mathematik"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -130,7 +144,9 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Library Minimalsystem"
                 }
               },
               {
@@ -142,7 +158,9 @@
                     "file": "semester-3/rechnerarchitekturen/CPU.md",
                     "mode": "preview",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "CPU"
                 }
               },
               {
@@ -156,7 +174,9 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Library Reguläre Sprachen"
                 }
               },
               {
@@ -170,7 +190,9 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Library Modellierung"
                 }
               },
               {
@@ -184,11 +206,13 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Library Datenbanken 1"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -212,7 +236,9 @@
                     "file": "semester-3/netztechnik/Topologie.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Topologie"
                 }
               },
               {
@@ -224,7 +250,9 @@
                     "file": "semester-3/formale-sprachen/Chomsky-Normalform.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chomsky-Normalform"
                 }
               },
               {
@@ -236,7 +264,9 @@
                     "file": "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
                 }
               },
               {
@@ -248,7 +278,9 @@
                     "file": "semester-3/rechnerarchitekturen/PCI Express Bus.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "PCI Express Bus"
                 }
               },
               {
@@ -260,7 +292,9 @@
                     "file": "semester-3/formale-sprachen/Chomsky-Normalform.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chomsky-Normalform"
                 }
               },
               {
@@ -272,7 +306,9 @@
                     "file": "semester-3/formale-sprachen/Übergangsrelation.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Übergangsrelation"
                 }
               },
               {
@@ -284,7 +320,9 @@
                     "file": "semester-3/formale-sprachen/Transformation Kellerautomat -> KFG.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Transformation Kellerautomat -> KFG"
                 }
               },
               {
@@ -296,7 +334,9 @@
                     "file": "semester-3/formale-sprachen/Zustandsmenge eliminieren.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Zustandsmenge eliminieren"
                 }
               },
               {
@@ -308,7 +348,9 @@
                     "file": "semester-3/formale-sprachen/Reduzierte Grammatik.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Reduzierte Grammatik"
                 }
               },
               {
@@ -320,7 +362,9 @@
                     "file": "semester-3/formale-sprachen/Kontextfreie Grammatik.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kontextfreie Grammatik"
                 }
               },
               {
@@ -332,7 +376,9 @@
                     "file": "semester-3/formale-sprachen/Transformation KFG -> Kellerautomat.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Transformation KFG -> Kellerautomat"
                 }
               },
               {
@@ -341,10 +387,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/Min-Max Kardinalität.md",
+                    "file": "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Library Kontextfreie Grammatiken"
                 }
               }
             ],
@@ -364,7 +412,9 @@
                   "state": {
                     "file": "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf"
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "script_rechnerarchitekturen"
                 }
               },
               {
@@ -376,7 +426,9 @@
                   "state": {
                     "file": "modulhandbuch.pdf"
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "modulhandbuch"
                 }
               },
               {
@@ -388,7 +440,9 @@
                   "state": {
                     "file": "semester-3/formale-sprachen/sources/FSA_Handout.pdf"
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "FSA_Handout"
                 }
               },
               {
@@ -400,7 +454,9 @@
                   "state": {
                     "file": "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf"
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "DB_Kap03_Logischer DB-Entwurf_Stud-1"
                 }
               },
               {
@@ -410,7 +466,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "semester-3/angewandte_mathematik/sources/Teil_3 Integralrechnung.pdf"
-                  }
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Teil_3 Integralrechnung"
                 }
               }
             ],
@@ -437,7 +495,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -452,7 +512,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -460,7 +522,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -487,7 +551,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -496,8 +562,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/datenbanken/Min-Max Kardinalität.md"
-              }
+                "file": "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Library Kontextfreie Grammatiken"
             }
           },
           {
@@ -506,10 +574,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-3/datenbanken/Min-Max Kardinalität.md",
+                "file": "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Library Kontextfreie Grammatiken"
             }
           },
           {
@@ -517,7 +587,9 @@
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
-              "state": {}
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           },
           {
@@ -526,7 +598,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/datenbanken/Min-Max Kardinalität.md",
+                "file": "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -534,7 +606,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Library Kontextfreie Grammatiken"
             }
           }
         ],
@@ -564,7 +638,20 @@
   },
   "active": "e122a824bc6e7771",
   "lastOpenFiles": [
+    "semester-3/formale-sprachen/Zustandsmenge eliminieren.md",
+    "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
     "semester-3/formale-sprachen/Transformation KFG -> Kellerautomat.md",
+    "semester-3/formale-sprachen/Lauf.md",
+    "semester-3/formale-sprachen/Konfiguration KA.md",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/Transformation in CNF.md",
+    "semester-3/formale-sprachen/Reduzierte Grammatik.md",
+    "semester-3/formale-sprachen/Chomsky-Normalform.md",
+    "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
+    "semester-3/datenbanken/Min-Max Kardinalität.md",
+    "semester-3/netztechnik/Hub Netztechnik.md",
+    "semester-3/angewandte_mathematik/pdf/Übungen zum Kapitel 4.pdf",
     "semester-3/datenbanken/Spezielle Attribute.md",
     "semester-3/formale-sprachen/Kontextfreie Grammatik.md",
     "semester-3/formale-sprachen/Kontextfreie Sprache.md",
@@ -573,31 +660,18 @@
     "semester-3/formale-sprachen/images/Pasted image 20241016154728.png",
     "semester-3/formale-sprachen/Pumping Lemma für Kontextfreie Sprachen.md",
     "semester-3/formale-sprachen/Pumping Lemma.md",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
     "semester-3/formale-sprachen/images/Pasted image 20241016153352.png",
-    "semester-3/formale-sprachen/Reduzierte Grammatik.md",
     "semester-3/formale-sprachen/Transformation Kellerautomat -> KFG.md",
-    "semester-3/formale-sprachen/Zustandsmenge eliminieren.md",
     "semester-3/formale-sprachen/Übung Zustandsmenge eliminieren.md",
     "semester-3/formale-sprachen/images/Pasted image 20241016135925.png",
     "semester-3/rechnerarchitekturen/Stack Machine.md",
     "semester-3/formale-sprachen/images/Pasted image 20241016135237.png",
     "semester-3/formale-sprachen/images/Pasted image 20241016134303.png",
     "semester-3/formale-sprachen/Übung 3.37 Kellerautomat Palindrome.md",
-    "semester-3/formale-sprachen/Konfiguration KA.md",
     "semester-3/formale-sprachen/Übergangsrelation.md",
     "semester-3/formale-sprachen/Kellerautomat.md",
     "modulhandbuch.pdf",
     "semester-3/formale-sprachen/Beispiel Kellerautomat.md",
-    "semester-3/rechnerarchitekturen/PCI Express Bus.md",
-    "semester-3/netztechnik/Topologie.md",
-    "semester-3/netztechnik/CSMA CD.md",
-    "semester-3/netztechnik/Token Ring.md",
-    "semester-3/formale-sprachen/Chomsky-Normalform.md",
-    "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
-    "semester-3/rechnerarchitekturen/Steuerleitung.md",
-    "semester-3/rechnerarchitekturen/PSW.md",
     "semester-3/netztechnik/images/Pasted image 20241016115239.png",
     "semester-3/netztechnik/images/Pasted image 20241016115044.png",
     "semester-3/netztechnik/images/Pasted image 20241016114622.png",
@@ -608,7 +682,6 @@
     "semester-3/angewandte_mathematik/sources/Teil_3 Integralrechnung.pdf",
     "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
     "semester-1/lineare-algebra/latex_symbols.pdf",
-    "extern/lndp/images/VertragBisHerbst24_ausgefüllt.pdf",
-    "extern/lndp/VertragBisHerbst24.pdf"
+    "extern/lndp/images/VertragBisHerbst24_ausgefüllt.pdf"
   ]
 }
