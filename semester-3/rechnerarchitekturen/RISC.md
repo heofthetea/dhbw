@@ -1,4 +1,4 @@
-> **R**educed **I**nstruction **S**et [[Definition Computer|Computer]]
+> **R**educed **I**nstruction **S**et [[Computer|Computer]]
 > nimmt nur die essenziell wichtigen [[Instruktion|Befehle]] aus dem [[i386]] [[Instruction Set Architecture|Instruction set]]
 ==> He smol, he fast, he more energy efficient
 

@@ -5,7 +5,9 @@ $$\Delta = Q \times (\Sigma \cup \set{\epsilon}) \times Q$$
 > [!warning] Reihenfolge der [[Menge|Mengen]] ist wichtig!
 > Kann von links nach rechts gelesen werden: $0, a, 1 \leadsto$ "Von $0$ mit $a$ nach $1$"
 
-### Kellerautomaten
+
+
+## Kellerautomaten
 [[Kellerautomat]]
 
 $$\Delta \subset Q \times \Sigma \cup \set{\epsilon} \times \Gamma \times \Gamma^{*} \times Q$$
@@ -13,5 +15,13 @@ $$\Delta \subset Q \times \Sigma \cup \set{\epsilon} \times \Gamma \times \Gamma
 
 > [!hint]- Beschriftung der Pfeile in [[Zustandsdiagramm]] steht in der richtigen Reihenfolge des Tupels
 
-## Beispiel
-![[Pasted image 20240918152118.png]]
+## Turing Machine
+[[Turing Machine]]
+
+$$\Delta \subset Q \times \Gamma \times \Gamma \times \set{l, r, n} \times Q$$
+(Zustand von, Sumbol eingelesen, Symbol gelesen, Bewegung des Kopfes, Zustand zu)
+
+
+1. Lesen auf aktueller Bandposition
+2. Schreiben auf aktueller Bandposition
+3. Bewegen des Kopfes ($l, r, n$) 

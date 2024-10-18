@@ -1,4 +1,4 @@
-> Die Komponenten, die ein [[Definition Computer|Computer]] mindestens braucht
+> Die Komponenten, die ein [[Computer|Computer]] mindestens braucht
 
 
 ![[Pasted image 20240912082843.png]]

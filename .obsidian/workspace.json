@@ -225,7 +225,7 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 81.00664767331433,
+            "dimension": 40.9306742640076,
             "children": [
               {
                 "id": "30aee00924d8cac5",
@@ -387,21 +387,49 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md",
+                    "file": "semester-2/algorithmen/allgemein/Turing Machine.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Library Kontextfreie Grammatiken"
+                  "title": "Turing Machine"
+                }
+              },
+              {
+                "id": "d91ba7acc5295d29",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/allgemein/Turing Machine.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Turing Machine"
+                }
+              },
+              {
+                "id": "8ceb865698aba1ee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Übung 3.37 Kellerautomat Palindrome.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Übung 3.37 Kellerautomat Palindrome"
                 }
               }
             ],
-            "currentTab": 11
+            "currentTab": 13
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 18.99335232668566,
+            "dimension": 59.06932573599241,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -506,7 +534,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "konsisten",
+                "query": "tag: #todo  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -532,8 +560,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -636,52 +663,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e122a824bc6e7771",
+  "active": "8ceb865698aba1ee",
   "lastOpenFiles": [
-    "semester-3/formale-sprachen/Zustandsmenge eliminieren.md",
-    "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/formale-sprachen/Transformation KFG -> Kellerautomat.md",
-    "semester-3/formale-sprachen/Lauf.md",
-    "semester-3/formale-sprachen/Konfiguration KA.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241018141018.png",
+    "semester-3/formale-sprachen/Folgekonfiguration.md",
+    "semester-3/formale-sprachen/erkannte Sprache von TM.md",
     "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Transformation in CNF.md",
-    "semester-3/formale-sprachen/Reduzierte Grammatik.md",
-    "semester-3/formale-sprachen/Chomsky-Normalform.md",
-    "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
-    "semester-3/datenbanken/Min-Max Kardinalität.md",
-    "semester-3/netztechnik/Hub Netztechnik.md",
-    "semester-3/angewandte_mathematik/pdf/Übungen zum Kapitel 4.pdf",
-    "semester-3/datenbanken/Spezielle Attribute.md",
+    "semester-1/lineare-algebra/latex_symbols.pdf",
+    "semester-3/formale-sprachen/Konfiguration TM.md",
+    "semester-2/algorithmen/allgemein/Turing Machine.md",
+    "semester-3/formale-sprachen/Haltekonfiguration.md",
+    "semester-3/formale-sprachen/Übergangsrelation.md",
+    "semester-2/algorithmen/allgemein/Bildliche Definition Turing Machine.md",
+    "semester-2/algorithmen/allgemein/images/Pasted image 20241018130322.png",
+    "semester-2/algorithmen/allgemein/images",
+    "semester-3/rechnerarchitekturen/Computer.md",
+    "semester-2/algorithmen/allgemein/Alan Turing.md",
+    "semester-2/algorithmen/allgemein/42.md",
+    "semester-2/algorithmen/allgemein/Definition Algorithmus.md",
+    "semester-3/formale-sprachen/Transformation KFG -> Kellerautomat.md",
     "semester-3/formale-sprachen/Kontextfreie Grammatik.md",
-    "semester-3/formale-sprachen/Kontextfreie Sprache.md",
-    "semester-3/formale-sprachen/Ableitungsbaum.md",
+    "semester-3/formale-sprachen/Reduzierte Grammatik.md",
+    "semester-3/formale-sprachen/Zustandsmenge eliminieren.md",
+    "semester-3/formale-sprachen/Transformation Kellerautomat -> KFG.md",
+    "semester-3/formale-sprachen/Chomsky-Normalform.md",
+    "semester-3/formale-sprachen/definition alg.md",
+    "semester-3/formale-sprachen/Abschlusseigenschaften Kontextfreie Sprachen.md",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+    "semester-3/formale-sprachen/Beispiel 3.51 Pumping Lemma 2.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241018111223.png",
+    "semester-3/formale-sprachen/Pumping Lemma für Kontextfreie Sprachen.md",
+    "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md",
+    "semester-3/formale-sprachen/Lauf.md",
+    "semester-3/angewandte_mathematik/pdf/Übungen zum Kapitel 4.pdf",
     "semester-3/formale-sprachen/images/Pasted image 20241016154829.png",
     "semester-3/formale-sprachen/images/Pasted image 20241016154728.png",
-    "semester-3/formale-sprachen/Pumping Lemma für Kontextfreie Sprachen.md",
-    "semester-3/formale-sprachen/Pumping Lemma.md",
     "semester-3/formale-sprachen/images/Pasted image 20241016153352.png",
-    "semester-3/formale-sprachen/Transformation Kellerautomat -> KFG.md",
-    "semester-3/formale-sprachen/Übung Zustandsmenge eliminieren.md",
     "semester-3/formale-sprachen/images/Pasted image 20241016135925.png",
-    "semester-3/rechnerarchitekturen/Stack Machine.md",
     "semester-3/formale-sprachen/images/Pasted image 20241016135237.png",
     "semester-3/formale-sprachen/images/Pasted image 20241016134303.png",
-    "semester-3/formale-sprachen/Übung 3.37 Kellerautomat Palindrome.md",
-    "semester-3/formale-sprachen/Übergangsrelation.md",
-    "semester-3/formale-sprachen/Kellerautomat.md",
     "modulhandbuch.pdf",
-    "semester-3/formale-sprachen/Beispiel Kellerautomat.md",
     "semester-3/netztechnik/images/Pasted image 20241016115239.png",
     "semester-3/netztechnik/images/Pasted image 20241016115044.png",
-    "semester-3/netztechnik/images/Pasted image 20241016114622.png",
-    "semester-3/netztechnik/images/Pasted image 20241016113246.png",
     "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
     "goodnotes/Semester 1/Lineare Algebra/Aufschriebe/LAlg 2 Vektorraum Basics.pdf",
     "goodnotes/Semester 1/Lineare Algebra/Aufschriebe/LAlg 4 Matrizen.pdf",
     "semester-3/angewandte_mathematik/sources/Teil_3 Integralrechnung.pdf",
-    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
-    "semester-1/lineare-algebra/latex_symbols.pdf",
-    "extern/lndp/images/VertragBisHerbst24_ausgefüllt.pdf"
+    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf"
   ]
 }

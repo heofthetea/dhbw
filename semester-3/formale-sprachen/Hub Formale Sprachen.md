@@ -136,11 +136,19 @@
 - [[Transformation Kellerautomat -> KFG]]
 	- [[Zustandsmenge eliminieren]]
 
-#### Grenzen
+#### Eigenschaften/Grenzen
 - [[Pumping Lemma für Kontextfreie Sprachen]]
-- [[Ableitungsbaum]]
+	- [[Ableitungsbaum]]
+- [[Abschlusseigenschaften Kontextfreie Sprachen]]
 
-## 4. Kontextsensitive Sprachen
+## 4. Turing Maschinen
+[[Turing Machine]]
+- [[Bildliche Definition Turing Machine]]
+- [[Konfiguration TM]]
+	- [[Haltekonfiguration]]
+	- [[Folgekonfiguration]]
+	- [[erkannte Sprache von TM]]
+
 
 ## 5. Entscheidbarkeit
 

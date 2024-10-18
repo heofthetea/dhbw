@@ -1,4 +1,4 @@
-- Zwei gängige [[Definition Computer|Definitionen]] für "Computer"
+- Zwei gängige [[Computer|Definitionen]] für "Computer"
 1. [[EVA Prinzip]]:
 	1. Computer an sich ist eine Blackbox
 	2. verarbeitet eine Eingabe und produziert eine Ausgabe

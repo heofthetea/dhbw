@@ -28,4 +28,10 @@ to disprove:
 3. Zerlege $s$ in $5$ Teile $s = uvwxy$
 	1. $vx \neq \epsilon$
 	2. $|vwx| \leq k$
-	3. 
+	3. Finde ein $h \in \mathbb{N}$ mit $uv^{h}wx^{h}y \not\in L$ 
+
+### $k$ wählen
+
+
+## Beispiel
+[[Beispiel 3.51 Pumping Lemma 2]]

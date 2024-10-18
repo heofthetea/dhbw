@@ -18,7 +18,7 @@ in Semester 3: [[Hub Betriebssysteme]]
 [[Ausblick Rechnerarchitekturen]]
 
 
-[[Definition Computer]]
+[[Computer]]
 - [[EVA Prinzip]]
 - [[Anweisungsbasierte Definition]]
 [[Historie der Computer]]
@@ -101,7 +101,7 @@ nach Erkennung
 
 
 ## 5 Speicher
-- [[Memory]]\
+- [[Memory]]
 	- [[Befehlsspeicher]]
 	- [[Datenspeicher]]
 	- [[IO Speicher]]
@@ -112,8 +112,14 @@ nach Erkennung
 - [[getrennte Leitungen]]
 - [[Memory Mapped IO]]
 - [[Speicheraufteilung 8051]]
-
-
+### Adressierung
+[[Adresse]]
+- [[Adressierung]]
+	- [[externe Adressierung]]
+	- [[interne Adressierung]]
+	- [[Beispiel Adressierung]]
+- [[Chip Select]]
+- [[Unvollständige Adressierung]]
 ### physical
 - [[RAM]]
 	- [[DRAM]]
@@ -125,14 +131,6 @@ nach Erkennung
 - [[Flash Speicher]]
 - [[Ringkernspeicher]]
 - [[NVRAM]]
-### Adressierung
-[[Adresse]]
-- [[Adressierung]]
-	- [[externe Adressierung]]
-	- [[interne Adressierung]]
-	- [[Beispiel Adressierung]]
-- [[Chip Select]]
-- [[Unvollständige Adressierung]]
 
 
 ## Speicherverwaltung
