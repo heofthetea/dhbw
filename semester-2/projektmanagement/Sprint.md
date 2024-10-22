@@ -10,7 +10,7 @@
 
 
 
-### in [[SCRUM]]
+### in [[Scrum]]
 - ideale Länge: 2 - 4 Wochen
 - Beginnt mit [[Sprint planning]] und endet mit [[Sprint Review]] und [[sprint retrospective]]
 - 

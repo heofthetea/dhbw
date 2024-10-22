@@ -1,5 +1,7 @@
 - kommt eher aus Produktionssteuerng
 - Laufkarten auf einem Board
+	- Was wird gerade bearbeitet?
+	- Rest-Aufwands-[[Schätzung]]
 
 [[Agile Manifesto]]; dient als Controlle für [[Cowboy Coding]]
 

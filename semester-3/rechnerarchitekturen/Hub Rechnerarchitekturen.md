@@ -12,6 +12,7 @@ in Semester 3: [[Hub Betriebssysteme]]
 ## Libraries
 [[Library Minimalsystem]]
 [[Library CPU Komponenten]]
+[[Library Speicher]]
 
 
 # Vorlesung
@@ -100,7 +101,7 @@ nach Erkennung
 [[PCI Express Bus]]
 
 
-## 5 Speicher
+## Speicher
 - [[Memory]]
 	- [[Befehlsspeicher]]
 	- [[Datenspeicher]]

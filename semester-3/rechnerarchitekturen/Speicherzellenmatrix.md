@@ -13,9 +13,9 @@
 2. Spaltenlogik wählt [[Speicherzelle|Zelle]]
 
 ### Schreiben
-- lesen der kompletten Zeile in Spaltenlogik
-- Spaltenlogik verändert Wert
-- Rückschreiben der kompletten Zeile
+1. lesen der kompletten Zeile in Spaltenlogik
+2. Spaltenlogik verändert Wert
+3. Rückschreiben der kompletten Zeile
 
 
 # Abstrahierter Aufbau

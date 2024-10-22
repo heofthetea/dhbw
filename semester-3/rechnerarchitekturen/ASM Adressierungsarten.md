@@ -14,3 +14,4 @@ Am Beispiel von [[8051 MOV]]
 
 [[unmittelbare Adressierung]]
 [[direkte Adressierung]]
+[[indirekte Adressierung]]

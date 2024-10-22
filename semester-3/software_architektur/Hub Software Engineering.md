@@ -16,13 +16,21 @@ download: yEd Graph Editor (for Darstellungen)
 
 ## 02 Vorgehensmodell
 [[Lebenslauf einer Software]]
+[[Anforderung an ein Vorgensmodell]]
 [[CMMI]]
-[[Cowboy Coding]]
-- [[Wasserfallmodell]]
-- [[V-Modell]]
-- [[Spiralmodell]]
-- [[SCRUM]]
-- [[Kanban]]
+
+- iterativ
+	- [[Wasserfallmodell]]
+	- [[V-Modell]]
+- inkrementell
+	- [[Spiralmodell]]
+	- [[RUP]] - schon so halb agil
+	- [[Agile Entwicklung]] - [[Agile Manifesto]]
+		- [[Extreme Programming]]
+		- [[Scrum]]
+		- [[Kanban]]
+
+- [[Cowboy Coding]] (ist kein wahres Vorgehensmodell)
 
 [[Horizontale und Vertikale Umsetzung]]
 

@@ -2,7 +2,7 @@
 
 ![[Pasted image 20240619093024.png]]
 
-- [[Scrum Team]] unterstützen und [[SCRUM]] Prinzipien durchzusetzen
+- [[Scrum Team]] unterstützen und [[Scrum]] Prinzipien durchzusetzen
 - Brückenbilder zwischen [[Scrum Team]] und [[Product Owner]]
 
 ### Aufgaben

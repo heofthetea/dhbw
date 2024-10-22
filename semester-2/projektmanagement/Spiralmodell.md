@@ -1,4 +1,4 @@
-> Vorstufe zum [[SCRUM|agilen]]
+> Vorstufe zum [[Scrum|agilen]]
 
 
 ![[Pasted image 20240605093758.png]]
@@ -11,5 +11,6 @@ Nach jeder Phase steht ein Prototyp --> [[Agile Philosophy]]
 
 ## Nachteile
 - Zwischenergebnisse oft nicht einsetzbar (Prototypen)
-- "Ende finden"-Problem
+- "Ende finden"-Problem: man findet immer neue Sachen
+- Ständiges Infragestellen der Anforderungen
 

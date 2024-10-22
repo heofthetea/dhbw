@@ -6,3 +6,4 @@
 
 ## Vertikal
 - erst einen Teil der Applikation _komplett_ entwickeln, damit der nächste darauf aufbauen kann
+- Beispiel: Feature-Driven Development (FDD)

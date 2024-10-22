@@ -1,4 +1,4 @@
-[[Ripple-Carry-Adder]], [[Zweierkomplement]], [[Subtraktion mit Komplementbildung]]
+w[[Ripple-Carry-Adder]], [[Zweierkomplement]], [[Subtraktion mit Komplementbildung]]
 
 
 

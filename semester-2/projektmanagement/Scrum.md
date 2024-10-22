@@ -1,5 +1,10 @@
 > Framework zur [[Agile Entwicklung|Agilen Entwicklung]]
 
+
+> [!hint] Ist keine Abkürzung; Begriff kommt aus dem Rugby
+
+
+
 [[SCRUM is a framework]]
 
 [[Sprint]]

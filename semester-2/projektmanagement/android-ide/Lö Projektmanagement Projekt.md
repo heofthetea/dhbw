@@ -25,7 +25,7 @@
 
 
 ## Development
-use [[SCRUM]] lol
+use [[Scrum]] lol
 
 - Create [[Epic|Epics]] and [[User Story|User Stories]] 
 	- Work with Excel 🤮

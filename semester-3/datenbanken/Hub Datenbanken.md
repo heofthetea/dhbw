@@ -107,9 +107,23 @@
 [[Relation zu Tabelle]]
 [[ERM zu RM]]
 
+[[Von ternärer zu binärer Beziehung]]
 ### Integrität
-[[Integrität]]
+[[Referenzielle Integrität]]
 
 ### Übungen
 [[Übung Anforderungen erstellen]]
+[[Übung Relationen Softwarehaus]]
+[[Übung ERM Bestellung]]
 
+## 04 Normalisierung
+[[DB_Kap04_Normalisierung_Stud.pdf]]
+[[Normalisierung]]
+[[Anomalie]]
+[[Datenleiche]]
+[[Projektion]]
+- [[Funktionale Abhängigkeit]]
+- [[Triviale Funktionale Abhängigkeit]]
+	- [[Beispiel Funktionale Abhängigkeit]]
+- [[Interferenzregel]]
+	- [[Armstrong Axiome]]

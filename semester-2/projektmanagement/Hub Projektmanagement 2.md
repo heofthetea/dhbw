@@ -79,7 +79,7 @@ wichtig: [[Kostenbestandteile]]
 [[Agile Prinzipien]]
 
 ### Scrum
-[[SCRUM]]
+[[Scrum]]
 [[Ziele von SCRUM]]
 [[Sprint]]
 [[SCRUM Rollen]]

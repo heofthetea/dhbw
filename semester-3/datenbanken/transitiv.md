@@ -1,0 +1,1 @@
+$$X \rightarrow Y \land Y \rightarrow Z \Longrightarrow X \rightarrow Z$$
