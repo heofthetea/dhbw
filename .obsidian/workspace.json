@@ -11,7 +11,7 @@
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 79.10731244064577,
+            "dimension": 81.00664767331433,
             "children": [
               {
                 "id": "6f2af3586be0fea2",
@@ -131,7 +131,7 @@
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 20.892687559354226,
+            "dimension": 18.99335232668566,
             "children": [
               {
                 "id": "bb20f33256a925c1",
@@ -226,9 +226,25 @@
                   "icon": "lucide-file",
                   "title": "Datenbanken Fragenkatalog"
                 }
+              },
+              {
+                "id": "a1b2907a4260365f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/Prüfungsfragen Netztechnik.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Prüfungsfragen Netztechnik"
+                }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           }
         ],
         "direction": "horizontal"
@@ -241,7 +257,7 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 40.17094017094017,
+            "dimension": 50.902184235517566,
             "children": [
               {
                 "id": "30aee00924d8cac5",
@@ -258,7 +274,7 @@
                 }
               },
               {
-                "id": "a1b2907a4260365f",
+                "id": "e9fd322cbf28ddf4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -296,6 +312,62 @@
                   "icon": "lucide-file-text",
                   "title": "latex_symbols"
                 }
+              },
+              {
+                "id": "c3c39209064991a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/NEXT.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "NEXT"
+                }
+              },
+              {
+                "id": "500a1ac1dc8b5a5e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Konfiguration TM.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Konfiguration TM"
+                }
+              },
+              {
+                "id": "5fc514631c7c643b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Funktion.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Funktion"
+                }
+              },
+              {
+                "id": "1b5190bf0a722e1c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-1/lineare-algebra/Aufschriebe/Abbildung.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Abbildung"
+                }
               }
             ],
             "currentTab": 1
@@ -303,7 +375,7 @@
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 59.82905982905983,
+            "dimension": 49.097815764482434,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -538,53 +610,52 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a1b2907a4260365f",
+  "active": "e9fd322cbf28ddf4",
   "lastOpenFiles": [
-    "semester-3/datenbanken/transitiv.md",
-    "semester-3/datenbanken/Armstrong Axiome.md",
     "semester-3/datenbanken/Hub Datenbanken.md",
-    "semester-3/datenbanken/Interferenzregel.md",
-    "semester-3/datenbanken/Beispiel Funktionale Abhängigkeit.md",
-    "semester-3/datenbanken/images/Pasted image 20241022145830.png",
+    "semester-3/datenbanken/Library DB Normalisierung.md",
+    "semester-3/netztechnik/NEXT.md",
+    "semester-3/formale-sprachen/Konfiguration TM.md",
+    "semester-3/formale-sprachen/Funktion.md",
     "semester-3/datenbanken/Funktionale Abhängigkeit.md",
-    "semester-3/datenbanken/Triviale Funktionale Abhängigkeit.md",
-    "semester-3/datenbanken/Projektion.md",
     "semester-1/lineare-algebra/latex_symbols.pdf",
-    "semester-3/datenbanken/Anomalie.md",
-    "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
-    "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
-    "semester-3/datenbanken/Übung ERM Bestellung.md",
-    "semester-3/datenbanken/images/Pasted image 20241022140321.png",
-    "semester-3/datenbanken/images/Pasted image 20241022140504.png",
-    "semester-3/datenbanken/images/Pasted image 20241022135410.png",
-    "semester-3/datenbanken/Übung Relationen Softwarehaus.md",
-    "semester-3/datenbanken/Beispiel Softwarehaus Miniwelt.md",
     "semester-3/datenbanken/Is-a Relationship als Relation.md",
-    "semester-3/datenbanken/Rekursive Beziehung als Relation.md",
-    "semester-3/datenbanken/Von ternärer zu binärer Beziehung.md",
-    "semester-3/datenbanken/Übung Relationales Modell Softwarehaus.md",
-    "semester-3/datenbanken/Referenzielle Integrität.md",
-    "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
-    "semester-3/datenbanken/1-1 Beziehung als Relation.md",
-    "semester-3/angewandte_mathematik/Polarkoordinaten.md",
-    "semester-3/formale-sprachen/DFA.md",
-    "semester-3/formale-sprachen/Determinismus.md",
-    "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
+    "semester-1/lineare-algebra/Aufschriebe/Abbildung.md",
+    "semester-3/netztechnik/Topologie.md",
+    "semester-3/datenbanken/Projektion.md",
+    "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
+    "semester-3/datenbanken/Library Modellierung.md",
+    "semester-3/rechnerarchitekturen/Library Speicher.md",
+    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+    "semester-3/rechnerarchitekturen/Tipps Klausur Rechnerarchitekturen.md",
+    "semester-3/formale-sprachen/k-Band Turing Machine.md",
+    "semester-3/formale-sprachen/Beispiel k-Band Turing Machine.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241023145341.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241023145311.png",
+    "semester-3/formale-sprachen/Vector.md",
     "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-1/projektmanagement/definitions/Wasserfallmodell.md",
-    "semester-1/projektmanagement/definitions/V-Modell.md",
-    "semester-3/software_architektur/images/Pasted image 20241021153901.png",
+    "semester-2/algorithmen/allgemein/Übung 4.6 Turing Machine.md",
+    "semester-2/algorithmen/allgemein/images/Pasted image 20241023130613.png",
+    "semester-2/algorithmen/allgemein/Turing Machine.md",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "semester-3/netztechnik/Switch.md",
+    "semester-3/netztechnik/Nachricht.md",
+    "semester-3/netztechnik/Bridge.md",
+    "semester-3/netztechnik/images/Pasted image 20241023115453.png",
+    "semester-3/netztechnik/Hub Netztechnik.md",
+    "semester-3/netztechnik/Rapid Reconfiguration Spanning Tree.md",
+    "semester-3/netztechnik/images/Pasted image 20241023114452.png",
+    "semester-3/netztechnik/images/Pasted image 20241023112834.png",
+    "semester-3/netztechnik/images/Pasted image 20241023110008.png",
+    "semester-3/netztechnik/images/Pasted image 20241023105207.png",
+    "semester-3/netztechnik/images/Pasted image 20241023104525.png",
+    "semester-3/netztechnik/images/Pasted image 20241023103110.png",
+    "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
     "goodnotes/Semester 2/Analysis/Klausurvorbereitung/Ana Cheat Sheet.pdf",
     "semester-2/analysis/altklausuren/DHBW-Klausur_Analysis_2023_Lsg.pdf",
-    "semester-3/software_architektur/images/Pasted image 20241020112317.png",
     "semester-3/angewandte_mathematik/sources/Teil_3 Integralrechnung.pdf",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/formale-sprachen/images/Pasted image 20241018141018.png",
-    "semester-2/algorithmen/allgemein/images/Pasted image 20241018130322.png",
     "semester-2/algorithmen/allgemein/images",
-    "semester-3/formale-sprachen/images/Pasted image 20241018111223.png",
     "semester-3/angewandte_mathematik/pdf/Übungen zum Kapitel 4.pdf",
-    "semester-3/formale-sprachen/images/Pasted image 20241016154829.png",
     "modulhandbuch.pdf"
   ]
 }

@@ -36,13 +36,36 @@
 - Eine [[Entität]] ist eine [[Relation]] über die [[Karthesisches Produkt|Produktmenge]] aller Attributsdomänen
 - [[Relationship]]: [[Relation]] über die [[Schlüsselattribut|Schlüsselattribute]] der [[Entität|Entitäten]]
 	- Beide davon bilden zusammen den [[Schlüssel]] der [[Relation]]
-	- Da [[1-n Relation|1-n Relationen]] eine [[Abbildung]] sind, reicht das [[Urbild]] als [[Schlüssel]] aus 
+	- Da [[1-n Relation|1-n Relationen]] eine [[Abbildung]] sind, reicht das [[Urbild]] als [[Schlüssel]] aus um ein [[Tupel]] eindeutig zu identifizieren
 		- kann als [[Fremdschlüssel]] in die [[Relation]] des [[Urbild|Urbilds]] gepackt werden
 
-- [[Schema einer Relation]]: Like... die Namen?
+- [[Schema einer Relation]]: Das [[Tupel]] der Attributsnamen
 	- ist statisch
-- [[Instanz einer Relation]]: Alle _aktuellen_ Elemente der [[Relation]]
+- [[Instanz einer Relation]]: Eine [[Menge]] an konkreten [[Tupel|Tupeln]]
 	- ist dynamisch
 
-### grafisch
+
+### Schlüsselvergabe bei Relationships
+[[Beziehung als Relation]]
+> [!info] Grundprinzip: [[Relation|Relationen]] mit gleichem [[Schlüssel]] können zusammengefasst werden
+
+- [[1-1 Beziehung als Relation]]: [[Min-Max Kardinalität]] ist ausschlaggebend:
+	- Schlüsselvergabe so, dass möglichst wenige [[null]] Werte entstehen
+	- $(1, 0) \leftrightarrow (1, 1)$: [[Fremdschlüssel]] in die [[Entität]], die **nicht** $0$ werden kann
+	- ansonsten: egal lol
+- [[Is-a Relationship als Relation]]: mehrere Optionen mit je trivialen vor- und Nachteilen
+	1. Eine gigantische [[Relation]] mit allen möglichen [[Attribut|Attributen]] für Spezifikationen
+	2. Nur die Spezifikationen als [[Relation]] modellieren, ohne eine gemeinsame 'Super-[[Entität]]'
+	3. Alle Spezifikationen _und_ Super-[[Entität]] in [[Relation]] transformieren ([[Schlüssel|Primärschlüssel]] der Spezifikation ist [[Fremdschlüssel]] auf Super-Entität)
+- [[Aggregat als Relation]]: einfach als [[1-n Relation|1-n Beziehung]] modellieren
+- [[Ternäre Beziehung als Relation]]: 
+	- $m:n:p$: ist Alle drei bilden den [[Schlüssel]]
+	- $1:n:m$: ist [[Abbildung]] $A \times B \rightarrow C$ ==> $A$ und $B$ bilden [[Schlüssel]]
+	- $1:1:n$: auch [[Abbildung]]; aber $C$ muss willkürlich aus beiden $1$-[[Entität|Entitäten]] modelliert werden
+
+> [!hint] wahre $1:1:n$ Identität kann nur in [[DQL]] realisiert werden
+
+
+### Von Relation zu Tabelle
+- yeah I can't really say anything about that but this thing's useful so here you go
 ![[Pasted image 20241008154624.png]]

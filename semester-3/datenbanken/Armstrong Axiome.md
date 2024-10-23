@@ -10,7 +10,7 @@
 5. $X \rightarrow Y, WY \rightarrow Z \Longrightarrow WX \rightarrow Z$ (Pseudo-Transitivität)
 
 
-(Dahinter steckt ein [[Karthesisches Produkt]] von [[Attribut|Attributen]])
+> [!note] Die Schreibweise $AB$ ist kurz für eine [[Menge]] aus [[Attribut|Attributen]] $\set{A, B}$
 
 > [!hint] Ab $4.$ ergeben sich alle Regeln aus den ersten dreien.
 

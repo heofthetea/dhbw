@@ -1,5 +1,7 @@
 > Near End Cross Talk
 
+> [!info] "Cross Talk" bezeichnet das Phänomen, dass zwei Leitungen mit Strompulsen sich gegenseitig elektromagnetisch beeinflussen.
+
 
 - dient der Leitungsmessung
 - das, was man reingesteckt hat an Energie verglichen mit dem, was hinten raus kommt

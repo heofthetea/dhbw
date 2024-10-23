@@ -3,6 +3,8 @@ Funktionen sind spezielle _Relationen_:
 - Jedem $x \in X$ wird _genau ein_ $y \in Y$ zugeordnet
 - hierbei ist $X$ die _Definitionsmenge_, und $Y$ die _Wertemenge_ der Funktion
 
+$$f: X \rightarrow Y, x \mapsto f(x)$$
+
 [[Injektive Funktion]]
 [[Surjektive Funktion]]
 [[Bijektive Abbildung]]

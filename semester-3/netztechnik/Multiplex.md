@@ -1,6 +1,6 @@
-> Mehrere Daten gliechzeitig abarbeiten können
+> Mach aus etwas parallelem etwas [[serielles BUS-System|serielles]]
 
-Wenn verschiedene Nutzer denselben Kanal nutzen wollen
+- Wenn verschiedene Nutzer denselben Kanal nutzen wollen
 
 [[Multiplexer]]
 - [[Frequenzmultiplex]]

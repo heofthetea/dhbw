@@ -2,7 +2,7 @@
 
 [[Abbildung]], [[Teilmenge]]
 
-$$f: D \subset \mathbb{R}^{n} \rightarrow R$$
+$$f: D \subset \mathbb{R}^{n} \rightarrow \mathbb{R}$$
 
 > [!hint] Die für die Abbildung benötigte [[Dimension]] ist $(dim\ D) + 1$
 

@@ -1,7 +1,8 @@
 > Sorgt logisch gesehen für [[Broadcast]]
 
 
-[[Repeater]] mit mehreren Anschlüssen
+- glorified [[Repeater]] 
+	- hat mehrere Anschlüsse --> [[Stern-Topologie]]
 
 
 > [!hint] auf deutsch: "Radnabe"

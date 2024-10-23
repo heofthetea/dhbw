@@ -170,8 +170,35 @@ Betriebsarten
 [[Paket]]
 
 
-
 ## 6. Verkabelung
 [[EN50173 Verkabelung]]
 - [[Backbone Verkabelung]]
 - [[PoE]]
+- [[MAN]]
+	- [[MPLS]]
+		- [[Beispiel MPLS-1]]
+- [[WAN]]
+	- [[ISDN]]
+	- [[DSL]]
+
+
+## 7. WLAN
+\- nächstes Semester -
+
+
+## 8. Hardware FINALLY
+[[Herausforderungen bei Datenübertragung]]
+- [[Repeater]]
+	- [[Hub]]
+- [[Bridge]]
+	- [[Spanning Tree]]
+		- [[Portzustände bei Spanning Tree]]
+	- [[Rapid Reconfiguration Spanning Tree]]
+	- [[TRILL]]
+- [[Switch]]
+- [[Router]]
+- [[Gateway]]
+
+#### Beispiele
+- [[Beispiel Bridges]]
+- [[Cyclic Broadcast Problem]]

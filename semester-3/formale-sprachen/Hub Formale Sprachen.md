@@ -149,6 +149,9 @@
 	- [[Folgekonfiguration]]
 	- [[erkannte Sprache von TM]]
 
+### Multiband Turing Maschine
+[[k-Band Turing Machine]]
+
 
 ## 5. Entscheidbarkeit
 

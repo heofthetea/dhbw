@@ -67,3 +67,24 @@
 ## Wofür Mindestgröße für Nachricht?
 - Wenn [[Kollision (Zugriffsverfahren)]] erkannt wird, muss das an den Sender mitgeteilt werden
 - wenn dieses Jam-Signal länger braucht als das gesendete Frame, merkt der Sender das nicht und es gehen Daten verloren
+
+## Wie handeln Teilnehmer bei [[Ethernet]] ihre Parameter ab?
+- FLP - Fast link Pulse --> [[Basic Link Codewort]]
+	- beide sagen, was sie können, und dann entscheiden sich die Geräte für den kleinsten gemeinsammen Nenner
+	- welche Geschwindigkeit, welcher Duplex Mode
+	- [[Ethernet Flow Control]]
+	- Message Next Page - Wenn mehr Informationen in [[Basic Link Codewort]] stehen, wird indicated, dass auf der nächsten Seite auch was steht
+- NLP - Normal Link Pulse - überprüft, ob überhaupt eine Verbindung besteht
+
+#### Ergibt das Sinn bei Glasfaser?
+- nope - die Leitungen haben eine feste Geschwindigkeit
+	- Transceiver müssen einfach richtig gekauft werden
+
+> [!hint] Bei Kupfer wird verhandelt, bei Glasfaser nicht
+
+
+
+## Was hat sich bis zu 10GB Ethernet geändert?
+- [[Hub|Hubs]] wurden geyeeted --> [[Halb-Duplex-Betrieb]] ist nicht mehr
+	- das macht auch [[Zugriffsverfahren]] unnötig BRUH
+- 

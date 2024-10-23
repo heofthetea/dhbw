@@ -1,4 +1,4 @@
-[[Turing Machine]],
+[[Turing Machine]], [[Konfiguration KA]]
 
 $$xqy$$
 
@@ -10,3 +10,9 @@ $$xqy$$
 > [!info] Eine [[Konfiguration TM|Konfiguration]] $c = xqy$ heißt **akzeptierend**, wenn $q \in F$ gilt.
 
 > [!hint] Ist kein Tupel, sondern ein [[Wort]]
+
+> [!hint] Feld, auf dem der Kopf steht, ist das erste [[Symbol]] von $y$
+
+## Multiband
+- Jedes [[Symbol]] ist ein [[Vector]]
+![[Pasted image 20241023145311.png]]

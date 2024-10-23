@@ -30,10 +30,11 @@
 	- [[Chip Select|CS]]-Adressteil: [[externe Adressierung]]
 		- welcher IC muss ich wählen?
 	- direkter Adressteil: [[interne Adressierung]]
-		- Welche [[Speicherzelle|Zelle]] meines ausgewählten ICs muss ich auswählen?
+		- Welche [[Speicherzelle|Zelle]] meines ausgewählten [[IC]]s muss ich auswählen?
 ### unvollständige Adressierung
 [[Unvollständige Adressierung]]
 - tbh hab ich immernoch keinen Plan was der Sinn dahinter ist, abgesehen davon, dass man Geld spart
 - Im Prinzip betrachtet mann in einer $n$ [[Bit]] [[Adresse]] nur die **hinteren** $n - 1$ [[Bit]]
 	- hat zur Folge dass `fa18` dieselbe [[Speicherzelle|Zelle]] bezeichnet wie `9a18` 
 - [[Abbildung]] ist dann nicht mehr [[Injektive Funktion|injektiv]] 
+

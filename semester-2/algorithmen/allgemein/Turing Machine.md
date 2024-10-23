@@ -21,3 +21,6 @@ Wenn $\Delta$ höchstens einen Übergang $(p, c, c', d, q)$ für jedes Paar $(p 
 - Kann alles berechnen, was ein _idealer_ [[Computer]] berechnen kann
 - (Frage): Kann eine [[Turing Machine]] alles berechnen, was ein Mensch berechnen kann?
 
+
+## Beispiel
+[[Übung 4.6 Turing Machine]]
