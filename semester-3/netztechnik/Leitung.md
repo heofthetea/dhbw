@@ -1,3 +1,9 @@
+## Rechnerarchitekturen
+- ein Draht
+- kann **genau ein** [[Bit]] gleichzeitig übertragen
+
+## Netztechnik
+
 ![[Pasted image 20241002112510.png]]
 
 - **Permanent Link:** ist festest irgendwo verbaut

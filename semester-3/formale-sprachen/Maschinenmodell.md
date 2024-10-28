@@ -3,5 +3,5 @@
 | --------------------------------- | ------------------------------------- |
 | [[Reguläre Sprache]]              | [[Endlicher Automat]]                 |
 | [[Kontextfreie Sprache]]          | [[Kellerautomat]]                     |
-| [[Kontextsensitive Sprache]]      | [[linear beschränkte Turing machine]] |
+| [[Kontextsensitive Sprache]]      | [[Linear beschränkter Automat]] |
 | [[Rekursiv aufzählbare Sprache]]  | [[Turing Machine]]                    |

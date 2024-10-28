@@ -139,3 +139,28 @@ nach Erkennung
 - [[Segmentierung]]
 	- [[Segment]]
 	- [[Zwei-dimensionaler Speicher]]
+- [[Segmentverwaltung mit Registern]]
+	- [[Bespiel Segmentverwaltung i386]]
+	- [[Segmentverwaltung mit Tabellen]]
+	- [[Umsetzung Segmentverwaltung mit Tabellen]]
+		- [[Descriptor Tables]]
+		- [[Descriptor i386]]
+
+## Erweiterung Minimalsystem
+[[Minimalsystem]]
+### Interrupts
+[[Polling vs Interrupt]]
+[[Interrupt]]
+- [[Interruptlogik direkt an CPU]]
+- [[Interrupt Controller]]
+	- [[Interrupt Handling durch Oder]]
+	- [[Daisy Chain]]
+- [[Priorität Interrupt]]
+- [[Mögliche Quellen für Interrupt]]
+- [[Ablauf Interrupt]]
+- [[Interrupt-Typen]]
+	- [[Auto-Interrupt]]
+	- [[Nummer-Interrupt]]
+	- [[Vektor-Interrupt]]
+
+

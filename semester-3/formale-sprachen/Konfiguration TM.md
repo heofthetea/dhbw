@@ -14,5 +14,5 @@ $$xqy$$
 > [!hint] Feld, auf dem der Kopf steht, ist das erste [[Symbol]] von $y$
 
 ## Multiband
-- Jedes [[Symbol]] ist ein [[Vector]]
+- Jedes [[Symbol]] ist ein [[Vektor]]
 ![[Pasted image 20241023145311.png]]

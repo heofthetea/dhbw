@@ -13,5 +13,11 @@ typedef struct Node {
 } Node;
 ```
 ## auf [[Graph]]
-
 [[Menge]] der [[Knoten]]: $V$ (vertices)
+
+### Graphdatenbanken
+- Jeder [[Knoten]] ist eine [[Entität]]
+- besitzt ein Label (= Entitätstyp) - hier gelb
+	- besitzt mehrere [[Attribut|Attribute]]
+
+![[Pasted image 20241026141839.png|400]]

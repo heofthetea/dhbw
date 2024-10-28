@@ -19,6 +19,8 @@
 [[DB Beispiel Anforderungsanalyse]]
 [[DB Projektidee Ticketsystem]]
 [[DB Projektidee Scotland Yard]]
+[[Graphdatenbank]]
+
 ## 01 Grundlagen
 [[Datenbank]]
 [[Begrifflichkeit Datenbank]]

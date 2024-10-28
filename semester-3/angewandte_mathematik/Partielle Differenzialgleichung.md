@@ -1,0 +1,2 @@
+[[Differenzialgleichung]], [[partielle Ableitung]]
+

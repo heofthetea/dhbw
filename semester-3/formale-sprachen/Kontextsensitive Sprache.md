@@ -1,5 +1,5 @@
 > noch ausdrucksstärker als [[Kontextfreie Sprache]], [[Definition Algorithmus|algorithmisch]] schwierig zu handhaben
-> erkannt durch [[linear beschränkte Turing machine]]
+> erkannt durch [[Linear beschränkter Automat]]
 
 
 ## Fähigkeiten

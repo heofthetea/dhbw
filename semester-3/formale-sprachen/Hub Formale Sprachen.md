@@ -141,6 +141,12 @@
 	- [[Ableitungsbaum]]
 - [[Abschlusseigenschaften Kontextfreie Sprachen]]
 
+### Kontextsensitive Sprachen
+[[Kontextsensitive Sprache]]
+[[Kontextsensitive Grammatik]]
+[[Linear beschränkter Automat]]
+[[Abschlusseigenschaften Kontextsensitive Sprachen]]
+
 ## 4. Turing Maschinen
 [[Turing Machine]]
 - [[Bildliche Definition Turing Machine]]
@@ -148,10 +154,20 @@
 	- [[Haltekonfiguration]]
 	- [[Folgekonfiguration]]
 	- [[erkannte Sprache von TM]]
+- [[Äquivalenz 2-Stack KA und TM]]
 
-### Multiband Turing Maschine
-[[k-Band Turing Machine]]
+### Varianten der TM
+- [[k-Band Turing Machine]]
+	- [[Übung 4.16 2-band Turing Machine]]
+- [[Simulation k-Band durch 1-Band TM]]
+- [[Simulation NTM durch DTM]]
+- [[Linear beschränkter Automat]]
 
+### Unbeschränkte Grammatiken
+[[Unbeschränkte Grammatik]]
+- [[Transformation Unbeschränkte Grammatik -> TM]]
+- [[Transformation TM -> Typ 0 Grammatik]]
+	- [[Beispiel 4.20 Turing Machine]]
 
 ## 5. Entscheidbarkeit
 

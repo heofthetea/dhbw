@@ -38,3 +38,51 @@
 	- hat zur Folge dass `fa18` dieselbe [[Speicherzelle|Zelle]] bezeichnet wie `9a18` 
 - [[Abbildung]] ist dann nicht mehr [[Injektive Funktion|injektiv]] 
 
+## Physische Unterscheidung
+
+| .            | .                            |
+| ------------ | ---------------------------- |
+| nach Aufgabe | Code/Daten                   |
+| Zugriffsart  | RAM/SAM                      |
+| Richtung     | ROM (ro)/WOM (write)         |
+| Haltbarkeit  | volatile/non-volatile        |
+| Aufbau       | [[SDRAM\|SRAM]], [[DRAM]]    |
+|              | [[ROM]], [[PROM]], [[EPROM]] |
+|              |                              |
+
+## Segmentation
+- [[Segmentierung]] unterteilt Speicherblock in [[Segment|Segmente]]
+	- [[Segment|Segmente]] sind [[Stetigkeit|stetig]] --> lückenlos aneinander
+- Um eine [[Adresse]] innerhalb eines [[Segment|Segments]] zu finden, wird approach ähnlich zu Arrayzugriff genommen:
+$$A = S \cdot g + O$$
+mit:
+- $S$: [[Adresse]] des Segmentanfangs
+- $g$: Granularität (= wie groß ist das [[Segment]])
+- $O$: Offset (i _guess_ $O \leq g$ sollte gegeben sein, aber kp)
+
+> [!hint] Abbildung $S \times O \rightarrow A$ ist nicht [[Injektive Funktion|injektiv]]
+
+
+---
+
+- [[Segmentverwaltung mit Registern]]: Segmentregister und Offsetregister
+	- Bei [[i386]]: Adresse sind $20$ [[Bit]] -> beide [[Register]] je $16$ bit groß
+	- Darstellung: `(Segment Register : Offset Register)`
+
+### Segmentverwaltung mit Tabellen
+[[Segmentverwaltung mit Tabellen]]
+
+> [!warning] Disclaimer: Das ganze ging irgendwie über zwei Stunden. Das war ein komplett derailter Vortrag über Tabellen hier Tabellen da dann Register die auf Tabellen zeiten die auf Tabellen zeigen... Ganz ehrlich das klang wie ne Vorlesung zu Relationalen Datenbanken - Anyway keine Ahnung ob das alles wichtig war oder was da schief gelaufen ist ([[Descriptor i386]], [[Umsetzung Segmentverwaltung mit Tabellen]], [[Descriptor Tables]])
+
+- Jeder Prozess bekommt sein eigenes [[Segment]] (= eigenener Adressraum) im [[Memory|Speicher]] vom [[Kernel]] zugewiesen
+	- Prozess weiß aber nicht, wo genau dieses Segment liegt --> ✨security✨
+- Die Start-[[Adresse]] jedes [[Segment|Segmentes]] steht in einer [[Lookup Table]]
+	- Eintrag der Tabelle ([[Descriptor i386|Descriptor]]) enthält Felder:
+		1. Start des Segments
+		2. Länge des Segments --> maximal zulässige Größe des Offsets
+		3. Berechtigungen (z.B. read/write, etc.)
+> [!info] Auch [[Descriptor Tables]] liegen im Speicher
+> - Es gibt eigene [[Register]] damit die [[CPU]] weiß, wo die liegen
+
+
+

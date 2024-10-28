@@ -33,3 +33,22 @@
 - [[Dumme Integrale]]
 - [[Substitution Integral]]
 	- [[Kugelkoordinaten]]
+
+## 5. Differenzialgleichungen
+[[Teil_4 Kap5 Differenzialgleichung.pdf]]
+[[Differenzialgleichung]]
+- [[Partielle Differenzialgleichung]]
+- [[Trajektorie]]
+- [[Explizite Form Differenzialgleichung]]
+- [[Anfangswertproblem]]
+- [[Randwertproblem]]
+- [[Richtungsfeld]]
+- [[Orthogonaltrajektorie]]
+
+### Differenzialgleichungen erster Ordnung lösen
+- [[seperierbare Differenzialgleichung]]
+- [[Lineare Substitution]]
+
+### Differentialgleichung n-ter Ordnung
+- [[Lineare Differenzialgleichung]]
+- [[Lösung linearer Differenzialgleichung]]
