@@ -1,6 +1,6 @@
 > Standard für Kommunikation auf [[MAN]]
 
-- gelöstes Problem: [[Routing Table|Routing Tables]] von [[Router|Routern]] sind ziemlich lang, und abarbeiten braucht
+- gelöstes Problem: [[Routing Tabelle|Routing Tables]] von [[Router|Routern]] sind ziemlich lang, und abarbeiten braucht
 - arbeitet irgendwo zwischen [[Data Link Layer]] (2) und [[Network Layer]] (3)
 	- Gibt auf [[MAC Adresse|MAC]] Ebene ein Label mit
 	- Wird dynamisch von weiteren [[Router|Routern]] hinzugefügt oder abgearbeitet

@@ -87,4 +87,29 @@
 ## Was hat sich bis zu 10GB Ethernet geändert?
 - [[Hub|Hubs]] wurden geyeeted --> [[Halb-Duplex-Betrieb]] ist nicht mehr
 	- das macht auch [[Zugriffsverfahren]] unnötig BRUH
-- 
+
+
+## Wozu kann man einen Repeater verwenden?
+[[Repeater]]
+- Leitungen verlängern
+- Aufbau von [[Stern-Topologie]] (Anzahl der Teilnehmer erhöhen)
+### Wie kann ein Repeater mehrere Geschwindigkeiten haben?
+- sind zwei [[Hub|Hubs]] zusammen mit einem [[Switch]] in einem Gerät gebündelt
+
+
+## Was kann ich mit nem Switch machen?
+[[Switch]]; [[Bridge]]
+- genau dasselbe wie ein Repeater
+- **aber**: behandelt [[Unicast|Unicasts]] anders als ein Hub
+	- leitet nur auf dem Port weiter, wo Unicast hin muss
+	- leitet ihn ggf. gar nicht weiter, wenn Empfänger an selbem Port liegt6
+- isoliert Kollisionsdomänen voneinander
+
+## Was kann ich mit einem [[Router]] machen?
+kann auch alles, was ein [[Switch]] machen kann
+- mehrere [[Netzwerk|Netzwerke]] (die logisch getrennt sind) miteinander verbinden
+- Kann IP Adressen übersetzen
+	- Internet Provider räumt täglich IP Adressen auf --> vergibt sie komplett neu
+
+> [!warning] Gibt [[Broadcast]] **nicht** ins [[Internet]] weiter
+

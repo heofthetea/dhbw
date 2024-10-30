@@ -1,12 +1,15 @@
-[[kürzester Pfad]]
-- Verbindet verschiedene [[Netzwerk|Netzwerke]] miteinander
+> arbeitet auf [[Network Layer]] (Layer 3)
+
+- Verbindet verschiedene [[LAN|LANs]] miteinander
 - arbeiten nur über [[IP Adress|IP Adressen]]
 
-## Routing-Tabellen
-- Ziel: [[IP Adress]] des Zielgeräts
-- Next Hop: Der nächste [[Router]], an den sich gewendet werden muss
-- Metrik: Wie viele [[Knoten]] muss ich besuchen, bis ich am Ziel angekommen bin?
+![[Pasted image 20241030111751.png]]
 
-![[Pasted image 20240918110331.png]]
+- [[Broadcast]] auf Ebene 2 abgehandelt --> nicht von [[Router]] weitergeleitet
+- [[Kollision (Zugriffsverfahren)]] auf Ebene 1 abgehandelt --> nicht weitergeleitet
 
-> [!hint] Ermöglicht [[Redundanz]], falls ein Router ausfällt
+> [!hint] Schränken Broadcast- und Kollisions-Domänen ein.
+
+> [!hint] Ermöglicht das Verknüpfen von verschiedenen [[Topologie|Topologien]]
+
+

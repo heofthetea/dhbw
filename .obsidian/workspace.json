@@ -126,7 +126,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 4
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -257,7 +257,7 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 57.7397910731244,
+            "dimension": 59.44919278252612,
             "children": [
               {
                 "id": "30aee00924d8cac5",
@@ -445,12 +445,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/angewandte_mathematik/Dumme Integrale.md",
+                    "file": "semester-3/netztechnik/Zusammenfassung Netzwerk-Komponenten.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Dumme Integrale"
+                  "title": "Zusammenfassung Netzwerk-Komponenten"
                 }
               }
             ],
@@ -459,7 +459,7 @@
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 42.26020892687559,
+            "dimension": 40.55080721747388,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -516,21 +516,9 @@
                   "icon": "lucide-file-text",
                   "title": "DB_Kap04_Normalisierung_Stud"
                 }
-              },
-              {
-                "id": "82523649efc18687",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Teil_4 Kap5 Differenzialgleichung"
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -564,8 +552,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RETI",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -656,7 +644,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
+                "file": "semester-3/netztechnik/Zusammenfassung Netzwerk-Komponenten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -666,7 +654,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for script_rechnerarchitekturen"
+              "title": "Backlinks for Zusammenfassung Netzwerk-Komponenten"
             }
           }
         ],
@@ -696,51 +684,51 @@
   },
   "active": "f24f25f660072259",
   "lastOpenFiles": [
-    "semester-3/angewandte_mathematik/Lösung linearer Differenzialgleichung.md",
-    "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
-    "semester-3/angewandte_mathematik/Differenzenquotient.md",
-    "semester-3/angewandte_mathematik/Lineare Differenzialgleichung.md",
-    "semester-3/angewandte_mathematik/seperierbare Differenzialgleichung.md",
-    "semester-3/angewandte_mathematik/Lineare Substitution.md",
-    "semester-3/angewandte_mathematik/Lösen seperierbarer Differenzialgleichungen.md",
-    "semester-3/angewandte_mathematik/Orthogonaltrajektorie.md",
-    "semester-3/angewandte_mathematik/Richtungsfeld.md",
+    "semester-3/netztechnik/images/Pasted image 20241030115412.png",
+    "semester-3/netztechnik/Hub Netztechnik.md",
+    "semester-3/netztechnik/Zusammenfassung Netzwerk-Komponenten.md",
+    "semester-3/netztechnik/Gateway.md",
+    "semester-3/netztechnik/Default Gateway.md",
+    "semester-3/netztechnik/Loopback.md",
+    "semester-3/netztechnik/localhost.md",
+    "semester-3/netztechnik/Beispiel Router Senden.md",
+    "semester-3/netztechnik/Subnet Mask.md",
+    "semester-3/netztechnik/Beispiel Router.md",
+    "semester-3/netztechnik/images/Pasted image 20241030113530.png",
+    "semester-3/netztechnik/Besondere IP Adressen.md",
+    "semester-3/netztechnik/Placeholder IP Adress.md",
+    "semester-3/netztechnik/Routing Tabelle.md",
+    "semester-3/netztechnik/images/Pasted image 20241030112813.png",
+    "semester-3/netztechnik/Routingprotokolle vs. Routebare Protokolle.md",
+    "semester-3/netztechnik/Routing Table.md",
+    "semester-3/netztechnik/MPLS.md",
+    "semester-3/netztechnik/Router.md",
+    "semester-3/netztechnik/VLAN.md",
+    "semester-3/netztechnik/LAN.md",
+    "semester-3/netztechnik/images/Pasted image 20241030111751.png",
+    "semester-3/netztechnik/Netzerk mit Spine-Layer.md",
+    "semester-3/netztechnik/images/Pasted image 20241030111702.png",
+    "semester-3/netztechnik/Layer 2 Network.md",
+    "semester-3/netztechnik/images/Pasted image 20241030111338.png",
+    "semester-3/netztechnik/Switch.md",
+    "semester-3/netztechnik/Switch Modi.md",
+    "semester-3/netztechnik/CRC.md",
+    "semester-3/netztechnik/Checksum.md",
+    "semester-3/netztechnik/Physical Layer.md",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "semester-3/datenbanken/sources/Klassifizierung von Datenbankprodukten_Stud.pdf",
     "semester-3/angewandte_mathematik/images/Pasted image 20241028133749.png",
     "semester-3/angewandte_mathematik/images/Pasted image 20241028133600.png",
     "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf",
-    "semester-3/angewandte_mathematik/Randwertproblem.md",
-    "semester-3/angewandte_mathematik/Anfangswertproblem.md",
-    "semester-3/angewandte_mathematik/Explizite Form Differenzialgleichung.md",
-    "semester-3/angewandte_mathematik/Differenzialgleichung.md",
-    "semester-3/angewandte_mathematik/Trajektorie.md",
     "semester-3/angewandte_mathematik/images/Pasted image 20241028131131.png",
-    "semester-3/angewandte_mathematik/Partielle Differenzialgleichung.md",
     "semester-3/angewandte_mathematik/sources/Teil_3 Integralrechnung.pdf",
-    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
     "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
-    "semester-3/rechnerarchitekturen/Kaskade.md",
     "semester-3/rechnerarchitekturen/images/Pasted image 20241028110649.png",
-    "semester-3/rechnerarchitekturen/Interrupt Controller.md",
     "semester-3/rechnerarchitekturen/images/Pasted image 20241028110221.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241028105939.png",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/rechnerarchitekturen/Interruptlogik direkt an CPU.md",
-    "semester-3/rechnerarchitekturen/PIC.md",
-    "semester-3/rechnerarchitekturen/Daisy Chain.md",
-    "semester-3/rechnerarchitekturen/Interrupt Handling durch Oder.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241028104507.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241028104023.png",
-    "semester-3/rechnerarchitekturen/Vektor-Interrupt.md",
-    "semester-3/rechnerarchitekturen/Auto-Interrupt.md",
-    "semester-3/rechnerarchitekturen/Ablauf Interrupt.md",
-    "semester-3/rechnerarchitekturen/RETI.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241028084822.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241028082523.png",
     "semester-1/lineare-algebra/latex_symbols.pdf",
     "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
     "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
     "goodnotes/Semester 2/Analysis/Klausurvorbereitung/Ana Cheat Sheet.pdf",
-    "semester-2/analysis/altklausuren/DHBW-Klausur_Analysis_2023_Lsg.pdf",
-    "semester-2/algorithmen/allgemein/images"
+    "semester-2/analysis/altklausuren/DHBW-Klausur_Analysis_2023_Lsg.pdf"
   ]
 }

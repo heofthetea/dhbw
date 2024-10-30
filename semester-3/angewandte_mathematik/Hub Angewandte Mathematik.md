@@ -31,6 +31,7 @@
 - [[Differenzialgleichung]]
 - [[n-dimensionale Integration]]
 - [[Dumme Integrale]]
+	- [[Integral auf arctan Form bringen]]
 - [[Substitution Integral]]
 	- [[Kugelkoordinaten]]
 

@@ -1,4 +1,5 @@
 > ermöglicht **logisch** einer [[Punkt-zu-Punkt Topologie]]
+> operiert standardmäßig auf [[Data Link Layer]] - kann erweitert werden bis Layer 7
 
 > [!info] Eine [[Bridge]] mit mehreren [[Port|Ports]]
 
@@ -15,11 +16,4 @@
 > [!hint] ermöglicht [[Duplex-Verbindung|Voll-Duplex-Betrieb]] und benötigt _kein_ Zugriffsverfahren
 
 
-## Modi
-- Cut Through
-	- Sobald ich Ziel [[MAC Adresse]] habe -> Weiterleiten
-	- fucking fast
-	- leitet aber auch [[Kollision (Zugriffsverfahren)|Schrott]] weiter
-- Cut Through Collision Free
-	- Wartet, bis $64$ Byte empfangen wurden
-	- wenn ich da kein Jam Signal finde, kann ich davon ausgehen, dass die [[Paket|Pakete]] in Ordnung sind
+

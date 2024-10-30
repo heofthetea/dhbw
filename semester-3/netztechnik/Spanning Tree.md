@@ -1,5 +1,7 @@
 [[Minimaler Spannbaum]]
 
+[[BPDU]]
+
 - Ziel: [[Mesh Topologie]] so hinzubiegen, dass es nur _einen_ Weg von jedem [[Knoten]] $A$ nach $B$ gibt
 	- Transformiere in logische [[Baum-Topologie]]
 - Traffic geht **immer** über Root-Switch
@@ -10,7 +12,7 @@
 Besteht aus zwei Teilen:
 1. [[MAC Adresse]]
 2. Priorität (von Admin veränderbar): 16 [[Bit]]
-	1. Default: $2^{15} = 32768$ --> ist genau die Mitte, yay
+	1. Default: $2^{15} = 32768 = 8000_{16}$ --> ist genau die Mitte, yay
 	2. Prio nach unten setzen macht diesen [[Switch]] zur [[Wurzel]]
 
 > [!hint] Es wird zuerst Prio ausgewertet, _danach_ bei Gleichheit die MAC Adresse.
@@ -20,7 +22,7 @@ Besteht aus zwei Teilen:
 > [!hint] Die [[Paket|Pakete]], die von [[Switch|Switches]] gesendet werden, um den [[Spanning Tree]] zu bauen und instand zu halten.
 
 1. Finde [[Wurzel]] ([[Switch]] mit kleinster [[MAC Adresse]])
-	1. jeder [[Switch]] gibt konstant von sich, was er weiß (am anfang seine [[#Bridge ID]])
+	1. jeder [[Switch]] gibt konstant von sich, was er weiß (am anfang seine [[#Bridge ID]]) --> [[BPDU]]
 2. Pfadkosten bewerten (je schneller die [[Leitung]], desto niedriger die Kosten)
 3. Jeder [[Switch]] ermittelt den kleinsten Weg zum Root-Switch
 	1. bei zwei gleich starken Wegen: einfach kleinere [[Port]]-Nummer wählen lol
