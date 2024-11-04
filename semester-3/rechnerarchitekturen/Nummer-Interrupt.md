@@ -1,11 +1,14 @@
 > [[Adresse]] der Interrupt Routine wird berechnet
 
+[[Vektornummer]]
 ```mermaid
 flowchart LR
 I[Interrupt-Nr] --> F((Formel)) --> A[Adresse]
 ```
 - Interrupt Acknowledte Signal (INTA)
 	- was das macht? idfk "das gibt's halt"
+
+> [!warning] Bähnisch meinte das "habe es übergangsweise mal gegeben"... Still relevant??
 
 ### Quellen
 - Interrupt Request Eingang (INTR)
@@ -23,7 +26,7 @@ I[Interrupt-Nr] --> F((Formel)) --> A[Adresse]
 4. entscheiden: **ablehnen** wenn `disable`
 5. [[Priorität Interrupt|Prio]] neu: [[Interrupt]] sperren
 6. Zieladresse: 
-	1. Annahme bestätigt (`INTA` Puls)
+	1. Annahme bestätigt ([[INTA]] Puls)
 	2. Aufforderung: an Quelle, ein Bitmuster auf [[Datenbus]] zu legen
 		1. Bitmuster $\approx$ Befehl $RST_{n} = 11nnn111$
 			1. $nnn$ ist die [[Vektor]]-Nummer

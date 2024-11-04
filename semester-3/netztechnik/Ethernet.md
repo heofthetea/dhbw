@@ -1,6 +1,6 @@
 [[Paket]], [[Twisted Pair Leitung]]
 
-- lebt in [[Physical Layer]] und [[Data Link Layer]] (Ebene $1$ und $2$)
+- lebt in [[Layer 1]] und [[Layer 2]] (Ebene $1$ und $2$)
 
 
 

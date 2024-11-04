@@ -12,9 +12,8 @@
 flowchart LR
 CPU <--> PIC <--> Gerät
 ```
-- Sitzt zwischen [[CPU]] und Gerät, das [[Interrupt]] schalten will
+- Agiert als [[Proxy]] zwischen [[CPU]] und Gerät, das [[Interrupt]] schalten will
 - Erzeugt Vektornummer und [[Priorität Interrupt|Priorität]]
-
 
 ## Aufbau
 0. Programm konfiguriert PIC

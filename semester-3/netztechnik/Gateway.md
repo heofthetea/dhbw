@@ -1,4 +1,4 @@
 > [[IP Adress]] des [[Router|Routers]], über den ich mit der Außenwelt kommunizieren kann
 
 
-- arbeitet auf [[Application Layer]]??
+- arbeitet auf [[Layer 7]]??

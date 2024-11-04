@@ -15,4 +15,4 @@ wenn $A$ fertig ist mit senden, wird eine **Backoff**-Zeit abgearbeitet
 - ACK: Acknowledge
 
 > [!hint] Kann Trotzdem kollidieren, wenn Backoff Zeit von $B$ genau so lang ist wie Restzeiyt von $C$
-> Wird dann von [[Data Link Layer]] erkannt, Senden muss wiederholt werden
+> Wird dann von [[Layer 2]] erkannt, Senden muss wiederholt werden

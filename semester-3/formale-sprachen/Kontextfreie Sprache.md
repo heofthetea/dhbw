@@ -1,4 +1,4 @@
-> ausdrucksstärker als [[Reguläre Sprache]], aber noch handhabbar (= [[Definition Algorithmus|algorithmisch]] handhabbar)
+> ausdrucksstärker als [[Reguläre Sprache]], aber noch handhabbar (= [[Algorithmus|algorithmisch]] handhabbar)
 > erkannt durch [[Kellerautomat]]
 
 [[Kontextfreie Grammatik]]

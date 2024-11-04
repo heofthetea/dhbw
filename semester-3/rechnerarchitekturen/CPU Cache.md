@@ -1,4 +1,5 @@
 > statisches [[RAM]]
+> dient als Zwischenspeicher in der [[CPU]]
 
 - volatile --> Aufgebaut aus [[Flipflops]]
 - zerstörungsfreises Lesen

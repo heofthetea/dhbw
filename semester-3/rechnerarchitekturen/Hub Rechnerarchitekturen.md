@@ -13,7 +13,7 @@ in Semester 3: [[Hub Betriebssysteme]]
 [[Library Minimalsystem]]
 [[Library CPU Komponenten]]
 [[Library Speicher]]
-
+[[Library Interrupts]]
 
 # Vorlesung
 [[Ausblick Rechnerarchitekturen]]
@@ -152,9 +152,10 @@ nach Erkennung
 [[Polling vs Interrupt]]
 [[Interrupt]]
 - [[Interruptlogik direkt an CPU]]
-- [[Interrupt Controller]]
 	- [[Interrupt Handling durch Oder]]
 	- [[Daisy Chain]]
+- [[Interrupt Controller]]
+	- [[Kaskade]]
 - [[Priorität Interrupt]]
 - [[Mögliche Quellen für Interrupt]]
 - [[Ablauf Interrupt]]
@@ -163,4 +164,20 @@ nach Erkennung
 	- [[Nummer-Interrupt]]
 	- [[Vektor-Interrupt]]
 
+### Direct Memory Access (DMA)
+[[Direct Memory Access]]
+- [[Datentransfer über CPU]]
+- [[Datentransfer mit DMA]]
+- [[Aufbau DMA]]
+- [[DMA Controller]]
+	- [[Modi DMA]]
+- [[DMA Kanal]]
 
+### Pipelining
+[[Pipelining]]
+- [[Beispiel Pipelining]]
+	- [[Superpipeline]] (ist Werbung lol)
+- [[Ablauf Pipelining]]
+- [[Probleme mit Pipelining]]
+	- [[Data Hazard]]
+	- [[Sprungabhängigkeit]]

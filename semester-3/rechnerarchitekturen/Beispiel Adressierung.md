@@ -13,7 +13,7 @@
 #klausurrelevant 
 
 - Leitungen: 
-	- CPU: $64K = 2^{16} \rightarrow 16$= 
+	- CPU: $64K = 2^{16} \rightarrow 16$
 	- $IC1 / 2: ld(2048) = 11$
 	- $IC3: 4 \cdot 1K = 2 + 10 = 12$ 
 
@@ -25,7 +25,7 @@
 ![[Pasted image 20241014090330.png]]
 #### IC3
 [[Unvollständige Adressierung]] (ein [[Bit]] fehlt)
-$CS_{3} = \lnot A15 \land A14 \land \lnot A13$ --> $3B + 12B \neq 16B$ 
+$CS_{3} = \lnot A15 \land A14 \land \lnot A13$ -> $3B + 12B \neq 16B$ 
 Start: $010X\ 0000\ 0000\ 0000$
 Adressbereich: $[4000_{16}, 5FFF_{16}]$
 

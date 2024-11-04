@@ -1,4 +1,8 @@
-[[Differenzialgleichung|Differenzialgleichungen]] mit einer ganz bestimmten Struktur können unter Umständen durch eine Substitution gelöst werden. Die Idee dabei ist, dass durch eine Variablentransformation eine neue, _einfachere_ Variable entsteht.
+[[Differenzialgleichung|Differenzialgleichungen]], [[Substitution Integral]]
+
 $$f(ax + by + c) = f(u)\ mit\ u = ax + by + c$$
 
-#todo Lineare Substitution Verfahren aufschreiben
+Aus Umformungen zu [[Partielle Differenzialgleichung|partieller Differenzialgleichung]] folgt: 
+$$\int{\frac{1}{a+bf(u)}du} = x + c_{ste}$$
+> [!hint] Resubstition kann nach [[Integral|Integration]] erfolgen.
+

@@ -13,7 +13,7 @@
 
 #### Zusätzliche Komponenten
 1. [[Interrupt]] controller: Unterbrechen des normalen Programmablaufs
-2. [[Direct Memory Access (DMA)]]: Speicherzugriff an [[CPU]] vorbei
+2. [[Direct Memory Access]]: Speicherzugriff an [[CPU]] vorbei
 3. [[Watchdog]]
 4. Co-Prozessor: GPU
 

@@ -1,4 +1,4 @@
-> arbeitet auf [[Network Layer]] (Layer 3)
+> arbeitet auf [[Layer 3]] (Layer 3)
 
 - Verbindet verschiedene [[LAN|LANs]] miteinander
 - arbeiten nur über [[IP Adress|IP Adressen]]

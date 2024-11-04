@@ -3,6 +3,10 @@
 [[Übungen zum Kapitel 3.pdf]]
 [[Übungen zum Kapitel 4.pdf]]
 
+
+## Library ig idfk but probably relevant for Klausru
+[[Library Angewandte Mathematik]]
+
 ## 0 Vorkurs
 [[Abbildung]]
 [[Polynom]], [[exponentielle Laufzeit|Exponentialfunktion]]

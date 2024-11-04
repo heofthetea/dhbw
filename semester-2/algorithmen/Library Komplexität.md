@@ -1,7 +1,7 @@
 #library 
 see also: [[Library Komplexität Rekursion]]
 ## Algorithmen Allgemein
-- [[Definition Algorithmus]]
+- [[Algorithmus]]
 	- Transformiert *Input* in *Output*, in *wohl-definierten* und _endlich_ vielen Schritten
 	- [[Computers are idiots]] and [[Speech is unprecise]] - Ein Algorithmus muss von jedem Idioten durchgeführt werden können
 

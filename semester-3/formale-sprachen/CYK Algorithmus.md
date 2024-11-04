@@ -1,4 +1,4 @@
-> [[Definition Algorithmus|Algorithmus]] zur Entscheidung des [[Wortproblem|Wortproblems]] für [[Kontextsensitive Grammatik|Kontextsensitive Grammatiken]] in [[Chomsky-Normalform]]
+> [[Algorithmus|Algorithmus]] zur Entscheidung des [[Wortproblem|Wortproblems]] für [[Kontextsensitive Grammatik|Kontextsensitive Grammatiken]] in [[Chomsky-Normalform]]
 
 #klausurrelevant
 

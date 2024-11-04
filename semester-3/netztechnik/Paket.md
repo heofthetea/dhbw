@@ -1,6 +1,6 @@
 > Atomares Teil, was in einem [[Netzwerk]] verschickt wird
 
-[[Physical Layer]], [[Manchester Codierung]]
+[[Layer 1]], [[Manchester Codierung]]
 
 
 

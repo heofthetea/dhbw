@@ -1,5 +1,5 @@
 > ermöglicht **logisch** einer [[Punkt-zu-Punkt Topologie]]
-> operiert standardmäßig auf [[Data Link Layer]] - kann erweitert werden bis Layer 7
+> operiert standardmäßig auf [[Layer 2]] - kann erweitert werden bis Layer 7
 
 > [!info] Eine [[Bridge]] mit mehreren [[Port|Ports]]
 

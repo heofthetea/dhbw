@@ -1,7 +1,7 @@
 > Standard für Kommunikation auf [[MAN]]
 
 - gelöstes Problem: [[Routing Tabelle|Routing Tables]] von [[Router|Routern]] sind ziemlich lang, und abarbeiten braucht
-- arbeitet irgendwo zwischen [[Data Link Layer]] (2) und [[Network Layer]] (3)
+- arbeitet irgendwo zwischen [[Layer 2]] (2) und [[Layer 3]] (3)
 	- Gibt auf [[MAC Adresse|MAC]] Ebene ein Label mit
 	- Wird dynamisch von weiteren [[Router|Routern]] hinzugefügt oder abgearbeitet
 		- jedes Label hat ein eigenes [[TTL]] Feld

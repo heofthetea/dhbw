@@ -2,7 +2,7 @@
 
 - wie sind verschiedene [[DEE|Geräte]] miteinander verbunden?
 
-> [!warning] [[Physical Layer|physische Topologie]] muss nicht gleich der [[Network Layer|logischen Topologie]] sein!!!
+> [!warning] [[Layer 1|physische Topologie]] muss nicht gleich der [[Layer 3|logischen Topologie]] sein!!!
 
 ## Instanzen
 - Eindimensional

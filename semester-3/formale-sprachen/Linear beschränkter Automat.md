@@ -1,4 +1,5 @@
 > [[Turing Machine]], deren Band auf die Länge des Eingabe[[Wort|wortes]] $|w|$ beschränkt ist.
+> erkennt [[Kontextsensitive Sprache]]
 
 
 - Anstatt ein neues [[Automat|Maschinenmodell]] zu definieren, nimmt man [[Turing Machine]] mit zusätzlichen Start- und End-Marker [[Symbol|Symbolen]]

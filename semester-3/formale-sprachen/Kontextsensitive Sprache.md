@@ -1,4 +1,4 @@
-> noch ausdrucksstärker als [[Kontextfreie Sprache]], [[Definition Algorithmus|algorithmisch]] schwierig zu handhaben
+> noch ausdrucksstärker als [[Kontextfreie Sprache]], [[Algorithmus|algorithmisch]] schwierig zu handhaben
 > erkannt durch [[Linear beschränkter Automat]]
 
 

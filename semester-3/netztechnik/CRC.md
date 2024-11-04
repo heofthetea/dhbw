@@ -1,6 +1,6 @@
 > Cyclic [[Redundanz|Redundancy]] Check
 
-- Tail generiert von [[Data Link Layer]]
+- Tail generiert von [[Layer 2]]
 generiert [[Checksum]]
 
 

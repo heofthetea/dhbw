@@ -1,3 +1,27 @@
+
+## Abschlusseigenschaften
+
+| Operation                                           | [[Abgschlusseigenschaften Regulärer Sprachen\|Reguläre Sprache]] | [[Abschlusseigenschaften Kontextfreie Sprachen\|Kontextfreie Sprache]] | [[Abschlusseigenschaften Kontextsensitive Sprachen\|Kontextsensitive Sprache]] | Turing Machines |
+| --------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------- |
+| [[Operationen auf Mengen#Union\|Vereinigung]]       | ✅ -> [[NFA für Vereinigung]]                                     | ✅                                                                      | ✅                                                                              | ✅               |
+| [[Komplement]]                                      | ✅ -> [[EA zu Komplement]]                                        | ❌                                                                      | ✅                                                                              | ✅               |
+| [[Operationen auf Mengen#Intersection\|Schnitt]]    | ✅ -> [[Produktautomat]]                                          | ❌                                                                      | ✅                                                                              | ✅               |
+| [[Operationen auf Sprachen#Produkt\|Konkatenation]] | ✅ -> [[NFA für Konkatenation]]                                   | ✅                                                                      | ✅                                                                              | ✅               |
+| [[Klenee-Stern]]                                    | ✅ -> [[NFA für Klenee-Stern]]                                    | ✅                                                                      | ✅                                                                              | ✅               |
+
+## Entscheidungsprobleme
+
+| Problem                 | Reguläre Sprache                           | Kontextfreie Sprache          | [[Entscheidungsprobleme Kontextsensitive Sprachen\|Kontextsensitive Sprache]] | Turing Machines                |
+| ----------------------- | ------------------------------------------ | ----------------------------- | ----------------------------------------------------------------------------- | ------------------------------ |
+| [[Wortproblem]]         | ✅ -> [[Endlicher Automat]]                 | ✅ -> [[CYK Algorithmus]]      | ✅                                                                             | ✅ -> [[Semi-Entscheidbarkeit]] |
+| [[Leerheitsproblem]]    | ✅ -> [[Leerheitsproblem Reguläre Sprache]] | ✅ -> [[Reduzierte Grammatik]] | ❌                                                                             | ❌                              |
+| [[Endlichkeitsproblem]] | ✅ -> [[endliche Sprachen]]                 | -                             | -                                                                             | -                              |
+| [[Äquivalenzproblem]]   | ✅ -> [[Äquivalenz Reguläre Sprachen]]      | ❌                             | ❌                                                                             | ❌                              |
+
+# Reguläre Sprachen
+s. [[Library Reguläre Sprachen]]
+
+# Kontextfreie Sprachen
 [[Kontextfreie Grammatik]]
 - beschreiben [[Kontextfreie Sprache]]
 - Bedingung: Jede [[Produktionsregel|Regel]] muss **genau** ein [[Nichtterminalsymbol]] auf der linken Seite stehen haben
@@ -36,7 +60,6 @@
 	2. $A \rightarrow aB \leadsto \set{A \rightarrow X_{a}B, X_{a} \rightarrow a}$
 	3. $A \rightarrow BCD \leadsto \set{A \rightarrow BX_{CD}, X_{CD} \rightarrow CD}$
 
-
 ## Kellerautomaten
 - [[Kellerautomat]] ist [[NFA]] mit [[Stack]]
 	- ist immer nichtdeterministisch (wenn er das nicht wäre, wäre er echt schwächer)
@@ -65,3 +88,7 @@
 	1. Alle [[Permutation|Permutationen]] durchgehen und generierte [[Übergangsrelation]] hinzufügen
 4. Umgang mit  [[Stack]]-[[Startsymbol]]: [[ε-Übergang (epsilon-Übergang)|epsilon-Übergang]] $(q', \epsilon, Z', [q_{0}\ Z_{0}\ q], q')$ für jeden [[Zustand]] $q$ hinzufügen
 
+## Pumping Lemma
+[[Pumping Lemma für Kontextfreie Sprachen]]
+- Funktioniert genauso wie [[Pumping Lemma|Pumping Lemma für Reguläre Sprachen]]
+- aber: Wortaufteilung nun als $uv^{h}wx^{h}y$ 

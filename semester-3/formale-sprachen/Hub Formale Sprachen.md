@@ -13,7 +13,8 @@
 
 ## Libraries
 [[Library Reguläre Sprachen]]
-[[Library Kontextfreie Grammatiken]]
+[[Library Grammatiken]]
+[[Library Turing Maschinen]]
 
 # Vorlesungen
 ## 1. Basics
@@ -46,7 +47,7 @@
 	- [[Regular Expression Beispiele]]
 	- [[Rechenregeln Reguläre Ausdrücke]]
 	- [[Übung 2.7 Regular Expressions]]
-- [[Eigenschaften Regulärer Sprachen]]
+- [[Abgschlusseigenschaften Regulärer Sprachen]]
 	- [[endliche Sprachen]]
 ### Endliche Automaten
 [[Endlicher Automat]]
@@ -67,7 +68,7 @@
 - [[mögliche Folgezustände eines einzelnen Zustand]]
 - [[mögliche Folgezustände einer Zustandsmenge]]
 [[Produktautomat]]
-[[Automat zu Komplement]]
+[[EA zu Komplement]]
 
 ### Automatentransformartionen
 
@@ -146,6 +147,7 @@
 [[Kontextsensitive Grammatik]]
 [[Linear beschränkter Automat]]
 [[Abschlusseigenschaften Kontextsensitive Sprachen]]
+[[Entscheidungsprobleme Kontextsensitive Sprachen]]
 
 ## 4. Turing Maschinen
 [[Turing Machine]]
@@ -170,6 +172,20 @@
 	- [[Beispiel 4.20 Turing Machine]]
 
 ## 5. Entscheidbarkeit
+[[Turing Machine]]
+[[Entscheidbarkeit]]
+- [[Semi-Entscheidbarkeit]]
+---
+[[Unentscheidbarkeit]]
+- [[Gödelisierung]]
+- [[Spezielles Wortproblem]]
+	- [[Beweis Unentscheidbarkeit spezielles Wortproblem]]
+- [[Diagonalisierung]]
+
+
+
+#### Übungen ig
+[[Übung 5.4 Bandanhängen]]
 
 ## 6. Berechenbarkeit
 

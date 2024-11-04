@@ -3,7 +3,7 @@
 	1. Computer an sich ist eine Blackbox
 	2. verarbeitet eine Eingabe und produziert eine Ausgabe
 2. [[Anweisungsbasierte Definition]]
-	1. Ein Computer führt Anweisungen der Reihe nach durch --> [[Definition Algorithmus]]
+	1. Ein Computer führt Anweisungen der Reihe nach durch --> [[Algorithmus]]
 
 ## Minimalsystem
 [[Minimalsystem]] definiert ein System, das aus genau den Komponenten besteht, die ein Computer _mindestens_ braucht:

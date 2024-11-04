@@ -1,6 +1,6 @@
 > [[Repeater]], der [[Kollision (Zugriffsverfahren)|Kollisionen]] nicht weiterleitet
 
-[[Data Link Layer]]
+[[Layer 2]]
 
 - hat sehr grundlegende Intelligenz
 - Limitiert auch die [[Bild einer Funktion|Bildmenge]] der möglichen Empfänger für [[Unicast]]

@@ -1,1 +1,1 @@
-[[Paket]] _ohne_ [[Physical Layer|Layer 1]] [[Header]]
+[[Paket]] _ohne_ [[Layer 1|Layer 1]] [[Header]]

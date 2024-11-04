@@ -1,4 +1,4 @@
-Wird von [[Physical Layer]] als [[Header]] angehängt
+Wird von [[Layer 1]] als [[Header]] angehängt
 - Liefert Informationen notwendig für [[Taktrückgewinnung]] und andere Meta-Informationen
 
 1. 7-byte Folge aus abwechselnden Nullen und Einsen --> `10101010`

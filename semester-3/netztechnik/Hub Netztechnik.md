@@ -8,7 +8,7 @@
 - Klausur 90 min
 
 ## Libraries
-
+[[Library Netztechnik]]
 
 ## Fragenkatalogsystem
 [[Prüfungsfragen Netztechnik]]
@@ -59,14 +59,14 @@ Betriebsarten
 [[Entscheidungsinhalt]]
 #### Konkrete Instanzen
 - [[OSI-7-Schichten Modell]]
-	- [[Application Layer]]
-	- [[Presentation Layer]]
-	- [[Session Layer]]
-	- [[Transport Layer]]
-	- [[Network Layer]]
-	- [[Data Link Layer]]
-	- [[Physical Layer]]
-[[Layer 8]]
+	- [[Layer 7]]
+	- [[Layer 6]]
+	- [[Layer 5]]
+	- [[Layer 4]]
+	- [[Layer 3]]
+	- [[Layer 2]]
+	- [[Layer 1]]
+[[Layer 8 Problem]]
 
 ### Physische Ebene
 [[Multiplex]]
@@ -85,7 +85,6 @@ Betriebsarten
 	- [[Parity]]
 	- [[Hamming Distanz]]
 	- [[Wire-Coding]]
-[[Informationsgehalt]]
 [[präfixfrei]]
 [[Huffman Code]]
 
@@ -121,7 +120,7 @@ Betriebsarten
 [[Hub]]
 
 
-## 05 ?????? BRO GIB DEINEN FOLIEN TITEL DU DUMMHEIT
+## 05 Topologien
 ### Topologien
 [[Topologie]]
 - Eindimensional
@@ -186,7 +185,7 @@ Betriebsarten
 \- nächstes Semester -
 
 
-## 8. Hardware FINALLY
+## 8. Netzwerk-Komponenten
 [[Herausforderungen bei Datenübertragung]]
 - [[Repeater]]
 	- [[Hub]]

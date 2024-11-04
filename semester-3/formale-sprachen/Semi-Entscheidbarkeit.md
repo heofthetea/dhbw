@@ -1,3 +1,3 @@
 - Frage: ist $w \in L$?
-	- Wenn ja: Computer findet dies in _endlicher_ Zeit heraus
+	- Wenn ja: [[Turing Machine]] findet dies in _endlicher_ Zeit heraus
 	- Wenn nein: [[Endlosschleife]]

@@ -34,3 +34,5 @@
 9. Prio zurück: automatisch in Interrupt Logik
 10. Rücksprung: Adresse vom [[Stack]] nach [[Programm Counter|PC]]
 
+> [!hint] 4\. Prio neu setzen - Setzt irgerndwo ein Register oder so, welche [[Priorität Interrupt|Priorität]] der **aktuelle Prozess** hat
+

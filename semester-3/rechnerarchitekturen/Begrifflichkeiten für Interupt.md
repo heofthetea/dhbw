@@ -7,5 +7,5 @@
 	3. [[Interrupt]] **synchron** zum Programmablauf
 
 ## Exception
-- modernste
+- modernster Begriff
 - wird von [[ARM]] benutzt

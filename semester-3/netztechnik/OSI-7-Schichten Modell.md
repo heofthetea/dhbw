@@ -4,13 +4,13 @@
 
 | Schicht | Ebene                  |
 | ------- | ---------------------- |
-| 7       | [[Application Layer]]  |
-| 6       | [[Presentation Layer]] |
-| 5       | [[Session Layer]]      |
-| 4       | [[Transport Layer]]    |
-| 3       | [[Network Layer]]      |
-| 2       | [[Data Link Layer]]    |
-| 1       | [[Physical Layer]]     |
+| 7       | [[Layer 7]]  |
+| 6       | [[Layer 6]] |
+| 5       | [[Layer 5]]      |
+| 4       | [[Layer 4]]    |
+| 3       | [[Layer 3]]      |
+| 2       | [[Layer 2]]    |
+| 1       | [[Layer 1]]     |
 
 
 
