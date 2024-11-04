@@ -26,7 +26,7 @@
 ## 003 Ethik
 [[Ethik und Informatik]]
 [[Ethik]]
-[[Was ist ein Risiko für Probanden?]]
+[[Was ist ein Risiko für Probanden]]
 [[Nutzen für Probanden]]
 [[Ethische Verantwortung des Versuchsleiters]]
 [[Umgang mit ethischen Fehlern]]

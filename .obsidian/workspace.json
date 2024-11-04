@@ -125,7 +125,8 @@
                   "title": "Hub Angewandte Mathematik"
                 }
               }
-            ]
+            ],
+            "currentTab": 6
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -256,7 +257,7 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 81.48148148148148,
+            "dimension": 43.20987654320987,
             "children": [
               {
                 "id": "30aee00924d8cac5",
@@ -472,12 +473,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Sprungabhängigkeit.md",
+                    "file": "semester-1/forschungsmethoden/Intro/Was ist ein Risiko für Probanden.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Sprungabhängigkeit"
+                  "title": "Was ist ein Risiko für Probanden"
                 }
               }
             ],
@@ -486,7 +487,7 @@
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 18.51851851851852,
+            "dimension": 56.79012345679012,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -543,9 +544,23 @@
                   "icon": "lucide-file-text",
                   "title": "DB_Kap04_Normalisierung_Stud"
                 }
+              },
+              {
+                "id": "8a144710f081549d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "Teil_4 Kap5 Differenzialgleichung"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -711,8 +726,18 @@
   },
   "active": "f0c07af3690b5a2e",
   "lastOpenFiles": [
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "intension/t1000/network randomly not working lol.md",
+    "semester-1/digitaltechnik/Fucking Schmitt-Trigger.md",
+    "extern/Virologie lol/SARS-CoV-2/Wer muss geimpft werden.md",
+    "semester-1/forschungsmethoden/Intro/Was ist Forschung.md",
+    "extern/Virologie lol/HIV/Warum ist HIV so erfolgreich.md",
+    "semester-3/angewandte_mathematik/Fundamentallösung.md",
+    "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
+    "semester-3/angewandte_mathematik/Lösung linearer Differenzialgleichung.md",
+    "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf",
+    "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
     "semester-3/rechnerarchitekturen/Sprungabhängigkeit.md",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
     "semester-3/rechnerarchitekturen/Probleme mit Pipelining.md",
     "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
     "semester-3/rechnerarchitekturen/Data Hazard.md",
@@ -735,13 +760,6 @@
     "semester-3/rechnerarchitekturen/Bus Request.md",
     "semester-3/rechnerarchitekturen/Datentransfer über CPU.md",
     "semester-3/rechnerarchitekturen/Direct Memory Access.md",
-    "semester-3/rechnerarchitekturen/Nummer-Interrupt.md",
-    "semester-3/rechnerarchitekturen/Library Interrupts.md",
-    "semester-3/rechnerarchitekturen/Auto-Interrupt.md",
-    "semester-3/rechnerarchitekturen/Vektornummer.md",
-    "semester-3/netztechnik/Zusammenfassung Netzwerk-Komponenten.md",
-    "semester-3/angewandte_mathematik/Lösung linearer Differenzialgleichung.md",
-    "semester-3/rechnerarchitekturen/Interrupt.md",
     "semester-3/formale-sprachen/images/Pasted image 20241031130246.jpg",
     "semester-3/formale-sprachen/images/Pasted image 20241030155918.png",
     "semester-3/formale-sprachen/images/Pasted image 20241030154155.png",
@@ -749,10 +767,8 @@
     "semester-3/netztechnik/images/Pasted image 20241030115412.png",
     "semester-3/netztechnik/images/Pasted image 20241030113530.png",
     "semester-3/datenbanken/sources/Klassifizierung von Datenbankprodukten_Stud.pdf",
-    "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf",
     "semester-3/angewandte_mathematik/sources/Teil_3 Integralrechnung.pdf",
     "semester-1/lineare-algebra/latex_symbols.pdf",
-    "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
     "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
     "goodnotes/Semester 2/Analysis/Klausurvorbereitung/Ana Cheat Sheet.pdf",
     "semester-2/analysis/altklausuren/DHBW-Klausur_Analysis_2023_Lsg.pdf"

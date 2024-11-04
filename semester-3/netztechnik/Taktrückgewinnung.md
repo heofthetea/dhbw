@@ -1,6 +1,6 @@
 > Aus einem Signal herausfinden, in welchem Takt das Signal vorliegt
 
-[[D-Flipflop (Delay-FF)]], [[Fucking Schmitt-Trigger ???????]]
+[[D-Flipflop (Delay-FF)]], [[Fucking Schmitt-Trigger]]
 
 ![[Pasted image 20240918115637.png]]
 

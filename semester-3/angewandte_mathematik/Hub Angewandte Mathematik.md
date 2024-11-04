@@ -57,3 +57,4 @@
 ### Differentialgleichung n-ter Ordnung
 - [[Lineare Differenzialgleichung]]
 - [[Lösung linearer Differenzialgleichung]]
+- [[Fundamentallösung]]
