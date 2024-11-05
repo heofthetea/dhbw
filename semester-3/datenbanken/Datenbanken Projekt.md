@@ -19,3 +19,19 @@ Deadline -> 30.09
 4. Definieren Sie verschiedene Sichten/Rollen (!! muss auftauchen !!)
 	1. nicht [[Benutzersicht|Nutzersichten]] ('wer sieht was'), sondern wer beteiligt ist.
 
+## 02 ERM
+(mach halt ERM)
+
+## 03 Relationales Schema
+[[Relationales Modell]]
+- für jeden Beziehungstyp ([[Relationship]]) welcher in ERM aufgeführt ist, müssen die zugehörigen Entitätsrelationenund die jeweilige Beziehungstypen
+
+> [!hint] Anpassung an ERM muss nicht mehr eingereicht werden
+
+- Alle Relationen müssen in [[3NF]] vorliegen
+- exemplarisch (mit [[Übung 3NF|schicker Tabelle]]) für **eine** (die größte Relation) aufzeigen
+
+> [!warning] Deadline: 04. Dezember lol > wenn moodle zu macht
+
+
+

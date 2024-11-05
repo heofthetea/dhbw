@@ -58,3 +58,6 @@
 - [[Lineare Differenzialgleichung]]
 - [[Lösung linearer Differenzialgleichung]]
 - [[Fundamentallösung]]
+- [[Charakteristische Gleichung]]
+	- [[Partikuläre Lösung Finden]]
+	- 

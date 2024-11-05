@@ -6,7 +6,7 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 38.965884861407254,
+        "dimension": 44.82942430703625,
         "children": [
           {
             "id": "f025252f25493d6e",
@@ -126,7 +126,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 2
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -150,20 +150,6 @@
                 }
               },
               {
-                "id": "4a0a521f5f430ec9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/CPU.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "CPU"
-                }
-              },
-              {
                 "id": "ebb4459ffc4c9e5e",
                 "type": "leaf",
                 "pinned": true,
@@ -180,39 +166,7 @@
                 }
               },
               {
-                "id": "4039c04eef99dcd5",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Library Modellierung.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library Modellierung"
-                }
-              },
-              {
-                "id": "ddfe5d27fbd8e484",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Library Datenbanken 1.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library Datenbanken 1"
-                }
-              },
-              {
-                "id": "fcbce88ef9c79ab1",
+                "id": "e9fd322cbf28ddf4",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -228,23 +182,23 @@
                 }
               },
               {
-                "id": "a1b2907a4260365f",
+                "id": "ddfe5d27fbd8e484",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/netztechnik/Prüfungsfragen Netztechnik.md",
+                    "file": "semester-3/datenbanken/Library DB Normalisierung.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Prüfungsfragen Netztechnik"
+                  "title": "Library DB Normalisierung"
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -252,12 +206,12 @@
       {
         "id": "5e44c37c29a1d2f6",
         "type": "split",
-        "dimension": 61.03411513859274,
+        "dimension": 55.17057569296375,
         "children": [
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 43.20987654320987,
+            "dimension": 66.38176638176638,
             "children": [
               {
                 "id": "30aee00924d8cac5",
@@ -271,20 +225,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "Topologie"
-                }
-              },
-              {
-                "id": "e9fd322cbf28ddf4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Armstrong Axiome.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Armstrong Axiome"
                 }
               },
               {
@@ -328,34 +268,6 @@
                 }
               },
               {
-                "id": "500a1ac1dc8b5a5e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Konfiguration TM.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Konfiguration TM"
-                }
-              },
-              {
-                "id": "5fc514631c7c643b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Funktion.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Funktion"
-                }
-              },
-              {
                 "id": "1b5190bf0a722e1c",
                 "type": "leaf",
                 "state": {
@@ -367,20 +279,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "Abbildung"
-                }
-              },
-              {
-                "id": "2d744f7983d1a1b1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Segment.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Segment"
                 }
               },
               {
@@ -398,34 +296,6 @@
                 }
               },
               {
-                "id": "00de46c091a979ea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Auto-Interrupt.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Auto-Interrupt"
-                }
-              },
-              {
-                "id": "5689cad7310838dd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/angewandte_mathematik/Lösung linearer Differenzialgleichung.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Lösung linearer Differenzialgleichung"
-                }
-              },
-              {
                 "id": "ad158b3388d2fc1e",
                 "type": "leaf",
                 "state": {
@@ -440,54 +310,82 @@
                 }
               },
               {
-                "id": "f24f25f660072259",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/Zusammenfassung Netzwerk-Komponenten.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Zusammenfassung Netzwerk-Komponenten"
-                }
-              },
-              {
                 "id": "20055c56bef33d79",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Interrupt.md",
+                    "file": "semester-3/angewandte_mathematik/Kugelkoordinaten.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Interrupt"
+                  "title": "Kugelkoordinaten"
                 }
               },
               {
-                "id": "f0c07af3690b5a2e",
+                "id": "4c1fa15d55613159",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-1/forschungsmethoden/Intro/Was ist ein Risiko für Probanden.md",
+                    "file": "semester-3/angewandte_mathematik/seperierbare Differenzialgleichung.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Was ist ein Risiko für Probanden"
+                  "title": "seperierbare Differenzialgleichung"
+                }
+              },
+              {
+                "id": "f2f3c654676e0bd3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Funktionale Abhängigkeit.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Funktionale Abhängigkeit"
+                }
+              },
+              {
+                "id": "453402ecf2702cde",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Datenbanken Projekt.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Datenbanken Projekt"
+                }
+              },
+              {
+                "id": "21714e72c3dfbfe3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Armstrong Axiome.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Armstrong Axiome"
                 }
               }
             ],
-            "currentTab": 15
+            "currentTab": 10
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 56.79012345679012,
+            "dimension": 33.61823361823362,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -518,35 +416,7 @@
                 }
               },
               {
-                "id": "f9fa749c62c3e99c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/sources/FSA_Handout.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "FSA_Handout"
-                }
-              },
-              {
-                "id": "6770556e59d0b9db",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "DB_Kap04_Normalisierung_Stud"
-                }
-              },
-              {
-                "id": "8a144710f081549d",
+                "id": "8e0a2af63a2c74c5",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -557,6 +427,32 @@
                   "pinned": true,
                   "icon": "lucide-file-text",
                   "title": "Teil_4 Kap5 Differenzialgleichung"
+                }
+              },
+              {
+                "id": "a39faf038e134781",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "DB_Kap04_Normalisierung_Stud"
+                }
+              },
+              {
+                "id": "c88037901e6e2d0d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/sources/FSA_Handout.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "FSA_Handout"
                 }
               }
             ],
@@ -594,7 +490,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -686,7 +582,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/netztechnik/Zusammenfassung Netzwerk-Komponenten.md",
+                "file": "semester-3/datenbanken/Datenbanken Projekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -696,7 +592,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zusammenfassung Netzwerk-Komponenten"
+              "title": "Backlinks for Datenbanken Projekt"
             }
           }
         ],
@@ -724,53 +620,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f0c07af3690b5a2e",
+  "active": "453402ecf2702cde",
   "lastOpenFiles": [
-    "intension/t1000/network randomly not working lol.md",
-    "semester-1/digitaltechnik/Fucking Schmitt-Trigger.md",
-    "extern/Virologie lol/SARS-CoV-2/Wer muss geimpft werden.md",
-    "semester-1/forschungsmethoden/Intro/Was ist Forschung.md",
-    "extern/Virologie lol/HIV/Warum ist HIV so erfolgreich.md",
-    "semester-3/angewandte_mathematik/Fundamentallösung.md",
-    "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
-    "semester-3/angewandte_mathematik/Lösung linearer Differenzialgleichung.md",
-    "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf",
-    "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
-    "semester-3/rechnerarchitekturen/Sprungabhängigkeit.md",
+    "semester-3/datenbanken/3NF.md",
+    "semester-3/datenbanken/Datenbanken Projekt.md",
+    "semester-3/datenbanken/Hub Datenbanken.md",
+    "semester-3/datenbanken/BCNF.md",
+    "semester-3/datenbanken/Übung 3NF.md",
+    "semester-3/datenbanken/Armstrong Axiome.md",
+    "semester-2/algorithmen/Konstante Laufzeit.md",
+    "semester-2/algorithmen/Konstante.md",
     "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/rechnerarchitekturen/Probleme mit Pipelining.md",
-    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
-    "semester-3/rechnerarchitekturen/Data Hazard.md",
-    "semester-3/rechnerarchitekturen/CPU Cache.md",
-    "semester-3/rechnerarchitekturen/RAM.md",
-    "semester-3/rechnerarchitekturen/Ablauf Pipelining.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241104095525.png",
-    "semester-3/rechnerarchitekturen/Superpipeline.md",
-    "semester-3/rechnerarchitekturen/Beispiel Pipelining.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241104094825.png",
-    "semester-3/rechnerarchitekturen/Pipelining.md",
-    "semester-3/rechnerarchitekturen/DMA Kanal.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241104093328.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241104092905.png",
-    "semester-3/rechnerarchitekturen/Datentransfer mit DMA.md",
-    "semester-3/rechnerarchitekturen/DMA Controller.md",
-    "semester-3/rechnerarchitekturen/Modi DMA.md",
-    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
-    "semester-3/rechnerarchitekturen/Aufbau DMA.md",
-    "semester-3/rechnerarchitekturen/Bus Request.md",
-    "semester-3/rechnerarchitekturen/Datentransfer über CPU.md",
-    "semester-3/rechnerarchitekturen/Direct Memory Access.md",
-    "semester-3/formale-sprachen/images/Pasted image 20241031130246.jpg",
-    "semester-3/formale-sprachen/images/Pasted image 20241030155918.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241030154155.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241030150212.png",
-    "semester-3/netztechnik/images/Pasted image 20241030115412.png",
-    "semester-3/netztechnik/images/Pasted image 20241030113530.png",
-    "semester-3/datenbanken/sources/Klassifizierung von Datenbankprodukten_Stud.pdf",
-    "semester-3/angewandte_mathematik/sources/Teil_3 Integralrechnung.pdf",
+    "semester-3/datenbanken/Übung 2NF.md",
+    "semester-3/datenbanken/images/Pasted image 20241105150833.png",
+    "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
+    "semester-3/datenbanken/2NF.md",
+    "semester-3/datenbanken/1NF.md",
+    "semester-3/datenbanken/images/Pasted image 20241105144348.png",
+    "semester-3/datenbanken/images/Pasted image 20241105141351.png",
+    "semester-3/datenbanken/Normalisierung.md",
+    "semester-3/datenbanken/Beispiel Schlüsselkandidaten.md",
+    "semester-3/datenbanken/images/Pasted image 20241105140121.png",
+    "semester-3/datenbanken/Primattribut.md",
+    "semester-3/datenbanken/Schlüsselkandidat.md",
+    "semester-2/algorithmen/Superschlüssel.md",
+    "semester-2/analysis/Menge.md",
+    "semester-2/algorithmen/Teilmenge.md",
+    "semester-2/algorithmen/Schlüssel.md",
+    "semester-3/datenbanken/Funktionale Abhängigkeit.md",
+    "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
+    "semester-3/netztechnik/Topologie.md",
+    "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/Library Turing Maschinen.md",
+    "semester-3/rechnerarchitekturen/sources/RT1Fragen_2024.pdf",
     "semester-1/lineare-algebra/latex_symbols.pdf",
-    "semester-3/datenbanken/sources/DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf",
-    "goodnotes/Semester 2/Analysis/Klausurvorbereitung/Ana Cheat Sheet.pdf",
-    "semester-2/analysis/altklausuren/DHBW-Klausur_Analysis_2023_Lsg.pdf"
+    "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
+    "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf",
+    "modulhandbuch.pdf",
+    "semester-3/angewandte_mathematik/images/Pasted image 20241104140757.png",
+    "semester-3/software_architektur/images/Pasted image 20241020112317.png",
+    "semester-3/software_architektur/images/Pasted image 20240924093807.png",
+    "semester-3/software_architektur/images/Pasted image 20240917084712.png",
+    "semester-3/software_architektur/images/Pasted image 20240917083837.png",
+    "semester-3/software_architektur/images/Pasted image 20240917082325.png",
+    "semester-3/software_architektur/images",
+    "semester-3/software_architektur",
+    "semester-3/rechnerarchitekturen/mermaid.pdf",
+    "semester-3/rechnerarchitekturen/mermaid-filter.err"
   ]
 }

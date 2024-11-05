@@ -10,3 +10,5 @@
 - [[Triviale Funktionale Abhängigkeit]]: Jedes [[Attribut]] ist immer [[Funktionale Abhängigkeit|funktional abhängig]] von
 	1. sich selbst ($A \rightarrow A$)
 	2. einer [[Obermenge]] von sich selbst ($\set{A, B, C} \rightarrow \set{A, B}$)
+- [[Hülle einer funktionalen Abhängigkeit]]: Alle [[Funktionale Abhängigkeit|Funktionalen Abhängigkeiten]] eines Schemas, die sich aus den [[Armstrong Axiome|Interferenzregeln]] herleiten lassen
+

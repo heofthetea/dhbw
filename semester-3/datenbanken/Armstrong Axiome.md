@@ -1,16 +1,18 @@
-[[Interferenzregel]]
+> Auch genannt: **Interferenzregeln**
 
-(alle davon sind eigentlich Interferenzregeln aber kp wie ich den anderen Aufschrieb dan nennen sollte lol)
+[[Hülle einer funktionalen Abhängigkeit]]
+
 
 1. $Y \in X \Longrightarrow X \rightarrow Y$ ([[Triviale Funktionale Abhängigkeit]])
 2. $X \rightarrow Y \Longrightarrow XZ \rightarrow YZ$ (Verstärkung)
 3. $X \rightarrow Y \land Y \rightarrow Z \Longrightarrow X \rightarrow Z$ ([[transitiv|Transitivität]])
-4. $X \rightarrow YZ \Longrightarrow X \rightarrow Y, X \rightarrow Z$ (Zerlegung/Dekomposition)
+4. $X \rightarrow YZ \Longrightarrow X \rightarrow Y \land X \rightarrow Z$ (Zerlegung/Dekomposition)
 	1. $X \rightarrow Y \land X \rightarrow Z \Longrightarrow Z \rightarrow YZ$ (Vereinigung) [[Bijektive Abbildung|Bijektivität]] der Zerlegung
 5. $X \rightarrow Y, WY \rightarrow Z \Longrightarrow WX \rightarrow Z$ (Pseudo-Transitivität)
 
 
-> [!note] Die Schreibweise $AB$ ist kurz für eine [[Menge]] aus [[Attribut|Attributen]] $\set{A, B}$
+> [!info] Die Schreibweise $AB$ ist kurz für eine [[Menge]] aus [[Attribut|Attributen]] $\set{A, B}$
+
 
 > [!hint] Ab $4.$ ergeben sich alle Regeln aus den ersten dreien.
 

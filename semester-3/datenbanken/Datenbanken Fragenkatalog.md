@@ -188,12 +188,21 @@
 > [[Referenzielle Integrität]]
 > - Ein [[Fremdschlüssel]] muss zu einem **gültigen** [[Schlüsselattribut|Primärschlüssel]] der anderen [[Entität]] zeigen.
 
-> [!help]- 46\. 
+> [!help]- 46\. Wozu dient die Normalisierung als Prozess?
+> [[Normalisierung]]
+> - Verhinderrn von [[Anomalie|Anomalien]]; z.B. [[Referenzielle Integrität]] gewährleisten
 
-> [!help]- 47\. 
+> [!help]- 47\. Erklären Sie, was man unter [[Anomalie|Anomalien]] versteht, und welche bei einem schlecht designten Datenbankschema auftreten können?
+> In einer [[Datenbank]] existiert ein inkonsistenter Zustand; etwas existiert, was dort nicht hingehört.
+> Beispiel: Etwas wurde gelöscht, etwas wurde nicht gelöscht, etwas wurde verändert - was nicht hätte passieren sollen.
 
-> [!help]- 48\. 
+> [!help]- 48\. Was versteht man unter einer [[Funktionale Abhängigkeit]] bei einer [[Relation]]?
+> Wenn man von einer [[Menge]] $X$ aus [[Attribut|Attributen]] eines Schemas  **immer** auf eine andere [[Menge]] $Y$ aus Attributen schließen kann.
+> Kann man von $X$ auf die gesamte [[Relation]] schließen, ist $X$ ein [[Schlüssel]].
 
-> [!help]- 49\. 
+> [!help]- 49\. Was ist eine [[Triviale Funktionale Abhängigkeit]]?
+> Ein Attribut ist immer [[Funktionale Abhängigkeit|funktional abhängigkeit]] von sich selbst, und seiner Obermenge.
 
-> [!help]- 50\. 
+> [!help]- 50\. Was ist die [[Hülle einer funktionalen Abhängigkeit]], und wie kann sie gebildet werden?
+> - $F$ ist die [[Menge]] aller [[Funktionale Abhängigkeit|funktionalen Abhängigkeiten]] einer Relation. (Die kommen aus der realen Welt!!)
+> - $F^{+}$ ist die [[Menge]] aller [[Funktionale Abhängigkeit|funktionalen Abhängigkeiten]], die daraus durch Anwendung der [[Armstrong Axiome|Interferenzregeln]] hergeleitet werden können.

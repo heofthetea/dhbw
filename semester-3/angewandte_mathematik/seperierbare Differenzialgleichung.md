@@ -1,6 +1,6 @@
 [[Differenzialgleichung]], die man in der Form
-$$y' = \frac{f(x)}{g(y)}$$ schreiben kann.
-
+$$y' = \frac{f(x)}{g(y)}$$ schreiben kann. Es gilt:
+$$\int{g(y)dy} = \int{f(x)dx}$$
 
 ## Anwendung
 > [!hint] Alle anderen Lösungsansätze fußen irgendwie darauf, dass man die [[Differenzialgleichung]] auf diese Form bringt, durch irgendeine Art von Substitution.
