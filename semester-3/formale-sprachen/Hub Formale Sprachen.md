@@ -63,7 +63,7 @@
 
 [[Nachteil DFA]]
 [[Äquivalenz DFA und NFA]]
-[[Transformation NFA -> DFA]]
+[[Transformation NFA zu DFA]]
 - [[epsilon-Abschluss]]
 - [[mögliche Folgezustände eines einzelnen Zustand]]
 - [[mögliche Folgezustände einer Zustandsmenge]]
@@ -72,18 +72,18 @@
 
 ### Automatentransformartionen
 
-[[Transformation RegEx -> NFA]]
+[[Transformation RegEx zu NFA]]
 - [[NFA für Konkatenation]]
 - [[NFA für Vereinigung]]
 - [[NFA für Klenee-Stern]]
-[[Transformation DFA -> Regex]]
+[[Transformation DFA zu Regex]]
 - [[Arden-Lemma]]
 [[Quotientenautomat]]
 - [[Erreichbarer Zustand]]
 - [[Unterscheidbarer Zustand]]
 - [[Minimierung DFA]]
-[[Transformataion DFA -> Grammatik]]
-[[Transformation rechtslineare Grammatik -> DFA]]
+[[Transformataion DFA zu Grammatik]]
+[[Transformation rechtslineare Grammatik zu DFA]]
 ### Pumping Lemma
 [[Grenzen Regulärer Sprachen]]
 [[Pumping Lemma]]
@@ -133,8 +133,8 @@
 - [[Kellerautomat]]
 	- [[Konfiguration KA]]
 	- [[Beispiel Kellerautomat]]
-- [[Transformation KFG -> Kellerautomat]]
-- [[Transformation Kellerautomat -> KFG]]
+- [[Transformation KFG zu Kellerautomat]]
+- [[Transformation Kellerautomat zu KFG]]
 	- [[Zustandsmenge eliminieren]]
 
 #### Eigenschaften/Grenzen
@@ -167,8 +167,8 @@
 
 ### Unbeschränkte Grammatiken
 [[Unbeschränkte Grammatik]]
-- [[Transformation Unbeschränkte Grammatik -> TM]]
-- [[Transformation TM -> Typ 0 Grammatik]]
+- [[Transformation Unbeschränkte Grammatik zu TM]]
+- [[Transformation TM zu Typ 0 Grammatik]]
 	- [[Beispiel 4.20 Turing Machine]]
 
 ## 5. Entscheidbarkeit

@@ -67,7 +67,7 @@ $$\mathcal{A} = (Q, \Sigma, \delta, q_{0}, F)$$-  $Q$ ist _endliche_ Menge an [[
 	- für jeden [[Zustand]] der [[Menge|Zustandsmenge]] die jeweiligen $\delta'$ vereinigen
  
 #### Algorithmus
-[[Transformation NFA -> DFA]]
+[[Transformation NFA zu DFA]]
 1. [[epsilon-Abschluss]] von [[Startzustand]] berechnen: $S_{0} = ec(q_{0})$
 2. [[mögliche Folgezustände einer Zustandsmenge|mögliche Folgezustände der Menge]] $S_{0}$ für alle Symbole $c \in \Sigma$ berechnen
 	1. für jede _neue_ Menge, die entsteht, einen neuen Zustand $S_{i}$ anlegen
@@ -78,9 +78,9 @@ $$\mathcal{A} = (Q, \Sigma, \delta, q_{0}, F)$$-  $Q$ ist _endliche_ Menge an [[
 > [!hint] der Zustand, der durch die [[Leere Menge]] beschrieben wird, wird zum [[Müllzustand]] $S_{j}$
 
 ### Regular Expression zu NFA
-[[Transformation RegEx -> NFA]]
+[[Transformation RegEx zu NFA]]
 [[Regulärer Ausdruck|regulären Ausdruck]] von innen nach Außen bearbeiten:
-1. Zustände für jeden [[Transformation RegEx -> NFA#1. elementare Ausdrücke|Elementarausdruck]] generieren
+1. Zustände für jeden [[Transformation RegEx zu NFA#1. elementare Ausdrücke|Elementarausdruck]] generieren
 2. Elementarzustände richtig mit [[ε-Übergang (epsilon-Übergang)|epsilon-Übergängen]] verbinden:
 	- [[NFA für Konkatenation]]
 	- [[NFA für Vereinigung]]
@@ -89,7 +89,7 @@ $$\mathcal{A} = (Q, \Sigma, \delta, q_{0}, F)$$-  $Q$ ist _endliche_ Menge an [[
 > [!warning]- Kommt ein Elementarsymbol mehrfach im Ausdruck vor, darf der entsprechende Subgraph nicht wiederverwendet werden!!
 
 ### DFA zu Regex
-[[Transformation DFA -> Regex]]
+[[Transformation DFA zu Regex]]
 
 > [!info] Ansatz: für jeden [[Zustand]] [[Rekurrenzrelation]] aufstellen und mit [[Arden-Lemma]] auflösen
 

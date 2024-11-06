@@ -1,4 +1,4 @@
-[[Transformation DFA -> Regex]]
+[[Transformation DFA zu Regex]]
 
 ![[FSA_Handout.pdf#page=98]]
 

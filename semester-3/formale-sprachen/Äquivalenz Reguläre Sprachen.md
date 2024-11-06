@@ -1,8 +1,8 @@
 [[Äquivalenzproblem]], [[Reguläre Sprache]]
 
 ## Algorithmus
-1. [[Transformation RegEx -> NFA]]
-2. [[Transformation NFA -> DFA]]
+1. [[Transformation RegEx zu NFA]]
+2. [[Transformation NFA zu DFA]]
 3. [[Minimierung DFA]]
 4. Benenne [[Zustand|Zustände]] von $A_{1}$ und $A_{2}$ systematisch um, dann vergleiche die [[Tupel]] auf Äquivalenz.
 

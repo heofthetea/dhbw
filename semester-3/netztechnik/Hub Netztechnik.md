@@ -205,15 +205,28 @@ Betriebsarten
 	- [[localhost]]
 - [[Gateway]]
 
-[[Zusammenfassung Netzwerk-Komponenten]]
-## IP
-[[IP]]
-- [[IPv4]]
-- [[IPv6]]
-- [[Besondere IP Adressen]]
-- [[Subnet Mask]]
 #### Beispiele
 - [[Beispiel Bridges]]
 - [[Beispiel Router]]
 - [[Beispiel Router Senden]]
 - [[Cyclic Broadcast Problem]]
+- [[Zusammenfassung Netzwerk-Komponenten]]
+
+## 9. Protokolle
+- [[Protokoll]]
+	- [[Übersicht Protokolle]]
+- [[Backwards Error Correction]]
+	- [[Windowing]]
+### IP
+[[IP]]
+- [[IPv4]]
+	- [[Netzwerkklassen]]
+	- [[IPv4 Adressklassen]]
+	- [[Beispiel IPv4]]
+- [[IPv6]]
+- [[Besondere IP Adressen]]
+- [[Subnet Mask]]
+	- [[Subnetting]]
+		- [[Beispiel Subnetting]]
+		- [[3-Bit Subnetting]]
+	- [[Beispiel IP Routing]]

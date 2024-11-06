@@ -1,7 +1,7 @@
 Aufgabe: [[FSA_Handout.pdf#page=119]]
 
-[[Transformation RegEx -> NFA]]
-[[Transformation NFA -> DFA]]
+[[Transformation RegEx zu NFA]]
+[[Transformation NFA zu DFA]]
 [[Minimierung DFA]]
 
 ## Bearbeitung

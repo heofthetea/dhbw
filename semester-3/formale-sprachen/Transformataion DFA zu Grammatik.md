@@ -1,6 +1,6 @@
 [[Reguläre Sprache]], [[DFA]], [[Rechtslineare Grammatik]]
 
-> [!hint] Im Prinzip selbe Operationen wie [[Transformation DFA -> Regex]]
+> [!hint] Im Prinzip selbe Operationen wie [[Transformation DFA zu Regex]]
 
 
 

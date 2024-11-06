@@ -70,15 +70,15 @@ s. [[Library Reguläre Sprachen]]
 > [!hint] [[Kellerautomat]] braucht eigentlich keine [[Zustand|Zustände]] - der [[Stack]] alleine ist mächtig genug.
 
 ### Transformation Grammatik -> Kellerautomat
-[[Transformation KFG -> Kellerautomat]]
+[[Transformation KFG zu Kellerautomat]]
 - Im Prinzip simuliert der [[Stack]] eine [[Ableitung (Sprache)|Ableitung]] eines [[Wort|Wortes]]
 - Dabei wird mit [[ε-Übergang (epsilon-Übergang)|epsilon-Übergang]] eine [[Produktionsregel|Regel]] angewendet, wenn ein [[Nichtterminalsymbol|NTS]] vom [[Stack]] gelesen wird
 	- wenn [[Terminalsymbol]] gelesen wird und dem eingelesenen [[Symbol]] entspricht, wird [[Stack]] kleiner
 
 ### Transformation Kellerautomat -> Grammatik
-[[Transformation Kellerautomat -> KFG]]
+[[Transformation Kellerautomat zu KFG]]
 1. [[Zustandsmenge eliminieren]] (das ist fucking Arsch und unübersichtlich)
-2. Analog zu [[Transformation KFG -> Kellerautomat]] zurück übersetzen
+2. Analog zu [[Transformation KFG zu Kellerautomat]] zurück übersetzen
 
 #### Zustandsmenge eliminieren
 [[Zustandsmenge eliminieren]]

@@ -1,4 +1,4 @@
-[[Operationen auf Mengen#Union]], [[Transformation RegEx -> NFA]]
+[[Operationen auf Mengen#Union]], [[Transformation RegEx zu NFA]]
 
 - Startzustände $1$ und $2$ sind keine Startzustände mehr 
 	- Stattdessen wird neuer Startzustand $0$ eingeführt, mit [[ε-Übergang (epsilon-Übergang)|epsilon-Übergängen]] zu bisherigen Startzuständen

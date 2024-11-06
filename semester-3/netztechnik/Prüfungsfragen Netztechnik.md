@@ -113,3 +113,17 @@ kann auch alles, was ein [[Switch]] machen kann
 
 > [!warning] Gibt [[Broadcast]] **nicht** ins [[Internet]] weiter
 
+
+## Welche Teile eines Frames werden von Switches wofür verwendet?
+[[Switch]], [[Bridge]]
+- [[Frame]]: [[Paket]] ohne [[Layer 1]] Header -> Mac-Adressen bis ende
+- Ziel-Mac: wohin geht das Paket?
+- Quell-Mac: Tabelle aufbauen (Mac $\rightarrow Port$)
+- wenn in Store & Forward: auch noch [[CRC]] (liegt ganz am Ende) auswerten
+	- Fehlererkennung
+
+## Kollisions-Broadcast-Domänen
+- [[Router]] begrenzt <span style="color:rgb(126, 198, 54)">Broadcast-Domains</span>
+- [[Switch]] begrenzt <span style="color:rgb(0, 122, 255)">Kollisions-Domains</span>
+
+![[Pasted image 20241106091726.png]]

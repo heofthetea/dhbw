@@ -1,4 +1,4 @@
-> Man kann steuern, wie viel ein Empfänger noch empfangen kann
+> Empfänger gibt an, wie viel er gerade noch bearbeiten kan
 
 - Beispiel: Empfänger muss Buffer abarbeiten
 	- kann dem Sender dann sagen, dass er warten soll lol

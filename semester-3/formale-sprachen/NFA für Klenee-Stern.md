@@ -1,4 +1,4 @@
-[[Transformation RegEx -> NFA]], [[Klenee-Stern]]
+[[Transformation RegEx zu NFA]], [[Klenee-Stern]]
 
 - man muss [[leeres Wort]] akzeptieren
 	- neuer [[Startzustand]], der gleichzeitig [[Endzustand]] ist

@@ -6,7 +6,7 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 44.82942430703625,
+        "dimension": 46.588486140724946,
         "children": [
           {
             "id": "f025252f25493d6e",
@@ -126,7 +126,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -206,12 +206,12 @@
       {
         "id": "5e44c37c29a1d2f6",
         "type": "split",
-        "dimension": 55.17057569296375,
+        "dimension": 53.41151385927505,
         "children": [
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 66.38176638176638,
+            "dimension": 81.00664767331433,
             "children": [
               {
                 "id": "30aee00924d8cac5",
@@ -357,12 +357,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/Datenbanken Projekt.md",
+                    "file": "semester-2/web-engineering/IP.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Datenbanken Projekt"
+                  "title": "IP"
                 }
               },
               {
@@ -378,14 +378,80 @@
                   "icon": "lucide-file",
                   "title": "Armstrong Axiome"
                 }
+              },
+              {
+                "id": "20900df69e13575f",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              },
+              {
+                "id": "3022138d0655a333",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/web-engineering/ARP.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ARP"
+                }
+              },
+              {
+                "id": "a428af564512f33f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/IPv4 Adressklassen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "IPv4 Adressklassen"
+                }
+              },
+              {
+                "id": "fcb5b228cba05ebf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/IP Adresse.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "IP Adresse"
+                }
+              },
+              {
+                "id": "5b265accef16f5b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Transformation rechtslineare Grammatik zu DFA.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Transformation rechtslineare Grammatik zu DFA"
+                }
               }
             ],
-            "currentTab": 10
+            "currentTab": 16
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 33.61823361823362,
+            "dimension": 18.99335232668566,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -490,7 +556,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -582,7 +648,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/datenbanken/Datenbanken Projekt.md",
+                "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -592,7 +658,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Datenbanken Projekt"
+              "title": "Backlinks for Hub Formale Sprachen"
             }
           }
         ],
@@ -620,50 +686,50 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "453402ecf2702cde",
+  "active": "34c077307a8540a0",
   "lastOpenFiles": [
-    "semester-3/datenbanken/3NF.md",
-    "semester-3/datenbanken/Datenbanken Projekt.md",
-    "semester-3/datenbanken/Hub Datenbanken.md",
-    "semester-3/datenbanken/BCNF.md",
-    "semester-3/datenbanken/Übung 3NF.md",
-    "semester-3/datenbanken/Armstrong Axiome.md",
-    "semester-2/algorithmen/Konstante Laufzeit.md",
-    "semester-2/algorithmen/Konstante.md",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/datenbanken/Übung 2NF.md",
-    "semester-3/datenbanken/images/Pasted image 20241105150833.png",
-    "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
-    "semester-3/datenbanken/2NF.md",
-    "semester-3/datenbanken/1NF.md",
-    "semester-3/datenbanken/images/Pasted image 20241105144348.png",
-    "semester-3/datenbanken/images/Pasted image 20241105141351.png",
-    "semester-3/datenbanken/Normalisierung.md",
-    "semester-3/datenbanken/Beispiel Schlüsselkandidaten.md",
-    "semester-3/datenbanken/images/Pasted image 20241105140121.png",
-    "semester-3/datenbanken/Primattribut.md",
-    "semester-3/datenbanken/Schlüsselkandidat.md",
-    "semester-2/algorithmen/Superschlüssel.md",
-    "semester-2/analysis/Menge.md",
-    "semester-2/algorithmen/Teilmenge.md",
-    "semester-2/algorithmen/Schlüssel.md",
-    "semester-3/datenbanken/Funktionale Abhängigkeit.md",
-    "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
-    "semester-3/netztechnik/Topologie.md",
-    "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
+    "semester-3/formale-sprachen/Transformation rechtslineare Grammatik zu DFA.md",
+    "intension/keycloak/authorization_services/Authorization > Settings.md",
     "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Library Turing Maschinen.md",
+    "semester-3/formale-sprachen/Transformataion DFA zu Grammatik.md",
+    "semester-3/formale-sprachen/Transformation RegEx zu NFA.md",
+    "semester-3/formale-sprachen/Transformation DFA zu Regex.md",
+    "semester-3/formale-sprachen/Transformation NFA zu DFA.md",
+    "semester-3/formale-sprachen/Transformation KFG zu Kellerautomat.md",
+    "semester-3/formale-sprachen/Transformation Kellerautomat zu KFG.md",
+    "semester-3/formale-sprachen/Transformation Unbeschränkte Grammatik zu TM.md",
+    "semester-3/formale-sprachen/Transformation TM zu Typ 0 Grammatik.md",
+    "semester-3/netztechnik/3-Bit Subnetting.md",
+    "semester-3/netztechnik/images/Pasted image 20241106115821.png",
+    "semester-3/netztechnik/Hub Netztechnik.md",
+    "semester-3/netztechnik/Subnetting.md",
+    "semester-3/netztechnik/Beispiel Subnetting.md",
+    "semester-3/netztechnik/Beispiel IP Routing.md",
+    "semester-3/netztechnik/images/Pasted image 20241106115434.png",
+    "semester-3/netztechnik/images/Pasted image 20241106114542.png",
+    "semester-3/netztechnik/images/Pasted image 20241106113834.png",
+    "semester-3/netztechnik/Subnet Mask.md",
+    "semester-3/netztechnik/images/Pasted image 20241106113415.png",
+    "semester-3/netztechnik/IPv4.md",
+    "semester-3/netztechnik/Beispiel IPv4.md",
+    "semester-3/netztechnik/images/Pasted image 20241106112338.png",
+    "semester-3/netztechnik/IPv4 Adressklassen.md",
+    "semester-3/netztechnik/IP Adresse.md",
+    "semester-3/netztechnik/Multicast.md",
+    "semester-3/netztechnik/images/Pasted image 20241106111037.png",
+    "semester-3/netztechnik/Netzwerkklassen.md",
+    "semester-3/netztechnik/RIPE.md",
+    "semester-2/web-engineering/Fragmentierung.md",
+    "semester-3/netztechnik/images/Pasted image 20241106110017.png",
+    "semester-2/web-engineering/IP.md",
+    "semester-3/netztechnik/images/Pasted image 20241106104833.png",
+    "semester-3/netztechnik/images/Pasted image 20241106104018.png",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
     "semester-3/rechnerarchitekturen/sources/RT1Fragen_2024.pdf",
     "semester-1/lineare-algebra/latex_symbols.pdf",
     "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
     "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf",
     "modulhandbuch.pdf",
-    "semester-3/angewandte_mathematik/images/Pasted image 20241104140757.png",
-    "semester-3/software_architektur/images/Pasted image 20241020112317.png",
-    "semester-3/software_architektur/images/Pasted image 20240924093807.png",
-    "semester-3/software_architektur/images/Pasted image 20240917084712.png",
-    "semester-3/software_architektur/images/Pasted image 20240917083837.png",
-    "semester-3/software_architektur/images/Pasted image 20240917082325.png",
     "semester-3/software_architektur/images",
     "semester-3/software_architektur",
     "semester-3/rechnerarchitekturen/mermaid.pdf",

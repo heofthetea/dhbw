@@ -1,4 +1,4 @@
-> Zur Lösung der Gleichungssysteme aus [[Transformation DFA -> Regex]]
+> Zur Lösung der Gleichungssysteme aus [[Transformation DFA zu Regex]]
 
 [[leeres Wort]], [[Klenee-Stern]], [[Regulärer Ausdruck]], [[Rekurrenzrelation]]
 

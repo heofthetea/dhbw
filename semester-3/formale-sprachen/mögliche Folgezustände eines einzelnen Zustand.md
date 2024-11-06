@@ -1,4 +1,4 @@
-> essentieller Teil [[Transformation NFA -> DFA]]
+> essentieller Teil [[Transformation NFA zu DFA]]
 
 [[epsilon-Abschluss]], [[Abbildung]], [[Operationen auf Mengen#Union|Mengenvereinigung]]
 - transformiert eine [[Übergangsrelation]] in eine [[Übergangsfunktion]]

@@ -10,6 +10,6 @@
 ==> **logische Addressierung** 
 
 ## Generierte Header
-- Quell [[IP Adress]]
-- Ziel  [[IP Adress]]
+- Quell [[IP Adresse]]
+- Ziel  [[IP Adresse]]
 

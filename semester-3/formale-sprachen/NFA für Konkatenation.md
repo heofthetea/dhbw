@@ -1,4 +1,4 @@
-[[Transformation RegEx -> NFA]], [[Konkatenation]]
+[[Transformation RegEx zu NFA]], [[Konkatenation]]
 
 - $\mathcal{A}(r_{1})$ wird dargestellt als Black Box mit Anschlüssen:
 	- Startzustand ist sichtbar

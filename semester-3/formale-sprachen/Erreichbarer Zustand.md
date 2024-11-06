@@ -6,4 +6,4 @@ Ein [[Zustand]] $q\in Q$ heißt _erreichbar_, wenn es einen [[Lauf]] $((q_{0}, w
 
 ## Unerreichbare Zustände
 - treten bei algorithmisch erzeugten Autmaten auf
-	- bsp. Potenzmenkenkonstruktionen bei [[Transformation NFA -> DFA]]
+	- bsp. Potenzmenkenkonstruktionen bei [[Transformation NFA zu DFA]]
