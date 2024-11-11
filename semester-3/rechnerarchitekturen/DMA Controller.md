@@ -1,16 +1,13 @@
 > Controller für [[Direct Memory Access]]
 
-
-
-
-#todo Bild
+![[Pasted image 20241107100616.png]]
 
 ### Bestandteile
 - Steuerung
 - [[Register]]
 	- Adressregister (Quelle + Ziel)
-	- Zähler
-	- Konfigurations-/Statusregister (um Modi einzustellen o.ä.)
+	- Zähler -> wie viele [[Paket|Pakete]] hab ich schon verschickt, wie viele muss noch?
+	- Konfigurations-/Statusregister (um [[Modi DMA|Modi]] einzustellen)
 	- Daten-/Speicherregister
 - Anschlüsse
 	- zum [[Systembus]] (bidirektionale Adressleitungen)

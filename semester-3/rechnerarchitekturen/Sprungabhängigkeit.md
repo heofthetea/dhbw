@@ -29,3 +29,28 @@
 	- Pipeline wird _immer_ verzögert (auch wenn Sprung nicht nachgegeben wird) (➖)
 	- nichts/wenig verwerfen (➕) (nur noch ein Befehl)
 	- weniger Buszugriffe (weil weniger Befehle geladen) (➕)
+
+## Abhilfe in Software
+- Richtige Befehle/NOPs einfügen
+- Befehl vor jump wird nach Jump ausgeführt
+
+> [!warning] Funktioniert nur, wenn Compiler + [[CPU]] gut zusammenarbeiten
+> => Compiler muss wissen, wie groß der Delay Slot der [[CPU]] ist
+
+| Takt | CF       | D        | OF       | E                                   | W      |
+| ---- | -------- | -------- | -------- | ----------------------------------- | ------ |
+| 1    | `JZ X`   |          |          |                                     |        |
+| 2    | `Inst a` | `JZ X`   |          |                                     |        |
+| 3    | `NOP`    | `Inst a` | `JZ X`   |                                     |        |
+| 4    | `NOP`    | `NOP`    | `Inst a` | `JZ X`<br>Sprungziel bekannt -> `X` |        |
+| 5    | `Inst b` | `NOP`    | `NOP`    | `Inst a`                            | `JZ X` |
+
+> [!hint] `NOP, NOP, Inst a` werden trotzdem ausgeführt! => **Delay Slot**
+
+### Vorteile
+- keine Verzögerungen
+- es wird nichts verworfen
+- keine unnötigen [[BUS-System|Bus]]-Zugriffe
+### Nachteile
+- bei NOP: Programm wird länger und langsamer
+

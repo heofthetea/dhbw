@@ -11,5 +11,5 @@ Eine [[Menge]] $S$ heißt [[Entscheidbarkeit|entscheidbar]], wenn es eine [[Dete
 
 > [!hint] $M$ muss **immer** [[Haltekonfiguration|terminieren]].
 
-> [!warning] Obwohl NTMs und DTMs sprachlich äquivalent sind, ist bei NTM nicht sicher gestellt, dass alle Läufe terminieren --> Für die [[Entscheidbarkeit]] sind die beiden nicht äquivalent.
+> [!warning] Obwohl NTMs und DTMs sprachlich äquivalent sind, ist bei NTM nicht sicher gestellt, dass alle Läufe terminieren -> Für die [[Entscheidbarkeit]] sind die beiden nicht äquivalent.
 

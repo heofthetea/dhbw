@@ -5,6 +5,7 @@
 [[FSA_Handout.pdf]]
 
 #### Altklausuren
+[[testat.pdf]]
 ### Prüfungsleistung
 - Klausur 90 min
 - 10 pages Cheat Sheet
@@ -15,6 +16,7 @@
 [[Library Reguläre Sprachen]]
 [[Library Grammatiken]]
 [[Library Turing Maschinen]]
+[[Library Entscheidbarkeit]]
 
 # Vorlesungen
 ## 1. Basics
@@ -124,10 +126,8 @@
 	- [[Reduzierte Grammatik]]
 
 #### Entscheidungsprobleme
-- [[Wortproblem]]: [[CYK Algorithmus]]
-- [[Leerheitsproblem]]: Ist [[Startsymbol]] terminierend?
-- [[Endlichkeitsproblem]]: nur [[Reguläre Sprache|reguläre Sprachen]] sind [[endliche Sprachen|endlich]] 
-- [[Äquivalenzproblem]]: nicht entscheidbar für [[Kontextfreie Sprache]]
+[[Entscheidungsprobleme Kontextfreie Sprachen]]
+
 
 #### Kellerautomaten
 - [[Kellerautomat]]
@@ -175,12 +175,26 @@
 [[Turing Machine]]
 [[Entscheidbarkeit]]
 - [[Semi-Entscheidbarkeit]]
+	- [[Aufzähl-Turing Machine]]
 ---
 [[Unentscheidbarkeit]]
 - [[Gödelisierung]]
 - [[Spezielles Wortproblem]]
 	- [[Beweis Unentscheidbarkeit spezielles Wortproblem]]
 - [[Diagonalisierung]]
+- [[Reduktion]]
+	- [[Wortproblem TM]]
+- [[Halteproblem]]
+	- [[Leerheitsproblem TM]]
+	- [[Äquivalenzproblem TM]]
+- [[Der Ultimative Unentscheidbarkeitssatz der Turing Maschinen]]
+
+### Jenseits von Turing Maschinen
+- [[PKP]]
+	- [[MPKP]]
+	- [[Reduktion Halteproblem auf MPKP]]
+	- [[Disjunktheitsproblem]]
+
 
 
 

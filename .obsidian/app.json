@@ -44,5 +44,6 @@
     "\"/.*/output/.*/\"",
     "semester-2/java/movie-database/",
     "/.*/.pyc/"
-  ]
+  ],
+  "mobilePullAction": "switcher:open"
 }

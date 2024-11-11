@@ -7,3 +7,5 @@
 - ich habe Priorität XY
 - ich habe [[MAC Adresse]] XY
 - meine Kosten zum [[Wurzel|Root]] sind XY
+
+![[Pasted image 20241108101324.png]]

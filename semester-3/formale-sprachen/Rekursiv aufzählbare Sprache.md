@@ -1,5 +1,5 @@
 > auch: [[Semi-Entscheidbarkeit|semi-entscheidbare]] Sprachen
-> erkannt durch [[Turing Machine]]
+> erkannt durch [[Aufzähl-Turing Machine]])
 
 allgemeinste Klasse der [[Sprache|formalen Sprachen]] (in dieser Vorlesung)
 - ist nicht [[Entscheidbarkeit|entscheidbar]]
@@ -9,6 +9,7 @@ allgemeinste Klasse der [[Sprache|formalen Sprachen]] (in dieser Vorlesung)
 
 > [!hint]- ist nur eine sehr kleine [[Teilmenge]] aller möglichen Sprachen
 > Die [[Menge]] der _unvernünftigen Sprachen_ ist wesentlich größer
+
 
 ## Normalform
 1. $A \rightarrow c$

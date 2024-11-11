@@ -13,10 +13,10 @@
 
 | Problem                 | Reguläre Sprache                           | Kontextfreie Sprache          | [[Entscheidungsprobleme Kontextsensitive Sprachen\|Kontextsensitive Sprache]] | Turing Machines                |
 | ----------------------- | ------------------------------------------ | ----------------------------- | ----------------------------------------------------------------------------- | ------------------------------ |
-| [[Wortproblem]]         | ✅ -> [[Endlicher Automat]]                 | ✅ -> [[CYK Algorithmus]]      | ✅                                                                             | ✅ -> [[Semi-Entscheidbarkeit]] |
-| [[Leerheitsproblem]]    | ✅ -> [[Leerheitsproblem Reguläre Sprache]] | ✅ -> [[Reduzierte Grammatik]] | ❌                                                                             | ❌                              |
+| [[Wortproblem]]         | ✅ -> [[Endlicher Automat]]                 | ✅ -> [[CYK Algorithmus]]      | ✅                                                                             | ❌ -> [[Wortproblem TM]]        |
+| [[Leerheitsproblem]]    | ✅ -> [[Leerheitsproblem Reguläre Sprache]] | ✅ -> [[Reduzierte Grammatik]] | ❌                                                                             | ❌ -> [[Leerheitsproblem TM]]   |
 | [[Endlichkeitsproblem]] | ✅ -> [[endliche Sprachen]]                 | -                             | -                                                                             | -                              |
-| [[Äquivalenzproblem]]   | ✅ -> [[Äquivalenz Reguläre Sprachen]]      | ❌                             | ❌                                                                             | ❌                              |
+| [[Äquivalenzproblem]]   | ✅ -> [[Äquivalenz Reguläre Sprachen]]      | ❌                             | ❌                                                                             | ❌ -> [[Äquivalenzproblem TM]]  |
 
 # Reguläre Sprachen
 s. [[Library Reguläre Sprachen]]

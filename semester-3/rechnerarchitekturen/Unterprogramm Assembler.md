@@ -45,7 +45,7 @@ X:  UP1
 	1. Rücksprungadresse = `(PC)` = Adresse des nächsten Befehls
 	2. merken (via [[Stack]] ([[i386]]) oder [[Register]] ([[RISC]]))
 4. (evtl. Retten von Status durch Hardware (automatisch))
-5. Verzweigen `(PC) = UPadr.`
+5. Verzweigen `(PC) = UP adr.`
 6. UP abarbeiten
 7. (evtl. Retten von Status, Software im UP)
 8. (evtl. Parameter lesen von HP)
@@ -59,4 +59,8 @@ X:  UP1
 
  > [!hint] Restoring sorgt dafür, dass Unterprogramm [[Register]], [[Akkumulator]] etc. manipulieren kann, ohne dass Hauptprogramm was davon mitbekommt
  
- 
+#### Kurz
+1.  [[Programm Counter]] merken (über [[Stack]])
+2. [[Programm Counter]] auf [[Adresse]] des 1. Befehls des Unterprogramms setzen
+3. (UP abarbeiten)
+4. Nach return: [[Stack]] poppen;  [[Programm Counter]] zurück setzen

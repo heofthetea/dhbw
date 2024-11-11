@@ -2,11 +2,17 @@
 
 > [!info] Aus $y''$ wird $\lambda^{2}$, aus $y'$ wird $\lambda$ 
 
+> [!hint] Aus [[Eigentwerttheorie]]: $\lambda_{c}(x) = det(A - \lambda\mathbb{1})$
+> 
+
+
+
 
 ## Finden der [[Fundamentallösung]]
 1. Bilde [[Charakteristische Gleichung]]
 2. Finde alle [[Eigentwerttheorie|Eigenwerte]] $\lambda_{n}$
 3. Für jedes $\lambda_{n}$ ist $e^{\lambda_{n}x}$ eine [[Fundamentallösung]]
+	1. Konstanten sind Faktoren: Aus $\lambda_{n}$ wird $c_{n}e^{\lambda_{n}}$ 
 
 > [!hint] Für eine $n$-Stellige Nullstelle der Charakteristischen Gleichung werden einfach ein $x^{l}$ mit vor das $e^{\lambda_{n}x}$ gehängt.
 > $$(y + 1)^{3} = 0$$

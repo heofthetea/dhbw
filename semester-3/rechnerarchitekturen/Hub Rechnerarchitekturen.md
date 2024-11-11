@@ -14,6 +14,7 @@ in Semester 3: [[Hub Betriebssysteme]]
 [[Library CPU Komponenten]]
 [[Library Speicher]]
 [[Library Interrupts]]
+[[Library DMA und Pipelining]]
 
 # Vorlesung
 [[Ausblick Rechnerarchitekturen]]
@@ -181,3 +182,9 @@ nach Erkennung
 - [[Probleme mit Pipelining]]
 	- [[Data Hazard]]
 	- [[Sprungabhängigkeit]]
+		- [[Sprungvorhersage]]
+
+## Cache
+(nicht mehr Klausurrelevant für RA, aber für Betriebssysteme)
+[[Cache]]
+- [[4-way Cache]]

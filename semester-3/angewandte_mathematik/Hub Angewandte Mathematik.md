@@ -2,6 +2,7 @@
 [[Übungen zum Kapitel 2.pdf]]
 [[Übungen zum Kapitel 3.pdf]]
 [[Übungen zum Kapitel 4.pdf]]
+[[Übungen zum Kapitel 5.pdf]]
 
 
 ## Library ig idfk but probably relevant for Klausru
@@ -60,4 +61,7 @@
 - [[Fundamentallösung]]
 - [[Charakteristische Gleichung]]
 	- [[Partikuläre Lösung Finden]]
-	- 
+- [[Schwingungen]] 
+- [[System aus Differenzialgleichungen]]
+
+## Numerische Verfahren

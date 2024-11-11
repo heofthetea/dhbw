@@ -124,9 +124,23 @@
                   "icon": "lucide-file",
                   "title": "Hub Angewandte Mathematik"
                 }
+              },
+              {
+                "id": "10108b4ee402624a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-2/algorithmen/Hub Algorithmen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hub Algorithmen"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 6
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -196,9 +210,41 @@
                   "icon": "lucide-file",
                   "title": "Library DB Normalisierung"
                 }
+              },
+              {
+                "id": "02cf03e13113a3a9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Library Grammatiken.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Library Grammatiken"
+                }
+              },
+              {
+                "id": "084e07cac30d6c08",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Library Entscheidbarkeit.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Library Entscheidbarkeit"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -211,7 +257,7 @@
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 81.00664767331433,
+            "dimension": 45.2991452991453,
             "children": [
               {
                 "id": "30aee00924d8cac5",
@@ -219,239 +265,161 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/netztechnik/Topologie.md",
+                    "file": "semester-3/formale-sprachen/Halteproblem.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Topologie"
+                  "title": "Halteproblem"
                 }
               },
               {
-                "id": "2e5d23a781c34a5f",
+                "id": "9813320f34463854",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/Is-a Relationship als Relation.md",
+                    "file": "semester-1/lineare-algebra/Aufschriebe/Bijektive Abbildung.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Is-a Relationship als Relation"
+                  "title": "Bijektive Abbildung"
                 }
               },
               {
-                "id": "001d1a322082bf4e",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-1/lineare-algebra/latex_symbols.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "latex_symbols"
-                }
-              },
-              {
-                "id": "c3c39209064991a1",
+                "id": "28736e0963fdb2fb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/netztechnik/NEXT.md",
+                    "file": "semester-3/formale-sprachen/Halteproblem.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "NEXT"
+                  "title": "Halteproblem"
                 }
               },
               {
-                "id": "1b5190bf0a722e1c",
+                "id": "0b952f81339b62d6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-1/lineare-algebra/Aufschriebe/Abbildung.md",
+                    "file": "semester-3/formale-sprachen/Reduktion.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Abbildung"
+                  "title": "Reduktion"
                 }
               },
               {
-                "id": "bf219a1f50d3016f",
+                "id": "84ac40e7dbbbbef1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Ablauf Interrupt.md",
+                    "file": "semester-1/programmieren/concepts/Floating Point Darstellung.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ablauf Interrupt"
+                  "title": "Floating Point Darstellung"
                 }
               },
               {
-                "id": "ad158b3388d2fc1e",
+                "id": "8766fca2d9d07eb0",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/angewandte_mathematik/Lösung linearer Differenzialgleichung.md",
+                    "file": "semester-3/formale-sprachen/Semi-Entscheidbarkeit.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Lösung linearer Differenzialgleichung"
+                  "title": "Semi-Entscheidbarkeit"
                 }
               },
               {
-                "id": "20055c56bef33d79",
+                "id": "e40357abf0e910ac",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/angewandte_mathematik/Kugelkoordinaten.md",
+                    "file": "semester-3/formale-sprachen/Reduktion.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Kugelkoordinaten"
+                  "title": "Reduktion"
                 }
               },
               {
-                "id": "4c1fa15d55613159",
+                "id": "5f5ff63fa6b93351",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/angewandte_mathematik/seperierbare Differenzialgleichung.md",
+                    "file": "semester-3/angewandte_mathematik/Schwingungen.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "seperierbare Differenzialgleichung"
+                  "title": "Schwingungen"
                 }
               },
               {
-                "id": "f2f3c654676e0bd3",
+                "id": "0278c9b253b6158a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/Funktionale Abhängigkeit.md",
+                    "file": "semester-3/angewandte_mathematik/System aus Differenzialgleichungen.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Funktionale Abhängigkeit"
+                  "title": "System aus Differenzialgleichungen"
                 }
               },
               {
-                "id": "453402ecf2702cde",
+                "id": "454b7c64181ddca2",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/web-engineering/IP.md",
+                    "file": "semester-3/angewandte_mathematik/Eigentwerttheorie.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "IP"
+                  "title": "Eigentwerttheorie"
                 }
               },
               {
-                "id": "21714e72c3dfbfe3",
+                "id": "380a0d176ce6a3aa",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/Armstrong Axiome.md",
+                    "file": "semester-3/angewandte_mathematik/Charakteristische Gleichung.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Armstrong Axiome"
-                }
-              },
-              {
-                "id": "20900df69e13575f",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              },
-              {
-                "id": "3022138d0655a333",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/web-engineering/ARP.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ARP"
-                }
-              },
-              {
-                "id": "a428af564512f33f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/IPv4 Adressklassen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "IPv4 Adressklassen"
-                }
-              },
-              {
-                "id": "fcb5b228cba05ebf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/IP Adresse.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "IP Adresse"
-                }
-              },
-              {
-                "id": "5b265accef16f5b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Transformation rechtslineare Grammatik zu DFA.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Transformation rechtslineare Grammatik zu DFA"
+                  "title": "Charakteristische Gleichung"
                 }
               }
             ],
-            "currentTab": 16
+            "currentTab": 10
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 18.99335232668566,
+            "dimension": 54.700854700854705,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -522,7 +490,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -556,7 +524,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DPTR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -648,7 +616,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+                "file": "semester-3/rechnerarchitekturen/Überlauf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -658,7 +626,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hub Formale Sprachen"
+              "title": "Backlinks for Überlauf"
             }
           }
         ],
@@ -686,53 +654,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "34c077307a8540a0",
+  "active": "dbac54b26696a68c",
   "lastOpenFiles": [
-    "semester-3/formale-sprachen/Transformation rechtslineare Grammatik zu DFA.md",
-    "intension/keycloak/authorization_services/Authorization > Settings.md",
-    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Transformataion DFA zu Grammatik.md",
-    "semester-3/formale-sprachen/Transformation RegEx zu NFA.md",
-    "semester-3/formale-sprachen/Transformation DFA zu Regex.md",
-    "semester-3/formale-sprachen/Transformation NFA zu DFA.md",
-    "semester-3/formale-sprachen/Transformation KFG zu Kellerautomat.md",
-    "semester-3/formale-sprachen/Transformation Kellerautomat zu KFG.md",
-    "semester-3/formale-sprachen/Transformation Unbeschränkte Grammatik zu TM.md",
-    "semester-3/formale-sprachen/Transformation TM zu Typ 0 Grammatik.md",
-    "semester-3/netztechnik/3-Bit Subnetting.md",
-    "semester-3/netztechnik/images/Pasted image 20241106115821.png",
-    "semester-3/netztechnik/Hub Netztechnik.md",
-    "semester-3/netztechnik/Subnetting.md",
-    "semester-3/netztechnik/Beispiel Subnetting.md",
-    "semester-3/netztechnik/Beispiel IP Routing.md",
-    "semester-3/netztechnik/images/Pasted image 20241106115434.png",
-    "semester-3/netztechnik/images/Pasted image 20241106114542.png",
-    "semester-3/netztechnik/images/Pasted image 20241106113834.png",
-    "semester-3/netztechnik/Subnet Mask.md",
-    "semester-3/netztechnik/images/Pasted image 20241106113415.png",
-    "semester-3/netztechnik/IPv4.md",
-    "semester-3/netztechnik/Beispiel IPv4.md",
-    "semester-3/netztechnik/images/Pasted image 20241106112338.png",
-    "semester-3/netztechnik/IPv4 Adressklassen.md",
-    "semester-3/netztechnik/IP Adresse.md",
-    "semester-3/netztechnik/Multicast.md",
-    "semester-3/netztechnik/images/Pasted image 20241106111037.png",
-    "semester-3/netztechnik/Netzwerkklassen.md",
-    "semester-3/netztechnik/RIPE.md",
-    "semester-2/web-engineering/Fragmentierung.md",
-    "semester-3/netztechnik/images/Pasted image 20241106110017.png",
-    "semester-2/web-engineering/IP.md",
-    "semester-3/netztechnik/images/Pasted image 20241106104833.png",
-    "semester-3/netztechnik/images/Pasted image 20241106104018.png",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/rechnerarchitekturen/sources/RT1Fragen_2024.pdf",
-    "semester-1/lineare-algebra/latex_symbols.pdf",
-    "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
+    "semester-3/angewandte_mathematik/Charakteristische Gleichung.md",
+    "semester-3/angewandte_mathematik/System aus Differenzialgleichungen.md",
+    "semester-3/angewandte_mathematik/Eigentwerttheorie.md",
+    "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
+    "semester-3/angewandte_mathematik/Partikuläre Lösung Finden.md",
+    "semester-3/angewandte_mathematik/Lösung linearer Differenzialgleichung.md",
+    "README.md",
+    "semester-3/angewandte_mathematik/Schwingungen.md",
+    "semester-3/angewandte_mathematik/images/Pasted image 20241111131325.png",
     "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf",
+    "semester-3/angewandte_mathematik/Fundamentallösung.md",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "semester-3/formale-sprachen/Beispiel 3.51 Pumping Lemma 2.md",
+    "semester-3/formale-sprachen/Pumping Lemma für Kontextfreie Sprachen.md",
+    "semester-3/formale-sprachen/Reduktion.md",
+    "semester-3/formale-sprachen/Chomsky Hierarchie.md",
+    "semester-2/algorithmen/Hub Algorithmen.md",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/formale-sprachen/sources/testat.pdf",
+    "semester-3/angewandte_mathematik/pdf/Übungen zum Kapitel 5.pdf",
+    "semester-3/formale-sprachen/Library Entscheidbarkeit.md",
+    "semester-3/formale-sprachen/Beweis Unentscheidbarkeit spezielles Wortproblem.md",
+    "semester-1/programmieren/concepts/Floating Point Darstellung.md",
+    "semester-3/rechnerarchitekturen/Library DMA und Pipelining.md",
+    "semester-3/formale-sprachen/Aufzähl-Turing Machine.md",
+    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+    "semester-3/formale-sprachen/Rekursiv aufzählbare Sprache.md",
+    "semester-3/formale-sprachen/Semi-Entscheidbarkeit.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241108133950.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241108133819.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241108132858.png",
+    "semester-3/formale-sprachen/Entscheidungsprobleme Kontextfreie Sprachen.md",
+    "semester-3/formale-sprachen/Äquivalenzproblem.md",
+    "semester-3/formale-sprachen/Entscheidungsprobleme Kontextsensitive Sprachen.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241108130451.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241108121549.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241108121432.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241108111232.png",
+    "semester-3/netztechnik/images/Pasted image 20241108101324.png",
+    "semester-3/rechnerarchitekturen/images/Pasted image 20241107100616.png",
+    "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
     "modulhandbuch.pdf",
-    "semester-3/software_architektur/images",
-    "semester-3/software_architektur",
-    "semester-3/rechnerarchitekturen/mermaid.pdf",
-    "semester-3/rechnerarchitekturen/mermaid-filter.err"
+    "semester-1/lineare-algebra/latex_symbols.pdf",
+    "semester-3/rechnerarchitekturen/sources/RT1Fragen_2024.pdf",
+    "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
+    "semester-3/software_architektur/images"
   ]
 }

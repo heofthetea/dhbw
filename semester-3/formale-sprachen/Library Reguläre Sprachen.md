@@ -44,7 +44,8 @@
 ### Deterministischer Endlicher Automat ([[DFA]])
 - [[Wort]] ist akzeptiert, wenn der [[Lauf]] über dem Wort akzeptierend ist
 #### Definiert als 5-[[Tupel]]:
-$$\mathcal{A} = (Q, \Sigma, \delta, q_{0}, F)$$-  $Q$ ist _endliche_ Menge an [[Zustand|Zuständen]]
+$$\mathcal{A} = (Q, \Sigma, \delta, q_{0}, F)$$
+- $Q$ ist _endliche_ Menge an [[Zustand|Zuständen]]
 - $\Sigma$ ist ein _endliches_ Eingabe-[[Alphabet]]
 - $\delta: Q \times \Sigma \rightarrow Q$: [[Übergangsfunktion]] für jeden Zustand
 - $q_{0}\in Q$: [[Startzustand]]
