@@ -1,7 +1,7 @@
 # DHBW Vault
 An [Obsidian.md](https://obsidian.md/) vault where I keep my notes for my Computer Science Degree.
 
-> !! Warning: currently, the main branch currently has a few filenames that are illegal on windows. Cloning should still succeed, but you'll then have to checkout to the `semester-3` branch. There, the filenames should be fine.
+> !! Warning: Currently, the main branch has a few filenames that are illegal on windows. Cloning should still succeed, but you'll then have to checkout to the `semester-3` branch. There, the filenames should be fine.
 
 ## Structure
 The vault is structured in the following way:
