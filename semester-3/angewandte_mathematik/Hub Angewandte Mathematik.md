@@ -65,3 +65,4 @@
 - [[System aus Differenzialgleichungen]]
 
 ## Numerische Verfahren
+- [[Polygonzugverfahren von Euler]]

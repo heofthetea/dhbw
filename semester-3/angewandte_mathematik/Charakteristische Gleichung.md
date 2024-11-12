@@ -22,7 +22,7 @@
 ## Komplexe Lösungen
 - Die Eigenwerte können [[komplexe Zahl|komplex]] sein (aber immer in der Form): $z = a \pm bi$
 Dann Gilt:
-$$y(x) = e^{Re(z)x}(c_{1}cos(b) + c_{2}sin(b))$$
+$$y(x) = e^{Re(z)x}(c_{1}cos(bx) + c_{2}sin(bx))$$
 $$b = Im(z)$$
 
 ### wenn es ein Paar aus Komplexen Zahlen gibt

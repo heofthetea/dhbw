@@ -3,7 +3,7 @@
 $$R: \set{[A, B, C, D, E, F]}$$
 $$F = \begin{cases}AB \rightarrow CDEF \\ C \rightarrow B \\ D \rightarrow F \\ F \rightarrow E\end{cases}$$
 
-## Überprüfung auf [[2NF]]
+## Schlüsselkandidaten finden
 - [[Schlüsselkandidat]]: 
 	- $K_{1} = \set{A, B}$
 	- $K_{2} = \set{A, C}$ -> [[Armstrong Axiome]] !!!!!

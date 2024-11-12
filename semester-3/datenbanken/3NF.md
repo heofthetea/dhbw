@@ -10,6 +10,8 @@ $$\forall_{X \subset [R], a \in [R]}(X \rightarrow a)$$
 2. $a$ ist [[Primattribut|prim]]
 3. $X$ ist ein [[Superschlüssel]] von $[R]$ 
 
+> [!info] $X$ wird hierbei "Determinante" genannt.
+
 > [!hint] Kommt man von einem [[ERM]], sind in der Regel alle [[Relation|Relationen]] in [[3NF]].
 ## Beispiel
 ![[Pasted image 20241105150833.png]]

@@ -29,7 +29,7 @@ Deadline -> 30.09
 > [!hint] Anpassung an ERM muss nicht mehr eingereicht werden
 
 - Alle Relationen müssen in [[3NF]] vorliegen
-- exemplarisch (mit [[Übung 3NF|schicker Tabelle]]) für **eine** (die größte Relation) aufzeigen
+- exemplarisch (mit [[Prüfen auf 3NF|schicker Tabelle]]) für **eine** (die größte Relation) aufzeigen
 
 > [!warning] Deadline: 04. Dezember lol > wenn moodle zu macht
 

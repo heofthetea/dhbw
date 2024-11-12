@@ -206,3 +206,25 @@
 > [!help]- 50\. Was ist die [[Hülle einer funktionalen Abhängigkeit]], und wie kann sie gebildet werden?
 > - $F$ ist die [[Menge]] aller [[Funktionale Abhängigkeit|funktionalen Abhängigkeiten]] einer Relation. (Die kommen aus der realen Welt!!)
 > - $F^{+}$ ist die [[Menge]] aller [[Funktionale Abhängigkeit|funktionalen Abhängigkeiten]], die daraus durch Anwendung der [[Armstrong Axiome|Interferenzregeln]] hergeleitet werden können.
+
+## 06 Fragenkatalog
+
+> [!help]- 51\. Was ist ein [[Superschlüssel]] und was ist ein [[Schlüsselkandidat]]?
+> - [[Superschlüssel]]: Eine Teilmenge von $[R]$, die auf die gesamte Relation abbilden
+> - [[Schlüsselkandidat]]: Ein **nicht minimierbarer** [[Superschlüssel]]
+
+> [!help]- 52\. Warum kann die [[1NF]] bei einer [[Relation]] prinzipiell vorausgesetzt werden?
+> Weil bei Relationen per Definition der Datenwert für jedes Attribut immer **atomar** ist.
+
+> [!help]- 53\. Wann ist eine [[Relation]] immer in [[2NF]]?
+> Wenn sie in [[1NF]] ist, und der [[Schlüssel]] nur aus _einem_ [[Attribut]] besteht.
+
+> [!help]- 54\. Was ist eine [[transitiv|transitive]] [[Funktionale Abhängigkeit|Abhängigkeit]]?
+> $$A \rightarrow B \land B \rightarrow C \Longrightarrow A \rightarrow C$$
+
+> [!help]- 55\. Was ist ein [[Primattribut]]?
+> Ein [[Attribut]], dass Element eines [[Schlüsselkandidat|Schlüsselkandidaten]] ist.
+
+> [!help]- 56\. Wann ist eine Relation in [[BCNF]]?
+> - Wenn sie in [[3NF]] ist, aber jede Determinante $X$ (= [[Urbild]] einer [[Funktionale Abhängigkeit|funktionalen Abhängigkeit]]) ist ein [[Superschlüssel]].
+> => in der [[Prüfen auf 3NF|Prüfen auf 3NF]] ist "$a$ ist [[Primattribut|prim]]" **kein** valides Kriterium mehr.

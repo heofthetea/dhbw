@@ -23,6 +23,8 @@ Over the course of the degree, some coding projects pop up. Those are stored in 
 1. [Ubiquitous Fishstick](https://github.com/TeeMitHonig/ubiquitous-fishstick) (Projektmanagement, Sem. 2)
 2. [Geo Calc](https://github.com/heofthetea/DHBW-Geo-Calc) (Web-Engineering Sem. 2)
 3. [DHBW Project Java](https://github.com/heofthetea/dhbw-project-java) (self-explanatory, Sem. 2)
+4. [DHBW Projekt Datenbanken](https://github.com/heofthetea/dhbw-projekt-datenbanken)(self-explanatory, Sem. 3)
+
 ## Misc
 ### Language
 By far the majority of the vault is in german, as that's what the lectures are in. In programming-related lectures, I tried to keep the notes in english.

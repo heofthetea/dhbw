@@ -125,7 +125,11 @@
 	- [[1NF]]
 	- [[2NF]]
 	- [[3NF]]
+		- [[Prüfen auf 3NF]]
+		- [[Hüllentreue Zerlegung]]
 	- [[BCNF]]
+		- [[Gültige Zerlegung]]
+		- [[Verlustlose Zerlegung]]
 - [[Anomalie]]
 - [[Projektion]]
 - [[Funktionale Abhängigkeit]]
@@ -139,4 +143,5 @@
 #### Beispiele
 - [[Beispiel Schlüsselkandidaten]]
 - [[Übung 2NF]]
-- [[Übung 3NF]]
+- [[Übung BCNF]]
+- [[Übung Normalformen]]

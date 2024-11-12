@@ -7,7 +7,7 @@
 2. $X \rightarrow Y \Longrightarrow XZ \rightarrow YZ$ (Verstärkung)
 3. $X \rightarrow Y \land Y \rightarrow Z \Longrightarrow X \rightarrow Z$ ([[transitiv|Transitivität]])
 4. $X \rightarrow YZ \Longrightarrow X \rightarrow Y \land X \rightarrow Z$ (Zerlegung/Dekomposition)
-	1. $X \rightarrow Y \land X \rightarrow Z \Longrightarrow Z \rightarrow YZ$ (Vereinigung) [[Bijektive Abbildung|Bijektivität]] der Zerlegung
+	1. $X \rightarrow Y \land X \rightarrow Z \Longrightarrow X \rightarrow YZ$ (Vereinigung) [[Bijektive Abbildung|Bijektivität]] der Zerlegung
 5. $X \rightarrow Y, WY \rightarrow Z \Longrightarrow WX \rightarrow Z$ (Pseudo-Transitivität)
 
 
