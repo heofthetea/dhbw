@@ -6,9 +6,10 @@ in Semester 3: [[Hub Betriebssysteme]]
 [[script_rechnerarchitekturen.pdf]]
 (Shit probably have to work with goodnotes again🥲)
 [[Thomas Flik - Mikroprozessortechnik und Rechnerstrukturen-Springer (2004).pdf]]
-### Notengebung
+### Klausurvorbereitung
 [[Tipps Klausur Rechnerarchitekturen]]
 [[RT1Fragen_2024.pdf]]
+[[Rechnerarchitektur_Zusammenfassung.pdf]]
 ## Libraries
 [[Library Minimalsystem]]
 [[Library CPU Komponenten]]

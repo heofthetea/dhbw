@@ -1,17 +1,15 @@
 
 > [!hint] Nicht feasible mit mehr als 4 Bit --> [[#Blockbildung]]
 
-- berechnet das Carry vorab
-$$c_{i} = x_{i} \land y_{i}$$
-- Propagate:
-$$p_{i} = x_{i} \lor y_{i}$$
+- Generate: Beschreibt, ob ein Carry in weiter gegeben wird
+$$G_{i} = x_{i} \land y_{i}$$
+- Propagate: Beschreibt, ob Ein Carry in
+$$P_{i} = x_{i} \lor y_{i}$$
 
 > [!hint] [[Komplexität|Laufzeit]]: $5\Delta T$ - UNABHÄNGIG VON $n$!
 
 
 
 
-
-#todo !important!!!
 
 

@@ -170,12 +170,14 @@
 - [[Transformation Unbeschränkte Grammatik zu TM]]
 - [[Transformation TM zu Typ 0 Grammatik]]
 	- [[Beispiel 4.20 Turing Machine]]
+- [[Turing-erkennbare Sprachen sind mächtiger als Kontextsensitivie Sprachen]]
 
 ## 5. Entscheidbarkeit
 [[Turing Machine]]
 [[Entscheidbarkeit]]
 - [[Semi-Entscheidbarkeit]]
 	- [[Aufzähl-Turing Machine]]
+	- [[Aufzähl-TM aus Semi-Entscheidungsverfahren]]
 ---
 [[Unentscheidbarkeit]]
 - [[Gödelisierung]]
@@ -195,6 +197,9 @@
 	- [[Reduktion Halteproblem auf MPKP]]
 	- [[Disjunktheitsproblem]]
 
+### Universelle Turing Machine
+[[Universelle Turing Machine]]
+- [[Entscheidungsprobleme Turing Maschinen]]
 
 
 
@@ -202,6 +207,10 @@
 [[Übung 5.4 Bandanhängen]]
 
 ## 6. Berechenbarkeit
+[[Berechnung]]
+[[Turing-Berechenbarkeit]]
+- [[Beispiel 6.2 Turing Machine für Addition]]
+- [[Charakteristische Funktion]]
 
 ## (7. Komplexitätsklassen)
 P = NP PROBLEMM WHUIIEOIEUOIVJOEIRJASLERKJVOIEJS

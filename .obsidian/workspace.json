@@ -6,12 +6,12 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 46.588486140724946,
+        "dimension": 43.60341151385928,
         "children": [
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 81.00664767331433,
+            "dimension": 72.31481481481481,
             "children": [
               {
                 "id": "6f2af3586be0fea2",
@@ -139,13 +139,12 @@
                   "title": "Hub Algorithmen"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 18.99335232668566,
+            "dimension": 27.685185185185183,
             "children": [
               {
                 "id": "bb20f33256a925c1",
@@ -242,23 +241,9 @@
                   "icon": "lucide-file",
                   "title": "Library Entscheidbarkeit"
                 }
-              },
-              {
-                "id": "913cb68f77a189d4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/Prüfungsfragen Netztechnik.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prüfungsfragen Netztechnik"
-                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -266,12 +251,12 @@
       {
         "id": "5e44c37c29a1d2f6",
         "type": "split",
-        "dimension": 53.41151385927505,
+        "dimension": 56.39658848614072,
         "children": [
           {
             "id": "154fab2344ce804a",
             "type": "tabs",
-            "dimension": 79.2022792022792,
+            "dimension": 60.55555555555555,
             "children": [
               {
                 "id": "380a0d176ce6a3aa",
@@ -279,12 +264,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/angewandte_mathematik/Charakteristische Gleichung.md",
+                    "file": "semester-3/rechnerarchitekturen/Library Speicher.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Charakteristische Gleichung"
+                  "title": "Library Speicher"
                 }
               },
               {
@@ -391,21 +376,101 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/web-engineering/ICMP.md",
+                    "file": "semester-3/formale-sprachen/Leerheitsproblem TM.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "ICMP"
+                  "title": "Leerheitsproblem TM"
+                }
+              },
+              {
+                "id": "e3cf31a07339acbf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/rechnerarchitekturen/Beispiel Adressierung.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Beispiel Adressierung"
+                }
+              },
+              {
+                "id": "4af32e285a95b91b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-1/digitaltechnik/rechenschaltungen/Serial Adder.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Serial Adder"
+                }
+              },
+              {
+                "id": "96dc84350b1ef6d4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-1/digitaltechnik/rechenschaltungen/Ripple-Carry-Adder.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ripple-Carry-Adder"
+                }
+              },
+              {
+                "id": "e6ce8bfd07be889e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Datenbanken Fragenkatalog"
+                }
+              },
+              {
+                "id": "4235b94add4d8137",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/CYK Algorithmus.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "CYK Algorithmus"
+                }
+              },
+              {
+                "id": "ff51debae64b6a3d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 14
           },
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 20.7977207977208,
+            "dimension": 39.44444444444444,
             "children": [
               {
                 "id": "dad36907c971820c",
@@ -476,7 +541,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -510,8 +575,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DPTR",
-                "matchingCase": false,
+                "query": "WTF",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -640,53 +705,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6cf1fd740290ae2a",
+  "active": "ff51debae64b6a3d",
   "lastOpenFiles": [
-    "semester-2/web-engineering/images/Pasted image 20241113114919.png",
-    "semester-3/netztechnik/Hub Netztechnik.md",
-    "semester-3/netztechnik/DHCP Server.md",
-    "semester-3/netztechnik/IP Helper.md",
-    "semester-3/netztechnik/images/Pasted image 20241113114619.png",
-    "semester-3/netztechnik/DHCP.md",
-    "semester-3/netztechnik/Zeroconf.md",
-    "semester-3/netztechnik/images/Pasted image 20241113113630.png",
-    "semester-3/netztechnik/Redundante Router.md",
-    "semester-3/netztechnik/images/Pasted image 20241113112840.png",
-    "semester-3/netztechnik/images/Pasted image 20241113112633.png",
-    "semester-2/web-engineering/ARP.md",
-    "semester-3/netztechnik/Proxy ARP.md",
-    "semester-3/netztechnik/RARP.md",
-    "semester-2/web-engineering/images/Pasted image 20241113104719.png",
-    "semester-3/netztechnik/NAT.md",
-    "semester-3/netztechnik/images/Pasted image 20241113103645.png",
-    "semester-3/netztechnik/Referenznetzwerke.md",
-    "semester-3/netztechnik/images/Pasted image 20241113101236.png",
-    "semester-3/netztechnik/Layer 3.md",
-    "semester-3/netztechnik/Layer 4.md",
-    "semester-3/netztechnik/IPv4 Header.md",
-    "semester-3/netztechnik/TTL.md",
-    "semester-2/web-engineering/Fragmentierung.md",
+    "semester-3/formale-sprachen/CYK Algorithmus.md",
+    "semester-3/rechnerarchitekturen/Library Speicher.md",
+    "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+    "semester-3/rechnerarchitekturen/Library CPU Komponenten.md",
     "semester-3/angewandte_mathematik/Charakteristische Gleichung.md",
     "semester-3/formale-sprachen/Lauf.md",
-    "semester-3/formale-sprachen/Halteproblem.md",
-    "semester-1/lineare-algebra/Aufschriebe/Bijektive Abbildung.md",
-    "semester-3/formale-sprachen/Reduktion.md",
-    "semester-1/programmieren/concepts/Floating Point Darstellung.md",
-    "semester-3/formale-sprachen/Semi-Entscheidbarkeit.md",
-    "semester-3/angewandte_mathematik/Schwingungen.md",
-    "semester-3/angewandte_mathematik/System aus Differenzialgleichungen.md",
-    "semester-3/netztechnik/images/Pasted image 20241113095748.png",
-    "semester-3/netztechnik/images/Pasted image 20241113095048.png",
-    "semester-3/netztechnik/images/Pasted image 20241113094811.png",
+    "semester-3/datenbanken/Übung Normalformen.md",
+    "semester-3/netztechnik/Supernetting.md",
+    "semester-3/netztechnik/Netzwerkklassen.md",
+    "semester-3/netztechnik/IPv4 Header.md",
+    "semester-2/web-engineering/Fragmentierung.md",
+    "semester-3/formale-sprachen/Leerheitsproblem TM.md",
+    "semester-3/rechnerarchitekturen/Beispiel Adressierung.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Serial Adder.md",
+    "semester-1/digitaltechnik/rechenschaltungen/Ripple-Carry-Adder.md",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
+    "semester-3/rechnerarchitekturen/Carry-Look-Ahead Adder.md",
+    "semester-3/rechnerarchitekturen/sources/Rechnerarchitektur_Zusammenfassung.pdf",
+    "semester-1/digitaltechnik/rechenschaltungen/Volladdierer.md",
+    "goodnotes/23B Battle Royale.pdf",
+    "semester-3/angewandte_mathematik/Partikuläre Lösung Finden.md",
+    "semester-3/formale-sprachen/Charakteristische Funktion.md",
+    "semester-3/formale-sprachen/Beispiel 6.2 Turing Machine für Addition.md",
+    "semester-3/formale-sprachen/images/Pasted image 20241113145617.png",
+    "semester-3/formale-sprachen/Turing-Berechenbarkeit.md",
+    "semester-3/formale-sprachen/Untitled.md",
+    "semester-3/formale-sprachen/Gödelisierung.md",
+    "semester-3/formale-sprachen/Simulation NTM durch DTM.md",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "semester-3/formale-sprachen/images/Pasted image 20241113133208.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241113132903.png",
+    "semester-2/web-engineering/images/Pasted image 20241113114919.png",
+    "semester-3/netztechnik/images/Pasted image 20241113114619.png",
+    "semester-3/netztechnik/images/Pasted image 20241113113630.png",
+    "semester-3/netztechnik/images/Pasted image 20241113112840.png",
+    "semester-3/netztechnik/images/Pasted image 20241113112633.png",
+    "semester-2/web-engineering/images/Pasted image 20241113104719.png",
+    "semester-3/netztechnik/images/Pasted image 20241113103645.png",
     "semester-1/lineare-algebra/latex_symbols.pdf",
     "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf",
     "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf",
     "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
     "semester-3/formale-sprachen/sources/testat.pdf",
     "semester-3/angewandte_mathematik/pdf/Übungen zum Kapitel 5.pdf",
-    "modulhandbuch.pdf",
-    "semester-3/rechnerarchitekturen/sources/RT1Fragen_2024.pdf",
-    "semester-3/software_architektur/images"
+    "modulhandbuch.pdf"
   ]
 }

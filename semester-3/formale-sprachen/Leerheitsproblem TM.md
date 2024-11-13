@@ -1,9 +1,8 @@
 [[Leerheitsproblem]], [[Turing Machine]]
 
-> [!info] Ist unentscheidbar.
+> [!info] Ist [[Unentscheidbarkeit|unentscheidbar]]. Das Komplement des [[Leerheitsproblem TM|Leerheitsproblems]] ist aber semi-entscheidbar.
 
-
-# Beweis durch [[Reduktion]] von [[Halteproblem]]
+# Beweis Unentscheidbarkeit durch [[Reduktion]] von [[Halteproblem]]
 
 $$f = (M, w) \mapsto M'$$
 - $M'$ ersetzt ihre eigene Eingabe durch das [[Wort]] $w$

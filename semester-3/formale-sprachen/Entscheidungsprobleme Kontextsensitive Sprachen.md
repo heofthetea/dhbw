@@ -18,6 +18,8 @@ $$L(A) = \varnothing \Longleftrightarrow (G_{1}, G_{2}) \in DP$$
 ## Äquivalenzproblem
 [[Äquivalenzproblem]] ist [[Unentscheidbarkeit|unentscheidbar]].
 
-Widerspruch: [[Kontextfreie Sprache|Kontextfreie Sprachen]] sind eine echte [[Teilmenge]] der [[Kontextsensitive Sprache|Kontextsensitiven Sprachen]] ==> es ist schon für die nicht entscheidbar
+Widerspruch: [[Kontextfreie Sprache|Kontextfreie Sprachen]] sind eine echte [[Teilmenge]] der [[Kontextsensitive Sprache|Kontextsensitiven Sprachen]] => es ist schon für die nicht entscheidbar
 
 > [!info] oder: [[Reduktion]] [[Leerheitsproblem]] auf [[Äquivalenzproblem]] analog zu [[Äquivalenzproblem TM]]
+
+> [!hint] Das Komplement ist [[Semi-Entscheidbarkeit|semi-entscheidbar]].

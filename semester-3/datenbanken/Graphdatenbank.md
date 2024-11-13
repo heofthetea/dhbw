@@ -18,3 +18,4 @@
 ---
 
 [[Graphdatenbank vs Relationale Datenbank]]
+[[Beispiel Graphdatenbank für Ausarbeitungen]]

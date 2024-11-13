@@ -6,6 +6,7 @@
 	- Endadresse: $9fff_{16}$
 	- Anzahl der Adressen: $9FFF_{16} - 9000_{16} = FFF_{16} = 4095_{10}$
 
+
 ---
 
 ## Beispiel 2 ig

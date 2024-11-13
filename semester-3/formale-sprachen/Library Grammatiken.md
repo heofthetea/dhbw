@@ -1,23 +1,26 @@
 
 ## Abschlusseigenschaften
 
-| Operation                                           | [[Abgschlusseigenschaften Regulärer Sprachen\|Reguläre Sprache]] | [[Abschlusseigenschaften Kontextfreie Sprachen\|Kontextfreie Sprache]] | [[Abschlusseigenschaften Kontextsensitive Sprachen\|Kontextsensitive Sprache]] | Turing Machines |
-| --------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------- |
-| [[Operationen auf Mengen#Union\|Vereinigung]]       | ✅ -> [[NFA für Vereinigung]]                                     | ✅                                                                      | ✅                                                                              | ✅               |
-| [[Komplement]]                                      | ✅ -> [[EA zu Komplement]]                                        | ❌                                                                      | ✅                                                                              | ✅               |
-| [[Operationen auf Mengen#Intersection\|Schnitt]]    | ✅ -> [[Produktautomat]]                                          | ❌                                                                      | ✅                                                                              | ✅               |
-| [[Operationen auf Sprachen#Produkt\|Konkatenation]] | ✅ -> [[NFA für Konkatenation]]                                   | ✅                                                                      | ✅                                                                              | ✅               |
-| [[Klenee-Stern]]                                    | ✅ -> [[NFA für Klenee-Stern]]                                    | ✅                                                                      | ✅                                                                              | ✅               |
+| Operation                                           | [[Abgschlusseigenschaften Regulärer Sprachen\|Reguläre Sprache]] | [[Abschlusseigenschaften Kontextfreie Sprachen\|Kontextfreie Sprache]] | [[Abschlusseigenschaften Kontextsensitive Sprachen\|Kontextsensitive Sprache]] | Turing Machine                           |
+| --------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------- |
+| [[Operationen auf Mengen#Union\|Vereinigung]]       | ✅ -> [[NFA für Vereinigung]]                                     | ✅                                                                      | ✅                                                                              | ✅                                        |
+| [[Komplement]]                                      | ✅ -> [[EA zu Komplement]]                                        | ❌                                                                      | ✅                                                                              | ❌ -> Redukton [[Spezielles Wortproblem]] |
+| [[Operationen auf Mengen#Intersection\|Schnitt]]    | ✅ -> [[Produktautomat]]                                          | ❌                                                                      | ✅                                                                              | ✅                                        |
+| [[Operationen auf Sprachen#Produkt\|Konkatenation]] | ✅ -> [[NFA für Konkatenation]]                                   | ✅                                                                      | ✅                                                                              | ✅                                        |
+| [[Klenee-Stern]]                                    | ✅ -> [[NFA für Klenee-Stern]]                                    | ✅                                                                      | ✅                                                                              | ✅                                        |
 
 ## Entscheidungsprobleme
 
-| Problem                 | Reguläre Sprache                           | Kontextfreie Sprache          | [[Entscheidungsprobleme Kontextsensitive Sprachen\|Kontextsensitive Sprache]] | Turing Machines                |
-| ----------------------- | ------------------------------------------ | ----------------------------- | ----------------------------------------------------------------------------- | ------------------------------ |
-| [[Wortproblem]]         | ✅ -> [[Endlicher Automat]]                 | ✅ -> [[CYK Algorithmus]]      | ✅                                                                             | ❌ -> [[Wortproblem TM]]        |
-| [[Leerheitsproblem]]    | ✅ -> [[Leerheitsproblem Reguläre Sprache]] | ✅ -> [[Reduzierte Grammatik]] | ❌                                                                             | ❌ -> [[Leerheitsproblem TM]]   |
-| [[Endlichkeitsproblem]] | ✅ -> [[endliche Sprachen]]                 | -                             | -                                                                             | -                              |
-| [[Äquivalenzproblem]]   | ✅ -> [[Äquivalenz Reguläre Sprachen]]      | ❌                             | ❌                                                                             | ❌ -> [[Äquivalenzproblem TM]]  |
-
+| Problem                 | Reguläre Sprache                           | Kontextfreie Sprache          | [[Entscheidungsprobleme Kontextsensitive Sprachen\|Kontextsensitive Sprache]] | Turing Machines               |
+| ----------------------- | ------------------------------------------ | ----------------------------- | ----------------------------------------------------------------------------- | ----------------------------- |
+| [[Wortproblem]]         | ✅ -> [[Endlicher Automat]]                 | ✅ -> [[CYK Algorithmus]]      | ✅                                                                             | ❔ -> [[Wortproblem TM]]       |
+| [[Leerheitsproblem]]    | ✅ -> [[Leerheitsproblem Reguläre Sprache]] | ✅ -> [[Reduzierte Grammatik]] | ❌                                                                             | ❌ -> [[Leerheitsproblem TM]]  |
+| [[Endlichkeitsproblem]] | ✅ -> [[endliche Sprachen]]                 | -                             | -                                                                             | -                             |
+| [[Äquivalenzproblem]]   | ✅ -> [[Äquivalenz Reguläre Sprachen]]      | ❌                             | ❌                                                                             | ❌ -> [[Äquivalenzproblem TM]] |
+Notation: 
+- ✅ -> [[Entscheidbarkeit|entscheidbar]]
+- ❌ -> [[Unentscheidbarkeit|unentscheidbar]] 
+- ❔ -> [[Semi-Entscheidbarkeit|semi-entscheidbar]]
 # Reguläre Sprachen
 s. [[Library Reguläre Sprachen]]
 

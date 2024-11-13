@@ -10,5 +10,10 @@ Sei $\Sigma$ ein [[Alphabet]]. Eine [[Sprache]] $L \subset \Sigma^{*}$ heißt [[
 
 
 > [!info] Eine [[Sprache]] ist semi-entscheidbar, wenn sie [[Rekursiv aufzählbare Sprache|rekursiv aufzählbar]] ist. =>  [[Aufzähl-Turing Machine]] 
+
+> [!info] Wenn sowohl $L$ als auch $\overline{L}$ [[Semi-Entscheidbarkeit|semi-entscheidbar]] sind, ist $L$ [[Entscheidbarkeit|entscheidbar]].
+
+
+
 ## Beispiel
 - Tableau + Resolutionsalgorithmus der Prädikatenlogik

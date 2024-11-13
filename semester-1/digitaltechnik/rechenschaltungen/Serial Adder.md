@@ -10,7 +10,7 @@
 
 > [!warning] Startwert wird überschrieben !!
 ####  Laufzeit
-$$i \cdot (t_{VA} + t_{schieben})$$
+$$n \cdot (t_{VA} + t_{schieben})$$
 
 
 ### Ablauf

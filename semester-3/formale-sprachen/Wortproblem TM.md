@@ -10,3 +10,7 @@ $$M \in L_{1} \Longleftrightarrow M\ accepts\ g(M) \Longleftrightarrow (M, g(M))
 
 > [!hint] Wenn das allgemeine WP entscheidbar wäre, wäre das spezielle Wortproblem für TM entscheidbar.
 
+
+> [!info] [[Wortproblem TM]] ist [[Semi-Entscheidbarkeit|semi-entscheidbar]].(s. [[Universelle Turing Machine]])
+> Daraus folgt: Das Komplement ist nicht entscheidbar - Man kann nicht entscheiden, ob eine Turing Maschine ein Wort **ablehnt**.
+
