@@ -127,3 +127,20 @@ kann auch alles, was ein [[Switch]] machen kann
 - [[Switch]] begrenzt <span style="color:rgb(0, 122, 255)">Kollisions-Domains</span>
 
 ![[Pasted image 20241106091726.png]]
+
+## Was ist das: 192.168.0.0/24
+- [[IPv4]] Adresse
+- [[Subnet Mask]]: $255.255.255.0$ => Class $C$ Netzwerk
+- Ist eine [[Netzwerk]]-Adresse (weil hinten alles $0$)
+- Ist ein [[RFC]]-Netz mit [[Subnetting]] => lokale IP Aresse
+
+## Subnetting
+![[Pasted image 20241113091146.png]]
+
+#### Kann man die Teile verschieden auf dem "Kuchen" verteilen?
+- Kann $192.168.0.32/25$ eine Netzwerkadresse sein?
+	- Nein => $.32$ Endung würde als Host interpretiert (?)
+
+> [!warning] Immer mit dem größten Teil anfangen => Netzwerke müssen immer auf die Rastergrenzen setzen
+> Eine $/25$ [[Subnet Mask]] geht davon aus, dass das ganze in 2 Teile zerlegt ist -> das kann man nicht einfach irgendwie drehen
+

@@ -6,3 +6,11 @@
 
 - Gelb: Netzwerk-Adressteil
 - Grün: Host-Adressteil
+
+## Über Adresspräfixe
+
+| Netzerkklasse | Adressraum (erstes [[Byte]]) |
+| ------------- | ---------------------------- |
+| A             | 0 - 127                      |
+| B             | 128 - 191                    |
+| C             | 193 - 223                    |
