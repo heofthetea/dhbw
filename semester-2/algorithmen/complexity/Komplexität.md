@@ -1,12 +1,14 @@
 > How _expensive_ is an Algorithm?
+> Konkretere Betrachtung für [[Entscheidbarkeit|entscheidbare]] Probleme
 
-- how many steps does it need for a given input?
-- How much space does it need?
+- Wie viel Zeit benötigt eine [[Turing Machine]] für die Lösung eines Problems?
+- Wie viele Felder des Bandes werden beschrieben?
 
-### Formal Definition [[Big O|Big O]]
-Für eine Funktion f bezeichnet $O(f)$ die Menge aller Funktionen $g$ mit:
-$$\exists_{k} \in \mathbb{N},\ \exists_{c} \in \mathbb{R}^{\geq 0}\ \ \forall_{n \gt k}\ g(n) \leq c \cdot f(n)$$
-### Criteria
+## Formal
+Sei $f: \mathbb{N} \longrightarrow \mathbb{N}$ eine [[Funktion]]. Eine [[Turing Machine]] $M$ mit dem [[Alphabet]] $\Sigma$ heißt **$f$-zeitbeschränkt**, wenn für jede Eingabe $w \in \Sigma^{*}$ jede [[Berechnung]] von $M$ höchstens $f(|w|)$ Schritte hat.
+
+> [!info] In Algorithmik: [[Big O]] Notation
+## Criteria
 - Performance based on _expected_ input data!
 - Performance in [[Worst Case]]
 - Demands of the Environment (Real-time? Space limited?)

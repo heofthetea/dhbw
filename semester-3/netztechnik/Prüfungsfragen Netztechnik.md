@@ -144,3 +144,23 @@ kann auch alles, was ein [[Switch]] machen kann
 > [!warning] Immer mit dem größten Teil anfangen => Netzwerke müssen immer auf die Rastergrenzen setzen
 > Eine $/25$ [[Subnet Mask]] geht davon aus, dass das ganze in 2 Teile zerlegt ist -> das kann man nicht einfach irgendwie drehen
 
+
+## Netzbild interpretieren
+![[Pasted image 20241114131317.png]]
+
+> [!warning] [[Default Gateway]] müsste in den $/16$ [[Supernetting|Supernetzen]] mit _zwei_ Byte angegeben werden (Bsp. $.0.254$)
+
+#### Kommunikation A -> B
+1. [[ARP]] request (wer hat $192.168.1.10$)
+	1. [[Broadcast]] über [[MAC Adresse]]: `FF:FF:FF:FF:FF:FF`
+	2. $B$ erkennt, dass eigene [[IP Adresse]] verlangt ist => Antwort
+		1. Bei Kontrolle mit [[Subnet Mask]] denkt er: $A$ ist in anderem Netzwerk => **ARP REPLY VERWERFEN!** 
+	3. [[ARP]] reply kommt nie zurück => A merkt nur "Destination unreachable" 
+
+#### Kommunikation B -> A
+1. B merkt: $A$ liegt in anderem Netz
+	1. schickt es an [[Default Gateway]] => Geht aber nicht, weil [[Default Gateway]] in anderem Netz liegt ($.1.10$ vs. $.0.1$) (funktioniert wieder nicht, weil der ARP nicht funktioniert)
+
+#### Kommunikation A -> C
+1. $A$ findet raus: $C$ liegt im selben Netzwerk (durch [[Subnet Mask]])
+	1. $A$ sendet [[ARP]] request => wird nie ankommen

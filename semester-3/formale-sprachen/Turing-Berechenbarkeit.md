@@ -6,7 +6,7 @@ Eine [[Abbildung|Funktion]] $f: (\Sigma^{*})^{n} \longrightarrow \Sigma$ heißt 
 
 > [!hint] Mathematische [[Funktion]] wird durch [[Unärsystem|unäre Darstellung]] umgesetzt
 
-## Turing Machine
+## Verhalten der Turing Machine
 
 Motivation: [[Turing Machine]] kann nicht nur Wörter akzeptieren/verwerfen, sondern auch [[Funktion|Funktionen]] **berechnen**
 

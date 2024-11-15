@@ -6,6 +6,7 @@
 
 #### Altklausuren
 [[testat.pdf]]
+[[19BE.pdf]]
 ### Prüfungsleistung
 - Klausur 90 min
 - 10 pages Cheat Sheet
@@ -189,7 +190,7 @@
 - [[Halteproblem]]
 	- [[Leerheitsproblem TM]]
 	- [[Äquivalenzproblem TM]]
-- [[Der Ultimative Unentscheidbarkeitssatz der Turing Maschinen]]
+- [[Satz von Rice]]
 
 ### Jenseits von Turing Maschinen
 - [[PKP]]
@@ -211,6 +212,25 @@
 [[Turing-Berechenbarkeit]]
 - [[Beispiel 6.2 Turing Machine für Addition]]
 - [[Charakteristische Funktion]]
+- [[WHILE Programm]] 
+	- [[WHILE Syntax]]
+		- [[WHILE Zuweisung]]
+		- [[WHILE Komposition]]
+		- [[WHILE while loop]]
+	- [[WHILE Semantik]]
+	- [[If-then-else in WHILE]]
+- [[WHILE Berechenbarkeit]]
+- [[Simulation While-Programm durch TM]]
+- [[Simulation TM durch While-Programm]]
+- [[Church-Turing These]] 
+#### Übungen
+- [[Übbung 6.15 WHILE Programme]]
 
 ## (7. Komplexitätsklassen)
 P = NP PROBLEMM WHUIIEOIEUOIVJOEIRJASLERKJVOIEJS
+- [[Komplexität]] 
+- [[Komplexität von Problemen]]
+- [[P = NP Problem]]
+	- [[TIME und NTIME]]
+- [[Cliquenproblem]]
+

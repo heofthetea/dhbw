@@ -1,6 +1,5 @@
 > Media Access Control
 
-
 - identifiziert die Hardware eines Gerätes eindeutig
 - $6$ [[Byte|Bytes]]: `[ I/G | U/L | OUI | LEDNR ]`
 	- $48$ Bits
@@ -16,8 +15,8 @@
 	1. $0$: Individualadresse --> [[Unicast]]
 	2. $1$: [[Multicast]] bzw. [[Broadcast]] Adresse
 2. Universal/Local
-	1. 0: von [[IEEE]] verwaltete universaladresse
-	2. 1: von Software administriet
+	1. $0$: von [[IEEE]] verwaltete universaladresse -> wurde mir gegeben
+	2. $1$: von Software administriet -> hat Admin von der Hand vergeben
 
 ## OUI
 - $22$ Bit lang

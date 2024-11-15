@@ -1,3 +1,5 @@
+[[Kontraposition Pumping Lemma]], 
+
 - Jede [[Reguläre Sprache]] $L$ wird von einem [[Endlicher Automat|endlichen Automaten]] erkannt
 - Wenn $L$ beliebig lange Wörter enthält, muss $A_{L}$ einen [[Zyklus]] enthalten
 - Wenn $A_{L}$ einen Zyklus enthält, kann dieser _beliebig_ oft durchlaufen werden (ohne Einfluss auf die Akzeptanz)

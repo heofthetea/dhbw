@@ -9,6 +9,8 @@ Angenommen, es gibt eine [[Turing Machine]] $M_{\overline{W}}$, die $\overline{W
 Dann gilt:
 $$w_{\overline{W}} \in L(M_{\overline{W}}) \Longleftrightarrow M_{\overline{W}}\ \ accepts\ \ w_{\overline{W}} \Longleftrightarrow w_{\overline{W}} \not\in L(M_{\overline{W}})$$
 
+
+> [!info] Benutzt keine [[Turing Machine|TM]]-spezifische Eigenschaft => ist für jedes Maschinenmodell gültig, solange es sich selbst [[Universelle Turing Machine|simulieren]] kann
 ## Intuitiv
 - $M_{\overline{W}}$ akzeptiert alle Turing Machinen, die sich selbst _nicht_ akzeptieren.
 - Übergebe $M_{\overline{W}}$ sich selbst. Was macht $M_{\overline{W}}$?

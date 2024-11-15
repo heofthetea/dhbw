@@ -1,3 +1,4 @@
+[[Pumping Lemma]], [[Kontraposition Pumping Lemma]]
 ## Allgemeines Vorgehen
 1. Finde ein [[Wort]] $s$ abhängig von der Mindestlänge $k$.
 2. Zerlege $s$ in $u \cdot v \cdot w$. Achte auf $|u \cdot v| \leq k$

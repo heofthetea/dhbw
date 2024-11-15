@@ -2,7 +2,7 @@
 
 - man kann bis zu $n$ Nachrichten schicken, ohne dass auf Quittung gewartet werden muss
 
-> [!hint] Nutzt die [[Leitung]] effizienter als normale BEC
+> [!hint] Nutzt die [[Leitung]] effizienter als normale [[Backwards Error Correction|BEC]]
 
 ```python
 credit = n

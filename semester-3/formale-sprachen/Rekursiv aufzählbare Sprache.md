@@ -1,6 +1,8 @@
 > auch: [[Semi-Entscheidbarkeit|semi-entscheidbare]] Sprachen
 > erkannt durch [[Aufzähl-Turing Machine]])
 
+[[Unbeschränkte Grammatik]] 
+
 allgemeinste Klasse der [[Sprache|formalen Sprachen]] (in dieser Vorlesung)
 - ist nicht [[Entscheidbarkeit|entscheidbar]]
 - Namensgebung: Mit einem [[Algorithmus|Algorithmus]] generierbar (basically ein [[Large Language Model]])
@@ -9,13 +11,6 @@ allgemeinste Klasse der [[Sprache|formalen Sprachen]] (in dieser Vorlesung)
 
 > [!hint]- ist nur eine sehr kleine [[Teilmenge]] aller möglichen Sprachen
 > Die [[Menge]] der _unvernünftigen Sprachen_ ist wesentlich größer
-
-
-## Normalform
-1. $A \rightarrow c$
-2. $A \rightarrow BC$
-3. $AB \rightarrow CD$
-4. $A \rightarrow \epsilon$
 
 ## Fähigkeiten
 - praktisch brauchbare "vernünftige" Sprachen

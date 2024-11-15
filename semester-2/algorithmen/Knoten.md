@@ -12,6 +12,10 @@ typedef struct Node {
 	Object *payload;
 } Node;
 ```
+
+## in Netzwerken
+Ein Gerät, das über ein oder mehrere Interfaces an einem oder mehreren [[Netzwerk|Netzwerken]] angeschlossen ist.
+
 ## auf [[Graph]]
 [[Menge]] der [[Knoten]]: $V$ (vertices)
 

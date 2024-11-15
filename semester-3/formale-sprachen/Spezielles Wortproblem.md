@@ -1,5 +1,7 @@
 > "Turing Machine, die sich selbst akzeptiert"
 
+[[Beweis Unentscheidbarkeit spezielles Wortproblem]]
+
 > [!info]- Das [[Spezielles Wortproblem|spezielle Wortproblem]] ist [[Unentscheidbarkeit|unentscheidbar]].
 [[Beweis Unentscheidbarkeit spezielles Wortproblem]]
 

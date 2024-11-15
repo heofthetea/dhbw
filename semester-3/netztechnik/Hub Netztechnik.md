@@ -3,12 +3,14 @@
 ### Sources
 
 ### Altklausuren
+[[Nachklausur_Netztechnik-I_STG-TINF22E.pdf]] -> weniger umfangreich als unsere,
 
 ### Notengebung
 - Klausur 90 min
 
 ## Libraries
 [[Library Netztechnik]]
+[[Netztechnik Adressen Quick Overview]]
 
 ## Fragenkatalogsystem
 [[Prüfungsfragen Netztechnik]]
@@ -66,9 +68,11 @@ Betriebsarten
 	- [[Layer 3]]
 	- [[Layer 2]]
 	- [[Layer 1]]
+
 [[Layer 8 Problem]]
 
 ### Physische Ebene
+[[MAC Adresse]]
 [[Multiplex]]
 [[Taktrückgewinnung]]
 [[Präambel]]
@@ -227,6 +231,12 @@ Betriebsarten
 	- [[IPv4 Header]]
 	- [[Referenznetzwerke]]
 - [[IPv6]]
+	- [[IPv4 go poof - gone]]
+	- [[IPv6 Header]]
+	- [[IPv6 Adresspräfixe]]
+	- [[IPv4 über v6]]
+	- [[Übergang zu IPv6]]
+	- [[IPv6 Ablauf]]
 - [[Besondere IP Adressen]]
 - [[Subnet Mask]]
 	- [[Subnetting]]
@@ -245,3 +255,21 @@ Betriebsarten
 	- [[DHCP Server]]
 	- [[IP Helper]]
 - [[ICMP]]
+- [[DNS]]
+	- [[DNS Server]]
+	- [[Domain-Namensraum]]
+	- [[Ablauf DNS]]
+	- [[DynDNS]]
+- [[UDP]]
+- [[TCP]]
+	- [[TCP Header]]
+	- [[TCP Verbindungsstatus]]
+	- [[TCP Ablauf]]
+	- [[Sliding Window]]
+- [[TCP vs UDP]]
+
+## 1O Crazy Stuff that obviously doesn't get thouroughly explained because that would be boring
+- [[VLAN]]
+	- [[Trunk Verbindung]]
+	- [[VLAN Header]]
+- [[IGMP]] 
