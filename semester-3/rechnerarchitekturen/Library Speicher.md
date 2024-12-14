@@ -6,7 +6,7 @@
 	- Anschlüsse:
 		1. Data in
 		2. Data out
-		3. Selector (Das Zelle tatsächlich ausgewählt wird)
+		3. Selector (Dass Zelle tatsächlich ausgewählt wird)
 		4. R/W permission select
 
 ### Anordnung in Matrix
@@ -28,7 +28,7 @@
 
 - [[Adresse]]: `[ CS Adressteil | direkter Adressteil ]`
 	- [[Chip Select|CS]]-Adressteil: [[externe Adressierung]]
-		- welcher IC muss ich wählen?
+		- welchen IC muss ich wählen?
 	- direkter Adressteil: [[interne Adressierung]]
 		- Welche [[Speicherzelle|Zelle]] meines ausgewählten [[IC]]s muss ich auswählen?
 ### unvollständige Adressierung
@@ -72,7 +72,7 @@ mit:
 ### Segmentverwaltung mit Tabellen
 [[Segmentverwaltung mit Tabellen]]
 
-> [!warning] Disclaimer: Das ganze ging irgendwie über zwei Stunden. Das war ein komplett derailter Vortrag über Tabellen hier Tabellen da dann Register die auf Tabellen zeiten die auf Tabellen zeigen... Ganz ehrlich das klang wie ne Vorlesung zu Relationalen Datenbanken - Anyway keine Ahnung ob das alles wichtig war oder was da schief gelaufen ist ([[Descriptor i386]], [[Umsetzung Segmentverwaltung mit Tabellen]], [[Descriptor Tables]])
+> [!warning] Disclaimer: Das ganze ging irgendwie über zwei Stunden. Das war ein komplett derailter Vortrag über Tabellen hier Tabellen da dann Register die auf Tabellen zeigen die auf Tabellen zeigen... Ganz ehrlich das klang wie ne Vorlesung zu Relationalen Datenbanken - Anyway keine Ahnung ob das alles wichtig war oder was da schief gelaufen ist ([[Descriptor i386]], [[Umsetzung Segmentverwaltung mit Tabellen]], [[Descriptor Tables]])
 
 - Jeder Prozess bekommt sein eigenes [[Segment]] (= eigenener Adressraum) im [[Memory|Speicher]] vom [[Kernel]] zugewiesen
 	- Prozess weiß aber nicht, wo genau dieses Segment liegt --> ✨security✨
@@ -81,6 +81,7 @@ mit:
 		1. Start des Segments
 		2. Länge des Segments --> maximal zulässige Größe des Offsets
 		3. Berechtigungen (z.B. read/write, etc.)
+
 > [!info] Auch [[Descriptor Tables]] liegen im Speicher
 > - Es gibt eigene [[Register]] damit die [[CPU]] weiß, wo die liegen
 

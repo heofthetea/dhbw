@@ -228,3 +228,17 @@
 > [!help]- 56\. Wann ist eine Relation in [[BCNF]]?
 > - Wenn sie in [[3NF]] ist, aber jede Determinante $X$ (= [[Urbild]] einer [[Funktionale Abhängigkeit|funktionalen Abhängigkeit]]) ist ein [[Superschlüssel]].
 > => in der [[Prüfen auf 3NF|Prüfen auf 3NF]] ist "$a$ ist [[Primattribut|prim]]" **kein** valides Kriterium mehr.
+
+
+## 07 Fragenkatalog
+> [!help]- 57\. Wann sprincht man von einer gültigen Zerlegung einer Relation?
+> [[Gültige Zerlegung]] - wenn man mit den neuen Relationen die alte Relation vollständig wieder bekommen kann. Es kommen auch keine neuen Attribute dazu.
+
+
+> [!help]- 58\.  Wann ist eine Zerlegung [[Verlustlose Zerlegung|verlustlos]]?
+> Wenn jede [[Instanz einer Relation|Instanz]] der ursprünglichen Relation in den neuen Relationen wiedergespiegelt wird.
+> Prüfung: Man überprüft die **Schnittmenge** der beiden Relationen (= der [[Fremdschlüssel]])
+
+
+> [!help]- 59\. Wann ist eine Zerlegung [[Hüllentreue Zerlegung|abhängigkeitsbewahrend]]?
+> Jede [[Funktionale Abhängigkeit]] der ursprünglichen Relation existiert in den Zerlegungen immernoch.

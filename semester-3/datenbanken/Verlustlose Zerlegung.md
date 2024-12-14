@@ -1,4 +1,5 @@
 > oder: "Verbundtreue Zerlegung"
+> Man kann jede [[Instanz einer Relation|Instanz]] der ausgangsrelation genau so in den neuen Relationen wiederspiegeln.
 
 [[Operationen auf Mengen#Intersection|Durschschnitt]], [[Gültige Zerlegung]]
 

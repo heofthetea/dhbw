@@ -19,3 +19,4 @@ flowchart LR
 	- $g_0$ verteilt [[Daten]] an _alle anderen_ $g_{i} \in G$
 
 > [!info] Alle $g_i$ haben die selbe [[IP Adresse]] => wird z.B. für Load Balancing verwendet
+

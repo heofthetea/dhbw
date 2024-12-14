@@ -36,7 +36,7 @@
 - [[Operationswerk]]: ist der Teil, der actually arbeitet
 	- nimmt Steuersignale ("Conditioning Codes") von [[Steuerwerk]] entgegen
 	- Produziert [[Daten]] (z.B. Ergebnisse) oder [[Adresse|Adressen]]
-	- Reports back to [[Steuerwerk]] durch Statusmeldungen
+	- Reports back to [[Steuerwerk]] durch Statusmeldungen ("Status Codes")
 - Bestandteile:
 	- [[ALU|Arithmetisch Logische Einheit]] - führt Berechnungen mit [[Daten]] durch
 	- [[Leitwerk]] - führt [[Pointer#Pointer arithmetic|Pointer-Arithmetik]] durch (z.B. Zugriff auf [[Array]])
@@ -52,13 +52,14 @@
 	5. **Write-Back**: Ergebnis zurück in [[Memory]] schreiben
 #### Aufbau einer Instruktion
 `[ OPCODE | OPERAND 1 | OPERAND 2 | OPERAND 3 ]` ([[Binärsystem|binary]] ofc)
-- [[OPCODE]]: Name der Operation (bspw. `ADD` - addieren)
+- [[OPCODE]]: Identifier der Operation (bspw. `ADD` - addieren)
 - Operand: Entweder direkt Werte (think [[JAVA Primitive Data Type|primitive data type]]) oder [[Adresse|Adressen]] (think [[Reference]])
 - [[Instruktionen mit mehreren Operanden]]:
 	0. [[Stack Machine]] - arbeitet mit einem Stack
-	1. [[Akkumulator]] - man kann nur ein [[Register]] beschreiben
+	1. [[Akkumulator]] - man kann viele Operationen nur auf einem [[Register]] $A$ durchführen 
 	2. Readressierung ($x = x + 5$)
 	3. Adressierung ($a = b + c$)
+
 > [!hint] Mit der vollständigen Beschreibung des [[Instruction Set Architecture|Instruction Set]] ist ein Prozessor nach außen hin vollständig definiert.
 
 wesentliche [[Instruction Set Architecture|Architekturen]]:

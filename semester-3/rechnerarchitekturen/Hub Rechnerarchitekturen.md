@@ -8,18 +8,20 @@ in Semester 3: [[Hub Betriebssysteme]]
 [[Thomas Flik - Mikroprozessortechnik und Rechnerstrukturen-Springer (2004).pdf]]
 ### Klausurvorbereitung
 [[Tipps Klausur Rechnerarchitekturen]]
-[[RT1Fragen_2024.pdf]]
 [[Rechnerarchitektur_Zusammenfassung.pdf]]
+#### Übungen
+[[Rechnerarchitekturen (1).pdf]]
+[[RT1Fragen_2024.pdf]]
 ## Libraries
 [[Library Minimalsystem]]
 [[Library CPU Komponenten]]
+[[Library Rechenwerk]]
 [[Library Speicher]]
 [[Library Interrupts]]
 [[Library DMA und Pipelining]]
 
 # Vorlesung
 [[Ausblick Rechnerarchitekturen]]
-
 
 [[Computer]]
 - [[EVA Prinzip]]
@@ -72,9 +74,10 @@ oder: Digitaltechnik 2.0 --> [[Library Rechenschaltungen]]
 - [[Festkommadarstellung]]
 - [[Floating Point Darstellung]]
 	- [[Flaws von Floating Points]]
-- [[Ripple-Carry-Adder]], [[Serial Adder]]
-- [[Halbaddierer]], [[Volladdierer]]
+- [[Ripple-Carry-Adder]]
+- [[Serial Adder]]
 - [[Carry-Look-Ahead Adder]]
+- [[Halbaddierer]], [[Volladdierer]]
 - [[Addier-Subtrahier-Werk]]
 - [[Blockbildung]]
 - [[Multiplikation Zweierkomplement]]
@@ -82,25 +85,28 @@ oder: Digitaltechnik 2.0 --> [[Library Rechenschaltungen]]
 	- [[Multiplikation Division Floating Point]]
 
 ## Bussystem
-(im Skript Kapitel 6 lol)
-[[serielles BUS-System]]
-[[BUS-System]]
-- [[Adressbus]]
-- [[Datenbus]]
-- [[Steuerbus]]
-- [[Systembus]]
-nach Erkennung
-[[Handshake]]
-[[Bit-Synchronisation]]
-[[Bus zum Speicherzugriff]]
+- [[serielles BUS-System]]
+- [[BUS-System]]
+	- [[Adressbus]]
+	- [[Datenbus]]
+	- [[Steuerbus]]
+	- [[Systembus]]
+- nach Erkennung
+	- [[Handshake]]
+	- [[Bit-Synchronisation]]
+	- [[Bus zum Speicherzugriff]]
+- Richtungen
+	- [[Simplex-Verbindung]]
+	- [[Halb-Duplex-Betrieb]]
+	- [[Duplex-Verbindung]]
 
-[[BUS-Schaltung]]
-- [[synchroner BUS]]
-- [[asynchroner BUS]]
-[[serielle Bus-Schaltung]]
-[[Seriell-Parallel Crossover]]
-[[RS232 Bus]]
-[[PCI Express Bus]]
+- [[BUS-Schaltung]]
+	- [[synchroner BUS]]
+	- [[asynchroner BUS]]
+- [[serielle Bus-Schaltung]]
+- [[Seriell-Parallel Crossover]]
+- [[RS232 Bus]]
+- [[PCI Express Bus]]
 
 
 ## Speicher
@@ -127,7 +133,7 @@ nach Erkennung
 - [[RAM]]
 	- [[DRAM]]
 	- [[SDRAM]]
-	- [[DDRRAM]]
+	- [[DDR RAM]]
 - [[PROM]]
 	- [[EPROM]]
 	- [[EEPROM]]

@@ -7,9 +7,16 @@
 #### Altklausuren
 [[testat.pdf]]
 [[19BE.pdf]]
+[[19BE-WH.pdf]]
+[[klausur2024_ueb.pdf]]
+[[probeklausur.pdf]]
+
+[[FSA Cheat Sheet]]
 ### Prüfungsleistung
 - Klausur 90 min
 - 10 pages Cheat Sheet
+
+[[Tipps Klausur FSA]]
 ## GoodNotes
 
 
@@ -227,10 +234,17 @@
 - [[Übbung 6.15 WHILE Programme]]
 
 ## (7. Komplexitätsklassen)
-P = NP PROBLEMM WHUIIEOIEUOIVJOEIRJASLERKJVOIEJS
 - [[Komplexität]] 
 - [[Komplexität von Problemen]]
 - [[P = NP Problem]]
 	- [[TIME und NTIME]]
 - [[Cliquenproblem]]
+	- [[NP-Vollständigkeit Cliquenproblem]]
+- [[NP-Vollständigkeit]]
+	- [[Polnomialzeit-Reduktion]]
+- [[Erfüllbarkeitsproblem]]
+	- [[3-SAT]]
+
+### Darüber hinaus
+- [[PSPACE-Vollständig]]
 

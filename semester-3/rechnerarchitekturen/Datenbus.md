@@ -1,4 +1,4 @@
-- Überträgt Daten (= alles, was nicht Adresse ist)
+> Überträgt [[Daten]] (= alles, was nicht Adresse ist)
 
 1. [[Daten]]
 2. [[Instruktion|Befehl]]

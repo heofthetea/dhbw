@@ -14,14 +14,14 @@
 1. Fülle Hauptdiagonale 
 	1. Für jedes [[Symbol]] $w[i]$: trage $A$ ein, wenn [[Produktionsregel|Regel]] $A \rightarrow w[i]$ existiert 
 2. Fülle nach und nach Nebendiagonalen
-	1. Überprüfe immer Paare an Feldern (s. [[#vergleiche|Bild]])
+	1. Überprüfe immer Paare an Feldern (s. [[#Bild]])
 	2. Wenn eine Kombination $AB$ durch eine Regel $C \rightarrow AB$ gebildet werden kann, trage $C$ ein
 	3. ist ein Feld im Paar leer, kann die Kombination nicht gebildet werden
-3. Wenn $S$ in $(1, n)$ steht: [[Wort]] ist Element der [[Sprache]] 
+3. Wenn $S$ in $(1, n)$ steht: [[Wort]] gehört zur [[Sprache]] 
 
 > [!hint] Algorithmus muss immer bis ganz zum Ende durchgeführt werden!
 
-### vergleiche
+### Bild
 ![[Pasted image 20241011123404.png]]
 
 

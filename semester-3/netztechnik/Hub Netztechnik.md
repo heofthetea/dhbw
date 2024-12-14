@@ -3,13 +3,16 @@
 ### Sources
 
 ### Altklausuren
-[[Nachklausur_Netztechnik-I_STG-TINF22E.pdf]] -> weniger umfangreich als unsere,
+[[Nachklausur_Netztechnik-I_STG-TINF22E.pdf]] -> Probeklausur, weniger umfangreich als unsere
+-> [[Bearbeitung Nachklausur_Netztechnik-I_STG-TINF22E.pdf]]
+[[Test-Klausurfragen-Lösungsbogen_STG-TINFxxx-Netztechnik-1.pdf]] 
 
 ### Notengebung
 - Klausur 90 min
 
 ## Libraries
 [[Library Netztechnik]]
+[[Library Zugriffsverfahren]]
 [[Netztechnik Adressen Quick Overview]]
 
 ## Fragenkatalogsystem
@@ -17,38 +20,38 @@
 
 # Vorlesungen
 ## 01 Intro
-[[NT Normen]]
-[[Von Zeichen zu Wissen]]
-[[Anforderungen an elektronische Informationsverarbeitung]]
-- [[Verfügbarkeit Informationssysteme]]
+- [[NT Normen]]
+- [[Von Zeichen zu Wissen]]
+- [[Anforderungen an elektronische Informationsverarbeitung]]
+	- [[Verfügbarkeit Informationssysteme]]
 
-[[Terminalnetz]]
-[[Client Server Architecture]]
-[[Peer-to-Peer Network]]
-[[E-Commerce]]
-[[Ubiquitous Computing]]
-[[Aufbau von Netzwerken]]
-[[DEE]]
+- [[Terminalnetz]]
+- [[Client Server Architecture]]
+- [[Peer-to-Peer Network]]
+- [[E-Commerce]]
+- [[Ubiquitous Computing]]
+- [[Aufbau von Netzwerken]]
+- [[DEE]]
 
-Verkerhsarten
-- [[Unicast]]
-- [[Multicast]]
-- [[Anycast]]
-- [[Broadcast]]
-Betriebsarten
-- [[Simplex-Verbindung]]
-- [[Halb-Duplex-Betrieb]]
-- [[Duplex-Verbindung]]
+- Verkerhsarten
+	- [[Unicast]]
+	- [[Multicast]]
+	- [[Anycast]]
+	- [[Broadcast]]
+- Betriebsarten
+	- [[Simplex-Verbindung]]
+	- [[Halb-Duplex-Betrieb]]
+	- [[Duplex-Verbindung]]
 
-[[Shared Medium]]
-[[Klassifizierung von Netzerken]]
-[[Verbindungstyp]]
-[[Nachrichtenvermittlung vs. Paketvermittlung]]
-[[Rundfunksystem]]
-[[ISM-Band]]
-[[Satellitenkommunikation]]
-[[verbindungsorientierte Kommunikation]]
-[[verbindungslose Kommunikation]]
+- [[Shared Medium]]
+- [[Klassifizierung von Netzerken]]
+- [[Verbindungstyp]]
+- [[Nachrichtenvermittlung vs. Paketvermittlung]]
+- [[Rundfunksystem]]
+- [[ISM-Band]]
+- [[Satellitenkommunikation]]
+- [[verbindungsorientierte Kommunikation]]
+- [[verbindungslose Kommunikation]]
 ## 02 Schichtenmodelle
 [[Schichtenmodell]]
 [[Referenzmodell]]
@@ -101,7 +104,7 @@ Betriebsarten
 ## 04 Leitungstheorie
 [[Leitung]]
 [[Twisted Pair Leitung]]
-[[NEXT]]
+[[Crosstalk]]
 - [[ACR]]
 [[Wiremap]]
 [[Dämpfung]]
@@ -117,7 +120,7 @@ Betriebsarten
 - [[CSMA CD]]
 - [[CSMA CA]]
 [[Token Ring]]
-[[Slotted ALOHA]]
+[[ALOHA]]
 
 
 [[Repeater]]
@@ -147,7 +150,7 @@ Betriebsarten
 [[Koaxial-Leitung]]
 [[Sternvier-Leitung]]
 [[Twisted Pair Leitung]]
-- [[Twisted Pair Anschluss]]
+- [[Twisted Pair Anschluss RJ45]]
 
 ### Glasfaserverkabelung
 [[Glasfaserkabel]]
@@ -231,6 +234,7 @@ Betriebsarten
 	- [[IPv4 Header]]
 	- [[Referenznetzwerke]]
 - [[IPv6]]
+	- [[MAC zu EUI-64]]
 	- [[IPv4 go poof - gone]]
 	- [[IPv6 Header]]
 	- [[IPv6 Adresspräfixe]]

@@ -1,5 +1,7 @@
-Informelle Vorstellung: "Es gibt einen [[Algorithmus|Algorithmus]]"
+> Informelle Vorstellung: "Es gibt einen [[Algorithmus|Algorithmus]]"
 
+
+[[Wortproblem]]
 ## Formal
 Eine [[Menge]] $S$ heißt [[Entscheidbarkeit|entscheidbar]], wenn es eine [[Determinismus|deterministische]] [[Turing Machine]] $M$ existiert, die die Eingabe $w$ 
 - akzeptiert, wenn $w \in S$ gilt,

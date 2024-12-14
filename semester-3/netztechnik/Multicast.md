@@ -8,4 +8,7 @@
 - ...
 
 ## Als [[IPv6]] Adresse
-- `ff01::101`
+- `ff0s::z`
+	- `s`: Scope
+#### Scopes
+![[Pasted image 20241125150628.png]]

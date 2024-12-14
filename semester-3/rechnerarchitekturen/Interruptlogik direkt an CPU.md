@@ -6,5 +6,5 @@
 - [[Interrupt Handling durch Oder]]
 - [[Daisy Chain]]
 
-> [!warning] Beide dieser Optionen sind auf ihre Art und Weise dumm --> [[Interrupt Controller]]
+> [!warning] Beide dieser Optionen sind auf ihre Art und Weise dumm -> [[Interrupt Controller]]
 

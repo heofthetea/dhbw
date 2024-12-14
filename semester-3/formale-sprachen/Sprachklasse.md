@@ -6,7 +6,7 @@
 - [[Rekursiv aufzählbare Sprache]]
 
 (Bonus: [[Natürliche Sprache]] lol)
-Einordnung: [[Beispiel Reimschemata]]
+Einordnung: [[Analogie Reimschemata]]
 
 
 

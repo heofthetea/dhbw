@@ -1,4 +1,7 @@
 > 1-persistentes [[CSMA]] - sendet mit einer Wahrscheinlichkeit von $1$
+
+[[CSMA CD]]
+
 - Station 1 sendet
 	- Station 2 und 3 warten, bis $1$ mit senden fertig ist
 - nach Erkennung von [[Kollision (Zugriffsverfahren)]]: beide warten eine _zufällige Zeit_

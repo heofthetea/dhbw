@@ -7,7 +7,7 @@ Eine [[Reduktion]] von $L_{1} \subset T_{1}$ auf $L_{2} \subset T_{2}$ ist eine 
 $$w \in L_{1} \Leftrightarrow f(w) \in L_{2}$$
 Es gilt:
 - $(L_{1} \leq L_{2}) \land L_{2}$ [[Entscheidbarkeit|entscheidbar]]$\Longrightarrow L_{1}$ entscheidbar
-- $(L_{1} \leq L_{2}) \land L_{1}$ [[Unentscheidbarkeit|unentscheidbar]] $\Longrightarrow L_{2}$ unentscheidbar
+- $(L_{1} \leq L_{2}) \land L_{1}$ [[Unentscheidbarkeit|unentscheidbar]] $\Longrightarrow L_{2}$ unentscheidbar => [[Kontraposition]]
 
 > [!warning] Schlussrichtung ist **umgekehrt** für [[Entscheidbarkeit]] und [[Unentscheidbarkeit]].
 
@@ -17,4 +17,5 @@ $$L_{1}\leq L_{2}$$
 $L_{1}$ ist auf $L_{2}$ reduzierbar.
 
 > [!hint] ist Alltagsgeschäft eines Informatikers => [[Reduktion]] neuer Probleme auf bekannte (= [[Entscheidbarkeit|entscheidbare]]) Implementierungen
+
 

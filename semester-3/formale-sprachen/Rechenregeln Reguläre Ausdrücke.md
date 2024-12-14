@@ -15,7 +15,6 @@
 
 > [!info] Beweis erfolgt durch Umwandeln der [[Regulärer Ausdruck]] in [[Sprache|Mengenschreibweise]]
 
-
 > [!hint] Jede [[Regulärer Ausdruck]] mit der [[Leere Sprache|leeren Sprache]] kann auf entweder _nur_ $\varnothing$ oder ein anderes RegEx ohne $\varnothing$ vereinfachen.
 
 > [!warning] [[Konkatenation]] ist _nicht_ kommutativ!

@@ -4,7 +4,7 @@
 
 > [!hint] Deterministische Kellerautomaten sind _echt schächer_ als dieser nichtdeterministischer [[Kellerautomat]].
 
-
+> [!info] Sobald es ein Übergangspaar $((0, \epsilon, Z, ...), (0, a, Z, ...))$ gibt, ist der KA bereits [[Nichtdeterminismus|nichtdeterministisch]].
 
 ## Formal
 Definiert als $6$-[[Tupel]]

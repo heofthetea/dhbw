@@ -6,7 +6,6 @@ $$\int\limits_{g(B)}^{\cdot}f(x)dx = \int\limits_{B}^{\cdot}\left(f(g(z) \cdot |
 
 
 
-
 ## Ein-Dimensional
 1. Wähle einen Term $g(x)$ als $u$
 2. Berechne $\frac{du}{dx} = u'$ 

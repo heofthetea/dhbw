@@ -3,6 +3,9 @@
 - Klausuraufgabe: Reverse-Engineering von Assembly-Code in [[NS-Diagramm]]
 ---
 
+
+Instruction Set: [[C500_AISM.PDF]]
+
 [[Vergleich 8051 vs. Cortex M4]]
 [[8051 Architektur]]
 

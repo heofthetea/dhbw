@@ -98,7 +98,7 @@ $$\mathcal{A} = (Q, \Sigma, \delta, q_{0}, F)$$
 #### Algorithmus
 - Beginne mit [[Endzustand|Endzuständen]]
 1. [[Regulärer Ausdruck|RegEx]] für jeden Zustand erstellen
-	1. Für [[Müllzustand]] wird das direkt eine [[Rekurrenzrelation]]
+	1. Für [[Müllzustand]] wird das direkt eine [[Rekurrenzrelation]] -> [[Leere Sprache]] $\varnothing$
 2. nacheinander von hinten nach vorne Gleichungen mit [[Arden-Lemma]] umformen und in frühere Zustandsgleichungen einsetzen
 3. wenn bei [[Startzustand]] angekommen: fertig
 

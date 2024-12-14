@@ -6,7 +6,7 @@
 - Jeder mögliche [[Lauf]], das Eingabezeichen zu verarbeiten, wird [[asynchronous|parallel]] verarbeitet
 	- ist einer der [[Lauf|Läufe]] akzeptierend, wird das Wort akzeptiert
 ## Definition
-Ein [[NFA]] ist ein 5-[[Tupel]] ähnlich dem [[DFA]]:$$A = (Q, \Sigma, \delta, q_{0}, F)$$ mit folgenden Komponenten:
+Ein [[NFA]] ist ein 5-[[Tupel]] ähnlich dem [[DFA]]:$$A = (Q, \Sigma, \Delta, q_{0}, F)$$ mit folgenden Komponenten:
 - $Q$ ist _endliche_ Menge an [[Zustand|Zuständen]]
 - $\Sigma$ ist ein _endliches_ Eingabe-[[Alphabet]]
 - $\delta: Q \times (\Sigma \cup \set{epsilon}) \times Q$: [[Übergangsrelation]]

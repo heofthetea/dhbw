@@ -1,4 +1,4 @@
-[[Interrupt Controller]]
+[[Interruptlogik direkt an CPU]] [[Linien-Topolgie]]
 
 ## Ablauf
 1. Gerät: gibt [[INTR]] Anfrage weiter (wenn es nicht selbst angefragt hat)

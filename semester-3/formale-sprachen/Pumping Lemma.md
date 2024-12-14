@@ -12,6 +12,8 @@ Dann gibt es ein $k \in \mathbb{N}^{\geq 1}$, so dass für jedes [[Wort]] $s \in
 3. $|u \cdot v| \leq k$ -> Prolog und Zyklus haben zusammen höchstens die Länge $k$
 4. $\forall_{h\in \mathbb{N}}(u\cdot v^{h}\cdot w \in L)$  -> eine _beliebige_ Anzahl an [[Zyklus]]-Durchläufen erzeugt ein [[Wort]] der Sprache $L$.
 
+
+
 > [!hint] $k \leq |Q|$ 
 ## Beispiel Pumping-Automat
 ![[Pasted image 20241002132943.png]]

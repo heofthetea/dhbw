@@ -5,7 +5,7 @@
 3. Wähle ein richtiges $h$.
 4. Zeige, dass $u \cdot v^{h} \cdot w \not\in L$ gilt.
 
-
+> [!warning] $\exists_{s \in \Sigma^{*}}$ => **eine** konkrete Zerlegung!!!!
 ## Beispiel
 ![[Pasted image 20241002134907.png]]
 - Wort muss _mindestens_ $k$ Zeichen lang sein --> $a^{k}b^{k}$ ist bequem

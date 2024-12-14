@@ -7,7 +7,7 @@
 - Ergänzendes ($16b$) [[Register]] -> [[Segment]] Register bzw. "Offset Register"
 
 ```
-Physikalische Adresse = f(Segment Register, Offset Register)
+Physikalische Adresse = f(Segment Register, Offset Register) = (SR : OR)
 ```
 
 (war früher: `(CS : IP)` = [[Programm Counter]])
@@ -17,7 +17,11 @@ Physikalische Adresse = f(Segment Register, Offset Register)
 $$f = (SR) \cdot 16 + (OR) + direct$$
 - hier (nicht offizielle Notation) OR: Offset Register, SR : Segment Register
 	- SR: Wählt [[Segment]]
+		- ein [[Register]] für jede Segment-Art
 	- OR: Wird dazu Addiert um [[Adresse]] zu finden
+		- Für jede Segmentart gibt es spezielle Register, die als Offset-Register angegeben werden können:
+			- IP (Instruction Pointer) -> CS
+			- SP (Stack pointer) -> SS
 	- direct: probably to find bitwise?
 
 > [!hint] Die Startadresse eines [[Segment|Segments]] ist durch $16$ teilbar (Granularität von $16$ [[Byte]])

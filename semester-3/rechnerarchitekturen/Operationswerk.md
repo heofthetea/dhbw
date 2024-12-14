@@ -2,8 +2,8 @@
 
 - erhält: **Steuersignale** von [[Steuerwerk]]
 	- [[Daten]]
-- generiert: **Statusmeldungen**
-	- [[Daten]], [[Adresse|Adressen]]
+- generiert: **Statusmeldungen** zurück an [[Steuerwerk]] ("Status Codes") -> [[PSW]]
+	- [[Daten]], [[Adresse|Adressen]] -> [[BUS-Interface]]
 
 
 

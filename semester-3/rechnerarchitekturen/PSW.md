@@ -2,4 +2,4 @@
 > engl: Conditioning Codes
 
 - spezielles [[Register]]
-- Ist Signal _an_ das [[Steuerwerk]]
+- Ist Signal _an_ das [[Steuerwerk]] => **Statussignal**

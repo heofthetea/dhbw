@@ -1,5 +1,6 @@
 > `x:x:x:x:x:x:x:x` - Jedes `x` ist eine 2-[[Byte]] [[Hexadezimalsystem|Hexadezimal]]-Zahl
 
+[[IP]]
 
 - Ziel: alles deutlich einfacher machen (z.B. kein DHCP-Server mehr notwendig)
 

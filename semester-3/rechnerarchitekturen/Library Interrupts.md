@@ -9,7 +9,7 @@
 [[Interruptlogik direkt an CPU]]
 - [[Interrupt Handling durch Oder]]: Es gibt einen [[BUS-System|Bus]] für [[INTA]] und [[INTR]], an den sich alle Geräte anhängen
 
-> [!error]- Es gibt kein [[Zugriffsverfahren]], aber trotzdem Risiko für Kollisionen => Das ganze geht ziemlich schnell den Bach runter lol
+> [!error]- Es gibt kein [[Zugriffsverfahren]], aber trotzdem Risiko für [[Kollision (Zugriffsverfahren)|Kollisionen]] => Das ganze geht ziemlich schnell den Bach runter lol
 
 - [[Daisy Chain]]
 	- Geräte sind in Reihe Geschaltet
@@ -41,14 +41,14 @@
 
 ### Verschiedene Arten
 - [[Auto-Interrupt]]
-	- Zieladresse für Interrupt-Routine wird hängt fest von der [[Mögliche Quellen für Interrupt|Quelle]] ab
+	- Zieladresse für Interrupt-Routine wird hängt **fest** von der [[Mögliche Quellen für Interrupt|Quelle]] ab
 	- **EAL** (Enable All Interrupt) Gate: Wenn $0$, werden _alle_ [[Interrupt|Interrupts]] abgelehnt (kann von Programmierer festgelegt werden)
 	- [[Flag]] wird automatisch zurückgesetzt; Routine muss durch [[RETI]] beendet werden
 
 > [!hint] Hier sind INTR und INTA irrelevant for some reason.
 
 - [[Nummer-Interrupt]]
-	- Zieladresse wird aus [[Vektornummer]] errechnet (ist hier aber nicht ganzes Bitmuster, sondern $11nn\, n111$)
+	- Zieladresse wird aus [[Vektornummer]] **errechnet** (ist hier aber nicht ganzes Bitmuster, sondern $11nn\, n111$)
 	- [[Interrupt]] muss freigegeben werden -> Ermöglicht Entscheidung auf Entwicklerseite, ob ein Interrupt von einem anderen Interrupt unterbrochen werden kann
 	- kann entweder en- oder disabled werden (`EI`/`DI` instruktion respectively)
 - [[Vektor-Interrupt]]

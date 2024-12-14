@@ -6,31 +6,30 @@
 
 > [!warning] Don't compare floating points with an _equals_ Statement!
 
-\1. Bit: Vorzeichen-Bit $V$
-Charakteristik $C$: Exponential-Darstellung der Zahl (festgelegt (design): 
-- 8 bit für float (32 bit) --> Offset $S = 127$
-- 11 bit für double (64 bit) --> Offset $S = 1023$
-)
-**Mantisse** $M$: Nachkommazahl, wenn _genau eine $1$ vor dem Komma steht_ - die restlichen Bit
+- $1$. Bit: Vorzeichen-Bit $V$
+- Charakteristik $C$: Exponential-Darstellung der Zahl
+	- 8 bit für float (32 bit) --> Offset $S = 127$
+	- 11 bit für double (64 bit) --> Offset $S = 1023$
 
-$$\mathcal{Z} = (-1)^{V} \cdot M \cdot 2^{C-S}$$
+- **Mantisse** $M$: Nachkommazahl, wenn _genau eine $1$ vor dem Komma steht_ - die restlichen Bit
+
+$$\mathcal{Z} = (-1)^{V} \cdot (1 + M) \cdot 2^{C-S}$$
 
 ## Umrechnung
 1. **Normierung**: Vorkomma-Zahl $n$ aufteilen, bis eine $1$ vor dem Komma steht
 2. **Nachkommastellen**: Nacheinander [[negative_powers_of_2.pdf|negative Zweierpotenzen]] abziehen, bis kein Rest mehr da ist
-3. **Vorkommastellen**: Potenz $n$ (aus 1.) zu Offset addieren
+3. **Vorkommastellen**: Potenz $n$ (aus 1.) zu Offset **addieren**
 4. [[Konkatenation]] mit Vorzeichenbit
 
 > [!hint]- Normierung kann man auch erst machen, nachdem man die Zahl in [[Binärsystem]] umgerechnet hat
 > ist dann lediglich verschiebung des Kommas
 ## Sonderwerte
-$0$ kann in der Mantisse nicht dargestellt werden lol 
-- $0 \Leftrightarrow C = 0 \land M = 0$
-	- --> $C = 0 \land M \neq 0$ sind nicht nutzbar
+- $0 \Leftrightarrow C = 0 \land M = 0$ => Alles $0$ (bis auf $V$)
+	- -> $C = 0 \land M \neq 0$ sind nicht nutzbar
 - Infinity: $C = 255 \land M = 0$
 - [[JS NaN|NaN]]: $C = 255 \land M \neq 0$ 
 	- Division durch $0$
-
+> [!hint] Eselsbrücke: Wie bei [[Subnetting]] -> all Zeroes and all Ones verboten
 ## Eigenschaften
 - kleinster Wert: $|Z| = 1.00_{2} \cdot 2^{-126} \approx 2.2_{10} \cdot 10^{-38}$
 	- mit 64 bit: $2.2_{10} \cdot 10^{-308}$
@@ -40,17 +39,13 @@ $0$ kann in der Mantisse nicht dargestellt werden lol
 > [!warning] Großer Zahlenbereich, aber Zahlen werden zunehmend ungenauer je näher man an die Grenzen des Wertebereichs kommt
 
 
-
-
-
-
 ## Rambling
 
 > [!hint] Genauigkeit
-> - Absolut: $Z_{n} - Z_{n-1}$ --> nicht konstant
-> - Relativ: $\frac{Z_{n}}{Z_{n-1}}$ --> konstant
+> - Absolut: $Z_{n} - Z_{n-1}$ -> nicht konstant
+> - Relativ: $\frac{Z_{n}}{Z_{n-1}}$ -> konstant
 
-#### Umrechnung
+### Beispiel
 Bsp: $12.625 = 2 * 6.1325 = 2 * 2 * 3.15625 = 2 * 2 * 2* 1.578125 = 2^{3}*1.578125$
 ==> Vorkomma-Zahl _so lange_ aufteilen, bis _eine 1_ vor dem Komma steht
 (oder, wenn vorkomma-Zahl kleiner als 1: so lange mit 2 _multiplizieren_)
@@ -69,7 +64,6 @@ $Offset + Potenz = 127 + 3 = 130 = 1000\ 0010_2$
 
 ==>zusammengefügt:
 $1100\,0001\,0100\,1010_2$
-
 
 
 ## Warum? GLEIT-Kommazahl

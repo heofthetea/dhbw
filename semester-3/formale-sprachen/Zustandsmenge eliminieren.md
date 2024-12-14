@@ -38,7 +38,7 @@ $$(q', \epsilon, Z', [q_{0}\ Z_{0}\ q], q')$$
 > - Es gibt also insgesamt $2^{3}$ mögliche Belegungen für $q_{1}$ und $q_{2}$
  
 
-## Bild
+### Bild
 ![[Pasted image 20241016135237.png]]
 
 - $q$ aus gelesenem Stacksymbol muss $q$ aus _letztem_ geschriebenem Stacksymbol entsprechen

@@ -1,8 +1,10 @@
 [[Lösung linearer Differenzialgleichung]], [[Fundamentallösung]]
 
-1. Gleichung aufstellen anhand dieser Tabelle
-2. Lineares Gleichungssystem lösen
-3. TADAAAAAA
+1. Ansatz anhand der Tabelle finden
+2. Ansatzfunktion [[Ableitung|ableiten]] (bis zur Ordnung der Differenzialgleichung)
+3. Einsetzen in [[Differenzialgleichung]]
+4. Lösen und Variablen finden
+5. $y = y_{h} + y_{p}$
 
 > WTF??? HÄTTEST DU AUCH IRGENDWAS DAZU SAGEN KÖNNEN, **WIE** MAN DAS ANWENDET????
 

@@ -4,7 +4,7 @@
 2. Kellerautomat mit einem Zustand in Grammatik übersetzen
 
 ## Schritt 2
-[[Transformation Kellerautomat zu KFG]] umgekehrt
+[[Transformation KFG zu Kellerautomat]] umgekehrt
 
 - $N = \Gamma$ ([[Nichtterminalsymbol|NTS]] sind die [[Stacksymbol|Stacksymbole]])
 - $S = Z_{0}$

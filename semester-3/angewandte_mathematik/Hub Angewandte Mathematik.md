@@ -1,8 +1,9 @@
-## Übungen
+## Übungen 
 [[Übungen zum Kapitel 2.pdf]]
 [[Übungen zum Kapitel 3.pdf]]
 [[Übungen zum Kapitel 4.pdf]]
 [[Übungen zum Kapitel 5.pdf]]
+[[Übungen zum Kapitel 5_2.pdf]]
 
 
 ## Library ig idfk but probably relevant for Klausru
@@ -17,7 +18,6 @@
 [[Differenzenquotient]]
 [[konvexe und konkave Funktionen]]
 [[Integral]]
-[[Eigentwerttheorie]]
 ## 1. Funktionen mehrerer Variablen 
 [[Funktion]]
 [[Stetigkeit]]
@@ -27,7 +27,12 @@
 
 
 ## 2. Differentialrechnung
+[[Eigentwerttheorie]]
 #todo Jordan Matrix, Hesse Matrix, zwei Wege zum Ableiten (mit und ohne Nebenbedingung)
+
+[[Jacoby Matrix]]
+[[Hesse Matrix]]
+[[n-dimensionale Kurvendiskussion]]
 
 ## 4. Integralrechnung
 [[Teil_3 Integralrechnung.pdf]]

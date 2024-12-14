@@ -5,7 +5,7 @@
 flowchart LR
 I[Interrupt-Nr] --> F((Formel)) --> A[Adresse]
 ```
-- Interrupt Acknowledte Signal (INTA)
+- Interrupt Acknowledte Signal [[INTA]]
 	- was das macht? idfk "das gibt's halt"
 
 > [!warning] Bähnisch meinte das "habe es übergangsweise mal gegeben"... Still relevant??

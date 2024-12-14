@@ -1,3 +1,7 @@
 > in [[Von-Neumann Architektur]]
 
-Ist eine Kombination aus [[Datenbus]] + [[Adressbus]] + [[Steuerbus]]
+- [[Datenbus]]
+- [[Adressbus]]
+- [[Steuerbus]]
+
+> [!info] Ist eine Kombination aus [[Datenbus]] + [[Adressbus]] + [[Steuerbus]]

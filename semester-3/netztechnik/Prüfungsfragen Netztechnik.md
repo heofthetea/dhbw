@@ -31,7 +31,7 @@
 
 ## Welche wichtigen Kenngrößen gibt es in der Leitungsmessung?
 - Dämpfung
-	- [[NEXT]] (Near End Cross Talk): an nahem Ende messen
+	- [[Crosstalk]] (Near End Cross Talk): an nahem Ende messen
 	- FEXT: an fernem Ende messen
 	- Man setzt an einem Ende eine Spannung an, und misst die Spannung am anderen Ende
 - Signallaufzeit + [[Propagation Delay]]
@@ -62,7 +62,7 @@
 - dezentral und zentrale Verfahren
 - darunter deterministisch und stochastisch
 	- deterministisch: man kann vorhersagen, wie lange ein Frame braucht (bsp. [[Token Ring]])
-	- stochastisch: [[CSMA]], [[Slotted ALOHA]]
+	- stochastisch: [[CSMA]], [[ALOHA]]
 
 ## Wofür Mindestgröße für Nachricht?
 - Wenn [[Kollision (Zugriffsverfahren)]] erkannt wird, muss das an den Sender mitgeteilt werden

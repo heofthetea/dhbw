@@ -1,7 +1,6 @@
 #master
 [[README]]
 [[23B Battle Royale.pdf]] - the most important Document of them all
-[[Reasons to quit]]
 ## Quick Information
 [[modulhandbuch.pdf]]
 [[theorie_praxisphasen.pdf]]

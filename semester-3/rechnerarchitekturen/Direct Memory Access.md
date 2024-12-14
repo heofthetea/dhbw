@@ -1,6 +1,6 @@
 > usually abgekürzt mit **DMA**
 
-- Direkter Transfer von [[Daten]] von SSD in [[Memory]]
+- Direkter Transfer von [[Daten]] von Gerät in [[Memory]]
 -  Beschleunigung des Datentransfers
 
 ```mermaid

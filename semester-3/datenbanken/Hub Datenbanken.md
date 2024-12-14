@@ -49,6 +49,7 @@
 
 [[Datenbank under the hood]]
 [[DB Entwurfsprozess]]
+[[ACID]]
 
 #### Übungen
 [[Übung DB Entwurf Universität]]
@@ -145,3 +146,6 @@
 - [[Übung 2NF]]
 - [[Übung BCNF]]
 - [[Übung Normalformen]]
+
+### Gigantische Übung
+[[Übung Tierpflege]]

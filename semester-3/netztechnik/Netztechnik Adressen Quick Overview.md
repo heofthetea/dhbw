@@ -1,3 +1,6 @@
+
+> [!warning] Bei [[IP Adresse|IP Adressen]] - Bei [[Subnetting]] immer überprüfen, ob es eine Netzwerk-Adresse ist!
+
 ## [[MAC Adresse]]
 - `xx:xx:xx:xx:xx:xx` -> $6$ [[Byte]] Hexadezimal
 	- erstes Bit: I/G
@@ -16,10 +19,12 @@
 - `01:00:5e:00:00:0z` -> [[Multicast]] Adresse
 	- `z = 1`: All Systems
 	- `z = 2`: All [[Router|Routers]]
+
+> [!warning] Die LEDNR kann auch beliebig belegt sein.
+
 - `01:08:C2:00:00:01` -> [[Multicast]] für [[Ethernet Flow Control|Flow Control]]
 - `00:00:0c:xx:xx:xx` -> Von [[CISCO]]
 - `00:00:01:xx:xx:xx` -> Von XEROX (inventors)
-
 
 ## [[IPv4]] Adressen
 - Dezimale Darstellung
@@ -53,3 +58,13 @@
 - `::1`: [[Loopback]]
 - `ff05::z` -> [[Multicast]] (`z` definiert wie für MAC und IPv4)
 - `f080::` -> Unique Local Scope (gültig bis zu [[Gateway]]) 
+
+## Multicast Suffixes
+
+| IPv6 Address | Scope                                 |
+| ------------ | ------------------------------------- |
+| `ff01::1`    | All Nodes in interface                |
+| `ff01::2`    | All Routers in interface-local        |
+| `ff02::1`    | All [[Knoten\|Nodes]] in link-local   |
+| `ff02::2`    | All [[Router\|Routers]] in link-local |
+| `ff05::2`    | All [[Router\|Routers]] in site-local |

@@ -16,6 +16,6 @@ In jeder Iteration: Durch _alle_ freie Felder durch gehen
 		- Wo komme ich hin?
 			- "von $(1, 3)$ komme ich  mit $a$ zu $(3, 5)$"
 		- wenn Zielfeld leer: Ausgangsfeld leer lassen
-		- wenn Zielfeld unterscheidbar: Ausgangsfeld ist auch unterscheidbar --> Iterationsnummer eintragen
+		- wenn Zielfeld unterscheidbar: Ausgangsfeld ist auch unterscheidbar -> Iterationsnummer eintragen
 
 > [!hint] Wenn in einer Iteration kein neues Paar hinzu gekommen ist, sind alle leeren Felder äquivalent
