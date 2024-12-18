@@ -1,3 +1,4 @@
+adflkdjflkj
 > [!help]-  1\. Erklären Sie die Begriffe "Datenbank", "DBMS", "DBs", "Oracle/DB2"
 > - [[Datenbank]]: logisch, strukturierte und zusammenhängende Datenspeicherung
 > - DBMS: [[DBMS]]; verwaltet Datenbank und Zugriffe darauf

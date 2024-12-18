@@ -1,5 +1,6 @@
 [[Transformation DFA zu Regex]]
 
+
 ![[FSA_Handout.pdf#page=98]]
 
 - $r_{2}$ erkennt eben auch [[leeres Wort]], da [[Endzustand]]

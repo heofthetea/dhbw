@@ -1,3 +1,11 @@
+MATCH (mario:Person {name: "Mario"})
+    -[:BEFREUNDET_MIT]->(friend:Person)
+    -[:BESITZT]->(laptop:computer:laptop)
+RETURN friend.name;
+
+
+
+
 SELECT DISTINCT p2.name
 FROM Person p1
 JOIN Friendship f ON p1.id = f.person1_id
@@ -7,10 +15,6 @@ WHERE p1.name = 'Mario' AND c.type = 'laptop';
 
 
 
-MATCH (mario:Person {name: "Mario"})
-    -[:BEFREUNDET_MIT]->(friend:Person)
-    -[:BESITZT]->(laptop:computer:laptop)
-RETURN friend.name;
 
 
 
