@@ -15,5 +15,6 @@
   "colored-text",
   "obsidian-redirect",
   "mermaid-tools",
-  "symbols-prettifier"
+  "symbols-prettifier",
+  "obsidian-livesync"
 ]

@@ -1,7 +1,7 @@
 > Das, was zitiert wird, gehört nicht mir!
 - Es soll auf Gedankengut _anderer_ aufgebaut werden
 	- Es soll nicht abgeschrieben werden, sondern _reflektiert_ mit den Literaturquellen arbeiten
--> was nicht Eigenleistung ist, muss hervorgehoben werden
+--> was nicht Eigenleistung ist, muss hervorgehoben werden
 
 
 ### Umgang mit Internet

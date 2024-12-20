@@ -6,7 +6,7 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 43.603411513859285,
+        "dimension": 42.9637526652452,
         "children": [
           {
             "id": "f025252f25493d6e",
@@ -138,9 +138,25 @@
                   "icon": "lucide-file",
                   "title": "Hub Algorithmen"
                 }
+              },
+              {
+                "id": "4d69b560acbc438c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "intension/t2000/Hub T2000.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub T2000"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 8
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -252,7 +268,7 @@
       {
         "id": "5e44c37c29a1d2f6",
         "type": "split",
-        "dimension": 56.396588486140715,
+        "dimension": 57.0362473347548,
         "children": [
           {
             "id": "154fab2344ce804a",
@@ -265,166 +281,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Library Speicher.md",
+                    "file": "semester-3/formale-sprachen/Reduktion.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Library Speicher"
+                  "title": "Reduktion"
                 }
               },
               {
-                "id": "70d793420421e454",
+                "id": "152738c7bd3604ef",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Lauf.md",
+                    "file": "semester-3/formale-sprachen/Produktautomat.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Lauf"
+                  "title": "Produktautomat"
                 }
               },
               {
-                "id": "9acaf4a2cb12e868",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Übung Normalformen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Übung Normalformen"
-                }
-              },
-              {
-                "id": "cabe2bbe361b14ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Church-Turing These.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Church-Turing These"
-                }
-              },
-              {
-                "id": "8fcff8508fe793f1",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-1/lineare-algebra/latex_symbols.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "latex_symbols"
-                }
-              },
-              {
-                "id": "f084aa223b01fce8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Cliquenproblem.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Cliquenproblem"
-                }
-              },
-              {
-                "id": "6f4a50601f883868",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/sources/19BE.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "19BE"
-                }
-              },
-              {
-                "id": "4e49ac5fcb7997bc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/DFA.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "DFA"
-                }
-              },
-              {
-                "id": "97770563d7bbda37",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Transformation RegEx zu NFA.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Transformation RegEx zu NFA"
-                }
-              },
-              {
-                "id": "5372182b7a5781df",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Unbeschränkte Grammatik.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Unbeschränkte Grammatik"
-                }
-              },
-              {
-                "id": "2bd5968ef7990766",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Irregularität einer Sprache zeigen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Irregularität einer Sprache zeigen"
-                }
-              },
-              {
-                "id": "4b3a48883c14ea91",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Arden-Lemma.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Arden-Lemma"
-                }
-              },
-              {
-                "id": "9695118e1b46a926",
+                "id": "3ea444ff164192a6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -438,21 +318,77 @@
                 }
               },
               {
-                "id": "5e35f71a04ce8cc9",
+                "id": "20154ae1c358c7a1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Chomsky-Normalform.md",
+                    "file": "semester-3/formale-sprachen/Konfiguration KA.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Chomsky-Normalform"
+                  "title": "Konfiguration KA"
+                }
+              },
+              {
+                "id": "e89e3a7fe58c17bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/NFA für Klenee-Stern.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "NFA für Klenee-Stern"
+                }
+              },
+              {
+                "id": "7fcf49b8de4ef0ab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/formale-sprachen/Minimierung DFA.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Minimierung DFA"
+                }
+              },
+              {
+                "id": "608d50e700dc2ed5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Zitieren in Wissenschaftlichen Arbeiten.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Zitieren in Wissenschaftlichen Arbeiten"
+                }
+              },
+              {
+                "id": "f20ad36c5dc17d13",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/UDP.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "UDP"
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
           },
           {
             "id": "fd7bfaab03c82f4d",
@@ -562,8 +498,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WTF",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -583,7 +519,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -676,6 +613,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-livesync:Show log": false,
+      "obsidian-livesync:Replicate": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -688,56 +627,57 @@
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "6f4a50601f883868",
+  "active": "f20ad36c5dc17d13",
   "lastOpenFiles": [
-    "semester-3/formale-sprachen/Chomsky-Normalform.md",
-    "semester-3/formale-sprachen/Transformation in CNF.md",
-    "semester-3/formale-sprachen/sources/19BE.pdf",
-    "semester-3/formale-sprachen/Cliquenproblem.md",
-    "semester-3/formale-sprachen/DFA.md",
-    "semester-3/formale-sprachen/Transformation RegEx zu NFA.md",
-    "semester-3/formale-sprachen/Unbeschränkte Grammatik.md",
-    "semester-3/formale-sprachen/Irregularität einer Sprache zeigen.md",
-    "semester-3/formale-sprachen/Arden-Lemma.md",
-    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
-    "semester-3/formale-sprachen/Kontraposition Pumping Lemma.md",
-    "semester-3/formale-sprachen/Pumping Lemma.md",
-    "semester-3/formale-sprachen/Übung 2.64 Produktautomat.md",
-    "semester-3/formale-sprachen/Produktautomat.md",
-    "semester-3/formale-sprachen/Rekursiv aufzählbare Sprache.md",
-    "semester-3/formale-sprachen/Kontextfreie Grammatik.md",
-    "semester-3/formale-sprachen/Kontextfreie Sprache.md",
-    "semester-3/formale-sprachen/Kontextsensitive Grammatik.md",
-    "semester-3/formale-sprachen/Übung 2.39 NFA aus Regex.md",
-    "semester-3/formale-sprachen/Endlicher Automat.md",
-    "semester-3/formale-sprachen/Church-Turing These.md",
-    "semester-3/formale-sprachen/Clique.md",
-    "semester-3/formale-sprachen/images/Pasted image 20241115133113.png",
-    "semester-3/formale-sprachen/P = NP Problem.md",
-    "semester-3/formale-sprachen/Simulation NTM durch DTM.md",
-    "semester-3/formale-sprachen/TIME und NTIME.md",
-    "semester-2/algorithmen/complexity/Komplexität.md",
-    "semester-3/formale-sprachen/Komplexität von Problemen.md",
+    "semester-2/web-engineering/protocols/TCP.md",
+    "intension/t2000/Intended Behaviour of the Träp (Tracking my existential crisis).md",
+    "intension/t2000/Hub T2000.md",
+    "intension/t2000/Intended Behaviour of the Träp.md",
+    "semester-3/netztechnik/Layer 3.md",
+    "semester-3/netztechnik/OSI-7-Schichten Modell.md",
+    "semester-3/netztechnik/Layer 1.md",
+    "semester-3/netztechnik/Layer 2.md",
+    "theorie_praxisphasen.pdf",
+    "intension/t2000/T2000 paper outline.md",
+    "intension/t2000/T2000 Paper outline COPY.md",
+    "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
+    "semester-3/netztechnik/UDP.md",
+    "intension/t1000/T1000 Paper Outline.md",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output/segmented_sieve",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output",
+    "semester-2/web-engineering/ARP.md",
+    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Zitieren in Wissenschaftlichen Arbeiten.md",
+    "intension/t2000/TRÄP iptables default rules.md",
+    "intension/networking/URI.md",
+    "semester-3/formale-sprachen/NFA für Klenee-Stern.md",
+    "semester-3/formale-sprachen/Minimierung DFA.md",
     "semester-1/lineare-algebra/latex_symbols.pdf",
-    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
-    "semester-3/netztechnik/sources/Nachklausur_Netztechnik-I_STG-TINF22E.pdf",
-    "semester-3/netztechnik/images/Pasted image 20241114150727.png",
-    "semester-2/web-engineering/protocols/images/Pasted image 20241114150329.png",
-    "semester-3/netztechnik/images/Pasted image 20241114145939.png",
-    "semester-3/netztechnik/images/Pasted image 20241114145452.png",
-    "semester-3/netztechnik/images/Pasted image 20241114144921.png",
-    "semester-3/netztechnik/images/Pasted image 20241114144624.png",
-    "semester-3/netztechnik/images/Pasted image 20241114142950.png",
-    "semester-3/netztechnik/images/Pasted image 20241114142938.png",
-    "semester-3/netztechnik/images/Pasted image 20241114142405.png",
-    "semester-3/datenbanken/queries.cypher",
-    "semester-3/datenbanken/graphdatenbanken_graph.pdf",
-    "semester-3/datenbanken/mermaid-filter.err",
-    "semester-3/rechnerarchitekturen/sources/Rechnerarchitektur_Zusammenfassung.pdf",
-    "goodnotes/23B Battle Royale.pdf",
-    "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf"
+    "semester-3/formale-sprachen/Produktautomat.md",
+    "semester-3/formale-sprachen/Transformation in CNF.md",
+    "semester-3/formale-sprachen/Konfiguration KA.md",
+    "intension/t2000/T2000 mermaid graphics.md",
+    "semester-3/datenbanken/Hub Datenbanken.md",
+    "semester-3/datenbanken/Datenbanken Projekt.md",
+    "intension/Git Credential helper.md",
+    "Access token.mdenc",
+    "intension/images/Pasted image 20241212131402.png",
+    "intension/t2000",
+    "Termine_DHBW.pdf",
+    "semester-3/formale-sprachen/images/Pasted image 20241127192240.png",
+    "semester-3/netztechnik/images/Pasted image 20241125150628.png",
+    "23B Battle Royale.pdf",
+    "semester-3/netztechnik/images/Bearbeitung Nachklausur_Netztechnik-I_STG-TINF22E.pdf",
+    "semester-3/formale-sprachen/sources/19BE-WH.pdf",
+    "semester-3/formale-sprachen/images/Pasted image 20241120160745.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241120155646.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241120155627.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241120154705.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241120153446.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241120151013.png",
+    "semester-3/formale-sprachen/images/Pasted image 20241120144439.png"
   ]
 }

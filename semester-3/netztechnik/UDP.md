@@ -1,3 +1,6 @@
+> User Datagram Protocol
+
+> [!info] Fire and Forget
 
 [[verbindungslose Kommunikation]]
 
