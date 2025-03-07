@@ -126,20 +126,6 @@
                 }
               },
               {
-                "id": "10108b4ee402624a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Hub Algorithmen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Hub Algorithmen"
-                }
-              },
-              {
                 "id": "4d69b560acbc438c",
                 "type": "leaf",
                 "pinned": true,
@@ -156,7 +142,7 @@
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 5
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -290,62 +276,6 @@
                 }
               },
               {
-                "id": "152738c7bd3604ef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Produktautomat.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Produktautomat"
-                }
-              },
-              {
-                "id": "3ea444ff164192a6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Transformation in CNF.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Transformation in CNF"
-                }
-              },
-              {
-                "id": "20154ae1c358c7a1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Konfiguration KA.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Konfiguration KA"
-                }
-              },
-              {
-                "id": "e89e3a7fe58c17bf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/NFA für Klenee-Stern.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "NFA für Klenee-Stern"
-                }
-              },
-              {
                 "id": "7fcf49b8de4ef0ab",
                 "type": "leaf",
                 "state": {
@@ -360,35 +290,61 @@
                 }
               },
               {
-                "id": "608d50e700dc2ed5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Zitieren in Wissenschaftlichen Arbeiten.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Zitieren in Wissenschaftlichen Arbeiten"
-                }
-              },
-              {
                 "id": "f20ad36c5dc17d13",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/netztechnik/UDP.md",
+                    "file": "semester-2/algorithmen/Travelling Salesman Problem.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "UDP"
+                  "title": "Travelling Salesman Problem"
+                }
+              },
+              {
+                "id": "0b695ca221f26ac0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "intension/t2000/Hub T2000.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hub T2000"
+                }
+              },
+              {
+                "id": "26d0d210173bbc68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Beispielgliederung Praxisbericht.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Beispielgliederung Praxisbericht"
+                }
+              },
+              {
+                "id": "3578ff700070f6e6",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.8.7"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.8.7"
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 5
           },
           {
             "id": "fd7bfaab03c82f4d",
@@ -590,7 +546,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/formale-sprachen/sources/19BE.pdf",
+                "file": "intension/Master intension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -600,7 +556,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 19BE"
+              "title": "Backlinks for Master intension"
             }
           }
         ],
@@ -613,6 +569,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "obsidian-livesync:Show log": false,
       "obsidian-livesync:Replicate": false,
       "switcher:Open quick switcher": false,
@@ -631,53 +588,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "f20ad36c5dc17d13",
+  "active": "3578ff700070f6e6",
   "lastOpenFiles": [
-    "semester-2/web-engineering/protocols/TCP.md",
-    "intension/t2000/Intended Behaviour of the Träp (Tracking my existential crisis).md",
-    "intension/t2000/Hub T2000.md",
-    "intension/t2000/Intended Behaviour of the Träp.md",
-    "semester-3/netztechnik/Layer 3.md",
-    "semester-3/netztechnik/OSI-7-Schichten Modell.md",
-    "semester-3/netztechnik/Layer 1.md",
-    "semester-3/netztechnik/Layer 2.md",
-    "theorie_praxisphasen.pdf",
-    "intension/t2000/T2000 paper outline.md",
-    "intension/t2000/T2000 Paper outline COPY.md",
-    "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
-    "semester-3/netztechnik/UDP.md",
-    "intension/t1000/T1000 Paper Outline.md",
-    "semester-1/programmieren/code/sieve_of_eratosthenes/output/segmented_sieve",
-    "semester-1/programmieren/code/sieve_of_eratosthenes/output",
-    "semester-2/web-engineering/ARP.md",
-    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Zitieren in Wissenschaftlichen Arbeiten.md",
-    "intension/t2000/TRÄP iptables default rules.md",
-    "intension/networking/URI.md",
-    "semester-3/formale-sprachen/NFA für Klenee-Stern.md",
-    "semester-3/formale-sprachen/Minimierung DFA.md",
-    "semester-1/lineare-algebra/latex_symbols.pdf",
+    "intension/t2000/Überarbeitungen im Handbuch.md",
+    "intension/Triathlon User Onboarding Credentials.md",
+    "intension/t2000/images/Pasted image 20250214090417.png",
+    "intension/t2000/images/Pasted image 20250213161347.png",
+    "semester-3/netztechnik/IPoAC.md",
+    "intension/t2000/Generate context-sensitive reports.md",
+    "intension/t2000/number range to regex range.md",
+    "intension/t2000/Admin Panel Flow.md",
+    "intension/linux/SSH.md",
+    "intension/t2000/images/Pasted image 20250213161142.png",
+    "intension/t2000/Get a container's ip address from inside another container.md",
+    "intension/t2000/images/T1000 - Development of a Custom Debian image for a Honeypot Server.pdf",
+    "intension/t2000/images",
+    "intension/t2000/Continuously stream log file to python.md",
+    "intension/t1000/Hub T1000.md",
+    "intension/t1000/T1000 Senior References.md",
+    "intension/t1000/T1000 QnA session.md",
+    "semester-3/formale-sprachen/Reduktion.md",
     "semester-3/formale-sprachen/Produktautomat.md",
     "semester-3/formale-sprachen/Transformation in CNF.md",
     "semester-3/formale-sprachen/Konfiguration KA.md",
-    "intension/t2000/T2000 mermaid graphics.md",
-    "semester-3/datenbanken/Hub Datenbanken.md",
-    "semester-3/datenbanken/Datenbanken Projekt.md",
-    "intension/Git Credential helper.md",
+    "semester-3/formale-sprachen/NFA für Klenee-Stern.md",
+    "semester-3/formale-sprachen/Minimierung DFA.md",
+    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Zitieren in Wissenschaftlichen Arbeiten.md",
+    "semester-2/algorithmen/Travelling Salesman Problem.md",
+    "intension/t2000/Hub T2000.md",
+    "intension/t2000/Whitelisting configuration for the parser.md",
+    "semester-3/formale-sprachen/Polynomialzeit-Reduktion.md",
+    "intension/t2000/Undecidability of malicious traffic.md",
+    "intension/t2000/Benchmarking Python Regex Engine.md",
+    "semester-3/formale-sprachen/Übbung 6.15 WHILE Programme.md",
+    "intension/t1000/191212_Leitlinien_Praxismodule_Studien_Bachelorarbeiten.pdf",
+    "intension/t2000/email_report.pdf",
+    "theorie_praxisphasen.pdf",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output/segmented_sieve",
+    "semester-1/programmieren/code/sieve_of_eratosthenes/output",
+    "semester-1/lineare-algebra/latex_symbols.pdf",
     "Access token.mdenc",
     "intension/images/Pasted image 20241212131402.png",
     "intension/t2000",
-    "Termine_DHBW.pdf",
     "semester-3/formale-sprachen/images/Pasted image 20241127192240.png",
     "semester-3/netztechnik/images/Pasted image 20241125150628.png",
-    "23B Battle Royale.pdf",
-    "semester-3/netztechnik/images/Bearbeitung Nachklausur_Netztechnik-I_STG-TINF22E.pdf",
-    "semester-3/formale-sprachen/sources/19BE-WH.pdf",
     "semester-3/formale-sprachen/images/Pasted image 20241120160745.png",
     "semester-3/formale-sprachen/images/Pasted image 20241120155646.png",
     "semester-3/formale-sprachen/images/Pasted image 20241120155627.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241120154705.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241120153446.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241120151013.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241120144439.png"
+    "semester-3/formale-sprachen/images/Pasted image 20241120154705.png"
   ]
 }
