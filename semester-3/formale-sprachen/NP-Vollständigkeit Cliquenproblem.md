@@ -1,6 +1,6 @@
 [[Cliquenproblem]], [[NP-Vollständigkeit]], [[3-SAT]]
 
-> [!info] Folgt aus [[Polnomialzeit-Reduktion]] des [[3-SAT]] Problems.
+> [!info] Folgt aus [[Polynomialzeit-Reduktion]] des [[3-SAT]] Problems.
 
 - Eine Instanz von CLIQUE $(G, k)$ wird definiert wie folgt:
 	- $V = \set{L_{i,j}\ |\ L_{i,j} \ kommt\ in\ \varphi\ vor}$

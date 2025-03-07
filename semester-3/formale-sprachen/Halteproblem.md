@@ -1,6 +1,6 @@
 [[Turing Machine]]
 
-Das [[Halteproblem]] ist die [[Menu]] aller [[Tupel|Paare]] $(M, w)$ von [[Turing Machine|Turing Maschinen]] $M$ und [[Wort|Wörtern]] $w$, so dass $M$ mit der Eingabe $w$ [[Haltekonfiguration|hält]].
+Das [[Halteproblem]] ist die [[Menge]] aller [[Tupel|Paare]] $(M, w)$ von [[Turing Machine|Turing Maschinen]] $M$ und [[Wort|Wörtern]] $w$, so dass $M$ mit der Eingabe $w$ [[Haltekonfiguration|hält]].
 
 > [!info] [[Spezielles Wortproblem]] ohne die Bedingung, dass $M$ akzeptieren muss.
 

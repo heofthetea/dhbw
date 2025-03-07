@@ -13,4 +13,5 @@
 - SYN: Verbindungsaufbau
 - FIN: Verbindung beenden
 - WIN: wie groß ist meine aktuell noch verfügbare [[Windowing|Window]]-Size (wird jedes mal mitgeschickt)
+
 ![[Pasted image 20241114150329.png]]

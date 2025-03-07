@@ -19,7 +19,7 @@
 	- $L_{2} = \set{M_{E}\ |\ M_{E}\ hat\ Eigenschaft\ E}$
 	- $f = (M_{H}, w_{H}) \mapsto M'_{E}$
 - Definition von $M'_{E}$:
-	1. Führe Berechnung von $M_{H} auf w_{H}$ durch
+	1. Führe Berechnung von $M_{H}$ auf $w_{H}$ durch
 		1. [[Haltekonfiguration|hält]] nach endlich vielen Schritten, wenn $M_{H}$ auf $w_{H}$ hält
 		2. [[Endlosschleife]], wenn $M_{H}$ auf $w_{H}$ hält
 	2. führe Berechnung von $M_{E}$ auf $w_{E}$ durch

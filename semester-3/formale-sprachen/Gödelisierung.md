@@ -4,7 +4,7 @@
 - Probleme:
 	- $M$ muss **fixes** [[Alphabet]] und **fixe** [[Zustand|Zustandsmenge]] haben
 	- $M$ muss als Eingabe **beliebig große** Alphabete und Zustandsmengen verarbeiten können
-- Ziel: $M$ simuliert die Berechnungen beliebige uring Machines
+- Ziel: $M$ simuliert die Berechnungen beliebiger2 Turing Machines
 
 
 ## Umsetzung

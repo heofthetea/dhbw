@@ -241,7 +241,7 @@
 - [[Cliquenproblem]]
 	- [[NP-Vollständigkeit Cliquenproblem]]
 - [[NP-Vollständigkeit]]
-	- [[Polnomialzeit-Reduktion]]
+	- [[Polynomialzeit-Reduktion]]
 - [[Erfüllbarkeitsproblem]]
 	- [[3-SAT]]
 
