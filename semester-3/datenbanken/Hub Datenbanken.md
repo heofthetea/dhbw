@@ -1,5 +1,5 @@
 [[DB_Kap01_Grundlagen_Stud.pdf]]
-
+[[Alfons Kemper, André Eickler - Datenbanksysteme. Eine Einführung-Oldenburg Wissenschaftsverlag (2009).pdf]]
 ### Prüfungsleistung
 - Klausur 60% im 4. Semester (60 min)
 - Projekt: 40% in Semester 3 & 4 
@@ -20,7 +20,8 @@
 [[DB Projektidee Ticketsystem]]
 [[DB Projektidee Scotland Yard]]
 [[Graphdatenbank]]
-
+[[Klassifizierung von Datenbankprodukten_Stud.pdf]]
+[[graphdatenbanken_graph.pdf]]
 ## 01 Grundlagen
 [[Datenbank]]
 [[Begrifflichkeit Datenbank]]

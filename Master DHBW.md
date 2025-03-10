@@ -10,6 +10,7 @@
 [[Colour Backups]]
 [[Access Token.mdenc]]
 [[Structuring.pdf]]
+[[latex_symbols.pdf]]
 ## Praxisphasen
 [[Master intension]]
 [[Hub Wissenschaftliche Arbeiten]]
@@ -39,6 +40,7 @@
 [[Hub ICC 2]]
 [[Hub Algorithmen]]
 [[Hub Java|Hub Java]]
+[[Forschungsprojekt]]
 
 
 ### Semester 3
@@ -51,3 +53,11 @@
 [[Hub Datenbanken]]
 [[Hub Netztechnik]]
 [[Hub Formale Sprachen]]
+
+### Semester 4
+[[Master Semester 4]]
+
+
+
+## Extern
+[[Hub Extern]]

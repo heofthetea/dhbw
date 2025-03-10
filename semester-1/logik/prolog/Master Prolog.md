@@ -26,6 +26,8 @@ path:prolog file:übung
 [[Übung Vergleichsprädikate]]
 [[übung_5.44.png]]
 
+[[öaksdfjölakfj a]]
+[[Master Prolog Code]]
 
 
 ## Vorlesung

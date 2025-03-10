@@ -16,5 +16,7 @@
   "obsidian-redirect",
   "mermaid-tools",
   "symbols-prettifier",
-  "obsidian-livesync"
+  "obsidian-livesync",
+  "nuke-orphans",
+  "find-unlinked-files"
 ]

@@ -6,7 +6,6 @@
 ![[Pasted image 20241014092713.png]]
 
 ## Ablauf
-
 > [!info] Zeile vor Spalte - vgl. [[Array]]
 ### Lesen
 1. lesen der kompletten Zeile in die Spaltenlogik

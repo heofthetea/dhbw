@@ -1,6 +1,6 @@
 Part of [[JVM]]
 - gets triggered periodically
-- when triggered, searches for [[Object|objects]] in [[Java Heap|Heap]] that aren't needed anymore and frees their memory
+- when triggered, searches for [[Object|objects]] in [[Program Heap|Heap]] that aren't needed anymore and frees their memory
 
 ### Process
 note: very _naive_ garbage collection
@@ -32,4 +32,4 @@ B = null;
 
 
 ### Example Triggers
-- space of [[Java Heap]] running low
+- space of [[Program Heap]] running low

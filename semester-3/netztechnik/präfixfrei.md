@@ -7,3 +7,7 @@ $$\sum\limits_{i=1}^{L}D^{-w_{i}} \leq 1$$
 
 ## Beispiel
 ![[Pasted image 20241002093427.png]]
+
+
+> [!warning] Gegenbeispiel: [[Morse Code]] ist nicht präfixfrei
+

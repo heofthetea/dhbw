@@ -8,6 +8,6 @@
 > See Flatpaks/Snaps, the Linux kernel, etc...
 
 ### Essential Elements
-[[Java Heap]]
+[[Program Heap]]
 [[Java Stack]]
 [[Garbage Collection]]

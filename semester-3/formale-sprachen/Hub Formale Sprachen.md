@@ -226,6 +226,7 @@
 		- [[WHILE while loop]]
 	- [[WHILE Semantik]]
 	- [[If-then-else in WHILE]]
+	- [[Übung 6.15 WHILE Programme]]
 - [[WHILE Berechenbarkeit]]
 - [[Simulation While-Programm durch TM]]
 - [[Simulation TM durch While-Programm]]

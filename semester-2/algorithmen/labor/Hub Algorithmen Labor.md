@@ -29,7 +29,8 @@ Quiz Academy: https://u.quizacademy.io/course/CGGWSC
 
 ## 005 006 graphs & trees
 [[graph.c]], [[graph.py]]
-[[semester-2/algorithmen/labor/graph|graph]] (the generated mermaid diagram)
+[[generated_graph]] (the generated mermaid diagram)
+
 
 [[rotate.c]]
 

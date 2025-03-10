@@ -14,57 +14,40 @@
             "dimension": 72.31481481481481,
             "children": [
               {
-                "id": "6f2af3586be0fea2",
+                "id": "3578ff700070f6e6",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
+                    "file": "semester-4/operating-systems/Hub Betriebssysteme.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Hub Rechnerarchitekturen"
+                  "title": "Hub Betriebssysteme"
                 }
               },
               {
-                "id": "39a969c9d0a8f892",
+                "id": "6335bae433eb7661",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Hub Systemnahe Programmierung.md",
+                    "file": "semester-4/quantum-computing/Hub Quantum Computing.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Hub Systemnahe Programmierung"
+                  "title": "Hub Quantum Computing"
                 }
               },
               {
-                "id": "71df125b5566cea7",
+                "id": "c63d3af9cb6a687b",
                 "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Hub Datenbanken.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Hub Datenbanken"
-                }
-              },
-              {
-                "id": "34c077307a8540a0",
-                "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -72,77 +55,12 @@
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "Hub Formale Sprachen"
                 }
-              },
-              {
-                "id": "5bed957c7ce22acb",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/Hub Netztechnik.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Hub Netztechnik"
-                }
-              },
-              {
-                "id": "49e3f29a2a8900fc",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/software_architektur/Hub Software Engineering.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Hub Software Engineering"
-                }
-              },
-              {
-                "id": "dbac54b26696a68c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Hub Angewandte Mathematik"
-                }
-              },
-              {
-                "id": "4d69b560acbc438c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "intension/t2000/Hub T2000.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Hub T2000"
-                }
               }
             ],
-            "currentTab": 5
+            "currentTab": 2
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -150,39 +68,7 @@
             "dimension": 27.685185185185183,
             "children": [
               {
-                "id": "bb20f33256a925c1",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Library Minimalsystem.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library Minimalsystem"
-                }
-              },
-              {
-                "id": "ebb4459ffc4c9e5e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Library Reguläre Sprachen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library Reguläre Sprachen"
-                }
-              },
-              {
-                "id": "e9fd322cbf28ddf4",
+                "id": "987357965ec8cadc",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -196,215 +82,68 @@
                   "icon": "lucide-file",
                   "title": "Datenbanken Fragenkatalog"
                 }
-              },
-              {
-                "id": "ddfe5d27fbd8e484",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Library DB Normalisierung.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library DB Normalisierung"
-                }
-              },
-              {
-                "id": "02cf03e13113a3a9",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Library Grammatiken.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library Grammatiken"
-                }
-              },
-              {
-                "id": "084e07cac30d6c08",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Library Entscheidbarkeit.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library Entscheidbarkeit"
-                }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "horizontal"
       },
       {
-        "id": "5e44c37c29a1d2f6",
+        "id": "45b82f0a2d3f66e4",
         "type": "split",
         "dimension": 57.0362473347548,
         "children": [
           {
-            "id": "154fab2344ce804a",
+            "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 81.00664767331433,
+            "dimension": 54.99524262607041,
             "children": [
               {
-                "id": "380a0d176ce6a3aa",
+                "id": "6dfb15ef42e894a8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Reduktion.md",
+                    "file": "semester-3/rechnerarchitekturen/Speicherverwaltung.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Reduktion"
+                  "title": "Speicherverwaltung"
                 }
               },
               {
-                "id": "7fcf49b8de4ef0ab",
+                "id": "e93bd293727f26d1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/formale-sprachen/Minimierung DFA.md",
+                    "file": "semester-4/quantum-computing/Mathematical Introduction to QM.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Minimierung DFA"
+                  "title": "Mathematical Introduction to QM"
                 }
               },
               {
-                "id": "f20ad36c5dc17d13",
+                "id": "9430892b40e75c92",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-2/algorithmen/Travelling Salesman Problem.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Travelling Salesman Problem"
-                }
-              },
-              {
-                "id": "0b695ca221f26ac0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "intension/t2000/Hub T2000.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Hub T2000"
-                }
-              },
-              {
-                "id": "26d0d210173bbc68",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Beispielgliederung Praxisbericht.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Beispielgliederung Praxisbericht"
-                }
-              },
-              {
-                "id": "3578ff700070f6e6",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.8.7"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.8.7"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 2
           },
           {
-            "id": "fd7bfaab03c82f4d",
+            "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 18.99335232668566,
+            "dimension": 45.00475737392959,
             "children": [
-              {
-                "id": "dad36907c971820c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "script_rechnerarchitekturen"
-                }
-              },
-              {
-                "id": "9e4c62cc7984adf9",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "modulhandbuch.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "modulhandbuch"
-                }
-              },
-              {
-                "id": "8e0a2af63a2c74c5",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "Teil_4 Kap5 Differenzialgleichung"
-                }
-              },
-              {
-                "id": "a39faf038e134781",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-3/datenbanken/sources/DB_Kap04_Normalisierung_Stud.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "DB_Kap04_Normalisierung_Stud"
-                }
-              },
               {
                 "id": "c88037901e6e2d0d",
                 "type": "leaf",
@@ -419,8 +158,7 @@
                   "title": "FSA_Handout"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "horizontal"
@@ -442,7 +180,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -454,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "malloc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -541,22 +280,21 @@
             }
           },
           {
-            "id": "f6ce5d953238745f",
+            "id": "e8bcb2ddeb1f2e7b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intension/Master intension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Master intension"
+              "title": "Backlinks"
             }
           }
         ],
@@ -564,8 +302,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -588,53 +325,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "3578ff700070f6e6",
+  "active": "9430892b40e75c92",
   "lastOpenFiles": [
-    "intension/t2000/Überarbeitungen im Handbuch.md",
-    "intension/Triathlon User Onboarding Credentials.md",
+    "semester-3/netztechnik/präfixfrei.md",
+    "semester-3/formale-sprachen/Hub Formale Sprachen.md",
+    "orphaned files output.md",
+    "semester-3/netztechnik/Hub Netztechnik.md",
+    "semester-3/netztechnik/Hub.md",
+    "intension/Master intension.md",
+    "intension/APM.md",
+    "semester-3/netztechnik/FLP.md",
+    "semester-2/web-engineering/Hub Web Engineering.md",
+    "semester-2/web-engineering/javascript/JS get Element by id.md",
+    "semester-2/web-engineering/javascript/JS element by id.md",
+    "semester-1/logik/prolog/code/Master Prolog Code.md",
+    "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
+    "semester-2/algorithmen/labor/generated_graph.md",
+    "semester-3/formale-sprachen/Polynomialzeit-Reduktion.md",
+    "semester-1/logik/prolog/Master Prolog.md",
+    "semester-3/formale-sprachen/Polnomialzeit-Reduktion.md",
+    "intension/Hub TRÄP.md",
+    "intension/t1000/Hub T1000.md",
+    "intension/t1000/updates.md",
+    "intension/keycloak/Keycloak.md",
+    "intension/daily_notes/Daily Note 04-03-2024.md",
+    "intension/t1000/README.md",
+    "semester-3/formale-sprachen/Übbung 6.15 WHILE Programme.md",
+    "semester-3/formale-sprachen/Übung 6.15 WHILE Programme.md",
+    "Master DHBW.md",
+    "semester-3/rechnerarchitekturen/mermaid.pdf",
+    "semester-3/datenbanken/sources/Alfons Kemper, André Eickler - Datenbanksysteme. Eine Einführung-Oldenburg Wissenschaftsverlag (2009).pdf",
+    "semester-3/netztechnik/sources/Klausurfragen 2020.pdf",
+    "semester-3/datenbanken/images/Pasted image 20241001141831.png",
+    "semester-4/cloud-computing",
+    "semester-4/quantum-computing/resources/QC-Wahlfach-2025-1.pdf",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "semester-4/quantum-computing/resources",
+    "semester-4/quantum-computing",
+    "semester-3/angewandte_mathematik/sources/Teil_4 Kap5 Differenzialgleichung.pdf",
+    "modulhandbuch.pdf",
     "intension/t2000/images/Pasted image 20250214090417.png",
     "intension/t2000/images/Pasted image 20250213161347.png",
-    "semester-3/netztechnik/IPoAC.md",
-    "intension/t2000/Generate context-sensitive reports.md",
-    "intension/t2000/number range to regex range.md",
-    "intension/t2000/Admin Panel Flow.md",
-    "intension/linux/SSH.md",
     "intension/t2000/images/Pasted image 20250213161142.png",
-    "intension/t2000/Get a container's ip address from inside another container.md",
-    "intension/t2000/images/T1000 - Development of a Custom Debian image for a Honeypot Server.pdf",
-    "intension/t2000/images",
-    "intension/t2000/Continuously stream log file to python.md",
-    "intension/t1000/Hub T1000.md",
-    "intension/t1000/T1000 Senior References.md",
-    "intension/t1000/T1000 QnA session.md",
-    "semester-3/formale-sprachen/Reduktion.md",
-    "semester-3/formale-sprachen/Produktautomat.md",
-    "semester-3/formale-sprachen/Transformation in CNF.md",
-    "semester-3/formale-sprachen/Konfiguration KA.md",
-    "semester-3/formale-sprachen/NFA für Klenee-Stern.md",
-    "semester-3/formale-sprachen/Minimierung DFA.md",
-    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Zitieren in Wissenschaftlichen Arbeiten.md",
-    "semester-2/algorithmen/Travelling Salesman Problem.md",
-    "intension/t2000/Hub T2000.md",
-    "intension/t2000/Whitelisting configuration for the parser.md",
-    "semester-3/formale-sprachen/Polynomialzeit-Reduktion.md",
-    "intension/t2000/Undecidability of malicious traffic.md",
-    "intension/t2000/Benchmarking Python Regex Engine.md",
-    "semester-3/formale-sprachen/Übbung 6.15 WHILE Programme.md",
-    "intension/t1000/191212_Leitlinien_Praxismodule_Studien_Bachelorarbeiten.pdf",
-    "intension/t2000/email_report.pdf",
-    "theorie_praxisphasen.pdf",
-    "semester-1/programmieren/code/sieve_of_eratosthenes/output/segmented_sieve",
-    "semester-1/programmieren/code/sieve_of_eratosthenes/output",
-    "semester-1/lineare-algebra/latex_symbols.pdf",
-    "Access token.mdenc",
     "intension/images/Pasted image 20241212131402.png",
-    "intension/t2000",
     "semester-3/formale-sprachen/images/Pasted image 20241127192240.png",
     "semester-3/netztechnik/images/Pasted image 20241125150628.png",
     "semester-3/formale-sprachen/images/Pasted image 20241120160745.png",
     "semester-3/formale-sprachen/images/Pasted image 20241120155646.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241120155627.png",
-    "semester-3/formale-sprachen/images/Pasted image 20241120154705.png"
+    "semester-3/formale-sprachen/images/Pasted image 20241120155627.png"
   ]
 }

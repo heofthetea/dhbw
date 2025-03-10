@@ -1,0 +1,4 @@
+- Like a magnet:
+	- "in which direction is north?"
+- spin up or spin down
+- 

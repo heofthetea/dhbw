@@ -1,4 +1,6 @@
 $$z = a + bi$$
+> [!info] $i = (-1)^{2}$
+
 
 
 ## Polardarstellung

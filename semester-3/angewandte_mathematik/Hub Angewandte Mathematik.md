@@ -27,6 +27,7 @@
 
 
 ## 2. Differentialrechnung
+[[Teil2_VF_Skript Mathematik Giles-A Nzouankeu Nana DHBW Info Stuttgart WS_2024_2025.pdf]]
 [[Eigentwerttheorie]]
 #todo Jordan Matrix, Hesse Matrix, zwei Wege zum Ableiten (mit und ohne Nebenbedingung)
 

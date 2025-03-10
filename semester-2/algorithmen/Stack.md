@@ -1,7 +1,7 @@
 > Datenstruktur
 > First-in, Last-out Prinzip (FILO)
 
-[[Stack Overflow Error]]
+[[Stack Overflow Error]], [[Call Stack]]
 - anschaulich: Kartenstapel
 
 ![[Pasted image 20241011130205.png]]

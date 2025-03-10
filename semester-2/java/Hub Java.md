@@ -112,7 +112,7 @@ compilation:
 
 [[JAVA Primitive Data Type]]
 
-[[Java Heap]]
+[[Program Heap]]
 [[Java Map]]
 [[Java Stack]]
 [[Garbage Collection]]

@@ -1,4 +1,4 @@
-> [!warning] Datenstruktur hat _nichts_ mit [[Java Heap]] zur Speicherallokierung zu tun!
+> [!warning] Datenstruktur hat _nichts_ mit [[Program Heap]] zur Speicherallokierung zu tun!
 
 - ein (fast) vollständiger [[Binary Tree]]
 	- Baum ist vollständig, außer die [[Blatt|Blätter]] - die werden **von links** aufgefüllt 
