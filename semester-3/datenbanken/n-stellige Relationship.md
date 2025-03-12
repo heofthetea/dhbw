@@ -3,7 +3,7 @@
 - [[Abbildung]] von zwei Entitäten `Projektleiter` und `Projekt` auf `Kunde`
 ![[Pasted image 20241001143433.png]]
 $$R: E_{1} \times E_{2} \rightarrow E_{3}$$
-- hier fungiert ein [[Tupel]] als Element der [[Karthesisches Produkt|Produktmenge]] als[[Schlüsselattribut]]
+- hier fungiert ein [[Tupel]] als Element der [[Kartesisches Produkt|Produktmenge]] als[[Schlüsselattribut]]
 - Wenn es _drei_ $N$-[[Kardinalität|Kardinalitäten]] sind:
 	- Keine [[Abbildung]] mehr, sondern [[Relation]]!!
 

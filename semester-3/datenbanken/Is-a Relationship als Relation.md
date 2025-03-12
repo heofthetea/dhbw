@@ -6,6 +6,7 @@
 - Alle Spezialisierungen werden in der gemeinsamen [[Relation]] zusammengehängt
 - neues [[Attribut]] "...-Art"
 - die weiteren Attribute werden einfach in die [[Relation]] angehängt
+Beispiel
 
 > [!hint] Es gibt trotzdem nen Haufen [[null]]-Werte - defeats the entire purpose of those Relationships
 
@@ -27,4 +28,7 @@ $[PR-MA] = \set{[\underline{Pers-Nr \uparrow}, Std-Satz, PR-Erfahrung]}$
 	- führt zu [[Redundanz]] der gemeinsamen Daten
 - Modellierung geht verloren
 
-> [!info] Vorteil: wieder kein Join
+> [!warning] Die allgemeine [[Relation]] bleibt erhalten! Für [[Tupel]], die zu keiner der Spezifikationen conformen.
+
+> [!info] Vorteil: wieder kein Join, **aber** auch keine überflüssigen null-Werte.
+

@@ -27,13 +27,13 @@ $$\mathcal{Z} = (-1)^{V} \cdot (1 + M) \cdot 2^{C-S}$$
 - $0 \Leftrightarrow C = 0 \land M = 0$ => Alles $0$ (bis auf $V$)
 	- -> $C = 0 \land M \neq 0$ sind nicht nutzbar
 - Infinity: $C = 255 \land M = 0$
-- [[JS NaN|NaN]]: $C = 255 \land M \neq 0$ 
+- [[NaN|NaN]]: $C = 255 \land M \neq 0$ 
 	- Division durch $0$
 > [!hint] Eselsbrücke: Wie bei [[Subnetting]] -> all Zeroes and all Ones verboten
 ## Eigenschaften
 - kleinster Wert: $|Z| = 1.00_{2} \cdot 2^{-126} \approx 2.2_{10} \cdot 10^{-38}$
 	- mit 64 bit: $2.2_{10} \cdot 10^{-308}$
-- größtmöglicher not-[[JS NaN|NaN]] wert: $|Z| = (2 - 2^{-23})_{2} \cdot 2^{127} \approx 3.4_{10} \cdot 10^{38}$
+- größtmöglicher not-[[NaN|NaN]] wert: $|Z| = (2 - 2^{-23})_{2} \cdot 2^{127} \approx 3.4_{10} \cdot 10^{38}$
 	- 64 bit: $1.8_{10} \cdot 10^{308}$
 
 > [!warning] Großer Zahlenbereich, aber Zahlen werden zunehmend ungenauer je näher man an die Grenzen des Wertebereichs kommt

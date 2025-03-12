@@ -1,4 +1,4 @@
-> Eine [[Relation]] ist einen [[Teilmenge]] der [[Karthesisches Produkt|Produktmenge]].
+> Eine [[Relation]] ist einen [[Teilmenge]] der [[Kartesisches Produkt|Produktmenge]].
 
 $$R \subset E_{1} \times E_{2} = \set{(e_{1}, e_{2})\ |\ e_{1} \in E_{1} \land e_{2} \in E_{2}}$$
 
@@ -13,4 +13,4 @@ $$R \subset E_{1} \times E_{2} = \set{(e_{1}, e_{2})\ |\ e_{1} \in E_{1} \land e
 - jedes [[Attribut]] $e_{n}$ ist elementar - Es darf keine [[Menge]] sein.
 
 
-> [!warning] Die Domäne des [[Karthesisches Produkt|karthesischen Produkts]] ist immer der _Datentyp_!!
+> [!warning] Die Domäne des [[Kartesisches Produkt|karthesischen Produkts]] ist immer der _Datentyp_!!

@@ -6,3 +6,4 @@
 > [!hint] Make use of [[Is-a Relationship]], [[Rekursive Relationship]],  [[Aggregation and Composition]]
 
 > [!warning] Wichtige Aufgabe: [[Synonym|Synonyme]] und [[Homonym|Homonyme]] aufklären
+

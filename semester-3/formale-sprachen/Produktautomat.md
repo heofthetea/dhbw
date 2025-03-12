@@ -1,7 +1,7 @@
-[[Karthesisches Produkt]], [[Endlicher Automat]]
+[[Kartesisches Produkt]], [[Endlicher Automat]]
 
 > Erkennt die [[Reguläre Sprache|Sprache]] $\mathcal{L}(A_{1})\cap \mathcal{L}(A_{2})$.
-- [[Zustand|Zustandsmenge]]: [[Karthesisches Produkt]] der Zustände von $A_{1}$ und $A_{2}$
+- [[Zustand|Zustandsmenge]]: [[Kartesisches Produkt]] der Zustände von $A_{1}$ und $A_{2}$
 - startet in den [[Startzustand|Startzuständen]] von $A_{1}$ und $A_{2}$
 - simuliert _parallel_ [[Lauf|Läufe]] von $A_{1}$ in erster Komponente, die von $A_{2}$ in zweiter Komponente
 - akzeptiert, wenn _beide_ Automaten akzeptieren

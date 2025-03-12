@@ -9,4 +9,3 @@ $$Relation: \set{[\underline{id_{A}\uparrow}, \underline{id_{B}\uparrow}]}$$
 > Attribute werden auch in die [[Urbild]]-[[Entität]] gezogen
 
 
-

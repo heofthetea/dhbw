@@ -1,7 +1,9 @@
+> [!hint] **Motivation**: Absprache mit Kunden. - [[Wasserfallmodell]] mit Rücksprung
+
 1. Anforderungsanalyse --> [[Lastenheft]]
 	1. in natürlicher Sprache Anforderungen des Kunden vormulieren
 2. Konzeptioneller Entwurf --> [[ERM]]
-	1. wie werden die Daten organisiert, welche Beziehungen existieren?
+	2. wie werden die Daten organisiert, welche Beziehungen existieren?
 3. Logischer Entwurf --> [[Datenbankschema]]
 	1. Wie können die Beziehungen in einer [[Datenbank]] dargestellt werden?
 4. Datenbank-Definition --> [[DDL]]

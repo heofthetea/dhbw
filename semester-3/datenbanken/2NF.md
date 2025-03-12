@@ -2,7 +2,7 @@
 
 > [!def] Ein **Nichtschlüsselattribut** ist ein [[Attribut]], das _kein_ [[Schlüsselkandidat]] ist.
 
-Eine [[Relation]] erfüllt die [[2NF|zweite Normalform]], wenn diese sich in der [[1NF|1NF]] befindet und alle Nichtschlüsselattribute nur durch den **gesamten**[^1] [[Schlüssel|Primärschlüssel]] festgelegt werden.
+Eine [[Relation]] erfüllt die [[2NF|zweite Normalform]], wenn diese sich in der [[1NF|1NF]] befindet und alle Nichtschlüsselattribute nur durch den **gesamten**[^1] [[Schlüssel|Primärschlüssel]] festgelegt werden. Sie sind **vollfunktional** vom gesamten [[Schlüssel|Primärschlüssel]] abhängig.
 
 > [!hint] Jede [[Relation]], bei der der [[Schlüssel|Primärschlüssel]] aus nur **einem** [[Attribut]] besteht, ist automatisch in [[2NF]].
 

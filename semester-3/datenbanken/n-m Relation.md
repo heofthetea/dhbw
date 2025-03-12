@@ -6,3 +6,4 @@ $$n, m \in \mathbb{N} \cup \set{0}$$
 > [!hint] Muss eine eigene [[Relation]] bleiben - weil es keine Abbildung ist!!
 
 $$[R] = \set{[\underline{id_{A}\uparrow}, \underline{id_{B} \uparrow}]}$$
+

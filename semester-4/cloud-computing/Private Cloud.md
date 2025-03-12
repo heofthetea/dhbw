@@ -1,0 +1,2 @@
+- Consumer -> I have access to the [[Cloud Computing|cloud]] through a community/organization
+- Provider -> I know the member of the organization/community, and they probably know me

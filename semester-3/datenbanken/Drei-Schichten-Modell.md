@@ -1,5 +1,9 @@
 - Konzept zum Datenbankentwurf
 
+Analog zu [[MVC]]
+
+> [!hint] **Motivation**: Abgrenzung von Prozessen und Aufgaben. Flexibilität durch Datenunabhängigkeit: Eine Ebene kann angepasst werden, ohne dass die tieferen Ebenen betroffen sind.
+
 ```mermaid
 flowchart TD
 	subgraph A[ ]

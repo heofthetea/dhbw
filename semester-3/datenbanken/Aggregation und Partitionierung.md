@@ -5,5 +5,3 @@
 [[Aggregation]], [[Partitionierung]]
 
 ![[Pasted image 20241001154851.png]]
-
-## Beispiel

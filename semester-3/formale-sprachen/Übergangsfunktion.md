@@ -1,5 +1,5 @@
 $$\delta: Q \times \Sigma \rightarrow Q$$
-[[Abbildung]], [[Karthesisches Produkt]]
+[[Abbildung]], [[Kartesisches Produkt]]
 
 [[Surjektive Funktion]]
 

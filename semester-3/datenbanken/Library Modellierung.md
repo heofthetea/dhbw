@@ -33,7 +33,7 @@
 
 - Jedes [[Attribut]] wird durch eine [[Menge]] der möglichen Werte beschrieben --> <span style="color:rgb(245, 154, 35)">Domäne</span> 
 	- Auch hier wird der [[Schlüsselattribut|Primärschlüssel]] unterstrichen
-- Eine [[Entität]] ist eine [[Relation]] über die [[Karthesisches Produkt|Produktmenge]] aller Attributsdomänen
+- Eine [[Entität]] ist eine [[Relation]] über die [[Kartesisches Produkt|Produktmenge]] aller Attributsdomänen
 - [[Relationship]]: [[Relation]] über die [[Schlüsselattribut|Schlüsselattribute]] der [[Entität|Entitäten]]
 	- Beide davon bilden zusammen den [[Schlüssel]] der [[Relation]]
 	- Da [[1-n Relation|1-n Relationen]] eine [[Abbildung]] sind, reicht das [[Urbild]] als [[Schlüssel]] aus um ein [[Tupel]] eindeutig zu identifizieren

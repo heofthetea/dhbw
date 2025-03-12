@@ -4,10 +4,10 @@ Eine [[Relation]] ist in der [[3NF|3. Normalform]], wenn diese die [[2NF]] erfü
 
 ## Formal
 Ein [[Schema einer Relation]] $[R]$ ist in [[3NF]], wenn für alle für $[R]$ geltende [[Funktionale Abhängigkeit|funktionale Abhängigkeiten]] der Form
-$$\forall_{X \subset [R], a \in [R]}(X \rightarrow a)$$
+$$\forall_{X \subset [R], \alpha \in [R]}(X \rightarrow \alpha)$$
 **mindestens** eine der folgenden drei Bedingungen gilt:
-1. $a \in X$ ([[Triviale Funktionale Abhängigkeit]])
-2. $a$ ist [[Primattribut|prim]]
+1. $\alpha \in X$ ([[Triviale Funktionale Abhängigkeit]])
+2. $\alpha$ ist [[Primattribut|prim]]
 3. $X$ ist ein [[Superschlüssel]] von $[R]$ 
 
 > [!info] $X$ wird hierbei "Determinante" genannt.

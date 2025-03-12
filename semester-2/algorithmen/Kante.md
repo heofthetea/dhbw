@@ -1,4 +1,4 @@
-[[Karthesisches Produkt]]
+[[Kartesisches Produkt]]
 
 Sind eine [[Relation]] von [[Knoten]]
 

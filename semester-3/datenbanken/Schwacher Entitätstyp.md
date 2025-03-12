@@ -10,3 +10,6 @@
 - "Wenn ein Kunde verschwindet, verschwindet auch der Auftrag"
 - "Wenn Auftrag verschwindet, verschwindet auch die Leistung"
 
+## Warum?
+1. Lösch-Grund: Wenn Kunde gelöscht wird, brauch ich den Auftrag auch nicht mehr
+2. Eindeutige Identifikation: Ohne die Kundennr. kann ich den Auftrag nicht eindeutig identifizieren

@@ -31,7 +31,7 @@
 > Modell auch verständlich und nutzbar für nicht-technisch-versierte.
 
 > [!help]- 10\.  Wozu stellte Codd seine Regeln für ein [[DBMS]] auf?
-> Was sind die Grundvorraussetzung für ein RDB? Was muss da sein?
+> Was sind die Grundvorraussetzung für ein RDB? Was muss da sein? -> [[Relationale Datenbank#Codd's Regeln]]
 
 > [!help]- 11\. Nennen Sie einige Regeln von Codd und beschreiben Sie diese kurz.
 > [[Transaktion]], [[Benutzersicht]], [[Zugriffskontrolle RDB]], [[Katalog]], [[Konsistenzüberwachung]], [[Operation RDB]] ...
@@ -150,7 +150,7 @@
 
 > [!help]- 36\. Wie ist eine [[Relation]] aufgebaut?
 > $R = \set{[Attribut_{1}: Domäne_{1},\ \dots]} \subset D_{1} \times D_{2}...$ 
-> eine [[Relation]] ist eine [[Teilmenge]] der [[Karthesisches Produkt|Produktmenge]] aus jeweils Domänen und Mengen (= Attributen) 
+> eine [[Relation]] ist eine [[Teilmenge]] der [[Kartesisches Produkt|Produktmenge]] aus jeweils Domänen und Mengen (= Attributen) 
 
 > [!help]- 37\. Was versteht man unter einem Wertebereich oder Domäne?
 > Wertebereich: Die Elemente der [[Menge]], die die Domäne beschreibt

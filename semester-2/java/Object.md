@@ -1,3 +1,5 @@
+> a "Thing"
+
 An instance of a [[Class]]
 Each Object is accessed through a [[Reference]]
 

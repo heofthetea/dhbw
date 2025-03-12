@@ -12,3 +12,7 @@
 	2. einer [[Obermenge]] von sich selbst ($\set{A, B, C} \rightarrow \set{A, B}$)
 - [[Hülle einer funktionalen Abhängigkeit]]: Alle [[Funktionale Abhängigkeit|Funktionalen Abhängigkeiten]] eines Schemas, die sich aus den [[Armstrong Axiome|Interferenzregeln]] herleiten lassen
 
+## 1NF
+
+## 2NF
+
