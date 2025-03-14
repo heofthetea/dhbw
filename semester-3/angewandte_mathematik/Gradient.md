@@ -1,0 +1,2 @@
+> [[Transponierung|transponierte]] [[Jacoby Matrix]]
+

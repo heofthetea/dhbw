@@ -1,0 +1,1 @@
+Wenn [[Relationship|Relations]]-Beschreibung nicht eindeutig ist, können _Rollen_ zu den [[Relationship#Kardinalität|Kardinalitäten]] geschrieben werden.

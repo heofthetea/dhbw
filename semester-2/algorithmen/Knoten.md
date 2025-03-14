@@ -12,6 +12,16 @@ typedef struct Node {
 	Object *payload;
 } Node;
 ```
-## auf [[Graph]]
 
+## in Netzwerken
+Ein Gerät, das über ein oder mehrere Interfaces an einem oder mehreren [[Netzwerk|Netzwerken]] angeschlossen ist.
+
+## auf [[Graph]]
 [[Menge]] der [[Knoten]]: $V$ (vertices)
+
+### Graphdatenbanken
+- Jeder [[Knoten]] ist eine [[Entität]]
+- besitzt ein Label (= Entitätstyp) - hier gelb
+	- besitzt mehrere [[Attribut|Attribute]]
+
+![[Pasted image 20241026141839.png|400]]

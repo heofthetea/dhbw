@@ -107,7 +107,7 @@ path:web-engineering/html
 ## JavaScript
 [[JavaScript]]
 [[document keyword]]
-[[JS get Element by id]]
+[[JS get Element by id]] / [[JS element by id]]
 [[JS tweak element currently in]]
 [[link external JavaScript file]]
 [[embeded JavaScript]]

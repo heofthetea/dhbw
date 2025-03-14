@@ -12,7 +12,7 @@
 DHBW ist _Transferhochschule??_
 
 ### Was ist Forschung?
-![[Was ist Forschung?]]
+![[Was ist Forschung]]
 
 ## [[Praxisarbeiten]]
 ## ![[Schema Forschungsprojekt]] 

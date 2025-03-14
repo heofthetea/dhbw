@@ -8,7 +8,7 @@
 Kleine, vollständige Bestandteile eines Ganzen
 
 #### iterativ
-Immerr wiederholender [[Agiler Zyklus|Zyklus]]
+Immerr wiederholender [[Spiralmodell|Zyklus]]
 
 ### 43. Nachteile Wasserfallmodell
 - unflexibel
@@ -29,7 +29,7 @@ Immerr wiederholender [[Agiler Zyklus|Zyklus]]
 - klar begrenzte Zeiträume
 - ausliefern von Inkrementen
 
-### 46. ist [[SCRUM]] eine Projektmanagement-Methode?
+### 46. ist [[Scrum]] eine Projektmanagement-Methode?
 Nope.
 Es ist ein _Framework_, dass auf Projekte angepasst werden kann
 
@@ -42,7 +42,7 @@ Es ist ein _Framework_, dass auf Projekte angepasst werden kann
 USs sollen eher kurz und klein sein, Anforderungen sind ausführlich und sehr ins Detail.
 - User Stories werden nach und nach verfeinert
 
-### 49. Welche Rollen gibt es in [[SCRUM]]
+### 49. Welche Rollen gibt es in [[Scrum]]
 [[SCRUM Rollen]]
 - [[Product Owner]]
 - [[Certified Scrum Black Belt Grand Master]]

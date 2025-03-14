@@ -1,5 +1,5 @@
 inherent Attribute of [[Hash-Funktion]] 
-- Tritt auf, wenn zwei verschiedene [[Key|Keys]], die den selben [[Hashing|Hash]]-Wert haben, in eine Hash Table eingefügt werden.
+- Tritt auf, wenn zwei verschiedene [[semester-2/algorithmen/Schlüssel|Keys]], die den selben [[Hashing|Hash]]-Wert haben, in eine Hash Table eingefügt werden.
 
 
 > [!warning] Kollisionen sind _unvermeidbar!!_

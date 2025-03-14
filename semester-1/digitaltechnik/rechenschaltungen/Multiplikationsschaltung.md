@@ -1,3 +1,8 @@
+
+> [!hint] Ist einfach ein $AND$ Glied lol
+
+[[Multiplikation Zweierkomplement]], 
+$n-bit$ Versionen: [[Parallele Multiplikationsschaltung]], [[Serielle Multiplikationsschaltung]]
 ### Rechenregeln
 
 $0\cdot 0 = 0$

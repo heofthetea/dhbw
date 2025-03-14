@@ -1,3 +1,4 @@
+
 [[Order of Magnitudes Grenzwerte]] in prettier lol
 --> [[Fähigkeiten moderner Hardware]]
 

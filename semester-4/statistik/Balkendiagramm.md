@@ -1,0 +1,2 @@
+> horizontales [[Säulendiagramm]]
+

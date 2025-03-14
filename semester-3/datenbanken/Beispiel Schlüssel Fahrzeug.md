@@ -1,0 +1,3 @@
+- KFZ Kennzeichen:
+	- Eindeutig, _aber kann sich ändern_ 🗲
+- Fahrgestellnummer: "A vehicle identification number is a unique code, including a serial number, used by the automotive industry to identify individual motor vehicles \[...]" yep lol

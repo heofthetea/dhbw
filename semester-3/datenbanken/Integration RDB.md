@@ -1,0 +1,3 @@
+- Alle Daten liegen in einheitlicher <span style="color:rgb(245, 154, 35)">Struktur</span> und in einheitlichem <span style="color:rgb(245, 154, 35)">Format</span> vor
+- Keine [[Redundanz]]
+	- in einer bestimmten Stelle

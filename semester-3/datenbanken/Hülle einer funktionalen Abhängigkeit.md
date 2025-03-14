@@ -1,0 +1,5 @@
+- Die [[Menge]] aller zu einem [[Schema einer Relation|Schema]] $[R]$ definierten [[Funktionale Abhängigkeit|Funktionalen Abhängigkeiten]] bezeichnen wir als $\textbf{F}$.
+- Die [[Menge]] aller möglichen herleitbaren [[Funktionale Abhängigkeit|funktionalen Abhängigkeiten]] einer [[Relation]] nennt man $\textbf{F}^{+}$ ("Hülle von $F$").
+	- wenn $A \rightarrow B$ gilt, gilt auch $A \times C \rightarrow B$ 
+	- es gilt $F^{+} \supset F$ ([[Obermenge]])
+	- hergeleitet durch [[Armstrong Axiome]]

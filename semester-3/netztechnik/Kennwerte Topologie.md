@@ -1,0 +1,12 @@
+- **Durchmesser**: Maximale Anzahl an [[Hop|Hops]]
+	- Indikator für physiche Breite
+- **Grad**: Anzahl der Links pro [[Knoten]]
+	- Indikator für Kosten
+- **Bisektionsweite**: Minimale Anzahl der [[Kante|Kanten]], die durchschnitten werden muss, um [[Netzwerk]] in zwei Netzwerke mit je halb so vielen [[Kante|Kanten]] aufzuteilen
+	- Indikator für Resilienz --> [[Redundanz]] an Wegen
+- **Symmetrie**: Sieht [[Netzwerk]] aus beiden Sichten gleich aus?
+	- Beispiel: [[Ring-Topologie]]
+- **Skalierbarkeit**: Wie viele [[Knoten]] kann ich maximal anschließen?
+	- Indikator für... well, Skalierbarkeit
+- **Konnektivität**: Wie viele [[Knoten]] müssen vernichtet werden, damit [[Netzwerk|Netz]] nicht mehr funktioniert?
+	- Auch Indikator für Resilienz

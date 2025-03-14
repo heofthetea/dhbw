@@ -1,4 +1,4 @@
-[[SCRUM]]
+[[Scrum]]
 
 ### 51. Aufgabe Product Owner
 [[Product Owner]]

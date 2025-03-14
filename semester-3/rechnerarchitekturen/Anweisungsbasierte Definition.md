@@ -11,3 +11,4 @@ flowchart LR
 ```
 
 - geht mehr in richtung [[Turing Machine]]
+- sehr [[Algorithmus|algorithmische]] Definition

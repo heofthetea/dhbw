@@ -1,0 +1,1 @@
+1. Since [[Abstraction]]/[[Inheritance]] create a [[Baum|tree]]-like structure, communication between different Parts of the code needs to happen through [[Super reference|super classes]], resulting in unnecessarily long [[Pfad|paths]], [[Information]] has to take

@@ -8,3 +8,8 @@ _getestet_ wird trotzdem erst am Ende !!!
 - **Validierung**: Funktioniert es tatsächlich so, wie der Kunde es wollte?
 
 ![[v-modell.png]]Rechte Seite: _Testseite_
+
+> [!hint] Deutsches Modell --> International wenig bekannt
+
+## Tayloring
+- Modell muss für jedes Unternehmen eigens angepasst werden

@@ -1,7 +1,7 @@
 #master
 ## Library
-[[Speicherschaltungen Library]]
-[[Rechenschaltungen Library]]
+[[Library Speicherschaltungen]]
+[[Library Rechenschaltungen]]
 
 [[Digitaltechnik Cheat Sheet.pdf]]
 
@@ -24,7 +24,7 @@
 [[Hub Rechenschaltungen]]
 [[Hub Programmierbare Logik]]
 
-[[Fucking Schmitt-Trigger ???????]]
+[[Fucking Schmitt-Trigger]]
 [[Hub Hamming Code]]
 
 [[Transistor]]

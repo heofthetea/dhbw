@@ -1,8 +1,0 @@
-- Praxisarbeiten
-	- Praxisphasen generell / Imposter syndrome 
-- Die ganzen Projekte nebenher (Web, PRM, Forschungsprojekt) + tight deadlines of all of them
-- Forschungsprojekt (ja, als extra Punkt - all about it)
-- kein Fan der Kursdynamik 
-- cramped Klausurenphase
-- intransparente Notengebung af
-- little to no freedom in choosing subjects 

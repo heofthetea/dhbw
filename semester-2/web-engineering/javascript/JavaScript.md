@@ -15,7 +15,7 @@ Makes websites _dynamic_ -> responsible for interaction with website
 [[JavaScript Function]]
 [[JS alert]]
 [[JS selectors]]
-[[JS NaN]]
+[[NaN]]
 
 [[JS Node]]
 

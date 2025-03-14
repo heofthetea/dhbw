@@ -4,152 +4,275 @@
     "type": "split",
     "children": [
       {
-        "id": "f025252f25493d6e",
-        "type": "tabs",
-        "dimension": 38.059701492537314,
-        "children": [
-          {
-            "id": "6f2af3586be0fea2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-3/rechnerarchitekturen/Hub Rechnerarchitekturen.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "39a969c9d0a8f892",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-3/rechnerarchitekturen/Hub Systemnahe Programmierung.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f269f76530b45f11",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-3/angewandte_mathematik/Hub Angewandte Mathematik.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "32da59bca4626a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-2/web-engineering/Hub Web Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "5e44c37c29a1d2f6",
+        "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 61.940298507462686,
+        "dimension": 43.923240938166316,
         "children": [
           {
-            "id": "154fab2344ce804a",
+            "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 81.00664767331433,
+            "dimension": 53.56803044719315,
             "children": [
               {
-                "id": "215afabd49a3101b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/angewandte_mathematik/Exponentialfunktion.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "24adc76c654f4da0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/rechnerarchitekturen/Halbleiter Prozessoren.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a0fb10817b52fa05",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "2a3dd3b54b9809d2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/angewandte_mathematik/Integralrechnung.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5f44530f86e3877d",
+                "id": "3578ff700070f6e6",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/operating-systems/Hub Betriebssysteme.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Betriebssysteme"
+                }
+              },
+              {
+                "id": "6335bae433eb7661",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/quantum-computing/Hub Quantum Computing.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Quantum Computing"
+                }
+              },
+              {
+                "id": "e93bd293727f26d1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/cloud-computing/Hub Cloud Computing.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Cloud Computing"
+                }
+              },
+              {
+                "id": "e0524d2c7451d0c2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/web-engineering/Hub Web Engineering 2.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Web Engineering 2"
+                }
+              },
+              {
+                "id": "833950a9de0a1210",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Hub Datenbanken.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Datenbanken"
+                }
+              },
+              {
+                "id": "caf1e3df1a6e66c2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/statistik/Hub Statistik.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Statistik"
                 }
               }
             ],
             "currentTab": 4
           },
           {
-            "id": "fd7bfaab03c82f4d",
+            "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 18.99335232668566,
+            "dimension": 46.43196955280685,
             "children": [
               {
-                "id": "dad36907c971820c",
+                "id": "987357965ec8cadc",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Datenbanken Fragenkatalog"
+                }
+              },
+              {
+                "id": "1f6b75e69c554f17",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Library Datenbanken 1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Library Datenbanken 1"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "45b82f0a2d3f66e4",
+        "type": "split",
+        "dimension": 56.07675906183369,
+        "children": [
+          {
+            "id": "fd7bfaab03c82f4d",
+            "type": "tabs",
+            "dimension": 64.03425309229306,
+            "children": [
+              {
+                "id": "ae37985abf5bc3ce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/statistik/Quantisierung.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Quantisierung"
+                }
+              },
+              {
+                "id": "e9931a33240dc649",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Library Datenbanken 1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Library Datenbanken 1"
+                }
+              },
+              {
+                "id": "6a42e6c3be81550a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/Library Modellierung.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Library Modellierung"
+                }
+              },
+              {
+                "id": "018c158936136bd1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/datenbanken/2NF.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2NF"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "fd1772dac7a8d4f7",
+            "type": "tabs",
+            "dimension": 35.965746907706944,
+            "children": [
+              {
+                "id": "c88037901e6e2d0d",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/sources/script_rechnerarchitekturen.pdf"
+                    "file": "semester-3/formale-sprachen/sources/FSA_Handout.pdf"
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "FSA_Handout"
+                }
+              },
+              {
+                "id": "ec1e71a648e10920",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-4/cloud-computing/resources/Cloud_Computing_Introduction.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "Cloud_Computing_Introduction"
+                }
+              },
+              {
+                "id": "ce67247e627ec7f1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-4/statistik/resources/Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -171,8 +294,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -181,13 +307,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path: \"goodnotes/Semester 1/Digitaltechnik\"",
-                "matchingCase": true,
+                "query": "codd",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -195,7 +323,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -203,7 +333,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e78723705d4741e8",
@@ -221,7 +352,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -229,23 +362,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed2892acd5243c11",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "file": "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Library Kontextfreie Grammatiken"
             }
           },
           {
@@ -254,20 +375,66 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Library Kontextfreie Grammatiken"
+            }
+          },
+          {
+            "id": "0114747f0b03b1ef",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "e8bcb2ddeb1f2e7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "semester-3/datenbanken/2NF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2NF"
+            }
+          },
+          {
+            "id": "99af3e2cafbb2e09",
+            "type": "leaf",
+            "state": {
+              "type": "sync",
+              "state": {},
+              "icon": "refresh-ccw",
+              "title": "Sync changes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-livesync:Show log": false,
+      "obsidian-livesync:Replicate": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -279,56 +446,58 @@
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "5f44530f86e3877d",
+  "active": "018c158936136bd1",
   "lastOpenFiles": [
-    "semester-2/web-engineering/Hub Web Engineering.md",
-    "semester-2/web-engineering/code/GeoCalculator.md",
-    "semester-2/algorithmen/Dictionary.md",
-    "semester-2/web-engineering/GeoCalculator Source Code.md",
-    "extern/notes/Daily Note 06-01-2024.md",
-    "intension/daily_notes/Daily Note 15-03-2024.md",
-    "intension/daily_notes/Daily Note 26-03-2024.md",
-    "intension/daily_notes/Daily Note 07-03-2024.md",
-    "intension/daily_notes/Daily Note 16-04-2024.md",
-    "semester-2/algorithmen/Operationen auf Dictionaries.md",
-    "semester-2/algorithmen/labor/Hub Algorithmen Labor.md",
-    "intension/t1000/README.md",
-    "semester-1/projektmanagement/001 Ziele.md",
-    "semester-1/projektmanagement/Master Projektmanagement 1.md",
-    "semester-1/projektmanagement/Projektmanagement GoodNotes.md",
-    "semester-2/projektmanagement/android-ide/Lö Projektmanagement Projekt.md",
-    "goodnotes/Semester 2/Java/Java Übungen.pdf",
-    "semester-2/projektmanagement/android-ide/Selection of Android Development Tools.md",
-    "semester-1/digitaltechnik/Digitaltechnik GoodNotes.md",
-    "semester-1/digitaltechnik/Master Digitaltechnik.md",
-    "semester-2/icc/Hub ICC 2.md",
-    "goodnotes/Semester 2/Web Engineering/Notes Web Engineering.pdf",
-    "semester-2/algorithmen/Hub Algorithmen.md",
-    "semester-2/algorithmen/labor/vorlesung/weird_algo_klausur.c",
-    "intension/Master intension.md",
-    "semester-1/forschungsmethoden/Intro/Forschungsprojekt.md",
-    "intension/README.md",
-    "semester-1/forschungsmethoden/Intro/Ethik.md",
-    "semester-1/forschungsmethoden/Intro/Ethik und Informatik.md",
-    "intension/images/Pasted image 20240322111527.png",
-    "semester-2/algorithmen/labor/fibonacci.py",
-    "semester-1/programmieren/code/fibonacci.py",
-    "goodnotes/Semester 2/misc.pdf",
-    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408173637.png",
-    "semester-2/java/code/squares/Main.java",
-    "goodnotes/Semester 1/Logik/Tipps Klausur Logik.pdf",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083813 1.png",
-    "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/images/Pasted image 20240408173647.png",
-    "semester-2/web-engineering/code/example.html",
-    "semester-3/angewandte_mathematik/images/Pasted image 20240909152752.png",
-    "semester-3/angewandte_mathematik/images/Pasted image 20240909152727.png",
-    "semester-3/angewandte_mathematik/images",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240909112527.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240909112400.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20240909111637.png",
-    "semester-3/images/Pasted image 20240909102705.png"
+    "semester-3/datenbanken/1NF.md",
+    "semester-2/algorithmen/Superschlüssel.md",
+    "semester-3/datenbanken/Triviale Funktionale Abhängigkeit.md",
+    "semester-3/datenbanken/Funktionale Abhängigkeit.md",
+    "semester-3/datenbanken/Schema einer Relation.md",
+    "semester-3/datenbanken/Normalisierung.md",
+    "semester-3/datenbanken/Hub Datenbanken.md",
+    "semester-3/datenbanken/n-m Relation.md",
+    "semester-3/datenbanken/Beziehung als Relation.md",
+    "semester-3/datenbanken/Is-a Relationship als Relation.md",
+    "semester-3/datenbanken/Ternäre Beziehung als Relation.md",
+    "semester-3/datenbanken/Von ternärer zu binärer Beziehung.md",
+    "semester-3/datenbanken/Relationales Modell.md",
+    "semester-3/datenbanken/Relation zu Tabelle.md",
+    "semester-3/datenbanken/Instanz einer Relation.md",
+    "semester-1/lineare-algebra/Aufschriebe/Relation.md",
+    "semester-3/datenbanken/Kartesisches Produkt.md",
+    "semester-3/datenbanken/Sichtenkonsolidierung.md",
+    "semester-3/datenbanken/Schwacher Entitätstyp.md",
+    "semester-3/datenbanken/Aggregation und Partitionierung.md",
+    "semester-3/datenbanken/Partitionierung.md",
+    "semester-2/java/Aggregation.md",
+    "semester-3/datenbanken/Is-a Relationship.md",
+    "semester-3/datenbanken/Rekursive Relationship.md",
+    "semester-3/datenbanken/n-stellige Relationship.md",
+    "semester-3/datenbanken/Min-Max Kardinalität.md",
+    "semester-4/statistik/images/Pasted image 20250312110527.png",
+    "semester-4/statistik/images/Pasted image 20250312104423.png",
+    "semester-4/statistik/images/Pasted image 20250312103650.png",
+    "semester-4/statistik/images/Pasted image 20250312103620.png",
+    "semester-4/statistik/images/Pasted image 20250312102555.png",
+    "semester-4/statistik/images",
+    "semester-4/statistik/resources/Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025.pdf",
+    "semester-4/statistik/resources/Formelsammlung Dr. Giles-A Nzouankeu Nana.pdf",
+    "semester-4/statistik/resources",
+    "semester-4/statistik/Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025.pdf",
+    "semester-4/statistik/Formelsammlung Dr. Giles-A Nzouankeu Nana.pdf",
+    "semester-4/web-engineering/resources/WebEng_PHP.pdf",
+    "semester-4/statistik",
+    "semester-4/statisik/Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025.pdf",
+    "semester-4/statisik",
+    "semester-1/projektmanagement/definitions/images/Pasted image 20250310182911.png",
+    "semester-4/cloud-computing/images/Pasted image 20250310182220.png",
+    "semester-4/cloud-computing/images/Pasted image 20250310181855.png",
+    "semester-4/cloud-computing/images/Pasted image 20250310181823.png",
+    "semester-4/cloud-computing/images/Pasted image 20250310181726.png"
   ]
 }

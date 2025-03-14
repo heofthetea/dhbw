@@ -89,5 +89,5 @@ if __name__ == "__main__":
 
 
 
-    graph.to_mermaid_string("graph.md")
+    graph.to_mermaid_string("generated_graph.md")
     print(graph.__to_string__())

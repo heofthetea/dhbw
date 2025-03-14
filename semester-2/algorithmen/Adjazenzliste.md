@@ -15,6 +15,6 @@ Platz: $\mathcal{O}(|E|)$ (Knoten werden auch gespeichert, aber sind idR viel we
 
 
 ## Auf [[beschrifteter Graph|beschrifteten Graphen]]
-- Speichere [[Key]]-Value-Pairs für jede Beziehung: `(Knote, Kantengewicht)` 
+- Speichere [[semester-2/algorithmen/Schlüssel]]-Value-Pairs für jede Beziehung: `(Knote, Kantengewicht)` 
 
 --> [[Übung Adjazenz#Adjazenzliste]]

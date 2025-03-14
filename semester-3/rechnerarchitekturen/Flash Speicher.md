@@ -1,0 +1,2 @@
+- USB Sticks und so
+- ganze Speicherbereiche löschen

@@ -1,0 +1,1 @@
+#todo diese Liste aus Folie 8.3

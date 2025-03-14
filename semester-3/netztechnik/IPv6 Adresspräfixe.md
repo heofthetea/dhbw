@@ -1,0 +1,2 @@
+- `fe80.../10` => Unique Local Scope -> bis zu [[Gateway]]
+- 

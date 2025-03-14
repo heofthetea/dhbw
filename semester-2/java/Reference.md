@@ -1,5 +1,5 @@
 Comparable to a [[Pointer]], but more abstract
-- Accesses an Element in the [[Java Heap]] - But not any RAM addresses directly!!!
+- Accesses an Element in the [[Program Heap]] - But not any RAM addresses directly!!!
 
 [[null]] is an _empty_ Reference, comparable to a NullPointer (but _not_ the same!!!)
 - is the default when initializing a non-primitive Data Type

@@ -74,12 +74,12 @@ wichtig: [[Kostenbestandteile]]
 [[Agile Philosophy]]
 [[Agile Manifesto]]
 
-[[Agiler Zyklus]]
+[[Spiralmodell]]
 [[Agil ist nicht für alle Projekte passend]]
 [[Agile Prinzipien]]
 
 ### Scrum
-[[SCRUM]]
+[[Scrum]]
 [[Ziele von SCRUM]]
 [[Sprint]]
 [[SCRUM Rollen]]

@@ -1,7 +1,6 @@
 # DHBW Vault
 An [Obsidian.md](https://obsidian.md/) vault where I keep my notes for my Computer Science Degree.
 
-> !! Warning: Currently, the main branch has a few filenames that are illegal on windows. Cloning should still succeed, but you'll then have to checkout to the `semester-3` branch. There, the filenames should be fine.
 
 ## Structure
 The vault is structured in the following way:
@@ -10,11 +9,24 @@ The vault is structured in the following way:
 - `Hub` nodes: Central nodes for a certain topic (typically one entire module). Contain references to (almost) all nodes relevant to their topic/module.
 - `Library` nodes: These are summaries of certain topics. They try to link to as many notes as possible, but briefly explain those as well. **Use them as an entrypoint for finding a specific topic if you're new to the vault.**
 
-### Projects
+	- **NOTE** that libraries are a construct of Semester 1. In Semester 3 I kind of abandoned them, save for `Formale Sprachen` and `Rechnerarchitekturen`, and instead relied on Hubs.
+
+### Tips for Starting to traverse the vault
+1. The **Entrypoint**: [[Master DHBW]] is the node from which you should be able to reach _every_ node through link hopping.
+2. **Plugins**: Stuff like Mermaid Diagrams will need some external plugins to work. You should be promted for them once you open the vault. I recommend to run the command "reload app wihtout saving" after enabling plugins.
+3. **Commands**: Obsidian features a command palette, similar to VS Code. Bring it up with `ctrl + shift + P`
+4. **Useful Shortcuts (specific to this vault)**: 
+	1. `ctrl + P`: Go to file
+	2. `ctrl + L`: Open Local graph view
+	3. `ctrl + shift + f`: Global search
+
+## Projects
 Over the course of the degree, some coding projects pop up. Those are stored in their own repos:
 1. [Ubiquitous Fishstick](https://github.com/TeeMitHonig/ubiquitous-fishstick) (Projektmanagement, Sem. 2)
 2. [Geo Calc](https://github.com/heofthetea/DHBW-Geo-Calc) (Web-Engineering Sem. 2)
 3. [DHBW Project Java](https://github.com/heofthetea/dhbw-project-java) (self-explanatory, Sem. 2)
+4. [DHBW Projekt Datenbanken](https://github.com/heofthetea/dhbw-projekt-datenbanken)(self-explanatory, Sem. 3)
+
 ## Misc
 ### Language
 By far the majority of the vault is in german, as that's what the lectures are in. In programming-related lectures, I tried to keep the notes in english.

@@ -1,7 +1,7 @@
 {
   "limitToNonMarkdown": true,
   "triggerString": "r[",
-  "mode": "Standard",
+  "mode": "Open",
   "limitToRedirectedFiles": true,
   "apiVersion": 2
 }

@@ -1,0 +1,1 @@
+> Ein [[Wort]], dass mehrere [[Semantik|Bedeutungen]] hat

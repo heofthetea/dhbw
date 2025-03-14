@@ -3,8 +3,8 @@
 
 [[Halbaddierer]]
 [[Volladdierer]]
-[[Paralleladdierschaltung]]
-[[Serielle Addierschaltung]]
+[[Ripple-Carry-Adder]]
+[[Serial Adder]]
 
 
 [[Halbsubtrahierer]]

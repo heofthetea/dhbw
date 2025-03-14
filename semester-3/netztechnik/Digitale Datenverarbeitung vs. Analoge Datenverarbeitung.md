@@ -1,0 +1,3 @@
+- Analoge Signale können durch kleinste Änderungen und Störsignale verfälscht werden.
+	- Einsen und Nullen sind einfacher auf Fehler überprüft und korrigiert werden.
+	- Digital kann verschlüsselt werden

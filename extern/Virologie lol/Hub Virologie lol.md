@@ -8,7 +8,7 @@
 [[Infektionszyklus]]
 [[Infektionswege]] 
 [[Klinischer Verlauf HIV]]
---> [[Warum ist HIV so erfolgreich?]]
+--> [[Warum ist HIV so erfolgreich]]
 
 ### Therapie
 [[HIV Immunität]]
@@ -39,5 +39,5 @@
 [[Aufbau SARS-CoV-2]]
 [[SARS ist Weltmeister im Mutieren]]
 [[Aktive Impfung]]
-[[Wer muss geimpft werden?]]
+[[Wer muss geimpft werden]]
 

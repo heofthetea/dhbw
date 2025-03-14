@@ -1,5 +1,9 @@
 > addiert _3_ Binärziffern
 
+
+> [!hint] [[Komplexität|Laufzeit]]
+> - als Elementarschaltung: $2\Delta T$
+> - als aufbau aus [[Halbaddierer]]: $4 - 5 \Delta T$
 ### Schaltsymbol
 ![[Pasted image 20240205155521.png]]
 - _CI_ = Carry In

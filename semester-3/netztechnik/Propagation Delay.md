@@ -1,0 +1,2 @@
+- in einer [[Leitung]] mit verschieden oft verdrillten Leitungen kommen die Signale unterschiedlich schnell auf der anderen Seite an 
+- Dieses Delta wird gemessen und muss sich in einem Akzeptanzbereich befinden

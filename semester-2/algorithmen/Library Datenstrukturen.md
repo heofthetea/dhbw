@@ -88,15 +88,15 @@
 ## Hash Maps
 
 ### Hashing
-**Idee**: wenn man für jeden möglichen [[Key]] eine eigene Speicheradresse hätte, könnte man [[Konstante Laufzeit|konstant]] drauf zu greifen wie mit [[Arrays im Speicher|Arrays]], aber man hat den Overhead beim [[Operationen auf Arrays|Ein/Ausfügen]] nicht
-**Problem**: Sehr speicher-ineffizient, weil 90% der [[Key|Keys]] realistisch nie genutzt werden
+**Idee**: wenn man für jeden möglichen [[semester-2/algorithmen/Schlüssel]] eine eigene Speicheradresse hätte, könnte man [[Konstante Laufzeit|konstant]] drauf zu greifen wie mit [[Arrays im Speicher|Arrays]], aber man hat den Overhead beim [[Operationen auf Arrays|Ein/Ausfügen]] nicht
+**Problem**: Sehr speicher-ineffizient, weil 90% der [[semester-2/algorithmen/Schlüssel|Keys]] realistisch nie genutzt werden
 ==> **Lösung**: [[Hashing]] - "klein hacken der Keys"
 
 ---
-[[Hash-Funktion]] - Transformiere großen [[Key]] in einen kleineren [[Key]]
+[[Hash-Funktion]] - Transformiere großen [[semester-2/algorithmen/Schlüssel]] in einen kleineren [[semester-2/algorithmen/Schlüssel]]
 - <span style="color:rgb(245, 154, 35)">Einweg</span>-Funktion (nicht rekonstruierbar) --> [[Modulo]]
 - Es gehen zwangsweise Daten verloren - sollte möglichst gut streuen, um [[Kollision|Kollisionen]] zu vermeiden
-[[Kollision]]: Passiert, wenn zwei [[Key|Schlüssel]] denselben Hash-Wert haben
+[[Kollision]]: Passiert, wenn zwei [[semester-2/algorithmen/Schlüssel|Schlüssel]] denselben Hash-Wert haben
 
 ### Umgang mit Kollisionen
 
@@ -119,7 +119,7 @@
 
 | Operation                | [[Heap]]                  | [[Binary Search Tree\|BST]]      | [[AVL Baum]]           | [[Hash Map]]              |
 | ------------------------ | ------------------------- | -------------------------------- | ---------------------- | ------------------------- |
-| [[Key]] finden           | $\mathcal{O}(n)$          | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ | $\mathcal{O}(1)$          |
+| [[semester-2/algorithmen/Schlüssel]] finden           | $\mathcal{O}(n)$          | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ | $\mathcal{O}(1)$          |
 | Element einfügen         | $\mathcal{O}(log\, n)$    | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ | $\mathcal{O}(1)$          |
 | Element bedingt einfügen | $\mathcal{O}(n)$          | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ | $\mathcal{O}(1)$          |
 | Element entfernen        | $\mathcal{O}(log\, n)$    | $\mathcal{O}(log\, n)$*          | $\mathcal{O}(log\, n)$ | $\mathcal{O}(1)$          |

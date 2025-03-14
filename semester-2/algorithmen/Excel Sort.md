@@ -3,7 +3,7 @@
 - Core idea is that the sorting algorithm does anything except actually sorting the list
 	- Bonus points for making the algorithm hard to use
 	- Bonus points for bloating it with even more useless functionality
-#todo have function take [[UNIX sort]]-like parameters and do random shit for each parameter
+- TODO: have function take [[UNIX sort]]-like parameters and do random shit for each parameter
 
 
 ### Implementation

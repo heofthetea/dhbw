@@ -1,0 +1,3 @@
+> [[Knoten]] ohne Routing-Eigenschaften.
+
+

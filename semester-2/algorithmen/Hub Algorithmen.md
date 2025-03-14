@@ -47,7 +47,7 @@
 
 ## Intro
 
-[[Definition Algorithmus]]
+[[Algorithmus]]
 [[Classes of Algotithms]]
 [[Computers are idiots]]
 [[Faster hardware is not equivalent to a solved problem]]

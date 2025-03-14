@@ -1,4 +1,0 @@
-- part of the [[JVM]]
-	- unless configured otherwise, is assigned $64$ MB of RAM
-- Handles [[Reference|References]]
-	- Every [[Object]] is created physically inside the [[Java Heap]], with a [[Reference]] pointing to the respective location in the [[Java Heap]]

@@ -1,0 +1,1 @@
+> Verschiedene [[Wort|Wörter]], die dieselbe [[Semantik|Bedeutung]] haben

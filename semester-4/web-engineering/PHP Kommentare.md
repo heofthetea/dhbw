@@ -1,0 +1,1 @@
+dashes, hashtags, und multi-line wie Java

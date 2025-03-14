@@ -4,4 +4,4 @@
 ![[Pasted image 20240209083432.png]]
 
 Aufbau ähnlich zu 2-bit [[Parallele Multiplikationsschaltung]]
-- Nutzt [[Paralleladdierschaltung]], um Zeilen übereinander zusammen zu addieren
+- Nutzt [[Ripple-Carry-Adder]], um Zeilen übereinander zusammen zu addieren

@@ -1,0 +1,13 @@
+- 1945: erster kommerziell nutzbarer Computer (Z4)
+- ~1944: Erster programmierbarer Computer (durch [[Alan Turing]])
+- 1954: erste Programmiersprache [[Fortran]]
+- Bis 1964: Hardware mit dedicated OS
+	- 1964: [[IBM]] liefert erstes modell-übergreifendes [[Betriebssystem]] (OS/360)
+- Anfang 1970er: Xerox entwickelt erste GUI (erst die Maus entwickelt, dann die GUI lol)
+- 1980: erste Festplatten erscheinen, ermöglichen [[RAM|random access]]
+- 1984: [[mac OS]] erscheint als erstes kommerzielles Betriebssystem
+- 1991: [[Linux]] 👶🎉
+- 1992: Windows 3.1 - Durchbruch für UI auf Computern
+- 1993: windows NT 3.1 führt das [[HAL]] ein
+- 2008: Google veröffentlicht Android
+

@@ -1,3 +1,5 @@
+[[Netzwerk]]
+
 Alles ist mit allem vernetzt
 Vernetzung prinzipiell durch Kabel
 - Alle Meere sind voll mit Glasfaserleitungen - teilweise raumdick

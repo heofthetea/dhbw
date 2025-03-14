@@ -25,7 +25,7 @@
 
 ### Hauptteil
 - wie wurde vorgegangen?
-- gewähltes Verfahren/Lösungsweg soll begründet wreden
+- gewähltes Verfahren/Lösungsweg soll begründet werden
 > [!hint] 30 - 40%
 ### Zusammenfassung
 Aufgabenstellung, Vorgehensweise und wesentliche Ergebnisse kurz und präzise (2 - 3 Seiten lol???) darstellen
