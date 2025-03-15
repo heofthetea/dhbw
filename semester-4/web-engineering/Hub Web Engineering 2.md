@@ -18,11 +18,14 @@
 - [[PHP Superglobal Arrays]]
 - [[Question mark operator]]
 - [[Python argv]]
-
+- [[PHP as docker]]
 
 ## General Stuff (HTTP)
 - [[HTTP GET]]
 - [[HTTP POST]]
+- [[Cookie]]
+	- [[Set Cookie]]
+- [[Session-based Authentication]]
 
 
 
@@ -31,5 +34,11 @@
 ```expander
 Path: semester-4/web-engineering/code
 ```
-[[random-form.html]]
+[[docker-compose.yml]]
+[[index.php]]
+[[load_users.php]]
+[[login.php]]
+[[random-form.php]]
+[[semester-4/web-engineering/code/README]]
+[[users.csv]]
 

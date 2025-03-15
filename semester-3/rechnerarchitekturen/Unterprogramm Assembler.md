@@ -1,6 +1,6 @@
 > ist ein [[Makro]]
 
-- [[Adresse]] des [[Programm Counter|Adresszählers]] wird auf [[Stack]] geworfen
+- [[Adresse]] des [[Programm Counter|Adresszählers]] wird auf [[Stack]] gepusht
 	- nach return kann der nächste Befehl in Order ausgeführt werden
 
 ```asm

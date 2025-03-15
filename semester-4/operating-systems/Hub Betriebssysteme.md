@@ -1,4 +1,10 @@
+### Libraries
+[[Library Betriebssysteme Basics]]
+[[Library Paging]]
+this is a test digga fick dich du scheiss hurensohn
+fick dich
 ## 1. Basics
+[[01_Grundlagen.pdf]]
 [[Betriebssystem]]
 [[Betriebssystem im Rechnersystem]]
 
@@ -14,8 +20,8 @@
 [[Mikroarchitektur]]
 [[Modulares Betriebssystem]]
 
-
 ## 2. Speicherverwaltung
+[[02_Speicherverwaltung.pdf]]
 [[Speicherverwaltung]]
 [[RAM]]
 - [[Heap]] & [[Stack]]

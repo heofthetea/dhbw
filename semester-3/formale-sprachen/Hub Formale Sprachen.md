@@ -5,7 +5,7 @@
 [[FSA_Handout.pdf]]
 
 #### Altklausuren
-[[testat.pdf]]
+[[testat.pdf]],
 [[19BE.pdf]]
 [[19BE-WH.pdf]]
 [[klausur2024_ueb.pdf]]
@@ -226,7 +226,6 @@
 		- [[WHILE while loop]]
 	- [[WHILE Semantik]]
 	- [[If-then-else in WHILE]]
-	- [[Übung 6.15 WHILE Programme]]
 - [[WHILE Berechenbarkeit]]
 - [[Simulation While-Programm durch TM]]
 - [[Simulation TM durch While-Programm]]
@@ -242,7 +241,7 @@
 - [[Cliquenproblem]]
 	- [[NP-Vollständigkeit Cliquenproblem]]
 - [[NP-Vollständigkeit]]
-	- [[Polynomialzeit-Reduktion]]
+	- [[Polnomialzeit-Reduktion]]
 - [[Erfüllbarkeitsproblem]]
 	- [[3-SAT]]
 

@@ -1,4 +1,4 @@
-#todo fuck
+[[Rekursiv aufzählbare Sprache]]
 
 
 [[Turing Machine]] mit leerem Band am Anfang

@@ -1,6 +1,5 @@
 [[Befehlszyklus]], [[Von-Neumann Architektur]]
 
-#todo Bild
 
 [[Harvard-Architektur]] benötigt halb so lang:
 1. [[Daten]] und [[Instruktion|Instruktionen]] werden gleichzeigig geholt

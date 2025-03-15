@@ -1,4 +1,4 @@
-
+[[Funk]]
 ![[Pasted image 20240918174021.png]]
 
 - elektromagnetische Wellen

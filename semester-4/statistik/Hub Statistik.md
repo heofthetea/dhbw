@@ -5,6 +5,12 @@
 ### Klausurvorbereigung
 [[Random dropped infos]]
 
+
+
+### Übungen
+[[Übungen zum Kapitel 1.pdf]]
+[[Statistik Übung 1]]
+
 ## 00 Basics
 - [[Deskriptive Statistik]]
 - [[Qualitativmerkmal]]
