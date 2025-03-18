@@ -19,6 +19,7 @@
 - [[Question mark operator]]
 - [[Python argv]]
 - [[PHP as docker]]
+- [[PHP File Upload]]
 
 ## General Stuff (HTTP)
 - [[HTTP GET]]
@@ -26,6 +27,7 @@
 - [[Cookie]]
 	- [[Set Cookie]]
 - [[Session-based Authentication]]
+- [[MIME-Type]]
 
 
 
@@ -41,4 +43,9 @@ Path: semester-4/web-engineering/code
 [[random-form.php]]
 [[semester-4/web-engineering/code/README]]
 [[users.csv]]
+
+
+
+## Se Projekt
+[[Projektspezifikation Web 2]]
 

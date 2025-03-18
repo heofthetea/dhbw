@@ -1,8 +1,8 @@
 ### Libraries
 [[Library Betriebssysteme Basics]]
-[[Library Paging]]
-this is a test digga fick dich du scheiss hurensohn
-fick dich
+[[Library Virtual Memory Management]]
+[[Library Prozesse]]
+
 ## 1. Basics
 [[01_Grundlagen.pdf]]
 [[Betriebssystem]]
@@ -18,13 +18,13 @@ fick dich
 [[Monolithisches Betriebssystem]]
 [[Geschichtettes Betriebssystem]]
 [[Mikroarchitektur]]
-[[Modulares Betriebssystem]]
+=>[[Modulares Betriebssystem]]
 
 ## 2. Speicherverwaltung
 [[02_Speicherverwaltung.pdf]]
 [[Speicherverwaltung]]
 [[RAM]]
-- [[Heap]] & [[Stack]]
+- [[Program Heap]] & ([[Call Stack]])
 - [[Virtual Memory Management]]
 - [[MMU]]
 	- [[MMU Funktionsweise]]
@@ -36,3 +36,27 @@ fick dich
 	- [[Swapping Strategien]]
 - [[Page Sharing]]
 - [[Address Space Layout Randomization]]
+
+## 3. Prozesse
+[[03_Prozesse.pdf]]
+
+- [[Prozess]]
+	- [[Prozesszustand]]
+	- [[Prozess Scheduler]]
+		- [[Prozess Blocking]]
+	- [[Ausführungsmodi]]
+		- [[User Mode]]
+		- [[Kernel Mode]]
+		- [[x86 Rings of Protection]]
+	- [[Deadlock]]
+		- [[Handlung gegen Deadlocks]]
+		- [[Deadlocks verhindern]]
+			- [[Resource Allocation Graph]]
+				- [[Übung Resource Allocation Graph]]
+			- [[Banker's Algorithm]]
+		- [[Deadlocks beheben]]			
+- [[CPUs are fast]]
+- [[ps]]
+- [[Interrupt]]
+	- [[Synchroner Interrupt]]
+	- [[APIC]]

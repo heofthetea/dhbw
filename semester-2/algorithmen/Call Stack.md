@@ -2,6 +2,8 @@
 
 - Benutzt für Aufruf von [[Functions]]
 
+
+> [!info] [[Programm Counter|PC]] als Rücksprungadresse wird in der Regel in [[Register|Registern]] gespeichert, nicht auf den Stack.
 ## Arbeitsweise
 1. push parameters
 2. push function address
