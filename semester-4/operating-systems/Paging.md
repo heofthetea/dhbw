@@ -1,3 +1,5 @@
+[[Page]]
+
 - physischer und virtueller [[Memory]] wird jeweils in gleich große Blöcke geteilt
 	- Blöcke selbst können variabel groß sein
 - Virtuelle [[Adresse]] hat 2 Teile:

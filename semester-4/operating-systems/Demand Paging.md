@@ -1,7 +1,6 @@
-- Brücke zwischen [[Swapping]] und [[Paging]]
+> Brücke zwischen [[Swapping]] und [[Paging]]
 - sorgt dafür, dass nicht _alle_ Teile eines [[Prozess|Prozesses]] im [[Memory]] sein müssen
-- Nur selten genutzte [[Page|Pages]] werden ausgelagert
-
+- Nur einzelne, selten genutzte [[Page|Pages]] werden ausgelagert
 
 ## Ablauf
 - am Anfang sind alle [[Page|Pages]] in [[Memory]]

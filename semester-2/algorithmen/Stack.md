@@ -11,4 +11,3 @@
 
 #### pop
 - Entferne oberstes Element des Stacks, und gib es zurück
-
