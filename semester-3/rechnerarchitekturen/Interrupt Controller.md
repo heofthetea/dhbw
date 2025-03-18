@@ -4,7 +4,7 @@
 > [!warning] Kann _on-chip_ (in der [[CPU]] drin) oder _off-chip_ (neben der CPU) sein
 
 - Programmable weil: Wird konfiguriert durch Software (idR. das [[Betriebssystem]])
-- Besitzt $8$ Eingänge
+- Besitzt $8$ Eingänge -> translated Signal in einen Ausgang (ähnlich zu [[Multiplexer]])
 	- sind für modernes System zu wenig --> [[Kaskade]]
 
 ## Aufgabe

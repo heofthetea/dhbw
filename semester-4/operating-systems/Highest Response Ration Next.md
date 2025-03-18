@@ -1,0 +1,3 @@
+- Verhältnis Wartezeit/Laufzeit entscheidet
+- Größtes Verhälthnis zuerst -> z.B. [[Prozess]] mit geringerer Rechenzeit bevorzugt
+- Basiert auf [[Schätzung]]

@@ -13,6 +13,25 @@
 - [[Hülle einer funktionalen Abhängigkeit]]: Alle [[Funktionale Abhängigkeit|Funktionalen Abhängigkeiten]] eines Schemas, die sich aus den [[Armstrong Axiome|Interferenzregeln]] herleiten lassen
 
 ## 1NF
+> [!info] Eine [[Relation]] ist in [[1NF]], wenn jedes [[Attribut]] **atomar** ist und es keine **Mehrfachattribute** gibt.
+
+- **Mehrfachattribut**: Dasselbe Attribut, dass zu Zwecken zusätzlichen Platzes mehrfach existiert
+	- Beispiel: Telefonnumer 1, Telefonnumer 2, Telefonnumer ...
+
+> [!warning] Problem: Es gibt Risiko für z.B. Änderungsanomalie.
 
 ## 2NF
+> [!info] Eine [[Relation]] ist in [[2NF]], wenn sie in [[1NF]] ist und jedes Nichtschlüsselattribut nur [[Funktionale Abhängigkeit|funktional Abhängig]] vom **gesamten** [[Schlüssel|Primärschlüssel]] abhängig sind.
+
+- besteht der [[Schlüssel|Primärschlüssel]] aus nur einem Element, ist die [[Relation]] automatisch in [[2NF]]
+
+## 3NF
+> [!info] Eine [[Relation]] ist in [[3NF]], wenn sie in [[2NF]] ist und kein [[Attribut]] [[transitiv]] von einem [[Schlüsselkandidat|Schlüsselkandidaten]] abhängig ist.
+
+
+### Formal
+Für jede [[Funktionale Abhängigkeit]] $X \rightarrow \alpha$ innerhalb der [[Relation]] $R$ muss eine der folgenden Bedingungen gelten gelten:
+- $X$ ist [[Superschlüssel]] von $[R]$
+- $a$ ist [[Primattribut|prim]]
+- $a \in X$ ([[Triviale Funktionale Abhängigkeit]])
 

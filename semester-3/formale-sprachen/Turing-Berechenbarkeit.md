@@ -1,4 +1,4 @@
-Eine [[Abbildung|Funktion]] $f: (\Sigma^{*})^{n} \longrightarrow \Sigma$ heißt [[Turing-Berechenbarkeit|turing-berechenbar]], wenn es eine [[Determinismus|deterministische]] [[Turing Machine]] $M$ gibt, so dass für jedes [[Tupel]] $(w_{1}, w_{2}, ..., w_{n}) \in dom(f)$ mit $f(w_{1}, ...,w_{n}) = x$ gilt:
+Eine [[Abbildung|Funktion]] $f: (\Sigma^{*})^{n} \longrightarrow \Sigma$ heißt [[Turing-Berechenbarkeit|turing-berechenbar]], wenn es eine [[Determinismus|deterministische]] [[Turing Machine]] $M$ gibt, so dass für jedes [[Tupel]] $(w_{1}, w_{2}, ..., w_{n}) \in dim(f)$ mit $f(w_{1}, ...,w_{n}) = x$ gilt:
 - $M$ [[Haltekonfiguration|terminiert]] ausgehend von Startkonfiguration $q_{0}w_{1}\square w_{2} \square ... \square w_{n}$
 - Die [[Haltekonfiguration]] hat die Form $uqxvy$ mit
 	- $u, y, \in \Gamma^{*}$

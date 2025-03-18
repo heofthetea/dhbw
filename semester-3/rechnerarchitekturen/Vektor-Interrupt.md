@@ -1,5 +1,7 @@
 > [[Adresse]] für [[Interrupt]] Routine aus [[Lookup Table]]
 
+[[Synchroner Interrupt]]
+
 ```mermaid
 flowchart LR
 A[Interrupt-Nr] --> B((Tabelleneintrag)) --> Adresse
@@ -8,13 +10,12 @@ A[Interrupt-Nr] --> B((Tabelleneintrag)) --> Adresse
 ### Quellen
 - In: Non-Maskable [[Interrupt]]
 - In: Interrupt Request
-- Software: Div by 0, [[Überlauf|Overflow]], ... [[RuntimeException]]
+- **Software**: Div by 0, [[Überlauf|Overflow]], ... [[RuntimeException]]
 
 ### Priorität
 - NMI (non-maskable)
 - Software: wird immer stattgegeben
-- Request durch INTR (Freigabe [[Flag]])
-
+- Request durch [[INTR]] (Freigabe [[Flag]])
 
 ### Umbiegen
  - ein normales Programm ändert den Eintrag der [[Lookup Table]]

@@ -1,0 +1,2 @@
+- **Security**: Protection against attacks, breaches etc.
+- **Privacy**: Legal obligations (DsGVO o.ä.)

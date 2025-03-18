@@ -3,6 +3,7 @@
 [[Minimalsystem]], [[Begrifflichkeiten für Interupt]]
 
 - passiert [[asynchronous|asynchron]] vom normalen Programmaufruf
+- unterbricht [[CPU]] in Abarbeitung von aktuellem [[Prozess]]
 
 > [!hint] Maximale Reaktionszeit durch [[CPU]] kann berechnet werden!
 

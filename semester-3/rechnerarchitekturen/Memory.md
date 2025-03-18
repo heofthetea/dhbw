@@ -11,3 +11,4 @@
 
 > [!hint] Programmierer muss definieren können, ob er [[Datenspeicher]] oder [[Befehlsspeicher]] ansprechen möchte
 
+> [!info] Ist direkt an die [[CPU]] angeschlossen, nicht über den Systembus.
