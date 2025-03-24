@@ -10,6 +10,7 @@
 	- hat nur eine [[MMU]] etc.
 - [[Prozess|Prozesse]] sind einzigartig
 
+> [!hint] An sich wissen Prozesse nichts voneinander -> [[Prozesskommunikation]]
 ## Anforderungen an [[Betriebssystem]]
 - "gleichzeitig ausführen" -> [[Betriebssystem]] muss Programm nur **partiell** ausführen können
 - OS muss einem [[Prozess]] Ressourcen zuteilen können

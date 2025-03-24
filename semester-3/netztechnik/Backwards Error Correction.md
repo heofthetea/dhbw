@@ -1,5 +1,6 @@
 > Error Correction mit Quittungen
 
+> [!hint] Invalide Daten werden erkannt durch z.B. [[CRC]]
 
 - Sender schickt Nachricht, Empfänger schickt Acknowledgement, wenn er Daten empfangen hat
 - Timer wird gesetzt - innerhalb der Timerzeit muss ein Acknowledgement zurück kommen

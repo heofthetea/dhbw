@@ -11,4 +11,3 @@
 
 $$\left(\bigcup\limits_{i = 1}^{n}F_{[R_{i}]}\right)^{+} = F^{+}$$
 > [!info] Jede der ursprünglichen FAs gilt immernoch, in **mindestens** einer der zerlegten Relationen.
-

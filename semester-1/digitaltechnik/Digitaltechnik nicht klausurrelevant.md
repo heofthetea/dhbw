@@ -24,7 +24,7 @@
 - umschaltbare Zählrichtung: nicht produzieren
 - [[Synchroner Frequenzteiler]]
 - [[Datenselektor]] mit [[Multiplexer]] und [[Demultiplexer]] nur so halb relevant
-- [[BUS-Schaltung]] erst im 3. Semester
+- [[Parallele BUS-Schaltung]] erst im 3. Semester
 - Speicherregister irrelevant
 
 

@@ -5,6 +5,7 @@
 - hier wird [[Zugriffsverfahren]] ausgewertet
 - Adressierung von Geräten anhand [[MAC Adresse]]
 - [[Ethernet Flow Control]]
+- auch: [[LLC]]
 ## Generierte Header
 - [[MAC Adresse]] des Ziels
 - [[MAC Adresse]] der Quelle

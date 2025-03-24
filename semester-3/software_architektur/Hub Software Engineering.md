@@ -9,7 +9,7 @@ download: yEd Graph Editor (for Darstellungen)
 ## 01 Motivation
 [[Gartner Hype Cycle]]
 [[Teufelsquadrat]]
-[[Multitasking]]
+[[SWE Multitasking]]
 
 ---
 

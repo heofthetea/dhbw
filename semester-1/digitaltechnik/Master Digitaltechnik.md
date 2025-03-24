@@ -25,7 +25,7 @@
 [[Hub Programmierbare Logik]]
 
 [[Fucking Schmitt-Trigger]]
-[[Hub Hamming Code]]
+[[Hamming Code]]
 
 [[Transistor]]
 

@@ -10,3 +10,10 @@
 
 > [!info]- In der Praxis kaum verwendet.
 > nur verwendet in Robotik oder [[IoT]]
+
+## Strategien
+- [[Highest Response Ration Next]]
+- [[Highest Priority First]]
+- [[Shortest Job Next]]
+- [[FIFO]]
+- [[Multilevel Queue Scheduling]]

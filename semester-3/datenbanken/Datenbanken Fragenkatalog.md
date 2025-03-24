@@ -169,7 +169,7 @@
 
 ## 05 Fragenkatalog
 > [!help]- 41\. Wie verfährt man mit der Beziehungsrelation bei 1:1, 1:n, n:1 Beziehungen?
-> - [[Beziehung als Relation]]: Man zieht den [[Schlüssel]] der [[Beziehung als Relation|Beziehungsrelation]] in die Entität, die denselben [[Schlüssel]] hat.
+> - [[Relationship als Relation]]: Man zieht den [[Schlüssel]] der [[Relationship als Relation|Beziehungsrelation]] in die Entität, die denselben [[Schlüssel]] hat.
 
 > [!help]- 42\. Was muss bei der Umsetzung von 1:1-Beziehungen in Relationen beachtet werden?
 > - man muss über die [[Min-Max Kardinalität|Min Max Notation]] gehen

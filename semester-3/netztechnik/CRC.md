@@ -1,7 +1,7 @@
 > Cyclic [[Redundanz|Redundancy]] Check
 
 - Tail generiert von [[Layer 2]]
-generiert [[Checksum]]
+- 4 [[Byte]] lange [[Checksum]]
 
 
 ## Cyclic Redundancy Check

@@ -1,3 +1,5 @@
+> Jede [[Teilmenge]] der [[Relation]], die auf die gesamte [[Relation]] [[Abbildung|abbildet]].
+
 [[Schlüssel]]
 
 

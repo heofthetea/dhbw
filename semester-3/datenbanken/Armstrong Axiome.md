@@ -2,7 +2,6 @@
 
 [[Hülle einer funktionalen Abhängigkeit]]
 
-
 1. $Y \in X \Longrightarrow X \rightarrow Y$ ([[Triviale Funktionale Abhängigkeit]])
 2. $X \rightarrow Y \Longrightarrow XZ \rightarrow YZ$ (Verstärkung)
 3. $X \rightarrow Y \land Y \rightarrow Z \Longrightarrow X \rightarrow Z$ ([[transitiv|Transitivität]])

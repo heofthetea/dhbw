@@ -3,6 +3,8 @@ Definition: _Ist-Zustand_
 - Beantwortung von Anfragen in gültiger Domäne
 - Verwendung logischer Schlussfolgerungsverfahren
 
+> [!warning] Problem: Ich kann dem System nicht vollständig vertrauen, weil man die Prozesse nicht kenne.
+
 --> ermöglicht kompakte Programme
 _aber_: andere Denkweise
 

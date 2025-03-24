@@ -4,7 +4,7 @@
 
 - [[Prozess]]: Kreis
 - [[Resource]]: Kaschden
-- Hat der [[Graph]] einen [[Zyklus]] => [[Deadlock]]
+- Hat der [[Graph]] einen [[Zyklus]] => [[Deadlock]] zwischen den [[Knoten]] des [[Zyklus]]
 
 ![[Pasted image 20250317104958.png]]
 

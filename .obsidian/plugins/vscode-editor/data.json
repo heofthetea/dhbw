@@ -16,7 +16,8 @@
     "h",
     "tex",
     "html",
-    "sh"
+    "sh",
+    "yml"
   ],
   "folding": true,
   "lineNumbers": true,

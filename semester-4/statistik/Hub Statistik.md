@@ -12,6 +12,7 @@
 ### Übungen
 
 [[Übungen zum Kapitel 1.pdf]]
+[[semester-4/statistik/resources/Übungen zum Kapitel 2.pdf|Übungen zum Kapitel 2]]
 [[Statistik Übung 1]]
 
 ## 00 Basics
@@ -49,6 +50,20 @@
   - [[Kreisdiagramm]]
   - [[Quantisierung]]
     - [[Histogramm]]
+- [[Empirische Verteilungsfunktion]]
+- [[Statistische Maßzahlen]]
+	- [[Lagemaße]]
+		- [[Lagemaß Modus]]
+		- [[Quantil]]
+			- [[Median]]
+		- [[Arithmetisches Mittel]]
+	- [[Streuungsmaße]]
+		- [[Quartilabstand]]
+		- [[Standardabweichung]]
+	- [[Formmaße]]
+		- [[Schiefe]]
+		- [[Wölbung]]
+	- [[Box Plot]]
 
 ## 03 Zweidimensionale Verteilung
 

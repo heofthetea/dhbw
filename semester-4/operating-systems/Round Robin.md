@@ -1,2 +1,2 @@
-- Zeitscheibenverfahrne
+- Zeitscheibenverfahren
 - Nacheinander hat jeder [[Prozess]] gleich viel Zeit in der [[CPU]]

@@ -1,3 +1,4 @@
+
 $$|A\rangle = a |H\rangle + b |V\rangle$$
 
 (H = horizontal spin, V = vertical spin)

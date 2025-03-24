@@ -1,7 +1,6 @@
 > Wenn mehrere [[DEE|DEEs]] ein [[Shared Medium]] benutzen, muss geregelt werden, wie die Geräte darauf zugreifen
 
 
-
 ## Übersicht
 ![[Pasted image 20241009093546.png]]
 

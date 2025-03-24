@@ -4,6 +4,14 @@
 [[Library Virtual Memory Management]]
 [[Library Prozesse]]
 
+### misc
+- [[CPUs are fast]]
+
+### Klausurvorbereitung
+- [[TINF17B_2018_Klausur.pdf]]
+- [[TINF17B_2018_Nachklausur.pdf]]
+- [[TINF18B_2019_Klausur.pdf]]
+- [[TINF18B_2019_Klausur.pdf]]
 ## 1. Basics
 
 [[Betriebssystem]]
@@ -30,13 +38,13 @@
 - [[Program Heap]] & ([[Call Stack]])
 - [[Virtual Memory Management]]
 - [[MMU]]
-  - [[MMU Funktionsweise]]
+	 - [[MMU Funktionsweise]]
 - [[Paging]]
-  - [[Segmentation Fault]]
-  - [[Demand Paging]]
+	- [[Segmentation Fault]]
+	- [[Demand Paging]]
 - [[Übung MMU]]
 - [[Swapping]]
-  - [[Swapping Strategien]]
+	- [[Swapping Strategien]]
 - [[Page Sharing]]
 - [[Address Space Layout Randomization]]
 
@@ -48,6 +56,10 @@
   - [[Prozesszustand]]
   - [[Prozess Scheduler]]
     - [[Prozess Blocking]]
+    - [[Preemptive Strategien]]
+    - [[Non-preemptive Strategien]]
+    - [[Prozess Scheduling in Praxis]]
+    - [[Übung Scheduling]]
   - [[Ausführungsmodi]]
     - [[User Mode]]
     - [[Kernel Mode]]
@@ -59,8 +71,30 @@
         - [[Übung Resource Allocation Graph]]
       - [[Banker's Algorithm]]
     - [[Deadlocks beheben]]
-- [[CPUs are fast]]
 - [[ps]]
 - [[Interrupt]]
-  - [[Synchroner Interrupt]]
-  - [[APIC]]
+	- [[Synchroner Interrupt]]
+	- [[APIC]]
+- [[Prozesskommunikation]] 
+	- [[Speicherbasierte Prozesskommunikation]]
+	- [[Message-based Kommunikation]]
+		- [[Message Queue]]
+		- [[Pipe]]
+- [[Prozesssynchronisierung]]
+	- [[Kritischer Abschnitt]]
+		- [[Unterbrechungssperre]]
+		- [[Test-Set Instruktion]]
+		- [[Semaphor]]
+		- [[Synchronisation - Monitor]]
+		- [[Synchronisation über Nachrichten]]
+
+## 4 Multitasking
+[[04_Multitasking.pdf]]
+
+- [[Ziele Multitasking]]
+- [[Multitasking]]
+- [[Multithreading]]
+- [[Hyperthreading]]
+- [[Forking]]
+	- [[Forking Synchronisierung]]
+	- [[Exit Status]]

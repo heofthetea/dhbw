@@ -6,6 +6,7 @@
 - geblockte [[Prozess|Prozesse]] belegen [[Memory]] und ggf. andere Ressourcen
 	- dann ist diese [[Resource]] geblockt
 
+> [!warning] Risiko: [[Deadlock]]
 ## Beispiel: Die speisenden Philosophen
 - mehrere Philosophen treffen sich zum Abendessen
 - kochen Spaghetti

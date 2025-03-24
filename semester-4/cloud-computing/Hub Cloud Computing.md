@@ -43,6 +43,14 @@ https://owncloud.dhbw-stuttgart.de/index.php/s/ApXMZDmaE2QFbBg
 - [[POD]]
 - [[n+1 Redundancy]]
 - [[IaaS Security]]
+- [[Software-Defined]]
+	- [[Software-Defined Storage]]
+	- [[Software-Defined Network]]
+- [[OpenStack]]
+- [[Terraform]]
+	- [[Terraform Providers]]
+	- [[Terraform Dependency and State Management]]
+	- [[Terraform Azure Linux Virtual Machine]]
 
 ## PaaS
 - [[PaaS]]

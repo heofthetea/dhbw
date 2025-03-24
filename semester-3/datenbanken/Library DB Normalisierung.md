@@ -35,3 +35,19 @@ Für jede [[Funktionale Abhängigkeit]] $X \rightarrow \alpha$ innerhalb der [[R
 - $a$ ist [[Primattribut|prim]]
 - $a \in X$ ([[Triviale Funktionale Abhängigkeit]])
 
+### Prüfung auf [[3NF]]
+1. Zerlege [[Funktionale Abhängigkeit|FAs]] in einzelne Abhängigkeiten der Form $X \rightarrow \alpha$
+
+
+
+## BCNF
+- [[BCNF]]
+- [[3NF]], bei der jedes $X$ jeder [[Funktionale Abhängigkeit|FA]] $X \rightarrow \alpha$ ein [[Superschlüssel]] ist
+- oder: es gibt keine überlappende [[Schlüsselkandidat|Schlüsselkandidaten]]: $\forall_{m, n}k_{m} \cap k_{n} =\varnothing$ 
+
+=> Bedingung $\alpha$ ist [[Primattribut|prim]] ist nicht mehr ausreichend
+
+> [!hint] Ist die erste Normalform, die [[Anomalie|Anomalien]] theoretisch ausschließt.
+
+
+

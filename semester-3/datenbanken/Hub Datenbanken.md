@@ -100,12 +100,12 @@
 [[DB_Kap03_Logischer DB-Entwurf_Stud-1.pdf]]
 [[Relation]]
 [[Relationales Modell]]
-- [[Beziehung als Relation]]
+- [[Relationship als Relation]]
 - [[Rekursive Beziehung als Relation]]
 - [[1-1 Beziehung als Relation]]
 	- [[Is-a Relationship als Relation]]
 - [[Aggregat als Relation]]
-- [[Ternäre Beziehung als Relation]]
+- [[n-stellige Relationship als Relation]]
 [[Schema einer Relation]]
 [[Instanz einer Relation]]
 [[Schlüsselattribut]]
@@ -150,3 +150,17 @@
 
 ### Gigantische Übung
 [[Übung Tierpflege]]
+
+## 5. SQL & Postgres Basics
+[[DB_Kap05_Einführung_DB-Entwurf_Stud.pdf]]
+- [[SQL Geschichte]]
+- [[PostgreSQL]]
+	- [[semester-3/datenbanken/docker-compose.yml|docker-compose]]
+	- [[Postgres Architektur]]
+- [[DBMS im Vergleich]]
+
+## 6. DDL & DML
+[[DB_Kap06_1_SQL_DDL_DML_Stud.pdf]]
+
+- [[DDL]]
+- [[DML]]

@@ -27,3 +27,13 @@ class MyClass {
 	public MyClass(){}
 }
 ```
+
+### Synchronized Block
+- tell [[Compiler]] to set a [[Synchronisation - Monitor]] for this code
+
+```java
+synchronized(v) {
+	...
+}
+```
+

@@ -86,7 +86,7 @@
 - [[Multiplexer]]: sequenziert Bits aus input ("n zu 1 bit")
 - [[Demultiplexer]]: parallelisiert Bits aus input ("1 zu n bit")
 	- Umsetzung: [[Datenselektor]] mit _zeitabhängiger_ Beschaltung durch [[#Zähler]]
-- [[BUS-Schaltung]] sendet Information von _Sender_ zu _Receiver_
+- [[Parallele BUS-Schaltung]] sendet Information von _Sender_ zu _Receiver_
 	- _parallel_: Eine Leitung pro Bit
 	- _seriell_: Anwendung von [[Multiplexer]] (als _Sender_) und [[Demultiplexer]] (als receiver))
 

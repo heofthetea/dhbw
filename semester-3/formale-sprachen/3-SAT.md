@@ -1,6 +1,6 @@
 > [[Erfüllbarkeitsproblem]] für KNF mit 3-Klauseln
 
-> [!info] Ist gleich schwer wie allgemeines [[Erfüllbarkeit], also auch [[NP-Vollständigkeit|NP-vollständig]].
+> [!info] Ist gleich schwer wie allgemeines [[Erfüllbarkeitsproblem]], also auch [[NP-Vollständigkeit|NP-vollständig]].
 ## Definition
 1. Eine <span style="color:rgb(245, 154, 35)">3-Klausel </span>ist eine aussagenlogische Disjunktion mit höchstens 3 Literalen 
 2. Eine Formel ist in 3-[[Konjunktive Normalform|KNF]], wenn sie eine **endliche** Konjunktion von 4-Klauseln ist

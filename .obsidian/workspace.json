@@ -6,12 +6,12 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 34.914712153518124,
+        "dimension": 35.76759061833689,
         "children": [
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 48.43006660323502,
+            "dimension": 62.60704091341579,
             "children": [
               {
                 "id": "3578ff700070f6e6",
@@ -126,12 +126,12 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 51.56993339676499,
+            "dimension": 37.392959086584206,
             "children": [
               {
                 "id": "987357965ec8cadc",
@@ -212,9 +212,25 @@
                   "icon": "lucide-file",
                   "title": "Library DB Normalisierung"
                 }
+              },
+              {
+                "id": "2517846bf93860a8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Library Prozesse.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Library Prozesse"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -222,12 +238,12 @@
       {
         "id": "45b82f0a2d3f66e4",
         "type": "split",
-        "dimension": 65.08528784648188,
+        "dimension": 64.23240938166312,
         "children": [
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 56.99333967649858,
+            "dimension": 43.76784015223596,
             "children": [
               {
                 "id": "ae37985abf5bc3ce",
@@ -235,90 +251,90 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/statistik/Quantisierung.md",
+                    "file": "semester-4/operating-systems/Übung Scheduling.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Quantisierung"
+                  "title": "Übung Scheduling"
                 }
               },
               {
-                "id": "e9931a33240dc649",
+                "id": "7f8ffde86752a97d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/algorithmen/Schlüssel.md",
+                    "file": "semester-4/cloud-computing/Terraform Dependency and State Management.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Schlüssel"
+                  "title": "Terraform Dependency and State Management"
                 }
               },
               {
-                "id": "6c715a2ece16bdf9",
+                "id": "a49521ca2bbd83ec",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-2/algorithmen/Dijkstras Algorithm.md",
+                    "file": "semester-4/quantum-computing/Superposition.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Dijkstras Algorithm"
+                  "title": "Superposition"
                 }
               },
               {
-                "id": "214bc04f1a131bb1",
+                "id": "7877d2764625de1f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/cloud-computing/Security vs. Privacy.md",
+                    "file": "semester-4/cloud-computing/OpenStack.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Security vs. Privacy"
+                  "title": "OpenStack"
                 }
               },
               {
-                "id": "e815d932136475fd",
+                "id": "d4e47a4945f87b7a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Segmentierung.md",
+                    "file": "semester-4/cloud-computing/Terraform Azure Linux Virtual Machine.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Segmentierung"
+                  "title": "Terraform Azure Linux Virtual Machine"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 43.00666032350143,
+            "dimension": 56.23215984776403,
             "children": [
               {
-                "id": "3667a4bb34284a80",
+                "id": "459e3140c1d6cb95",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-4/operating-systems/resources/03_Prozesse.pdf"
+                    "file": "semester-4/operating-systems/resources/04_Multitasking.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "03_Prozesse"
+                  "title": "04_Multitasking"
                 }
               },
               {
@@ -356,15 +372,43 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-4/operating-systems/resources/02_Speicherverwaltung.pdf"
+                    "file": "semester-4/statistik/resources/Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "02_Speicherverwaltung"
+                  "title": "Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025"
+                }
+              },
+              {
+                "id": "b72239695ddb745d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-3/datenbanken/sources/DB_Kap05_Einführung_DB-Entwurf_Stud.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "DB_Kap05_Einführung_DB-Entwurf_Stud"
+                }
+              },
+              {
+                "id": "5848f63993097b7c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-4/wifi/resources/WLAN-Vorlesung_Teil-3.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "WLAN-Vorlesung_Teil-3"
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -481,7 +525,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-4/cloud-computing/IaaS Security.md",
+                "file": "semester-4/cloud-computing/Terraform Azure Linux Virtual Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -491,7 +535,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IaaS Security"
+              "title": "Backlinks for Terraform Azure Linux Virtual Machine"
             }
           }
         ],
@@ -524,53 +568,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e9931a33240dc649",
+  "active": "d4e47a4945f87b7a",
   "lastOpenFiles": [
-    "semester-3/datenbanken/Hub Datenbanken.md",
-    "semester-2/algorithmen/Schlüssel.md",
-    "semester-3/datenbanken/Library DB Normalisierung.md",
-    "semester-4/web-engineering/Hub Web Engineering 2.md",
-    "semester-4/wifi/Hub WLAN.md",
-    "semester-4/statistik/Hub Statistik.md",
-    "semester-3/datenbanken/Library Datenbanken 1.md",
-    "semester-4/statistik/Semantik.md",
-    "semester-4/statistik/Library Statistik.md",
-    "semester-4/operating-systems/Swapping.md",
-    "semester-4/operating-systems/Hub Betriebssysteme.md",
-    "semester-4/operating-systems/Library Virtual Memory Management.md",
-    "semester-4/operating-systems/Übung Deadlock.md",
-    "semester-4/operating-systems/Swapping Strategien.md",
-    "semester-4/operating-systems/Address Space Layout Randomization.md",
-    "semester-4/operating-systems/Übung MMU.md",
-    "semester-3/rechnerarchitekturen/MMU.md",
-    "semester-4/operating-systems/Paging.md",
-    "semester-4/operating-systems/Page.md",
-    "semester-2/algorithmen/Dijkstras Algorithm.md",
-    "semester-4/cloud-computing/Security vs. Privacy.md",
-    "semester-3/rechnerarchitekturen/Segmentierung.md",
-    "semester-3/rechnerarchitekturen/Segment.md",
-    "semester-4/operating-systems/MMU Funktionsweise.md",
-    "semester-4/operating-systems/images/Pasted image 20250318170633.png",
-    "semester-4/operating-systems/Page Frame Number.md",
-    "semester-4/operating-systems/resources/02_Speicherverwaltung.pdf",
-    "semester-4/operating-systems/resources/03_Prozesse.pdf",
-    "semester-4/operating-systems/Virtual Memory Management.md",
-    "semester-4/web-engineering/resources/WebEng_PHP.pdf",
-    "semester-4/web-engineering/images/Pasted image 20250318131001.png",
-    "semester-4/cloud-computing/images/Pasted image 20250317180218.png",
-    "semester-4/cloud-computing/images/Pasted image 20250317175754.png",
-    "semester-4/cloud-computing/images/Pasted image 20250317175336.png",
-    "semester-4/cloud-computing/images/Pasted image 20250317174558.png",
+    "semester-4/cloud-computing/Hub Cloud Computing.md",
+    "semester-4/cloud-computing/Terraform Azure Linux Virtual Machine.md",
+    "semester-4/cloud-computing/Terraform.md",
+    "semester-4/cloud-computing/Terraform Dependency and State Management.md",
+    "semester-4/cloud-computing/images/Pasted image 20250324175847.png",
+    "semester-4/quantum-computing/Superposition.md",
+    "semester-4/cloud-computing/OpenStack.md",
+    "semester-4/cloud-computing/images/Pasted image 20250324175829.png",
+    "semester-4/cloud-computing/YAML.md",
+    "semester-4/cloud-computing/Terraform Providers.md",
+    "semester-4/cloud-computing/images/Pasted image 20250324174754.png",
+    "semester-4/cloud-computing/images/Pasted image 20250324163348.png",
+    "semester-4/cloud-computing/images/Pasted image 20250324162328.png",
+    "semester-4/cloud-computing/Software-Defined Network.md",
+    "semester-3/netztechnik/Privater IP-Addressraum.md",
+    "semester-4/cloud-computing/Software-Defined Storage.md",
+    "semester-4/cloud-computing/Virtualisierung.md",
+    "semester-4/cloud-computing/Software-Defined.md",
+    "semester-4/quantum-computing/QNN.md",
     "semester-4/cloud-computing/resources/Cloud_Computing_IaaS.pdf",
-    "semester-4/cloud-computing/resources/Cloud_Computing_Introduction.pdf",
-    "semester-4/cloud-computing/images/Pasted image 20250317171034.png",
-    "semester-4/cloud-computing/images/Pasted image 20250317170920.png",
-    "semester-4/cloud-computing/images/Pasted image 20250317165853.png",
-    "semester-4/wifi/images/Pasted image 20250313113926.png",
-    "semester-4/quantum-computing/resources/Skript Quantum Intro.pdf",
-    "semester-4/quantum-computing/resources/SS FHNW Teil 1.1.pdf",
-    "semester-4/quantum-computing/resources/QC-Wahlfach-2025-1.pdf",
-    "semester-4/operating-systems/images",
-    "semester-4/quantum-computing/images"
+    "semester-4/quantum-computing/images/Pasted image 20250324153034.png",
+    "semester-2/algorithmen/Quick Sort.md",
+    "semester-1/programmieren/concepts/linked-list/Hoare Partitioning.md",
+    "semester-2/algorithmen/Beispiel Quick Sort.md",
+    "semester-2/algorithmen/NL Partitioning.md",
+    "semester-2/algorithmen/Partitioning.md",
+    "semester-4/quantum-computing/Quantum Entanglement.md",
+    "semester-4/quantum-computing/resources/Optimization and ML with QC_eng.pdf",
+    "semester-4/quantum-computing/Hub Quantum Computing.md",
+    "semester-4/quantum-computing/SU(2) Encoding.md",
+    "semester-4/quantum-computing/Hilbert Space.md",
+    "semester-4/quantum-computing/images/Pasted image 20250324151338.png",
+    "semester-4/quantum-computing/Angle Encoding.md",
+    "semester-4/quantum-computing/images/Pasted image 20250324151218.png",
+    "semester-4/quantum-computing/Amplitude Encoding.md",
+    "semester-4/quantum-computing/images/Pasted image 20250324151127.png",
+    "semester-4/quantum-computing/images/Pasted image 20250324151056.png",
+    "semester-4/quantum-computing/Basis Encoding.md",
+    "semester-4/quantum-computing/code/Demo_Qiskit_Algorithmen_Optimierung_2025.ipynb",
+    "semester-4/quantum-computing/code/Demo_PennyLane_Algorithmen_QNN_2024.ipynb",
+    "semester-4/quantum-computing/code",
+    "semester-4/statistik/resources/Übungen zum Kapitel 2.pdf",
+    "semester-4/operating-systems/resources/04_Multitasking.pdf",
+    "semester-4/operating-systems/resources/03_Prozesse.pdf",
+    "semester-4/operating-systems/resources/TINF17B_2018_Nachklausur.pdf",
+    "semester-4/operating-systems/resources/TINF18B_2019_Klausur.pdf"
   ]
 }

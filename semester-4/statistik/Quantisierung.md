@@ -9,7 +9,12 @@
 > Nein. Generell: Je weniger [[Information]], desto kleiner die Klasse.
 
 
-#quantisierung danke josia
+> [!question]- Wie viele Klassen?
+> Daumenregel für relativ kleine $n$
+> $$\sqrt{n}$$
+> Für große $n$ ist das sinnlos ofc
+
+
 
 
 

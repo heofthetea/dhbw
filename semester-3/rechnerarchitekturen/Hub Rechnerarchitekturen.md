@@ -100,7 +100,7 @@ oder: Digitaltechnik 2.0 --> [[Library Rechenschaltungen]]
 	- [[Halb-Duplex-Betrieb]]
 	- [[Duplex-Verbindung]]
 
-- [[BUS-Schaltung]]
+- [[Parallele BUS-Schaltung]]
 	- [[synchroner BUS]]
 	- [[asynchroner BUS]]
 - [[serielle Bus-Schaltung]]

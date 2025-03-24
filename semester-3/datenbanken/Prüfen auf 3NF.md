@@ -1,5 +1,20 @@
 #klausurrelevant
 
+1. Zerlege $F$ in einzelne [[Funktionale Abhängigkeit|Abhängigkeiten]] (durch [[Armstrong Axiome|Interferenzregel]] 4: Dekomposition)
+2. Prüfe ob gilt: $X$ ist [[Superschlüssel]] **oder** $\alpha$ ist [[Primattribut|prim]] (schicke Tabelle) (technically $\alpha \in X$ müsste auch überprüft werden, aber ist hier aufgrund Trivialität weg gelassenzz)
+
+| $X$    | $\alpha$ | $X$ ist [[Superschlüssel]] | $\alpha$ ist [[Primattribut\|prim]] |
+| ------ | -------- | -------------------------- | ----------------------------------- |
+| ProjNr | Bez      | ✅                          | ❌                                   |
+|        | Beginn   | ✅                          | ❌                                   |
+| PersNr | VN       | ❌                          | ❌                                   |
+|        | NN       | ❌                          | ❌                                   |
+=> Die zweite [[Funktionale Abhängigkeit|FA]] erfüllt die [[3NF]] **nicht** 
+
+> [!question]- Mach ich die [[Prüfen auf 3NF|Prüfung auf 3NF]] vor, oder nach dem Auflösen/"Hereinziehen" von [[Relationship|Relationships]]?
+> Davor. Durch das Hinzufügen eines [[Fremdschlüssel|Fremdschlüssels]] wird keine neue [[transitiv|transitive]] [[Funktionale Abhängigkeit]] mehr hinzukommen. Es ist also nur zusätzliche Information. Es danach zu machen wird aber kein falsches Ergebnis geben.
+
+# Beispiel
 $$R: \set{[A, B, C, D, E, F]}$$
 $$F = \begin{cases}AB \rightarrow CDEF \\ C \rightarrow B \\ D \rightarrow F \\ F \rightarrow E\end{cases}$$
 

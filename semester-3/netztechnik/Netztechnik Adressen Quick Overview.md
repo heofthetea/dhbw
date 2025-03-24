@@ -35,10 +35,10 @@
 - B: $128 - 191$
 - C: $192 - 223$
 
-> [!hint] [[Loopback]] und [[Privater Adressraum]] liegen an den grenzen - einmal drunter, einmal drüber
+> [!hint] [[Loopback]] und [[Privater IP-Addressraum]] liegen an den grenzen - einmal drunter, einmal drüber
 #### Besondere Adressen
 - `224.0.0.z` -> [[Multicast]] Adresse (`z` gleich belegt wie für [[MAC Adresse]])
-- `192.168.0.0/24`;  `172.16.0.0/16`; `10.0.0.0/8` -> Reserviert für [[Privater Adressraum|Privatgebrauch]]
+- `192.168.0.0/24`;  `172.16.0.0/16`; `10.0.0.0/8` -> Reserviert für [[Privater IP-Addressraum|Privatgebrauch]]
 - `169.254.0.0/16` -> [[Zeroconf]] Adresse
 - `127.0.0.0/8` -> [[Loopback]] 
 - `255.255.255.255` -> Universeller [[Broadcast]]

@@ -46,7 +46,7 @@
 
 
 ### Schlüsselvergabe bei Relationships
-[[Beziehung als Relation]]
+[[Relationship als Relation]]
 > [!info] Grundprinzip: [[Relation|Relationen]] mit gleichem [[Schlüssel]] können zusammengefasst werden
 
 - [[1-1 Beziehung als Relation]]: [[Min-Max Kardinalität]] ist ausschlaggebend:
@@ -58,7 +58,7 @@
 	2. Nur die Spezifikationen als [[Relation]] modellieren, ohne eine gemeinsame 'Super-[[Entität]]'
 	3. Alle Spezifikationen _und_ Super-[[Entität]] in [[Relation]] transformieren ([[Schlüssel|Primärschlüssel]] der Spezifikation ist [[Fremdschlüssel]] auf Super-Entität)
 - [[Aggregat als Relation]]: einfach als [[1-n Relation|1-n Beziehung]] modellieren
-- [[Ternäre Beziehung als Relation]]: 
+- [[n-stellige Relationship als Relation]]: 
 	- $m:n:p$: ist Alle drei bilden den [[Schlüssel]]
 	- $1:n:m$: ist [[Abbildung]] $A \times B \rightarrow C$ ==> $A$ und $B$ bilden [[Schlüssel]]
 	- $1:1:n$: auch [[Abbildung]]; aber $C$ muss willkürlich aus beiden $1$-[[Entität|Entitäten]] modelliert werden
