@@ -25,4 +25,5 @@
 	- [[Shortest Job Next]]
 	- [[FIFO]]
 	- [[Multilevel Queue Scheduling]]
+
 [[Prozess Scheduling in Praxis]]

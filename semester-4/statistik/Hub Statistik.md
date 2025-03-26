@@ -60,6 +60,7 @@
 	- [[Streuungsmaße]]
 		- [[Quartilabstand]]
 		- [[Standardabweichung]]
+		- [[Spannweite]]
 	- [[Formmaße]]
 		- [[Schiefe]]
 		- [[Wölbung]]

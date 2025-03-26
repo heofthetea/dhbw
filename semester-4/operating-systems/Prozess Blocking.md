@@ -7,15 +7,3 @@
 	- dann ist diese [[Resource]] geblockt
 
 > [!warning] Risiko: [[Deadlock]]
-## Beispiel: Die speisenden Philosophen
-- mehrere Philosophen treffen sich zum Abendessen
-- kochen Spaghetti
-
-### Spielregeln
-- man braucht _zwei_ Gabeln zum Spaghetti holen
-- man darf nur die Gabeln direkt neben sich nehmen
-
-![[Pasted image 20250317103639.png]]
-
-- Alle Philosophen nehmen gleichzeitig eine Gabel -> jeder hat nur eine Gabel, aber bräuchte zwei
-	- genannt: [[Deadlock]]

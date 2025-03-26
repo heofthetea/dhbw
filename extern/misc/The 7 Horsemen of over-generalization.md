@@ -4,3 +4,4 @@
 4. [[Master Logik|Theoretische Informatik]]: Everything is a [[Menge|Set]].
 5. [[Java]]: Everything is an [[Object]].
 6. Nana: Everything is [[Hub Statistik|Statistik]].
+7. [[Windows]]: Everything is a [[Message Queue]].

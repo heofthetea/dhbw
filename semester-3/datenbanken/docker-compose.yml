@@ -19,10 +19,12 @@ services:
     ports:
       - "8888:80"
     environment:
+      PGADMIN_DEFAULT_USER: pgadmin
       PGADMIN_DEFAULT_EMAIL: dhbw.heofthetea@gmail.com
       PGADMIN_DEFAULT_PASSWORD: password
     volumes:
-      - pgadmin-data:/var/lib/pgadmin\
+      - pgadmin-data:/var/lib/pgadmin
+      - ./scripts:/var/lib/pgadmin/storage/dhbw.heofthetea_gmail.com/scripts
     networks:
       - dhbw-datenbanken
 

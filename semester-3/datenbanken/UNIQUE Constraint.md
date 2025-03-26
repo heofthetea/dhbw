@@ -1,0 +1,1 @@
+> Jeder Wert der Spalte der [[Tabelle]] muss eindeutig sein

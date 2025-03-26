@@ -2,7 +2,7 @@
 
 [[Quantitativmerkmal]]
 
-- Lässt sich die Ordnung quantifizieren?
+- Lässt sich die Ordnung (mit [[Semantik|semantischer]] Bedeutung) quantifizieren?
 - z.B.: "Rudolf ist 2 mal so alt wie Felix"
 
 ## Intervallskala

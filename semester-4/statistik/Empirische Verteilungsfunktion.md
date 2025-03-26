@@ -25,3 +25,7 @@ $$H(x) = \begin{cases}0\ f.\ x \lt 1 \\ 0.15\ f.\ 1  \leq x \lt 2 \\ 0.375\ f.\ 
 
 > [!warning] Darstellung ist eine nicht-stetige Funktion -> Sprungpunkte. **Achte auf geöffnet/geschlossen**.
 
+> [!warning] Geht bei $-\infty$ los -> beim Zeichnen nicht bei [[Zero|Null]] anfangen!!!!!
+
+> [!hint] Bei x-Achsen Sprung von $0$ auf $x$ -> x-achse "durchstreichen", um zu signalisieren, dass da was "weggelassen" wurde.
+

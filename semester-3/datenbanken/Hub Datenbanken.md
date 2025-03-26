@@ -151,16 +151,40 @@
 ### Gigantische Übung
 [[Übung Tierpflege]]
 
+# 4. Semester
+### Scripts
+```expander
+path: datenbanken/scripts
+```
+[[Anl_Softwarehaus_schema_ohne_FK.sql]]
+[[softwarehaus.sql]]
+
 ## 5. SQL & Postgres Basics
 [[DB_Kap05_Einführung_DB-Entwurf_Stud.pdf]]
 - [[SQL Geschichte]]
+- [[SQL]] 
 - [[PostgreSQL]]
+	- [[psql]]
 	- [[semester-3/datenbanken/docker-compose.yml|docker-compose]]
+	- [[semester-3/datenbanken/Dockerfile|Dockerfile]]
 	- [[Postgres Architektur]]
+	- [[SQL Ebenen]]
 - [[DBMS im Vergleich]]
 
 ## 6. DDL & DML
 [[DB_Kap06_1_SQL_DDL_DML_Stud.pdf]]
 
 - [[DDL]]
+	- [[SQL create]]
+	- [[SQL create table]]
+	- [[SQL Constraints]]
+		- [[Übung Constraints]]
+		- [[Datenbank Indexierung]]
+	- [[SQL Drop Column]] 
+	- [[Alter Table]]
+	- [[Datentyp]]
 - [[DML]]
+
+
+#### Übungen
+- [[Gargantuan Übung Ternäre Beziehung SQL]]

@@ -235,11 +235,30 @@
 > [!help]- 57\. Wann sprincht man von einer gültigen Zerlegung einer Relation?
 > [[Gültige Zerlegung]] - wenn man mit den neuen Relationen die alte Relation vollständig wieder bekommen kann. Es kommen auch keine neuen Attribute dazu.
 
-
 > [!help]- 58\.  Wann ist eine Zerlegung [[Verlustlose Zerlegung|verlustlos]]?
 > Wenn jede [[Instanz einer Relation|Instanz]] der ursprünglichen Relation in den neuen Relationen wiedergespiegelt wird.
 > Prüfung: Man überprüft die **Schnittmenge** der beiden Relationen (= der [[Fremdschlüssel]])
 
-
 > [!help]- 59\. Wann ist eine Zerlegung [[Hüllentreue Zerlegung|abhängigkeitsbewahrend]]?
 > Jede [[Funktionale Abhängigkeit]] der ursprünglichen Relation existiert in den Zerlegungen immernoch.
+
+# Semester 2
+
+## 08
+> [!question]- 60\. Welches ist der Vorteil einer [[Client Server Architecture]] bei einem [[DBMS]]?
+> **Flexibilität** 
+> - Allgemein Austauschen: Server kann ausgetauscht werden, ohne dass die Clients mit ausgetauscht werden müssen
+> - (Man kann mehrere Clients mit demselben [[Server]] verbinden)
+
+> [!question]- 61\. Aus welchen Sprachteilen bestent [[SQL]]?
+> [[DQL]] [[DML]] [[DDL]] [[TCL]] [[DCL]]
+
+> [!question]- 62\. Welche fünf Anforderungen werden an das Anlegen von Tabellen an die [[DDL]] gestellt?
+> - Man muss ein [[Schema einer Relation|Schema]] definieren können -> [[SQL create]]
+> - [[Attribut|Attribute]] erstellen können
+> - Trägermenge/Datentyp festlegen können
+>- [[Referenzielle Integrität|Integritäts]]-Bedingungen festlegen können
+>	- [[Schlüssel|Primär-]] und [[Fremdschlüssel]] festlegen können
+
+> [!question]- 63\. Weshalb sollte man sich vor dem Anlegen von Tabellen Gedanken zur Konzeption ([[ERM]], [[Relationales Modell]],...) machen?
+> [[Wasserfallmodell]] -> je später mir ein Fehler auffällt, desto teurer wird es, den Fehler rückwirkend zu korrigieren.
