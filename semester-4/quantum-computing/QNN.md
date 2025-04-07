@@ -9,6 +9,7 @@ Demo: [[Demo_PennyLane_Algorithmen_QNN_2024.ipynb]]
 	- "parameterizable" -> input [[Winkel|Angle]] can be customized
 - Classical feedback loop ([[Backpropagation]]) to adjust $\theta$ 
 
+> [!info] Encoding Quantum information is very difficult and expensive.
 
 ![[Pasted image 20250324153034.png]]
 

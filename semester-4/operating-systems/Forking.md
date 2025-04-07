@@ -1,6 +1,8 @@
 > Abspaltung von [[Prozess|Prozessen]] in zwei unabhängige [[Pfad|Pfade]]
 
-- [[Prozess]], der von einem anderen [[Prozess]] als [[Kindknoten|Kind]] erstellt wurde
+[[Multitasking]]
+
+- [[Prozess]], der von einem anderen [[Prozess]] als [[Kindprozess|Kind]] erstellt wurde
 - Ist Systemaufruf von [[Betriebssystem|OS]]-provided `fork()` kopiert
 
 > [!hint] Nur in [[Linux]]/[[UNIX]] bekannt
@@ -15,7 +17,7 @@
 ## Ablauf
 > [!hint] Komplette Umgebung wird kopiert
 
-1. erzeugt neue prozessumgebung
+1. erzeugt neue Prozessumgebung
 2. erzeugt neuen Adressraum
 3. kopiert Elternadressraum in Kindadressarum
 4. setzt [[Programm Counter]] auf selbe Stelle im Code

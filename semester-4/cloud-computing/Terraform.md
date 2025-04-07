@@ -1,4 +1,5 @@
 > Contiuous Deployment
+> Used to define and spin up virtual machines for cloud providers
 
 - Infrastructure as Code -> use configuration [[YAML]] to describe desired state
 	- in `{}.tf` files

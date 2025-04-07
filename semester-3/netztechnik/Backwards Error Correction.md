@@ -1,4 +1,4 @@
-> Error Correction mit Quittungen
+> Error Correction mit [[ACK|Quittungen]]
 
 > [!hint] Invalide Daten werden erkannt durch z.B. [[CRC]]
 

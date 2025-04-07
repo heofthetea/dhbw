@@ -1,9 +1,9 @@
 services:
   db:
-    image: postgres
+    image: dhlgres
     container_name: postgres
     ports:
-      - "5432:5432"
+      - "127.0.0.1:5432:5432"
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
@@ -17,9 +17,8 @@ services:
     image: dpage/pgadmin4
     container_name: pgadmin
     ports:
-      - "8888:80"
+      - "127.0.0.1:8888:80"
     environment:
-      PGADMIN_DEFAULT_USER: pgadmin
       PGADMIN_DEFAULT_EMAIL: dhbw.heofthetea@gmail.com
       PGADMIN_DEFAULT_PASSWORD: password
     volumes:

@@ -4,7 +4,7 @@
 - 1927: [[Transistor]]s use quantum physics (indirectly)
 	- [[Laser|Lasers]] use quantum effects?? -> Used to create Transistors
 - Second Quantum Revolution -> isolates one topic: atom/photon/different objects
-	- a single [[Quantom Object]] can carry information, but the system is so small that it can carry only _one_ information
+	- a single [[Quantum Object]] can carry information, but the system is so small that it can carry only _one_ information
 - Someone tried to build a Quantum [[Turing Machine]]
 - 1994: Peter Shor finds solution to factorize large numbers - [[Shore's Algorithm]]
 	- starting point of the contemporary discussion

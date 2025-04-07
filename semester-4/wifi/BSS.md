@@ -5,6 +5,7 @@
 
 ![[Pasted image 20250313101019.png]]
 
+- [[Infrastruktur BSS]]
 ## BSS2
 - Antenne kann ausgerichtet werden - man kann ganz gezielt einzelne Stationen ansprechen
 

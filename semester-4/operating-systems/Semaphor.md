@@ -1,4 +1,5 @@
-- nicht der [[Prozess]] selber, sondern das [[Betriebssystem]] steuert den [[Kritischer Abschnitt|Kritischen Abschnitt]]
+> Nicht [[Betriebssystem|OS]], sondern [[Prozess]] selbst steuert den [[Kritischer Abschnitt|Kritischen Abschnitt]] 
+
 - Für jede zu schützende Datenmenge wird eine **Sperrvariable** (= Semaphor) definiert
 - [[Semaphor]] signalisiert den Belegungszustand durch einen Prozess
 

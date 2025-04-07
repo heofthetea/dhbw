@@ -6,6 +6,8 @@
 [[WLAN-Vorlesung_Teil-1.pdf]]
 [[WLAN-Vorlesung_Teil-2.pdf]]
 [[WLAN-Vorlesung_Teil-3.pdf]]
+
+[[WLAN-Script_20250325.pdf]]
 ## Basics
 [[WLAN-Vorlesung_Teil-1.pdf]]
 
@@ -41,6 +43,7 @@
 	- [[Barker Code]]
 	- [[QPSK]]
 	- [[QAM]]
+- [[Management Frame]]
 
 ## WLAN im [[OSI-7-Schichten Modell]]
 - [[WLAN Frame]]
@@ -65,3 +68,43 @@
 			- [[Beispiel Faltungscodierer]]
 			- [[Viterbi Algorithmus]]
 	- [[Mehrwegeausbreitung]]
+		- [[Kanalabschätzung|Kanalabschätzung/Trainingssequenz]]
+- [[Datenrate]]
+
+## Faltungscodierer im Detail
+[[Faltungscodierer-v2.pdf]]
+
+- [[Faltungscodierer]]
+	- [[Coderate]]
+	- [[Beispiel Faltungscodierer]]
+	- [[Beispiel Faltungscodierer ii]]
+- [[Viterbi Algorithmus]]
+	- [[Viterbi Algorithmus bei Bit flips]]
+
+## Hamming-Code
+[[Hamming-Code.pdf]]
+
+- [[Hamming Code]]
+	- [[Algorithm for Hamming Code]]
+
+## WLAN auf MAC-Ebene
+- [[Layer 2]]
+- [[MAC Adresse]]
+- [[WLAN MAC Header]]
+	- [[Frame Control Header Field]]
+- [[Distributed Coordination Function]]
+	- [[CSMA CA]]
+		- [[Exponential Backoff]]
+	- [[Hidden Station Problem]]
+		- [[RTS CTS]]
+	- [[Exposed Station Problem]]
+	- [[WLAN Fragmentierung]]
+- [[Point Coordination Function]]
+- [[Beacon Frame]]
+	- [[Zeitsynchronisation Ad-hoc Modus]]
+
+## IEEE802.11 Erweiterungen
+[[WLAN-Vorlesung_Teil-5.pdf]]
+
+- [[IEEE 802.11]]
+	- [[MIMO]]

@@ -6,6 +6,7 @@ https://owncloud.dhbw-stuttgart.de/index.php/s/ApXMZDmaE2QFbBg
 ### misc
 - [[Disruption by Software]]
 - [[Security vs. Privacy]]
+- [[Conway's law]]
 
 ## Basics
 [[Cloud_Computing_Introduction.pdf]]
@@ -47,14 +48,66 @@ https://owncloud.dhbw-stuttgart.de/index.php/s/ApXMZDmaE2QFbBg
 	- [[Software-Defined Storage]]
 	- [[Software-Defined Network]]
 - [[OpenStack]]
+
+### Terraform
 - [[Terraform]]
 	- [[Terraform Providers]]
+	- [[Terraform Workflow]]
 	- [[Terraform Dependency and State Management]]
 	- [[Terraform Azure Linux Virtual Machine]]
+	- [[Terraform Example]]
+### Ansible
+- [[Ansible]]
+	- [[Ansible Playbook]]
+	- [[Ansible Handler]]
+	- [[Idempotenz]]
+### VM Images
+- [[ISO image]] 
+	- [[Image Snapshot]]
+	- [[Problems with VM Images]]
+	- [[Cloud-init]]
+	- [[Optimizing initial deployment]]
+- [[Thin Provisioning]]
 
 ## PaaS
+[[Cloud_Computing_PaaS_Container.pdf]]
 - [[PaaS]]
+- [[Work Isolation]]
+- [[Kernel Namespace]]
+- [[VM vs Container]]
+
+### Docker
+- [[Containerization]]
+	- [[Kernel Namespace]]
+- [[Docker]]
+	- [[Docker Container]]
+	- [[Docker Image]]
+		- [[Docker commit]]
+	- [[Dockerfile]]
+	- [[Docker Engine]]
+	- [[Docker Hub]]
+	- [[Service Discovery]]
+- [[NGINX load balancer configuration]]
+- [[Docker Swarm]]
+
+### Kubernetes
 
 ## SaaS
 - [[SaaS]]
+
+## Code
+```expander
+path: semester-4/cloud-computing/code
+```
+[[clouds.yaml]]
+[[default.yml]]
+[[docker.tf]]
+[[playdocker.yml]]
+[[terraform.tfstate]]
+[[terraform.tfstate.backup]]
+[[ubuntu.tf]]
+[[semester-4/cloud-computing/code/bwcloud/variables.tf]]
+[[semester-4/cloud-computing/code/azure/variables.tf]]
+
+
 

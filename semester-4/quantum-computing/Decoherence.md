@@ -11,3 +11,5 @@ $$\frac{1}{\sqrt{2}}(|0\rangle + |1\rangle) \rightarrow |0\rangle$$
 
 > [!hint] Active Field of Research - [[Quantum Error Correction]], reducing this ratio.
 
+## Scaling of logical qubits
+![[Pasted image 20250331132623.png]]

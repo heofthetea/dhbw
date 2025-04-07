@@ -9,7 +9,7 @@
 		- minimalgröße einer [[Nachricht]]: $64$ [[Byte]] 
 - Signallaufzeit -> Wenn Signal von $A$ bei $B$ noch nicht angekommen ist, denkt $B$ es kann senden
 
-> [!hint] Minimalgröße einer Nachricht kommt daher, dass $64$ Byte zu senden _länger_ benötigt, als die both-way Signallaufzeit --> ermöglicht [[#Jam-Signal]]
+> [!warning] **Minimalgröße** einer Nachricht kommt daher, dass $64$ Byte zu senden _länger_ benötigt, als die both-way Signallaufzeit --> ermöglicht [[#Jam-Signal]]
 
 - sobald die ersten $64$ Byte gesendet wurden, kann Sender ohne auf [[Kollision (Zugriffsverfahren)|Kollisionen]] zu überprüfen
 

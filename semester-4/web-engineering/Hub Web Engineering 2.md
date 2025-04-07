@@ -26,11 +26,14 @@
 
 - [[HTTP GET]]
 - [[HTTP POST]]
+- [[HTTP PUT]]
 - [[Cookie]]
-  - [[Set Cookie]]
+	- [[Set Cookie]]
+- [[HTTP Status Codes]]
 - [[Session-based Authentication]]
 - [[MIME-Type]]
-
+- [[MVC]] 
+- [[REST]]
 ## Code
 
 ```expander

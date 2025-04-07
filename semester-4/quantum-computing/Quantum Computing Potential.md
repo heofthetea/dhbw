@@ -8,3 +8,4 @@
 > [!hint] In the Field of [[Machine Learning]], there's a hope for greater accuracy of Models, less training data... -> [[Quantum ML]]
 
 
+![[Pasted image 20250331132010.png]]

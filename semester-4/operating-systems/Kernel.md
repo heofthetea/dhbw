@@ -1,0 +1,4 @@
+> Kern des [[Betriebssystem]]
+
+
+[[Driver]]

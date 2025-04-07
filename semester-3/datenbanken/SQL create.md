@@ -1,15 +1,15 @@
 [[DDL]]
 
-
 ## Create a Database
 
 ```sql
-CREATE DATABASE "Softwarehaus"
+CREATE DATABASE softwarehaus
     WITH
+    TEMPLATE = template0
     OWNER = postgres
     ENCODING = 'UTF8'
-    LC_COLLATE = 'en_US.utf8'
-    LC_CTYPE = 'en_US.utf8'
+    LC_COLLATE = 'de_DE.utf8'
+    LC_CTYPE = 'de_DE.utf8'
     LOCALE_PROVIDER = 'libc'
     TABLESPACE = pg_default
     CONNECTION LIMIT = -1
@@ -17,7 +17,6 @@ CREATE DATABASE "Softwarehaus"
 ```
 
 - In PgAdmin: Create > Table, Parameter definieren unter Tab 'Definition'
-
 
 ## Create a Type
 ```sql

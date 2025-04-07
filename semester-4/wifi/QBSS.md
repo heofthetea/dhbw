@@ -1,5 +1,5 @@
 > Extended Service Set
 
-- [[Infrastruktur BSS]] mit mehreren [[Access Point|Access Points]]
+- Mehrere [[Infrastruktur BSS|Infrastructure BSS]], die mit Distribution System verbunden sind
 
 ![[Pasted image 20250313101824.png]]

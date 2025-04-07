@@ -1,3 +1,4 @@
+[[BananaNana]] 
 ### Resources
 
 [[Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025.pdf]]
@@ -10,9 +11,9 @@
 [[Library Statistik]]
 
 ### Übungen
-
 [[Übungen zum Kapitel 1.pdf]]
-[[semester-4/statistik/resources/Übungen zum Kapitel 2.pdf|Übungen zum Kapitel 2]]
+[[semester-4/statistik/resources/Übungen zum Kapitel 2.pdf|Übungen zum Kapitel 2.pdf]]
+[[semester-4/statistik/resources/Übungen zum Kapitel 3.pdf|Übungen zum Kapitel 3.pdf]]
 [[Statistik Übung 1]]
 
 ## 00 Basics
@@ -43,7 +44,7 @@
 
 - [[Absolute Häufigkeit]]
 - [[Relative Häufigkeit]]
-- [[Kontingenztabelle]]
+- [[Häufigkeitstabelle]]
 - Graphische Darstellung:
   - [[Säulendiagramm]]
   - [[Balkendiagramm]]
@@ -67,6 +68,22 @@
 	- [[Box Plot]]
 
 ## 03 Zweidimensionale Verteilung
+[[Zweidimensionale Häufigkeitsverteilung]] 
+
+- [[Kontingenztabelle]]
+- [[Randverteilung]]
+- [[zweidimensionale Häufigkeitsdiagramme]]
+	- [[Streudiagramm]] 
+	- [[zweidimensionales Histogramm]]
+- [[Korrelationsanalyse]]
+	- [[Kovarianz]]
+	- [[Korrelationskoeffizient]]
+	- [[Linearregression]]
+		- [[Güte der Regressionsgerade]]
+
+
+
+
 
 # Wahrscheinlichkeitstheorie
 

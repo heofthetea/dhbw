@@ -5,4 +5,4 @@
 - [[Layer 2]]: [[MPDU]] & [[CRC]]
 - [[WLAN Präambel]]
 
-![[Pasted image 20250320095327.png]]
+![[Pasted image 20250327112420.png]]

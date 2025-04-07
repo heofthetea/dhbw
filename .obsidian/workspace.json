@@ -6,7 +6,7 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 46.908315565031984,
+        "dimension": 34.9705304518664,
         "children": [
           {
             "id": "f025252f25493d6e",
@@ -126,7 +126,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -228,20 +228,6 @@
                   "icon": "lucide-file",
                   "title": "Library Prozesse"
                 }
-              },
-              {
-                "id": "83a8ef0048892116",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/statistik/Library Statistik.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Library Statistik"
-                }
               }
             ]
           }
@@ -251,85 +237,15 @@
       {
         "id": "45b82f0a2d3f66e4",
         "type": "split",
-        "dimension": 53.09168443496801,
+        "dimension": 65.0294695481336,
         "children": [
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 78.78211227402474,
+            "dimension": 31.208372978116078,
             "children": [
               {
-                "id": "ae37985abf5bc3ce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/operating-systems/Übung Scheduling.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Übung Scheduling"
-                }
-              },
-              {
-                "id": "7f8ffde86752a97d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/netztechnik/OSI-7-Schichten Modell.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "OSI-7-Schichten Modell"
-                }
-              },
-              {
-                "id": "a49521ca2bbd83ec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/quantum-computing/Superposition.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Superposition"
-                }
-              },
-              {
-                "id": "7877d2764625de1f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/cloud-computing/OpenStack.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "OpenStack"
-                }
-              },
-              {
-                "id": "48132b833a0bef59",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Datenbank Indexierung.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Datenbank Indexierung"
-                }
-              },
-              {
-                "id": "9b312d98f1204e4a",
+                "id": "46076b15ecb0f9d6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -341,6 +257,90 @@
                   "icon": "lucide-file",
                   "title": "Gargantuan Übung Ternäre Beziehung SQL"
                 }
+              },
+              {
+                "id": "8caf40f570f51cba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/cloud-computing/Ansible.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ansible"
+                }
+              },
+              {
+                "id": "c58b7fc9f9dc535d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/cloud-computing/Terraform Example.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Terraform Example"
+                }
+              },
+              {
+                "id": "4bf97b7ef811a617",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/netztechnik/ACK.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ACK"
+                }
+              },
+              {
+                "id": "45f79db9889abf5f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-1/digitaltechnik/Position of Parity Bits.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Position of Parity Bits"
+                }
+              },
+              {
+                "id": "ede020aa0cff142b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/cloud-computing/Docker Swarm.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Docker Swarm"
+                }
+              },
+              {
+                "id": "cc56a1e12a789976",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/cloud-computing/NGINX load balancer configuration.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "NGINX load balancer configuration"
+                }
               }
             ],
             "currentTab": 5
@@ -348,7 +348,7 @@
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 21.217887725975263,
+            "dimension": 68.79162702188391,
             "children": [
               {
                 "id": "459e3140c1d6cb95",
@@ -357,11 +357,11 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-4/operating-systems/resources/04_Multitasking.pdf"
+                    "file": "semester-4/operating-systems/resources/05_Booten.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "04_Multitasking"
+                  "title": "05_Booten"
                 }
               },
               {
@@ -371,11 +371,11 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-4/cloud-computing/resources/Cloud_Computing_IaaS.pdf"
+                    "file": "semester-4/cloud-computing/resources/Cloud_Computing_PaaS_Container.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "Cloud_Computing_IaaS"
+                  "title": "Cloud_Computing_PaaS_Container"
                 }
               },
               {
@@ -427,29 +427,15 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-4/wifi/resources/WLAN-Vorlesung_Teil-3.pdf"
+                    "file": "semester-4/wifi/resources/WLAN-Vorlesung_Teil-5.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "WLAN-Vorlesung_Teil-3"
-                }
-              },
-              {
-                "id": "8f37e8c13528f04d",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-4/statistik/resources/Übungen zum Kapitel 1.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "Übungen zum Kapitel 1"
+                  "title": "WLAN-Vorlesung_Teil-5"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -505,8 +491,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -566,7 +551,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-4/cloud-computing/Terraform Azure Linux Virtual Machine.md",
+                "file": "semester-4/cloud-computing/Docker Swarm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -576,7 +561,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terraform Azure Linux Virtual Machine"
+              "title": "Backlinks for Docker Swarm"
             }
           }
         ],
@@ -609,53 +594,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "9b312d98f1204e4a",
+  "active": "ede020aa0cff142b",
   "lastOpenFiles": [
-    "semester-3/datenbanken/images/Pasted image 20250326152301.png",
-    "semester-3/datenbanken/Von ternärer zu binärer Beziehung.md",
-    "semester-3/datenbanken/n-stellige Relationship als Relation.md",
-    "semester-3/datenbanken/Gargantuan Übung Ternäre Beziehung SQL.md",
-    "semester-3/datenbanken/images/Pasted image 20250326151716.png",
-    "semester-3/datenbanken/images/Pasted image 20250326151404.png",
-    "semester-3/datenbanken/n-stellige Relationship.md",
-    "semester-3/datenbanken/Hub Datenbanken.md",
-    "semester-3/datenbanken/Übung ternäre Relation.md",
-    "semester-3/datenbanken/sources/Alfons Kemper, André Eickler - Datenbanksysteme. Eine Einführung-Oldenburg Wissenschaftsverlag (2009).pdf",
-    "semester-3/datenbanken/SQL Drop Column.md",
-    "semester-3/datenbanken/SQL.md",
-    "semester-3/datenbanken/Alter Table.md",
-    "semester-3/datenbanken/Übung Constraints.md",
-    "semester-3/datenbanken/FOREIGN KEY Constraint.md",
-    "semester-3/datenbanken/SQL create.md",
-    "semester-3/datenbanken/scripts/Anl_Softwarehaus_schema_ohne_FK.sql",
-    "semester-3/datenbanken/SQL create table.md",
-    "semester-4/statistik/resources/Übungen zum Kapitel 1.pdf",
-    "semester-3/datenbanken/Datenbank Indexierung.md",
-    "semester-3/datenbanken/scripts/softwarehaus.sql",
-    "semester-3/datenbanken/scripts",
-    "semester-3/datenbanken/PRIMARY KEY Constraint.md",
-    "semester-3/datenbanken/SQL Constraints.md",
-    "semester-3/datenbanken/CHECK Constraint.md",
-    "semester-3/datenbanken/UNIQUE Constraint.md",
-    "semester-3/datenbanken/NOT NULL Constraint.md",
-    "semester-3/datenbanken/psql.md",
-    "semester-3/datenbanken/Datentyp.md",
-    "semester-3/datenbanken/images/Pasted image 20250326125856.png",
-    "semester-3/datenbanken/images/Pasted image 20250326125418.png",
-    "semester-3/datenbanken/SQL Ebenen.md",
-    "semester-3/datenbanken/images/Pasted image 20250326124400.png",
-    "semester-3/datenbanken/sources/DB_Kap06_1_SQL_DDL_DML_Stud.pdf",
-    "semester-3/datenbanken/sources/DB_Kap05_Einführung_DB-Entwurf_Stud.pdf",
-    "semester-3/datenbanken/Dockerfile",
-    "semester-3/datenbanken/DDL.md",
-    "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
-    "semester-3/datenbanken/TCL.md",
-    "semester-4/statistik/resources/Übungen zum Kapitel 2.pdf",
-    "semester-4/operating-systems/resources/03_Prozesse.pdf",
-    "semester-4/cloud-computing/images/Pasted image 20250324175847.png",
-    "semester-4/cloud-computing/images/Pasted image 20250324175829.png",
-    "semester-4/cloud-computing/images/Pasted image 20250324174754.png",
-    "semester-4/cloud-computing/images/Pasted image 20250324163348.png",
-    "semester-4/cloud-computing/images/Pasted image 20250324162328.png"
+    "semester-4/cloud-computing/PaaS.md",
+    "semester-4/cloud-computing/Hub Cloud Computing.md",
+    "semester-4/cloud-computing/Docker Swarm.md",
+    "semester-4/cloud-computing/images/Pasted image 20250407182427.png",
+    "semester-4/cloud-computing/NGINX load balancer configuration.md",
+    "semester-4/wifi/Exposed Station Problem.md",
+    "semester-4/cloud-computing/Service Discovery.md",
+    "semester-4/cloud-computing/resources/Cloud_Computing_PaaS_Container.pdf",
+    "semester-4/cloud-computing/Docker Hub.md",
+    "intension/docker/Docker Entrypoint.md",
+    "semester-4/web-engineering/Dockerfile.md",
+    "semester-4/cloud-computing/code/tinyNodejsApp/views/Spiele.ejs",
+    "semester-4/cloud-computing/code/tinyNodejsApp/views",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/test1.local",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.woff2",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.woff",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.ttf",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.svg",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.eot",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/mainstyle.css",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/logodhbw.svg",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Zwei.png",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-3-Vertikal.jpeg",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-3-Quadrat.jpeg",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-3-Horizontal.jpeg",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-2-Vertikal.jpeg",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-2-Quadrat.jpeg",
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-2-Horizontal.jpeg",
+    "semester-4/web-engineering/Docker Port Binding.md",
+    "semester-4/cloud-computing/Docker commit.md",
+    "semester-4/web-engineering/Docker Image.md",
+    "semester-4/cloud-computing/Docker Engine.md",
+    "semester-4/web-engineering/Docker.md",
+    "semester-3/netztechnik/Aliasing Effect.md",
+    "semester-3/formale-sprachen/RegEx Engine.md",
+    "semester-4/web-engineering/Union Mount.md",
+    "semester-4/cloud-computing/Micro Service.md",
+    "semester-4/cloud-computing/VM vs Container.md",
+    "semester-4/web-engineering/Kernel Namespace.md",
+    "semester-4/web-engineering/cgroup.md",
+    "semester-4/web-engineering/Docker Container.md",
+    "semester-4/cloud-computing/Containerization.md",
+    "semester-4/quantum-computing/SPHINCS.md",
+    "semester-4/wifi/PBSS.md",
+    "semester-4/quantum-computing/Hub Quantum Computing.md"
   ]
 }

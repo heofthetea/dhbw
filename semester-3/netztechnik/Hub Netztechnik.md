@@ -1,5 +1,3 @@
-> I fucking hate this shit
-
 ### Sources
 [[Netztechnik-Vorlesung Teil-2.pdf]]
 [[Netztechnik-Vorlesung Teil-3.pdf]]

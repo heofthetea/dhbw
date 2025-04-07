@@ -262,3 +262,31 @@
 
 > [!question]- 63\. Weshalb sollte man sich vor dem Anlegen von Tabellen Gedanken zur Konzeption ([[ERM]], [[Relationales Modell]],...) machen?
 > [[Wasserfallmodell]] -> je später mir ein Fehler auffällt, desto teurer wird es, den Fehler rückwirkend zu korrigieren.
+
+> [!question]- 64\. Welche Vorteile bietet es, sich Gedanken um den richtigen Datentyp zu machen?
+> [[SQL create table#Vorteile 'Richtiger Datentyp']]
+> - Performance-Vorteil
+> - Integritätssicherung - es kommt das zurück, was ich erwarte
+## 09
+
+> [!question]- 65\. Was versteht man unter einem [[SQL Constraints]] und welche kennen Sie in [[SQL]]?
+> - Stellt Integritätsbedingungen sicher
+> - [[PRIMARY KEY Constraint]], [[NOT NULL Constraint]], ...
+
+
+> [!question]- 66\. Was macht das [[DBMS]] intern, wenn ein Primärschlüssel angelegt wird?
+> - Legt einen [[Datenbank Indexierung|Index]] an
+> - Legt UNIQUE und NOT NULL constraint an
+
+> [!question]- 67\. Wie erfolgt die Verbindung zweier Tabellen in der [[DDL]]?
+> - [[FOREIGN KEY Constraint]] - zeigt per default auf [[PRIMARY KEY Constraint|primary key]] der andern Tabelle, man kann aber ein spezifisches [[Attribut]] angeben.
+
+> [!question]- 68\. Was muss beachtet werden, wenn bereits beim Create eine Fremdschlüsselbeziehung zu einer anderen Tabelle angelegt wird?
+> - Die andere Tabelle muss bereits existieren.
+
+> [!question]- 69\. Wie würde die nachfolgende Anforderung nachträglich in eine Tabelle einfügen (in der [[DDL]] formulieren): "Das Eintrittsdatum in der Tabelle Mitarbeiter dar nicht kleiner als das heutige Datum sein".
+> [[CHECK Constraint]]
+> ```sql
+> CHECK (Mitarbieter.eintrittsdatum < now())
+
+## 10

@@ -6,3 +6,8 @@
 - meherere [[Kanal|Kanäle]] können [[Parallele BUS-Schaltung|parallel]] genutzt werden -> durch [[Demultiplexer]] kann ein [[serielles BUS-System|serielles]] Signal in mehrere paralle Signale gemappt werden
 
 ![[Pasted image 20250320104824.png]]
+
+### links
+- [[OFDM Sendeeinheit]]
+- [[OFDM Empfangseinheit]]
+- [[OFDM Sendeablauf]]

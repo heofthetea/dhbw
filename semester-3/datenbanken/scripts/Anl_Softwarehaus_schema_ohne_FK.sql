@@ -8,6 +8,8 @@ SET standard_conforming_strings = on;
 SET check_function_bodies = false;
 SET client_min_messages = warning;
 
+SET datestyle = 'iso, dmy';
+
 
 --
 -- Name: Softwarehaus; Type: COMMENT; Schema: -; Owner: postgres
@@ -261,8 +263,8 @@ CREATE TABLE IF NOT EXISTS Projekt
 
 
 
-ALTER TABLE public.mitarbeiter
-    add arbeitet_in varchar(8)
-    ADD CHECK(Eintrittsdatum <= now())
-    add constraint foreign key (arbeitet_in) references abteilung(abt_bez_kurz);
+-- ALTER TABLE public.mitarbeiter
+--     add arbeitet_in varchar(8),
+--     add CHECK(Eintrittsdatum <= now()),
+--     add constraint foreign key (arbeitet_in) references abteilung(abt_bez_kurz);
 	

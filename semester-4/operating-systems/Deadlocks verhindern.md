@@ -1,4 +1,13 @@
-[[Handlung gegen Deadlocks]], [[Deadlock]]
+ [[Deadlock]]
+
+
+![[Pasted image 20250317104404.png]]
+
+> [!hint] Resourcen teilbar machen wird gerne gemacht bei [[Hard Drive|Festplatte]] und [[Netzwerk]]
+
+---
+
+## Resource Management
 
 - [[Prozess]] gibt vorab info, welche Ressourcen benötigt werden
 - [[Betriebssystem]] gewährt Zugriff entsprechend

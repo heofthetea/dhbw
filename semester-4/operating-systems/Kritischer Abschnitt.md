@@ -1,6 +1,7 @@
 > Für [[Prozess]]: Phase, in der der [[Prozess Scheduler|Scheduler]] nicht mehr eingreifen darf.
 
 - verhindert [[Anomalie|Anomalien]] in [[Information]]
+- z.B.: das Schreiben von [[File|Dateien]] 
 
 ### Anforderungen
 1. **mutual exlusion** -> nur ein [[Prozess]] darf im [[Kritischer Abschnitt|kritischen Abschnitt]] sein

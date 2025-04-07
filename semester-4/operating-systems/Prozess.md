@@ -5,7 +5,7 @@
 	- [[Daten]]
 	- Code
 	- Alle [[Register]] 
-- ein [[Prozess]] kann weitere [[Prozess|Prozesse]] erzeugen -> [[Kindknoten|Child]] Process
+- ein [[Prozess]] kann weitere [[Prozess|Prozesse]] erzeugen -> [[Kindprozess|Child Process]]
 - in einer [[CPU]] kann nur **ein** [[Prozess]] gleichzeitig aktiv sein
 	- hat nur eine [[MMU]] etc.
 - [[Prozess|Prozesse]] sind einzigartig

@@ -1,3 +1,6 @@
+> Sub-Carrier
+
+
 - gelb: Normspektralmaske 
 - grün ist das, was Antennen actually können
 - **dBr** sind relativ zu der maximal zulässigen Leistung

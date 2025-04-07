@@ -1,3 +1,8 @@
+---
+aliases:
+  - Operating System
+  - OS
+---
 
 
 ## Aufgaben

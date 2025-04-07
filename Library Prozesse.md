@@ -10,7 +10,7 @@
 	3. **blocked** -> von anderem [[Prozess]] [[Prozess Blocking|blockiert]] 
 	4. **idle** -> terminiert, oder noch nicht ready
 	5. **suspended** -> Durch [[Swapping]] ausgelagert
-- Ein [[Prozess]] kann [[Kindknoten|Kinder]] erzeugen
+- Ein [[Prozess]] kann [[Kindprozess|Kinder]] erzeugen
 
 > [!warning] Pro [[CPU]] kann nur **ein** [[Prozess]] gleichzeitig laufen.
 ### Ausführungsmodi
@@ -28,6 +28,17 @@
 	- **alle** [[Deadlock|locked]] [[Prozess|Prozesse]] gewaltsam terminieren - `kill -16`
 	- Einen [[Prozess]] terminieren - das "effektivste Opfer" ermitteln
 	- Einem [[Prozess]] alle [[Resource|Resourcen]] entziehen
+
+### Präventivmaßnahmen gegen Deadlocks
+[[Deadlocks verhindern]] 
+
+| Bedinung                                        | Lösung                                                                                                        |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Exklusives Belegen von [[Resource\|Ressourcen]] | [[Resource\|Ressourcen]] können geteilt werden (v.a. bei [[Netzwerk]] und [[Hard Drive\|Festplatte]] gemacht) |
+| Nachfordern von Ressourcen                      | Ressourcen in einem Chunk freigeben ODER nur eine Ressource pro [[Prozess]]                                   |
+| Ressourcen können nicht entzogen werden         | [[Betriebssystem]] kann [[Prozess]] unterbrechen                                                              |
+| Zirkuläres Warten                               | Lineare Ordnung der Ressourcen                                                                                |
+> [!hint] Zirkuläres Warten ist die einzige [[hinreichende Bedingung]] für einen [[Deadlock]] - alle anderen sind [[notwendige Bedingung|notwendige Bedingungen]] .
 ### Resource Allocation Graph
 - [[Resource Allocation Graph]]: Dient der Erkennung von [[Deadlock|Deadlocks]] 
 - [[Graph]] mit zwei Arten an [[Knoten]]: 
@@ -39,6 +50,7 @@
 
 > [!info] Ein [[Deadlock]] liegt dann vor, wenn in dem [[Resource Allocation Graph]] ein [[Zyklus]] existiert.
 
+> [!hint] Anwendung oft präventiv: Alle [[Prozess|Prozesse]] müssen vorab angeben, welche [[Resource|Ressourcen]] sie benötigen. Anschließend wird [[Resource Allocation Graph]] berechnet, um vorab festzustellen, ob das so umsetzbar ist oder nicht.
 ### Banker's Algorithm ist nicht klausurrelevant lol
 ### Scheduling
 - [[Prozess Scheduler]]: Steuert die [[Übergangsrelation|Übergänge]] von [[Prozesszustand|Prozesszuständen]] 
@@ -62,4 +74,79 @@
 > [!hint] In modernen [[Betriebssystem|Betriebssystemen]] werden vorranging [[Preemptive Strategien]] eingesetzt - oftmals aber eine [[Prozess Scheduling in Praxis|Kombination]].
 
 
-## Prozesskommunikation & -Synchronisation
+## Prozesskommunikation
+- [[Prozess|Prozesse]] müssen Daten untereinander austauschen können, **obwohl** jeder Prozess nichts von anderen Prozessen weiß
+### Speicherbasiert
+- [[Speicherbasierte Prozesskommunikation]] -> Datenaustausch über Speichermedium
+	- [[File|Datei]] ->zwei Prozesse schreiben/lesen [[Daten]] von einer für beide verfügbare [[File|Datei]]
+		- Benötigt Lock-Mechanismus, damit keine Konflikte entstehen
+	- [[Memory]] -> Prozesse nutzen denselben Speicherblock
+		- Im Hintergrund: [[Page Sharing]] - ein [[Prozess]] erstellt eine [[Page]], dann [[Copy on Write]] wenn der Andere Prozess sie benötigt
+		- Ist am Schnellsten, da alles in [[Memory]] bleibt => verwendet, wenn es sich um große Datenmengen handelt
+
+### Nachrichtenbasiert
+- [[Message-based Kommunikation]] -> Datenaustausch über Events als Nachrichten
+	- [[Message Queue]] -> Verwendung einer [[Queue]] (you know what a MQ is)
+
+> [!hint] Unter [[Windows]] ist alles eine [[Message Queue]]
+
+- [[Pipe]] -> Nur unter [[Linux]] verwendet
+	- Ausgabe von [[Prozess]] $A$ wird als Eingabe von [[Prozess]] $B$ genommen 
+	- Immer [[Simplex-Verbindung]] -> Daten nur in eine Richtung
+	- Die [[Prozess|Prozesse]] müssen einen gemeinsamen Vorfahren haben ([[systemd]] zählt nicht lol)
+
+## Prozessynchronisierung
+- [[Prozesssynchronisierung]]
+- **zentrales Problem**: Durch [[Prozess Scheduler|Scheduling]] & entzug der [[CPU]] können [[Prozess|Prozesse]], die gemeinsame Daten haben, desynchronisieren:
+	- Prozess $P_{2}$ verändert die Daten - Prozess $P_{1}$ rechnet noch mit vorherigem Stand
+- Lösung: [[Kritischer Abschnitt|Kritischer Abschnitt]] - Ist ein [[Prozess]] in einer Phase, wo erzwungene Unterbrechungen [[Anomalie|Anomalien]] hervorrufen könnten, darf er **nicht unterbrochen** werden
+
+### Kritischer Abschnitt
+- [[Kritischer Abschnitt]]: Abschnitt, in dem ein [[Prozess]] vom [[Prozess Scheduler|Scheduler]] nicht unterbrochen werden darf
+- Anforderungen:
+	2. Es darf nur **ein** [[Prozess]] gleichzeitig im [[Kritischer Abschnitt|Kritischen Abschnitt]] sein (<span style="color:rgb(0, 122, 255)">mutual exclusion</span>)
+	3. [[Prozess|Prozesse]] dürfen sich nicht **gegenseitig** daran **hindern**, in den [[Kritischer Abschnitt|kritischen Abschnitt]] zu gelangen
+	4. [[Prozess Scheduler|Scheduler]] muss sicher stellen, dass jeder [[Prozess]], der auf einen [[Kritischer Abschnitt|kritischen Abschnitt]] wartet, ihn auch erreicht (<span style="color:rgb(0, 122, 255)">no starvation</span>)
+	5. [[Kritischer Abschnitt]] muss **immer [[Haltekonfiguration|terminieren]]** - unabhängig von [[CPU]]-Leistung
+### Umsetzungen
+- [[Unterbrechungssperre]]
+- [[Semaphor]]: Setzen einer [[Flag]] (Sperrvariable)
+	- für jede zu schützende Datenmenge wird ein [[Semaphor]] definiert
+
+#todo digga gar keinen Bock das alles auszuformulieren
+
+
+# Multitasking
+- [[Ziele Multitasking|Ziel]]: Bestmögliche Auslastung von [[CPU|Prozessor]] & Leerlauf verhindern
+
+| [[Multitasking]]                                                            | [[Multithreading]]                                                           |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| parallel laufende [[Prozess\|Prozesse]]                                     | parallel Laufende [[Thread\|Threads]] innerhalb eines [[Prozess\|Prozesses]] |
+| jeder [[Prozess]] hat eine eigene Umgebung (Adressraum, [[Register]], etc.) | Alle Threads haben (beinahe) dieselbe Umgebung wie der [[Prozess]]           |
+
+## Forking
+- [[Forking]]: Erstellen eines [[Kindprozess|Kindprozesses]] durch Abspalten vom [[Prozess|Elternprozess]]
+	- Systemaufruf zu [[Functions|Funktion]] `fork()`
+	1. Neue Prozessumgebung erstellen
+	2. Neuen [[Addressraum]] erstellen
+	3. Kopieren des Eltern-[[Addressraum|Addressraums]] in den neuen [[Addressraum]] 
+	4. [[Programm Counter|PC]] des [[Kindprozess]] wird an dieselbe Stelle gesetzt
+	5. [[PID]] vergeben
+
+> [!hint] Im ersten Moment ist [[Kindprozess]] **identisch** zu Elternprozess -> nur die [[PID]] ist anders!!
+
+> [!info] `fork()` gibt die [[PID]] des [[Kindprozess|Kindes]] bei Erfolg zurück.
+
+- Ein Elternprozess hat eine "Aufsichtspflicht" für seine Kinder -> **??????????**
+	- verhindert [[Zombie Process]] ([[Prozess]] ohne [[Elternknoten|Eltern]])
+
+### Exec
+> [!warning] Problem mit [[Forking]]: Kopieren der Prozessumgebung ist teuer, und einschränkend, da derselbe Code, mit demselben [[Programm Counter|PC]] verwendet wird.
+
+- [[Exec]] erlaubt es, [[Kindprozess|Kindprozesse]] unabhängig von Elternprozess zu starten
+	- [[Kindprozess]] initialisiert sich selbst durch eine [[Executable]]
+	- Prozessumgebung wird ersetzt => Auch der [[Programm Counter|PC]] wird neu gesetzt
+
+## Threading
+
+

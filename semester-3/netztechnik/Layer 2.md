@@ -2,8 +2,10 @@
 > Ebene $2$ in [[OSI-7-Schichten Modell]]
 
 - Access Control
-- hier wird [[Zugriffsverfahren]] ausgewertet
+	- hier wird [[Zugriffsverfahren]] ausgewertet
 - Adressierung von Geräten anhand [[MAC Adresse]]
+- [[CRC]] Checksum
+- Verschlüsselung
 - [[Ethernet Flow Control]]
 - auch: [[LLC]]
 ## Generierte Header

@@ -4,7 +4,7 @@
 - [[FOREIGN KEY Constraint]]
 ```sql
 ALTER TABLE mitarbeiter
-ADD additional_key datatype
+ADD COLUMN additional_key datatype -- column is optional
 ADD FOREIGN KEY (additional_key) REFERENCES name;
 ```
 

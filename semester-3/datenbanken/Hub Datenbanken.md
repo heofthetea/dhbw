@@ -166,10 +166,11 @@ path: datenbanken/scripts
 - [[PostgreSQL]]
 	- [[psql]]
 	- [[semester-3/datenbanken/docker-compose.yml|docker-compose]]
-	- [[semester-3/datenbanken/Dockerfile|Dockerfile]]
 	- [[Postgres Architektur]]
 	- [[SQL Ebenen]]
 - [[DBMS im Vergleich]]
+-  [[Mail an Stark Postgres locales]]
+- [[dhlgres-Dockerfile]]
 
 ## 6. DDL & DML
 [[DB_Kap06_1_SQL_DDL_DML_Stud.pdf]]
@@ -184,7 +185,10 @@ path: datenbanken/scripts
 	- [[Alter Table]]
 	- [[Datentyp]]
 - [[DML]]
+	- [[SQL INSERT]]
+	- [[SQL COPY]]
 
 
 #### Übungen
 - [[Gargantuan Übung Ternäre Beziehung SQL]]
+- [[Übung Ternäre Beziehung SQL 1-1-1]] 

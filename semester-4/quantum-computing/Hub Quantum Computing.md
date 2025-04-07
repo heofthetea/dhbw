@@ -10,12 +10,13 @@
 - [[QC vs CC]]
 - [[Qubit]]
 	- [[Qubit Shower analogy]]
-	- [[Bloch Sphere]]
+	- [[Bloch Spheref]]
 	- [[Mathematical Introduction to QM]]
 	- [[Quantum Parallelism]]
 	- [[Electrone Spin]]
 	- [[Photon Polarization]]
-	- [[Quantom Object]]
+	- [[Quantum Object]]
+	- [[Superconducting Qubit]]
 - [[History Quantum Computing]]
 	- [[Quantum Entanglement]]
 	- [[SPDC]]
@@ -24,12 +25,15 @@
 ## Quantum Computation
 - [[Demo_Qiskit_Algorithmen_Optimierung_2025.ipynb]], [[Demo_PennyLane_Algorithmen_QNN_2024.ipynb]]
 - [[Quantum Gates]]
-- [[Photon Measurement]]
+- [[Quantum Measurement]]
 - [[Quantum Programming]]
 	- [[Quantum Circuit Model]]
 	- [[Decoherence]]
 	- [[Qiskit]]
 	- [[Hybrid Computing]]
+- [[Quantum Performance]]
+- [[Quantum Error Correction]]
+- [[Quantum Chip Coupling]]
 
 ### Quantum ML
 - [[Quantum ML]]
@@ -45,8 +49,32 @@
 - [[Optimization and ML with QC_eng.pdf]]
 - [[Quantum Computing Potential]]
 
+## Second attempt at theory
+- [[quantum-computation-and-quantum-information-nielsen-chuang.pdf]]
+- [[Qubit]]
+- [[Superposition]]
+	- [[N-Qubit Systems]]
+	- [[Tensor Product]]
+	- [[CX Gate]]
+	- [[Multiple Quantum Gates Example]]
+- [[Quantum Measurement]]
+- [[Quantum Object]]
+- [[Quantum Entanglement]]
+
+
+## Qiskit
+- [[Qiskit]]
+- [[IBM Quantum Platform]]
+- [[Qiskit Tutorial Github]]
+
 
 
 
 ---
 ## Project: Quantum Cryptography
+[[Quantum Factorization]]
+- [[SPHINCS]] 
+	- [[Merkle Tree]]
+	- [[WOTS]]
+	- [[Stateless Signature Scheme]]
+	- [[FORS]]

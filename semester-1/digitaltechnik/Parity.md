@@ -15,4 +15,5 @@ _One_ Special Bit:
 $0010 \rightarrow 00101$
 
 
-> [!hint] In Netztechnik: Wir zählen Nullen
+> [!hint] In Netztechnik: Wir machen gerade [[Parity|Parität]].
+

@@ -7,11 +7,14 @@
 ### misc
 - [[CPUs are fast]]
 
+
 ### Klausurvorbereitung
 - [[TINF17B_2018_Klausur.pdf]]
 - [[TINF17B_2018_Nachklausur.pdf]]
 - [[TINF18B_2019_Klausur.pdf]]
-- [[TINF18B_2019_Klausur.pdf]]
+
+#### Übungen
+- [[Prozess Scheduling mit IO]]
 ## 1. Basics
 
 [[Betriebssystem]]
@@ -65,7 +68,6 @@
     - [[Kernel Mode]]
     - [[x86 Rings of Protection]]
   - [[Deadlock]]
-    - [[Handlung gegen Deadlocks]]
     - [[Deadlocks verhindern]]
 	- [[Resource Allocation Graph]]
 		- [[Übung Resource Allocation Graph]]
@@ -88,7 +90,7 @@
 		- [[Synchronisation - Monitor]]
 		- [[Synchronisation über Nachrichten]]
 
-## 4 Multitasking
+## 4. Multitasking
 [[04_Multitasking.pdf]]
 
 - [[Ziele Multitasking]]
@@ -98,3 +100,19 @@
 - [[Forking]]
 	- [[Forking Synchronisierung]]
 	- [[Exit Status]]
+	- [[Exec]]
+- [[Thread]]
+	- [[Threading Use Cases]]
+	- [[User-Level Thread]]
+	- [[Kernel-Level Thread]]
+	- [[User- vs. Kernel Thread]]
+	- [[pthreads]]
+
+## 5. Booting
+- [[Booting]]
+	- [[Etymologie Booting]]
+	- [[Booting Arten]]
+		- [[Energiesparfunktionen]]
+	- [[Physical Startup]]
+	- [[Booting Windows]]
+	- [[Booting Linux]]

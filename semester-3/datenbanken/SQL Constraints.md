@@ -6,7 +6,14 @@
 > CREATE TABLE
 >```
 
+```sql
+CREATE TABLE name (
 
+	CONSTRAINT name
+		CONSTRAINT_1 ...,
+		CONSTRAINT_2 ...
+)
+```
 
 - [[NOT NULL Constraint]]
 - [[UNIQUE Constraint]]
