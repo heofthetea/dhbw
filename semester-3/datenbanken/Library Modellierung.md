@@ -10,7 +10,7 @@
 - [[Relationship]]: eine Beziehung zwischen [[Entität|Entitäten]]
 	- [[Kardinalität]]: mit wie vielen $B$ steht mein $A$ in [[Relationship|Relation]]?
 		- [[1-1 Relation]]
-		- [[1-n Relation]]
+		- [[1-n Relationship]]
 			- $1$ $A$ kann mit $n$ $B$'s in [[Relationship|Relation]] stehen
 		- [[n-m Relation]]
 	- [[Min-Max Kardinalität]]: 
@@ -36,7 +36,7 @@
 - Eine [[Entität]] ist eine [[Relation]] über die [[Kartesisches Produkt|Produktmenge]] aller Attributsdomänen
 - [[Relationship]]: [[Relation]] über die [[Schlüsselattribut|Schlüsselattribute]] der [[Entität|Entitäten]]
 	- Beide davon bilden zusammen den [[Schlüssel]] der [[Relation]]
-	- Da [[1-n Relation|1-n Relationen]] eine [[Abbildung]] sind, reicht das [[Urbild]] als [[Schlüssel]] aus um ein [[Tupel]] eindeutig zu identifizieren
+	- Da [[1-n Relationship|1-n Relationen]] eine [[Abbildung]] sind, reicht das [[Urbild]] als [[Schlüssel]] aus um ein [[Tupel]] eindeutig zu identifizieren
 		- kann als [[Fremdschlüssel]] in die [[Relation]] des [[Urbild|Urbilds]] gepackt werden
 
 - [[Schema einer Relation]]: Das [[Tupel]] der Attributsnamen
@@ -57,7 +57,7 @@
 	1. Eine gigantische [[Relation]] mit allen möglichen [[Attribut|Attributen]] für Spezifikationen
 	2. Nur die Spezifikationen als [[Relation]] modellieren, ohne eine gemeinsame 'Super-[[Entität]]'
 	3. Alle Spezifikationen _und_ Super-[[Entität]] in [[Relation]] transformieren ([[Schlüssel|Primärschlüssel]] der Spezifikation ist [[Fremdschlüssel]] auf Super-Entität)
-- [[Aggregat als Relation]]: einfach als [[1-n Relation|1-n Beziehung]] modellieren
+- [[Aggregat als Relation]]: einfach als [[1-n Relationship|1-n Beziehung]] modellieren
 - [[n-stellige Relationship als Relation]]: 
 	- $m:n:p$: ist Alle drei bilden den [[Schlüssel]]
 	- $1:n:m$: ist [[Abbildung]] $A \times B \rightarrow C$ ==> $A$ und $B$ bilden [[Schlüssel]]

@@ -1,3 +1,6 @@
+---
+aliases: []
+---
 > [[Fremdschlüssel]]
 
 ```sql

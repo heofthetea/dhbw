@@ -39,3 +39,9 @@ download: yEd Graph Editor (for Darstellungen)
 [[Anforderungsanalyse Alm]]
 [[IOT Framework Alm]]
 [[FURPS]]
+
+
+
+## Random Stuff
+- [[UML]]
+- [[kack partyplaner modul simulation beschreibung fickt euch alle]] 

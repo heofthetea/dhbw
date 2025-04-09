@@ -86,11 +86,21 @@
 
 
 # Wahrscheinlichkeitstheorie
+## Basics
+- [[Wahrscheinlichkeit]] 
+- [[Zufallsvorgang]]
+- [[Ereignis]]
+	- [[Elementarereignis]]
+	- [[Sicheres Ereignis]]
+	- [[Unmögliches Ereignis]]
+	- [[Disjunktes Ereignis]]
+- [[Operationen auf Ereignissen]]
 
-## 04 Stochastik/Induktive Statistik
-
-- [[Zufallsexperiment]]
+## 05 Arten von Experimenten
 - [[Laplace Experiment]]
+
+## 4.4 Kombinatorik
+- [[Kombinatorik]]
 
 ### Kombinatorik
 

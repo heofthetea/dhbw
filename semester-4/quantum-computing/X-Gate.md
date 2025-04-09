@@ -1,4 +1,4 @@
-> A rotation around the $X$-axis of the [[Bloch Spheref]] by $180\degree$ 
+> A rotation around the $X$-axis of the [[Bloch Sphere]] by $180\degree$ 
 
 
 $$|0\rangle \mapsto |1\rangle$$

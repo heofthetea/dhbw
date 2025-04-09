@@ -8,3 +8,6 @@ RUN sed -i '/de_DE.UTF-8/s/^# //g' /etc/locale.gen && locale-gen
 # ENV LANGUAGE=de_DE:de
 # ENV LC_ALL=de_DE.UTF-8
 ```
+
+
+[[Docker Image]], [[Dockerfile]]

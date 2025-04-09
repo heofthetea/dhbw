@@ -187,8 +187,18 @@ path: datenbanken/scripts
 - [[DML]]
 	- [[SQL INSERT]]
 	- [[SQL COPY]]
+	- [[SQL UPDATE]]
+	- [[SQL DELETE]]
+	- [[SQL Zwischentabelle]]
+
 
 
 #### Übungen
 - [[Gargantuan Übung Ternäre Beziehung SQL]]
 - [[Übung Ternäre Beziehung SQL 1-1-1]] 
+- [[Übung Löschregeln]]
+
+
+## Postgres misc
+- [[Postgres locale]]
+- [[PGadmin backup]]

@@ -7,7 +7,7 @@ flowchart TB
 ```
 
 Problem: man kann nicht auf derselben Ebene nicht miteinander verknüpfen --> [[Redundanz]]
-- ermöglicht nur [[1-n Relation|1-n Relationen]]
+- ermöglicht nur [[1-n Relationship|1-n Relationen]]
 
 ### Beispiel
 XML, [[HTML]]

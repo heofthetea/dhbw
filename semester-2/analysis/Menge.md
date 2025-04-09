@@ -1,6 +1,10 @@
-> Eine <span style="color:rgb(245, 154, 35)">unsortierte</span> Sammlung von beliebigen Elementen.
+> Eine **unsortierte** Sammlung von beliebigen, **einzigartigen** Elementen.
+> engl: Set
 
-- Jedes Element einer Menge ist einzigartig - Es gibt keine Duplikate.
+$$M = \set{e_{1}, e_{2},\ \dots}$$
 
 ### Mächtigkeit
-Zwei Mengen $A$ und $B$ sind gleich _mächtig_, wenn eine [[Bijektive Abbildung]] von $A$ in $B$ existiert.
+$$|M|$$
+- Anzahl der Elemente in $M$
+
+> [!hint] Zwei Mengen $A$ und $B$ sind gleich _mächtig_, wenn eine [[Bijektive Abbildung]] von $A$ in $B$ existiert.

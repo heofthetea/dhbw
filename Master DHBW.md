@@ -4,6 +4,8 @@
 ## Quick Information
 - [[modulhandbuch.pdf]]
 - [[theorie_praxisphasen.pdf]]
+- [[Notenformel]]
+
 
 ## Utilities
 - [[Master Exports]]

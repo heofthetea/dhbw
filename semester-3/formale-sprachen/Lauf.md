@@ -1,4 +1,4 @@
-> Ein Durchlauf durch einen [[Automat]].
+ > Ein Durchlauf durch einen [[Automat]].
 > Formell: **Eine [[Folge]] an [[Konfiguration KA|Konfigurationen]]**.
 
 

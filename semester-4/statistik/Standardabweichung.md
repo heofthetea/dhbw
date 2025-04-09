@@ -5,7 +5,7 @@
 3. [[Varianz]] berechnen
 4. wurzel ziehen lol
 
-$$\sigma = \sqrt{\sigma^{2}}$$
+$$s = \sqrt{s^{2}}$$
 $$= \sqrt{\overline{x^{2}}- \overline{x}^{2}}$$
 
 ### Umgang mit Tabellen
@@ -15,7 +15,7 @@ für jedes $x_{i}$, am Ende durch $n$ teilen]
 ## Beispiel Zugpassagiere
 - Zug A: $\set{200, 250, 350, 400}$
 	- $\overline{x} = 300$
-	- $\sigma = \sqrt{6250} = 79.06$ Pers/Fahrt
+	- $s = \sqrt{6250} = 79.06$ Pers/Fahrt
 - Zug B: $\set{50, 100, 500, 550}$
 	- $\overline{x} = 300$
-	- $\sigma = \sqrt{51520} = 226.27$ Pers/Fahrt
+	- $s = \sqrt{51520} = 226.27$ Pers/Fahrt

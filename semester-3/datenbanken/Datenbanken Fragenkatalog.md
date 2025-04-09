@@ -110,7 +110,7 @@
 > - Kennzeichnen an den Entitäten - Man schreibt die _Rollen_ hin bzgl. der Beziehung hin
 
 > [!help]- 27\. Was sind die grundsätzlichen Unterschiede zwischen der Chen-Notation und der (min, max)-Notation?
-> - Notation wird anders rum hin geschrieben - [[1-n Relation]] wird "umgedreht"
+> - Notation wird anders rum hin geschrieben - [[1-n Relationship]] wird "umgedreht"
 > - in der Chen-Notation kann man keine Grenzen abbilden
 
 ## 03 Fragenkatalog
@@ -165,7 +165,7 @@
 
 > [!help]- 40\. Wie wird eine binäre [[Relationship]] umgesetzt?
 > - Die beiden [[Schlüsselattribut|Primärschlüssel]] der Entitäten in der Beziehung bilden den [[Schlüssel]] der Beziehungs-[[Relation]]
-> 	- Ist die Relationship eine [[Abbildung]] ([[1-n Relation]]), reicht ein [[Fremdschlüssel]] im [[Urbild]] aus
+> 	- Ist die Relationship eine [[Abbildung]] ([[1-n Relationship]]), reicht ein [[Fremdschlüssel]] im [[Urbild]] aus
 
 ## 05 Fragenkatalog
 > [!help]- 41\. Wie verfährt man mit der Beziehungsrelation bei 1:1, 1:n, n:1 Beziehungen?
@@ -290,3 +290,16 @@
 > CHECK (Mitarbieter.eintrittsdatum < now())
 
 ## 10
+> [!question]- 70\. Welche drei Möglichkeiten gibt es in der [[DML]] Daten zu manipulieren?
+> - Einfügen ([[SQL INSERT]]), Abändern ([[SQL UPDATE]]) und Löschen [[SQL DELETE]] 
+
+> [!question]- 71\. Was ist beim [[SQL INSERT|INSERT]] von Daten zu beachten?
+> - entweder alle [[Attribut|Attribute]] belegen (ggf. mit [[null]])
+> - oder: Die attribute, die man einfügen will, angeben
+
+> [!question]- 72\. An welcher Position in der Tabelle wird ein neuer Datensatz eingefügt?
+> - nicht kontrollierbar; faktisch unsortiert
+> - Warum ist das relevant? - es gibt keine Reihenfolge
+
+> [!question]- 73\. Wie fügt man am besten Massendaten in eine [[Datenbank]] ein?
+> - [[SQL COPY]]

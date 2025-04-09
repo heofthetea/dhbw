@@ -6,7 +6,7 @@ $$cov(x, y) = \frac{1}{n}\sum\limits_{i=1}^{n}(x_{i}- \overline{x}) \cdot (y_{i}
 
 ### Eigenschaften
 - Symmetrie: $cov(x, y) = cov(y, x)$
-- $x = y \Longrightarrow cov(x, y) = \sigma^{2}$ ([[Varianz]] ist Sonderfall: Kovarianz mit sich selbst)
+- $x = y \Longrightarrow cov(x, y) = s^{2}$ ([[Varianz]] ist Sonderfall: Kovarianz mit sich selbst)
 - Verschiebesatz: $cov(x, y) = \overline{x \cdot y} - \overline{x} \cdot \overline{y}$
 - ???
 ## Bildliche Veranschaulichung

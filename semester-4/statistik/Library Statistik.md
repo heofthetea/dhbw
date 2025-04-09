@@ -10,3 +10,11 @@
 		- <span style="color:rgb(245, 154, 35)">Verhältnisskala</span>: Es existiert eine **multiplikative** Skala - die [[Zero|Null]] hat [[Semantik|semantischen]] Wert
 
 > [!hint] Auch ein [[Qualitativmerkmal]] kann [[Ordinales Skalenniveau|ordinal]] sein.
+
+## Standardabweichung/Varianz
+1. Berechne [[Arithmetisches Mittel]] $\overline{x}$ 
+
+## Korrelation
+1. 
+
+#todo [[Korrelationskoeffizient]] step-by-step

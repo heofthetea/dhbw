@@ -6,7 +6,7 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 34.9705304518664,
+        "dimension": 39.01918976545842,
         "children": [
           {
             "id": "f025252f25493d6e",
@@ -126,7 +126,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -237,12 +237,12 @@
       {
         "id": "45b82f0a2d3f66e4",
         "type": "split",
-        "dimension": 65.0294695481336,
+        "dimension": 60.98081023454158,
         "children": [
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 31.208372978116078,
+            "dimension": 71.26546146527117,
             "children": [
               {
                 "id": "46076b15ecb0f9d6",
@@ -264,26 +264,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/cloud-computing/Ansible.md",
+                    "file": "semester-4/statistik/Operationen auf Ereignissen.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ansible"
+                  "title": "Operationen auf Ereignissen"
                 }
               },
               {
-                "id": "c58b7fc9f9dc535d",
+                "id": "3c6062d1ecbcc2b3",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/cloud-computing/Terraform Example.md",
+                    "file": "semester-3/datenbanken/PGadmin backup.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Terraform Example"
+                  "title": "PGadmin backup"
                 }
               },
               {
@@ -301,45 +301,31 @@
                 }
               },
               {
-                "id": "45f79db9889abf5f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-1/digitaltechnik/Position of Parity Bits.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Position of Parity Bits"
-                }
-              },
-              {
                 "id": "ede020aa0cff142b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/cloud-computing/Docker Swarm.md",
+                    "file": "semester-4/quantum-computing/HORS.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Docker Swarm"
+                  "title": "HORS"
                 }
               },
               {
-                "id": "cc56a1e12a789976",
+                "id": "17a7440240bfc242",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/cloud-computing/NGINX load balancer configuration.md",
+                    "file": "semester-3/rechnerarchitekturen/Addressraum.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "NGINX load balancer configuration"
+                  "title": "Addressraum"
                 }
               }
             ],
@@ -348,7 +334,7 @@
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 68.79162702188391,
+            "dimension": 28.73453853472883,
             "children": [
               {
                 "id": "459e3140c1d6cb95",
@@ -435,7 +421,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -594,53 +580,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "ede020aa0cff142b",
+  "active": "17a7440240bfc242",
   "lastOpenFiles": [
-    "semester-4/cloud-computing/PaaS.md",
-    "semester-4/cloud-computing/Hub Cloud Computing.md",
-    "semester-4/cloud-computing/Docker Swarm.md",
+    "semester-4/operating-systems/Library Prozesse.md",
+    "semester-1/lineare-algebra/hinreichende Bedingung.md",
+    "semester-1/lineare-algebra/notwendige Bedingung.md",
+    "semester-4/operating-systems/Executable.md",
+    "semester-3/datenbanken/Übung Löschregeln.md",
+    "semester-4/quantum-computing/HORS.md",
+    "notenformel.png",
+    "semester-4/statistik/resources/Übungen zum Kapitel 3.pdf",
+    "semester-3/formale-sprachen/Lauf.md",
+    "semester-3/datenbanken/images/Pasted image 20250409134824.png",
+    "Notenformel.md",
+    "semester-3/datenbanken/Hub Datenbanken.md",
+    "notengebung.py",
+    "Master DHBW.md",
+    "semester-4/operating-systems/File.md",
+    "semester-4/operating-systems/Hub Betriebssysteme.md",
+    "semester-3/datenbanken/SQL Löschregeln.md",
+    "semester-3/datenbanken/images/Pasted image 20250409131330.png",
+    "semester-3/datenbanken/1-n Relationship.md",
+    "semester-3/datenbanken/images/Pasted image 20250409130410.png",
+    "semester-3/datenbanken/SQL DELETE.md",
+    "semester-3/datenbanken/sources/DB_Kap06_1_SQL_DDL_DML_Stud.pdf",
+    "semester-3/datenbanken/FOREIGN KEY Constraint.md",
+    "semester-3/datenbanken/Fremdschlüssel.md",
+    "semester-3/datenbanken/SQL UPDATE.md",
+    "semester-2/java/null.md",
+    "semester-3/datenbanken/SQL Zwischentabelle.md",
+    "semester-3/datenbanken/Postgres locale.md",
+    "semester-3/datenbanken/dhlgres-Dockerfile.md",
+    "semester-3/datenbanken/SQL create.md",
+    "semester-3/datenbanken/pgadmin_data/softwarehaus",
+    "semester-3/datenbanken/pgadmin_data/softwarehaus_full",
+    "semester-3/datenbanken/pgadmin_data/scripts/solutions/Insert_Daten_Softwarehaus_Datum_deutsch.sql",
+    "semester-3/datenbanken/pgadmin_data/scripts/solutions/Anl_Softwarehaus_schema_ohne_FK.sql",
+    "semester-3/datenbanken/pgadmin_data/scripts/solutions/Anl_Softwarehaus_schema_FK.sql",
+    "semester-3/datenbanken/pgadmin_data/scripts/solutions/Anl_Mitarbeiter_Constr.sql",
+    "semester-3/datenbanken/pgadmin_data/scripts/übng_alter.sql",
+    "semester-3/datenbanken/SQL create table.md",
+    "semester-3/datenbanken/PGadmin backup.md",
+    "semester-3/datenbanken/DML.md",
+    "semester-3/software_architektur/images/Pasted image 20250408092747.png",
     "semester-4/cloud-computing/images/Pasted image 20250407182427.png",
-    "semester-4/cloud-computing/NGINX load balancer configuration.md",
-    "semester-4/wifi/Exposed Station Problem.md",
-    "semester-4/cloud-computing/Service Discovery.md",
-    "semester-4/cloud-computing/resources/Cloud_Computing_PaaS_Container.pdf",
-    "semester-4/cloud-computing/Docker Hub.md",
-    "intension/docker/Docker Entrypoint.md",
-    "semester-4/web-engineering/Dockerfile.md",
-    "semester-4/cloud-computing/code/tinyNodejsApp/views/Spiele.ejs",
-    "semester-4/cloud-computing/code/tinyNodejsApp/views",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/test1.local",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.woff2",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.woff",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.ttf",
     "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.svg",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.eot",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/mainstyle.css",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font",
     "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/logodhbw.svg",
     "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Zwei.png",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-3-Vertikal.jpeg",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-3-Quadrat.jpeg",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-3-Horizontal.jpeg",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-2-Vertikal.jpeg",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-2-Quadrat.jpeg",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-2-Horizontal.jpeg",
-    "semester-4/web-engineering/Docker Port Binding.md",
-    "semester-4/cloud-computing/Docker commit.md",
-    "semester-4/web-engineering/Docker Image.md",
-    "semester-4/cloud-computing/Docker Engine.md",
-    "semester-4/web-engineering/Docker.md",
-    "semester-3/netztechnik/Aliasing Effect.md",
-    "semester-3/formale-sprachen/RegEx Engine.md",
-    "semester-4/web-engineering/Union Mount.md",
-    "semester-4/cloud-computing/Micro Service.md",
-    "semester-4/cloud-computing/VM vs Container.md",
-    "semester-4/web-engineering/Kernel Namespace.md",
-    "semester-4/web-engineering/cgroup.md",
-    "semester-4/web-engineering/Docker Container.md",
-    "semester-4/cloud-computing/Containerization.md",
-    "semester-4/quantum-computing/SPHINCS.md",
-    "semester-4/wifi/PBSS.md",
-    "semester-4/quantum-computing/Hub Quantum Computing.md"
+    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-3-Vertikal.jpeg"
   ]
 }

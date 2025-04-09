@@ -23,7 +23,7 @@ services:
       PGADMIN_DEFAULT_PASSWORD: password
     volumes:
       - pgadmin-data:/var/lib/pgadmin
-      - ./scripts:/var/lib/pgadmin/storage/dhbw.heofthetea_gmail.com/scripts
+      - ./pgadmin_data:/var/lib/pgadmin/storage/dhbw.heofthetea_gmail.com
     networks:
       - dhbw-datenbanken
 

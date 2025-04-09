@@ -1,9 +1,13 @@
+---
+aliases:
+  - Bestimmtheitsmaß
+---
 [[Linearregression]]
 
 > Wie gut passt meine [[Linearregression|Regressionsgerade]] zu meiner [[Zweidimensionale Häufigkeitsverteilung|Verteilung]]?
 
 
-$$R^{2} = \frac{\sigma_{\hat{y}}^{2}}{\sigma_{y}^{2}}$$
+$$R^{2} = \frac{s_{\hat{y}}^{2}}{s_{y}^{2}}$$
 
 - Verhältnis der [[Varianz]] des geschätzten $y$ und der [[Varianz]] des tatsächlichen $y$ 
 
