@@ -1,0 +1,5 @@
+- [[5G]]
+- [[2.4G]]
+- Mobilfunk
+- GPS
+- NFC

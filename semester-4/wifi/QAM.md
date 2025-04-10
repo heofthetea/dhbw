@@ -1,4 +1,4 @@
-[[QPSK]]
+[[QPSK]], [[Modulation]], [[Binäre Modulation]]
 
 - mehrere Amplituden
 - aktueller Standard: 1024QAM -> 10 [[Bit]] kodieren

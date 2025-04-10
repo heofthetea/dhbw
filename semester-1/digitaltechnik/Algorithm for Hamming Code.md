@@ -11,3 +11,14 @@
 2. If Error's location is determined: _correct by flipping bit_
 
 ![[Pasted image 20240216165516.png]]
+
+### Decoding - alternative
+1. einzelne Felder [[Binärsystem|binär]] adressieren ($0000 - 1111$)
+2. Die [[Adresse|Adressen]], an denen eine $1$ steht, aufschreiben
+3. Spaltenweise (_dezimal_) aufsummieren
+4. Spaltenweise [[Modulo|mod]] $2$
+5. Ergebnis ist die fehlerhafte Adresse
+
+> [!hint] ist $0$, wenn es keinen Fehler gibt
+
+![[Pasted image 20250410095543.png]]

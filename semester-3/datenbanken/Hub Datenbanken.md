@@ -197,6 +197,8 @@ path: datenbanken/scripts
 - [[Gargantuan Übung Ternäre Beziehung SQL]]
 - [[Übung Ternäre Beziehung SQL 1-1-1]] 
 - [[Übung Löschregeln]]
+- [[Löschregeln ternäre Beziehung]]
+- [[Übung Softwarehaus interne Projekte]]
 
 
 ## Postgres misc

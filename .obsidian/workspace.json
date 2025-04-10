@@ -126,7 +126,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -242,7 +242,7 @@
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 71.26546146527117,
+            "dimension": 25.689819219790678,
             "children": [
               {
                 "id": "46076b15ecb0f9d6",
@@ -306,26 +306,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/quantum-computing/HORS.md",
+                    "file": "semester-1/digitaltechnik/Algorithm for Hamming Code.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "HORS"
+                  "title": "Algorithm for Hamming Code"
                 }
               },
               {
-                "id": "17a7440240bfc242",
+                "id": "bacd0f9d55813ed7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/rechnerarchitekturen/Addressraum.md",
+                    "file": "semester-4/wifi/Multi-Link Operation.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Addressraum"
+                  "title": "Multi-Link Operation"
                 }
               }
             ],
@@ -334,7 +334,7 @@
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 28.73453853472883,
+            "dimension": 74.31018078020932,
             "children": [
               {
                 "id": "459e3140c1d6cb95",
@@ -413,15 +413,15 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-4/wifi/resources/WLAN-Vorlesung_Teil-5.pdf"
+                    "file": "semester-4/wifi/resources/WLAN-Vorlesung_Teil-6.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "WLAN-Vorlesung_Teil-5"
+                  "title": "WLAN-Vorlesung_Teil-6"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -580,53 +580,52 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "17a7440240bfc242",
+  "active": "bacd0f9d55813ed7",
   "lastOpenFiles": [
-    "semester-4/operating-systems/Library Prozesse.md",
-    "semester-1/lineare-algebra/hinreichende Bedingung.md",
-    "semester-1/lineare-algebra/notwendige Bedingung.md",
-    "semester-4/operating-systems/Executable.md",
-    "semester-3/datenbanken/Übung Löschregeln.md",
-    "semester-4/quantum-computing/HORS.md",
-    "notenformel.png",
+    "semester-4/wifi/Wifi 7.md",
+    "semester-4/wifi/Multi-Link Operation.md",
+    "semester-4/wifi/images/Pasted image 20250410113428.png",
+    "semester-4/wifi/Hub WLAN.md",
+    "semester-4/wifi/Wifi 6e.md",
+    "semester-4/wifi/images/Pasted image 20250410111430.png",
+    "semester-4/wifi/802.11ac vs. ax.md",
+    "semester-4/wifi/images/Pasted image 20250410110747.png",
+    "semester-4/wifi/Target Wakeup Time.md",
+    "semester-3/netztechnik/DEE.md",
+    "semester-4/wifi/BSS Colouring.md",
+    "semester-4/wifi/images/Pasted image 20250410110110.png",
+    "semester-4/wifi/Wiederverwendungsabstand.md",
+    "semester-4/wifi/OFDMA.md",
+    "semester-4/wifi/images/Pasted image 20250410104938.png",
+    "semester-4/wifi/images/Pasted image 20250410104839.png",
+    "semester-4/wifi/IEEE 802.11.md",
+    "semester-4/wifi/resources/WLAN-Vorlesung_Teil-6.pdf",
+    "semester-4/wifi/resources/WLAN-Vorlesung_Teil-5.pdf",
+    "semester-4/wifi/Phased Coexistence.md",
+    "semester-3/netztechnik/Network Allocation Vector.md",
+    "semester-4/wifi/images/Pasted image 20250410095915.png",
+    "semester-4/wifi/Exponential Backoff.md",
+    "semester-4/wifi/Prüfungsfragen WLAN.md",
+    "semester-1/digitaltechnik/Algorithm for Hamming Code.md",
+    "semester-1/digitaltechnik/images/Pasted image 20250410095543.png",
+    "semester-1/digitaltechnik/Hamming Code.md",
+    "semester-3/netztechnik/Huffman Code.md",
+    "semester-4/wifi/Aggregationsverfahren.md",
+    "semester-4/wifi/images/Pasted image 20250410095159.png",
+    "semester-4/wifi/images/Pasted image 20250410094932.png",
+    "semester-4/wifi/HT-Signal Header.md",
+    "semester-4/wifi/WLAN Frame.md",
+    "semester-4/wifi/WLAN MAC Header.md",
+    "semester-4/wifi/Sektrale Effizienz.md",
+    "semester-3/netztechnik/Low-Density Parity Check.md",
+    "semester-3/netztechnik/Binäre Modulation.md",
     "semester-4/statistik/resources/Übungen zum Kapitel 3.pdf",
-    "semester-3/formale-sprachen/Lauf.md",
-    "semester-3/datenbanken/images/Pasted image 20250409134824.png",
-    "Notenformel.md",
-    "semester-3/datenbanken/Hub Datenbanken.md",
     "notengebung.py",
-    "Master DHBW.md",
-    "semester-4/operating-systems/File.md",
-    "semester-4/operating-systems/Hub Betriebssysteme.md",
-    "semester-3/datenbanken/SQL Löschregeln.md",
-    "semester-3/datenbanken/images/Pasted image 20250409131330.png",
-    "semester-3/datenbanken/1-n Relationship.md",
-    "semester-3/datenbanken/images/Pasted image 20250409130410.png",
-    "semester-3/datenbanken/SQL DELETE.md",
     "semester-3/datenbanken/sources/DB_Kap06_1_SQL_DDL_DML_Stud.pdf",
-    "semester-3/datenbanken/FOREIGN KEY Constraint.md",
-    "semester-3/datenbanken/Fremdschlüssel.md",
-    "semester-3/datenbanken/SQL UPDATE.md",
-    "semester-2/java/null.md",
-    "semester-3/datenbanken/SQL Zwischentabelle.md",
-    "semester-3/datenbanken/Postgres locale.md",
-    "semester-3/datenbanken/dhlgres-Dockerfile.md",
-    "semester-3/datenbanken/SQL create.md",
     "semester-3/datenbanken/pgadmin_data/softwarehaus",
     "semester-3/datenbanken/pgadmin_data/softwarehaus_full",
     "semester-3/datenbanken/pgadmin_data/scripts/solutions/Insert_Daten_Softwarehaus_Datum_deutsch.sql",
     "semester-3/datenbanken/pgadmin_data/scripts/solutions/Anl_Softwarehaus_schema_ohne_FK.sql",
-    "semester-3/datenbanken/pgadmin_data/scripts/solutions/Anl_Softwarehaus_schema_FK.sql",
-    "semester-3/datenbanken/pgadmin_data/scripts/solutions/Anl_Mitarbeiter_Constr.sql",
-    "semester-3/datenbanken/pgadmin_data/scripts/übng_alter.sql",
-    "semester-3/datenbanken/SQL create table.md",
-    "semester-3/datenbanken/PGadmin backup.md",
-    "semester-3/datenbanken/DML.md",
-    "semester-3/software_architektur/images/Pasted image 20250408092747.png",
-    "semester-4/cloud-computing/images/Pasted image 20250407182427.png",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/stylesheets/font/jquery-ui.svg",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/logodhbw.svg",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Zwei.png",
-    "semester-4/cloud-computing/code/tinyNodejsApp/public/images/Spiele/Sylt-3-Vertikal.jpeg"
+    "semester-3/datenbanken/pgadmin_data/scripts/solutions/Anl_Softwarehaus_schema_FK.sql"
   ]
 }

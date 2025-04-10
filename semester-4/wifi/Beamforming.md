@@ -4,7 +4,7 @@
 	- => Welle verschiebt sich -> nicht mehr genau vertikal
 	- Durch Veränderung der Zeitabstände kann Richtung verändert werden
 
-> [!warning] Erfordert auch, dass man konstant weiß, wo der Kommunikationspartner ist.
+> [!warning] Erfordert auch, dass man konstant weiß, wo der Kommunikationspartner ist => Extension Frames
 
 ![[Pasted image 20250403113620.png]]
 

@@ -38,3 +38,45 @@
 ![[Pasted image 20250403091930.png]]
 ## Wie bekomme ich mehrere Fehler am Stück in den Griff?
 - [[Interleaving]]
+
+## Hamming-Codierung anders auslesen
+1. [[Binärsystem|binär]] adressieren ($0000 - 1111$)
+2. Die [[Adresse|Adressen]], an denen eine $1$ steht, aufschreiben
+3. Spaltenweise (_dezimal_) aufsummieren
+4. Spaltenweise [[Modulo|mod]] $2$
+5. Ergebnis ist die fehlerhafte Adresse
+
+> [!hint] ist $0$, wenn es keinen Fehler gibt
+
+![[Pasted image 20250410095543.png]]
+## Hamming-Feld Erweitern
+[[Position of Parity Bits]]
+
+- immer das erste Bit des neuen Feldes wird [[Parity]] bit
+- Feld wird immer doppelt so groß
+
+![[Pasted image 20250410090847.png]]
+
+
+## Welche Art von Frames gibt es?
+- Control Frame
+	- [[ACK]]
+	- Benutzt, um [[Zugriffsverfahren]] zu machen ([[RTS CTS]] etc)
+- Management Frame
+- Data Frame
+	- Hier werden Daten gesendet lul
+- (Extension-Frame)
+	- nachträgliche Erweiterungen zum Standard
+
+#### festgelegt durch Type-header
+
+| Bit | Art        |
+| --- | ---------- |
+| 00  | Management |
+| 01  | Control    |
+| 10  | Data       |
+| 11  | Extension  |
+
+## SISO, MIMO etc
+- Single Input - Single Output
+- Beschreibt, auf wie vielen verschiedenen Strömen der [[Kanal]] gleichzeitig genutzt werden kann

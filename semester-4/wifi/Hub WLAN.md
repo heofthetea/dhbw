@@ -108,3 +108,20 @@
 
 - [[IEEE 802.11]]
 	- [[MIMO]]
+	- [[Beamforming]]
+	- [[Space Time Block Coding]]
+	- [[Low-Density Parity Check]]
+	- [[Sektrale Effizienz]]
+	- [[Phased Coexistence]]
+
+## weird af IEEE802.11 standards
+[[WLAN-Vorlesung_Teil-6.pdf]] 
+
+- [[IEEE 802.11]]
+- [[OFDMA]]
+- [[BSS Colouring]]
+- [[Target Wakeup Time]]
+- [[802.11ac vs. ax]]
+- [[Wifi 6e]]
+- [[Wifi 7]]
+	- [[Multi-Link Operation]]
