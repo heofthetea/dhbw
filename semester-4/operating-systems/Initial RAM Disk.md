@@ -1,3 +1,7 @@
+---
+aliases:
+  - initrd
+---
 [[Kernel Module]]
 
 > Entire filesystem in Memory, used to load Kernel Modules

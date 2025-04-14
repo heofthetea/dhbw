@@ -3,9 +3,11 @@
 [[Library Betriebssysteme Basics]]
 [[Library Virtual Memory Management]]
 [[Library Prozesse]]
+[[Library Booting]]
 
 ### misc
-- [[CPUs are fast]]
+- [[CPUs are fast
+- [[sleep is actually fast]]
 
 
 ### Klausurvorbereitung
@@ -109,10 +111,32 @@
 	- [[pthreads]]
 
 ## 5. Booting
+- [[05_Booten.pdf]]
 - [[Booting]]
-	- [[Etymologie Booting]]
-	- [[Booting Arten]]
-		- [[Energiesparfunktionen]]
-	- [[Physical Startup]]
-	- [[Booting Windows]]
-	- [[Booting Linux]]
+	- [[Kaltstart]]
+	- [[Warmstart]]
+		- [[Suspend to Disk]]
+		- [[Suspend to RAM]]
+		- [[Suspend to RAM and Disk]]
+- [[Etymologie Booting]]
+- [[Physical Startup]]
+	- [[BIOS]]
+	- [[UEFI]]
+- [[Booting Windows]]
+- [[Booting Linux]]
+- [[Master Boot Routine]]
+	- [[Master Boot Record]]
+	- [[Bootloader]]
+		- [[Chainloader]]
+		- [[Multi-Stage Bootloader]]
+	- [[PXE]]
+		- [[Wake on LAN]]
+
+## 6. Filesystem
+- [[06_Dateisysteme.pdf]]
+- [[File]] 
+- [[Filesystem]]
+	- [[Lineares Filesystem]]
+	- [[Hierarchical Filesystem]]
+	- [[Network Filesystem]]
+	- [[Virtual Filesystem]]

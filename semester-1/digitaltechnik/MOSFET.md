@@ -1,5 +1,6 @@
-> **MOSFET** (Metal Oxide Semiconductor Field Effect Transistor)
+> (Metal Oxide Semiconductor Field Effect Transistor)
 
+- Transistor
 
 ![[Pasted image 20240909095719.png]]
 

@@ -66,7 +66,7 @@ void swap(List *list, int index_a, int index_b)
 ### Partitioning
 I figured it is easier to work with _indices_ instead of actual elements.
 
-_Note_: We want to sort _ascending_, thus the [[Strings#strcmp|strcmp]] function needs to return $x < 0$ for elements that are _in Order_. 
+_Note_: We want to sort _ascending_, thus the [[String#strcmp|strcmp]] function needs to return $x < 0$ for elements that are _in Order_. 
 
 ```c
 Node *partition(List *list, int low, int high, int depth)

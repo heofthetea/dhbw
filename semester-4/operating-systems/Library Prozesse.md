@@ -119,10 +119,12 @@
 # Multitasking
 - [[Ziele Multitasking|Ziel]]: Bestmögliche Auslastung von [[CPU|Prozessor]] & Leerlauf verhindern
 
-| [[Multitasking]]                                                            | [[Multithreading]]                                                           |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| parallel laufende [[Prozess\|Prozesse]]                                     | parallel Laufende [[Thread\|Threads]] innerhalb eines [[Prozess\|Prozesses]] |
-| jeder [[Prozess]] hat eine eigene Umgebung (Adressraum, [[Register]], etc.) | Alle Threads haben (beinahe) dieselbe Umgebung wie der [[Prozess]]           |
+| [[Multitasking]]                                                            | [[Multithreading]]                                                                                                             |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| parallel laufende [[Prozess\|Prozesse]]                                     | parallel Laufende [[Thread\|Threads]] innerhalb eines [[Prozess\|Prozesses]]                                                   |
+| jeder [[Prozess]] hat eine eigene Umgebung (Adressraum, [[Register]], etc.) | Alle Threads haben (beinahe) dieselbe Umgebung wie der [[Prozess]] - aber: eigener [[Call Stack]], Zustand und local variables |
+| Jederr [[Prozess]] hat seine eigene [[PID]]                                 | Jeder [[Thread]] läuft unter derselben [[PID]] seines Elternprozesses                                                          |
+| Jeder Prozess weiß nicht, dass es andere Prozesse gibt                      | Jeder Thread weiß nicht, dass es andere Threads gibt -> aber der Elternprozess weiß das                                        |
 
 ## Forking
 - [[Forking]]: Erstellen eines [[Kindprozess|Kindprozesses]] durch Abspalten vom [[Prozess|Elternprozess]]

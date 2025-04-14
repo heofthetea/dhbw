@@ -22,4 +22,5 @@
 3. kopiert Elternadressraum in Kindadressarum
 4. setzt [[Programm Counter]] auf selbe Stelle im Code
 
-> [!info] `fork()` returned die [[PID]] des Kindes bei Erfolg
+> [!info] `fork()` returned die [[PID]] des Kindes bei Erfolg.
+

@@ -1,4 +1,3 @@
-
 ## Confidentiality
 - Message cannot be read from anyone else
 
@@ -6,5 +5,8 @@
 - The Message has not been tampered with
 - => [[Digital Signature]]
 
-## Authorization
+### Indesputability
+- once sent, the sender cannot claim that it was not him who sent the message
+
+## Authenticity
 - The sender actually is who he claims to be

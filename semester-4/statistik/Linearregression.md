@@ -1,5 +1,6 @@
 > Extrapolation aus bekanntem Zusammenhang
 
+[[Funktion]], [[Linearkombination]]
 $$X \longrightarrow Y$$
 $$Y(x) = a + bx + u$$
 - $u$ ist der erlaubte Fehler: $u \subset Y$, der durch den [[Funktionale Abhängigkeit|funktionelen Zusammenhang]] nicht erklärt wird.

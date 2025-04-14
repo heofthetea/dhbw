@@ -1,8 +1,10 @@
 > [[Varianz]] von zwei Variablen
 
-$$cov(x, y) = \frac{1}{n}\sum\limits_{i=1}^{n}(x_{i}- \overline{x}) \cdot (y_{i} - \overline{y})$$
+$$cov(x, y) := \frac{1}{n}\sum\limits_{i=1}^{n}(x_{i}- \overline{x}) \cdot (y_{i} - \overline{y})$$
 > [!info] Herleitung aus [[Varianz]]: $(x_{i} - \overline{x})^{2} = (x_{i} - \overline{x})(x_{i} - \overline{x})$
 
+#### Verschiebesatz
+$$cov(x, y) = \overline{xy} - \overline{x}\cdot\overline{y}$$
 
 ### Eigenschaften
 - Symmetrie: $cov(x, y) = cov(y, x)$

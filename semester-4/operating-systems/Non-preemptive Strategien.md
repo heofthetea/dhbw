@@ -9,7 +9,7 @@
 > [!warning] Risiko, dass [[CPU]] nicht frei wird.
 
 > [!info]- In der Praxis kaum verwendet.
-> nur verwendet in Robotik oder [[IoT]]
+> nur verwendet in Robotik oder [[IoT]] (oder [[User-Level Thread|User-Level Threads]] lol)
 
 ## Strategien
 - [[Highest Response Ration Next]]

@@ -1,0 +1,1 @@
+> Store [[RSA]]-encrypted messages in hopes that they can be broken in some time through [[Shore's Algorithm]] once [[Quantum Computer|Quantum Computers]] are strong enough

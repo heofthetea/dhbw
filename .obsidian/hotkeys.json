@@ -198,5 +198,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "markdown:add-alias": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
   ]
 }

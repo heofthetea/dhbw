@@ -10,7 +10,7 @@
 
 > [!hint] $H(c1, c2) = H(c_{1} \cdot c_{2})$ ([[Konkatenation]])
 
-## Minimal Information Required
+## Authentication [[Pfad|Path]]
+- this is the minimal information required to compute the [[Wurzel|rot]]
 - to compute the full [[Hashing|Hash value]] of a message $c$, only $H(d)$, $c_{1}$ and $p_{2}$ need to be given.
-- 
 ![[Pasted image 20250407141246.png]]

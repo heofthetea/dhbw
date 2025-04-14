@@ -1,5 +1,5 @@
-- `^` - Anfang des [[Strings]]
-- `$` - Ende des [[Strings]]
+- `^` - Anfang des [[String]]
+- `$` - Ende des [[String]]
 
 
 

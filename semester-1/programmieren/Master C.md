@@ -20,7 +20,7 @@
 [[C concepts]]
 [[Pointer]]
 [[Functions]]
-[[Strings|Strings]]
+[[String|String]]
 [[Structs]]
 [[switch-case]]
 [[Floating Point Darstellung]]

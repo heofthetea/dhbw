@@ -27,7 +27,7 @@
 [[Fucking Schmitt-Trigger]]
 [[Hamming Code]]
 
-[[Transistor]]
+[[MOSFET]]
 
 
 

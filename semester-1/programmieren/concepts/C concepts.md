@@ -1,4 +1,5 @@
 > Looking at this 4 months later, it's truly hilarious just _how_ bad my note-taking was when I started out lol
+> Edit over a year later: WHY IS THIS ONE FILE EVERY SINGLE SECTION HERE SHOULD BE ITS OWN NOTE WHAT THE FUCKING SHIT WERE YOU THINKING
 
 ## keywords
 `signed` --> specifies a value should be signed

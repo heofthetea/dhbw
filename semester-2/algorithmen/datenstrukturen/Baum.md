@@ -1,4 +1,8 @@
-[[Kindknoten]]
+---
+aliases:
+  - Tree
+---
+[[Wurzel]], [[Blatt]]
 
 - ist ein [[verbundener Graph|verbundener]], [[Zyklus|zyklenfreier]] [[Graph]]
 

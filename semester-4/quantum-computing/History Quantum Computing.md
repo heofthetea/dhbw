@@ -1,7 +1,7 @@
 - Max Planck: has problems with interpretation - believes stuff is not discrete, but continuous
 - a bunch of Noble prizes for Planck, Einstein & Schrödinger (1918, 1921, 1923)
 - Copenhagen's interpretation of quantum computing in 1925
-- 1927: [[Transistor]]s use quantum physics (indirectly)
+- 1927: [[MOSFET]]s use quantum physics (indirectly)
 	- [[Laser|Lasers]] use quantum effects?? -> Used to create Transistors
 - Second Quantum Revolution -> isolates one topic: atom/photon/different objects
 	- a single [[Quantum Object]] can carry information, but the system is so small that it can carry only _one_ information

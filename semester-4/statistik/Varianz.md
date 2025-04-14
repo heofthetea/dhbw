@@ -1,4 +1,4 @@
-$$s^{2} = \frac{1}{n} \sum\limits_{i=1}^{n}(x_{i} - \overline{x})^2$$
+$$s^{2} := \frac{1}{n} \sum\limits_{i=1}^{n}(x_{i} - \overline{x})^2$$
 > [!hint] Geschrieben als $s^{2}$, weil nur die [[Standardabweichung]] wirklich interessant ist
 
 > [!info] Es ist einfacher, mit der [[Varianz]] zu rechnen, weil es keine Wurzel gibt.
