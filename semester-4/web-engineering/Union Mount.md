@@ -11,4 +11,6 @@
 
 > [!warning] Interesting behaviour: overwrititing a file in the top-most layer, then deleting that file in that layer, will _delete_ the file -> An older version in the lower layers does still exist, but cannot be accessed.
 
+## Beispiel
 
+![[Pasted image 20250414161232.png]]

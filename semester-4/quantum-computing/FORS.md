@@ -1,4 +1,4 @@
-> Forest of Random [[Teilmenge|Subsets]] 
+> [[Forest]] of Random [[Teilmenge|Subsets]] 
 
 - Few-time Signature Scheme -> can be used to [[Digital Signature|sign]] a limited number $\gt 1$ [[Nachricht|Messages]]
 - somehow enables [[XMSS]] to become [[Stateless Signature Scheme|stateless]]

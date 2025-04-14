@@ -85,6 +85,7 @@
 		- [[Message Queue]]
 		- [[Pipe]]
 - [[Prozesssynchronisierung]]
+	- [[Race Condition]]
 	- [[Kritischer Abschnitt]]
 		- [[Unterbrechungssperre]]
 		- [[Test-Set Instruktion]]

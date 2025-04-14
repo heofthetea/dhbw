@@ -10,8 +10,6 @@
 - **Global**: always one [[Docker Container]] on each node
 - **Replicated**: specify a desired number of services over the swarm (independent of the number of nodes)
 
-
-
 ## Commands
 
 ### initialize a swarm

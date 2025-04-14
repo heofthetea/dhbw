@@ -2,3 +2,6 @@
 
 Beispiel: [[AND]]:
 $$a \land a = a$$
+
+> [!hint] Ein [[Neutrales Element]] ist immer [[Idempotenz|idempotent]].
+

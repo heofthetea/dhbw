@@ -1,4 +1,4 @@
-> [!error]- Problem: [[HTTP]] ist stateless
+> [!error]- Problem: [[HTTP]] ist [[Stateless]]
 > Lösungsansätze:
 > - Übertragung von hidden fields in [[HTML form]]
 > - Speichern in [[Cookie]]

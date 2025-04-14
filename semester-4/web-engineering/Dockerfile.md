@@ -7,7 +7,8 @@ docker build <path>
 - uses a base image: `FROM` keyword
 - creates a new partial filesystem
 
-> [!info] **Every** command in the [[Dockerfile]] creates a new image layer.
+> [!info]- **Every** command in the [[Dockerfile]] creates a new image layer.
+> Show layers using [[Docker Image#View Image layers|docker history]]
 
 ## Commands
 - `RUN <bash-command>` - executes the given [[Bash]] command

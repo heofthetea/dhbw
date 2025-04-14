@@ -1,6 +1,6 @@
 [[Prozess]]
 
-- [[Prozesskommunikation]] fordert dass
+- [[Prozesskommunikation]] fordert das
 - verhindert gegenseitigen Ausschluss
 - Ermöglicht Bedingungsynchronisierung (= Prozess B kann darauf warten, dass Prozess A eine bestimmte Bedingung erfüllt hat)
 

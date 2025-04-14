@@ -38,3 +38,5 @@ CREATE TABLE arbeitet (
 ## Kann eine trinäre beziehung in eine binäre beziehung umgewandelt werden, ohne dass ein Semantikverlust auftritt?
 [[Von ternärer zu binärer Beziehung]], [[n-stellige Relationship als Relation]]
 
+- nein lol
+- (gab irgendwie Argumentation dazu -> scheitert an [[Verlustlose Zerlegung]])

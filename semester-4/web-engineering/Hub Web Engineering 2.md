@@ -55,7 +55,7 @@ Path: semester-4/web-engineering/code
 	- [[Docker Container]]
 	- [[Docker Image]]
 	- [[Dockerfile]]
-	- [[Docker Volumes]]
+	- [[Docker Volume]]
 	- [[Docker Networking]]
 	- [[Docker Port Binding]]
 ## Se Projekt

@@ -87,10 +87,21 @@ https://owncloud.dhbw-stuttgart.de/index.php/s/ApXMZDmaE2QFbBg
 	- [[Docker Engine]]
 	- [[Docker Hub]]
 	- [[Service Discovery]]
+	- [[Docker Volume]]
 - [[NGINX load balancer configuration]]
 - [[Docker Swarm]]
 
 ### Kubernetes
+- [[Kubernetes]]
+	- [[kubectl]]
+	- [[Kubernetes Control Plane]]
+	- [[Kubernetes Physical Layouts]]
+	- [[Kubernetes Objects]]
+		- [[Kubernetes Pod]]
+		- [[Service]]
+		- [[Kubernetes Namespace]]
+- [[Multi-tiered Application]]
+	- [[Cluster IP]]
 
 ## SaaS
 - [[SaaS]]
@@ -99,15 +110,7 @@ https://owncloud.dhbw-stuttgart.de/index.php/s/ApXMZDmaE2QFbBg
 ```expander
 path: semester-4/cloud-computing/code
 ```
-[[clouds.yaml]]
-[[default.yml]]
-[[docker.tf]]
-[[playdocker.yml]]
-[[terraform.tfstate]]
-[[terraform.tfstate.backup]]
-[[ubuntu.tf]]
-[[semester-4/cloud-computing/code/bwcloud/variables.tf]]
-[[semester-4/cloud-computing/code/azure/variables.tf]]
+
 
 
 

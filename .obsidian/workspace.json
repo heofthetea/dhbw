@@ -125,7 +125,8 @@
                   "title": "Hub Statistik"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "e6d92ec07f1c1d78",
@@ -258,7 +259,7 @@
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 42.72121788772598,
+            "dimension": 65.27117031398669,
             "children": [
               {
                 "id": "46076b15ecb0f9d6",
@@ -322,35 +323,49 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/operating-systems/Filesystem.md",
+                    "file": "semester-4/statistik/Wahrscheinlichkeit.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Filesystem"
+                  "title": "Wahrscheinlichkeit"
                 }
               },
               {
-                "id": "62f0b8ae1f126188",
+                "id": "de2abd3076718dbe",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/quantum-computing/SPHINCS.md",
+                    "file": "semester-4/cloud-computing/deployment.yml.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "SPHINCS"
+                  "title": "deployment.yml"
+                }
+              },
+              {
+                "id": "b0da47054ab0cc29",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/cloud-computing/Cluster IP.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cluster IP"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 6
           },
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 57.27878211227403,
+            "dimension": 34.72882968601332,
             "children": [
               {
                 "id": "459e3140c1d6cb95",
@@ -378,20 +393,6 @@
                   "pinned": true,
                   "icon": "lucide-file-text",
                   "title": "Cloud_Computing_PaaS_Container"
-                }
-              },
-              {
-                "id": "3b988031d3110ead",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-4/web-engineering/resources/WebEng_PHP.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "WebEng_PHP"
                 }
               },
               {
@@ -436,7 +437,8 @@
                   "title": "WLAN-Vorlesung_Teil-6"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -552,17 +554,27 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-4/cloud-computing/Docker Swarm.md",
+                "file": "semester-4/cloud-computing/Cluster IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Docker Swarm"
+              "title": "Backlinks for Cluster IP"
+            }
+          },
+          {
+            "id": "13c9105239745137",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -595,53 +607,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "47ecf1e53e0d7588",
+  "active": "b0da47054ab0cc29",
   "lastOpenFiles": [
-    "semester-4/operating-systems/Hub Betriebssysteme.md",
-    "semester-4/operating-systems/Virtual Filesystem.md",
-    "semester-4/cloud-computing/Virtualisierung.md",
-    "semester-4/operating-systems/Network Filesystem.md",
-    "semester-4/operating-systems/Lineares Filesystem.md",
-    "semester-4/operating-systems/Hierarchical Filesystem.md",
-    "semester-4/operating-systems/images/Pasted image 20250414113908.png",
-    "semester-4/operating-systems/Root Directory.md",
-    "semester-4/operating-systems/Filesystem.md",
-    "semester-4/operating-systems/File.md",
+    "semester-4/cloud-computing/Kubernetes Cluster]], [[Service]], [[Kubernetes Pod]], [[NAT]], [[Docker Port Binding.md",
+    "semester-4/cloud-computing/Cluster IP.md",
+    "semester-2/algorithmen/allgemein/Turing Machine.md",
+    "semester-3/formale-sprachen/Endlicher Automat.md",
+    "semester-4/cloud-computing/images/Pasted image 20250414183502.png",
+    "semester-4/cloud-computing/images/Pasted image 20250414183626.png",
+    "semester-4/cloud-computing/Service Discovery.md",
+    "semester-4/cloud-computing/Hub Cloud Computing.md",
+    "semester-4/cloud-computing/Kubernetes.md",
+    "semester-4/cloud-computing/resources/Cloud_Computing_PaaS_Container.pdf",
+    "semester-4/cloud-computing/Service.md",
+    "semester-4/statistik/BananaNana.md",
+    "semester-4/cloud-computing/deployment.yml.md",
+    "semester-4/cloud-computing/kubectl.md",
+    "semester-4/cloud-computing/Kubernetes Namespace.md",
+    "semester-4/cloud-computing/Kubernetes Pod.md",
+    "semester-4/cloud-computing/Kubernetes Objects.md",
+    "semester-4/cloud-computing/images/Pasted image 20250414181146.png",
+    "semester-4/cloud-computing/Multi-tiered Application.md",
+    "semester-4/cloud-computing/Proxy.md",
+    "semester-4/cloud-computing/images/Pasted image 20250414180940.png",
+    "semester-3/netztechnik/IP Adresse.md",
+    "semester-3/datenbanken/Datenbank.md",
+    "semester-4/cloud-computing/Stateless.md",
+    "semester-4/quantum-computing/Stateless Signature Scheme.md",
+    "semester-4/cloud-computing/Stateful.md",
+    "semester-4/quantum-computing/XMSS.md",
+    "semester-4/web-engineering/Session-based Authentication.md",
+    "semester-4/web-engineering/REST.md",
+    "semester-4/web-engineering/Cookie.md",
+    "semester-4/cloud-computing/POD.md",
+    "semester-4/cloud-computing/images/Pasted image 20250414175020.png",
+    "semester-4/cloud-computing/images/Pasted image 20250414174320.png",
+    "semester-4/cloud-computing/images/Pasted image 20250414173752.png",
+    "semester-2/algorithmen/datenstrukturen/images/Pasted image 20250414165905.png",
+    "semester-2/algorithmen/datenstrukturen/images/Pasted image 20250414165345.png",
+    "semester-2/algorithmen/datenstrukturen/images",
+    "semester-4/web-engineering/images/Pasted image 20250414161232.png",
     "semester-4/operating-systems/resources/06_Dateisysteme.pdf",
     "semester-4/operating-systems/resources/05_Booten.pdf",
-    "semester-4/operating-systems/Wake on LAN.md",
-    "semester-4/operating-systems/PXE.md",
-    "semester-4/operating-systems/images/Pasted image 20250414112144.png",
-    "semester-4/operating-systems/POST.md",
-    "semester-4/operating-systems/Physical Startup.md",
-    "semester-4/operating-systems/Bootloader.md",
-    "semester-4/operating-systems/Master Boot Routine.md",
-    "semester-4/operating-systems/Master Boot Record.md",
-    "semester-4/operating-systems/Chainloader.md",
-    "semester-4/operating-systems/Bootkit.md",
-    "semester-4/operating-systems/Virtual Machine.md",
-    "semester-4/operating-systems/Boot Virus.md",
-    "intension/GRUB.md",
-    "semester-4/operating-systems/Multi-Stage Bootloader.md",
-    "semester-4/operating-systems/Partition.md",
-    "semester-4/quantum-computing/Digital Signature.md",
-    "semester-1/logik/Logik Signatur.md",
-    "semester-4/operating-systems/images/Pasted image 20250414102334.png",
-    "semester-4/operating-systems/Hard Drive.md",
-    "semester-4/operating-systems/images/Pasted image 20250414095904.png",
     "goodnotes/Semester 1/Digitaltechnik/Aufschriebe/D-Technik 1.2 Transistoren.pdf",
-    "semester-4/operating-systems/images/Pasted image 20250414092323.png",
-    "semester-4/operating-systems/images/Pasted image 20250414092250.png",
-    "semester-4/quantum-computing/images/Pasted image 20250412181756.png",
-    "semester-4/quantum-computing/images/Pasted image 20250410155905.png",
-    "semester-4/quantum-computing/images/Pasted image 20250413144459.png",
-    "semester-4/quantum-computing/images/Pasted image 20250413142240.png",
     "semester-4/wifi/resources/WLAN-Vorlesung_Teil-6.pdf",
     "semester-4/wifi/resources/WLAN-Vorlesung_Teil-5.pdf",
     "semester-4/statistik/resources/Übungen zum Kapitel 3.pdf",
     "notengebung.py",
-    "semester-3/datenbanken/sources/DB_Kap06_1_SQL_DDL_DML_Stud.pdf",
-    "semester-3/datenbanken/pgadmin_data/softwarehaus",
-    "semester-3/datenbanken/pgadmin_data/softwarehaus_full"
+    "semester-3/datenbanken/sources/DB_Kap06_1_SQL_DDL_DML_Stud.pdf"
   ]
 }

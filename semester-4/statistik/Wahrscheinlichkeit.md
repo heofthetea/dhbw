@@ -1,4 +1,4 @@
-> Misst die Sicherheit, zu der ein [[Ereignis]] eintritt.
+> Misst die **Sicherheit**, zu der ein [[Ereignis]] eintritt.
 
 - Einheit: $\%$ ("pro hundert") 
 => $n\% = \frac{n}{100}$ 

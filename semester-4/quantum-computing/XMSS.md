@@ -1,8 +1,8 @@
 > eXtended [[Merkle Tree]] Signature Scheme
 
-- Stateful [[Digital Signature]] Scheme - Also standardized by NIST
+- [[Stateful]] [[Digital Signature]] Scheme - Also standardized by NIST
 
-> [!question]- Why stateful?
+> [!question]- Why [[stateful]]?
 > When choosing [[Private Key]] for a [[Digital Signature]], it is important that this key has not previously been used. The reason for this follows from the [[WOTS#Why only one time?|one-time]] use property of [[WOTS|WOTS+]].
 
 > [!hint] is also prosumably quantum-resistand - but statefulness makes it less attractive.

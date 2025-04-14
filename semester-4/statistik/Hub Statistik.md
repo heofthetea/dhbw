@@ -80,11 +80,6 @@
 	- [[Korrelationskoeffizient]]
 	- [[Linearregression]]
 		- [[Güte der Regressionsgerade]]
-
-
-
-
-
 # Wahrscheinlichkeitstheorie
 ## Basics
 - [[Wahrscheinlichkeit]] 
