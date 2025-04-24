@@ -80,3 +80,77 @@
 ## SISO, MIMO etc
 - Single Input - Single Output
 - Beschreibt, auf wie vielen verschiedenen Strömen der [[Kanal]] gleichzeitig genutzt werden kann
+
+
+## Welche Bestandteile hat ein ESS?
+- [[QBSS|ESS]] - Extended Service Set
+- Mehrere [[Access Point|Access Points]] (=> [[Infrastruktur BSS]]) sind Backbone im selben logischen Netz
+	- Dieser Backbone-[[Switch]] heißt **Distribution System**
+
+## Können mit Sounding Tests die Verbindungen bei [[Broadcast]]/[[Multicast]] verbessert werden?
+- [[Sounding Test]] - Ausrichten der Antennen für gezielteres Signal
+- nein - nur für [[Unicast]] 
+
+## LDPC?
+- [[Low-Density Parity Check]]
+- Dient der [[Forward Error Correction]] 
+
+### Welche Coderaten gibt es da?
+- $\frac{1}{2}$
+- $\frac{2}{3}$
+- $\frac{3}{4}$
+- $\frac{5}{6}$
+- Dann gibts noch verschiedene Block-Größen:
+	- $648$
+	- $1296$
+	- $1944$
+- => insgesamt 12 verschiedene Möglichkeiten, LPDC zu machen (JUNGE WARUM ZUM FICK HABEN WIR NICHT EINFACH COMPILERBAU WIE JEDER ANDERE KURS ICH HASSE DIE SCHEISS DHBW)
+
+## Tuningmaßnahmen, um Datanrate zu vergrößern?
+- Direktes Verbessern der Signal-to-noise-Ratio
+	- Bessere [[Modulation]] ([[QAM]]) => **die** Stellschraube schlechthin
+	- [[Coderate]] der [[Forward Error Correction|FEC]] verbessern
+- Indirekte Parameter
+	- [[Beamforming]]
+	- Mehrere [[Frequenzbänder]] gleichzeitig verwenden => [[Wifi 7]]
+	- [[Bandbreite]] vergrößern => ermöglicht breitere [[Kanal|Kanäle]]
+	- [[Aggregationsverfahren]] -> Mehr Daten pro [[WLAN Frame|Frame]]
+	- [[Space Time Block Coding]]
+
+## Ist [[OFDM]] ein Modulationsverfahren?
+- Steht für: Orthogonal Frequency Division Multiple Access
+- [[Signalspreizung]]
+
+> [!warning] Nein, ist **kein** [[Modulation|Modulationsverfahren]].
+
+
+## Welche Parameter werden im World Mode verteilt?
+[[World Mode]]
+
+- Bestandteil von [[Management Frame]] -> wird ca. alle 100ms übertragen
+- [[Sendeleistung]]
+- Ländercode
+- drinnen/draußen/egal
+- Anzahl der [[Kanal|Kanäle]]
+
+
+## Wie wird [[Quality of Service]] umgesetzt?
+- Frames eingeteilt in 4 Kategorien
+- Werden anhand dieser Kategorien priorisiert
+- eigenes Zugriffsverfahren: [[EDCA]]
+	- gibt 4 verschiedene Inter Frame Spaces
+	- je höher priorisiert, desto länger das contention window -> Können schneller runter zählen
+- Priorität wird von [[IP]] (ein layer drüber) übernommen
+
+## Welche Schritte werden beim Verbindungsaufbau abgehandelt?
+[[WLAN Verbindungsvorgang]]
+
+1. [[WLAN Scanning]]
+	1. passive scanning: [[Access Point]] schickt BSSID In [[Beacon Frame]]
+	2. active scanning: Gerät muss Probe Request schicken, indem er [[Access Point|AP]] fragt, was er kann
+	3. Wegen [[CSMA CA]] können verschiedene [[Access Point|APs]] verschieden viele DIFS warten müssen -> MinChannelTime und MaxChannelTime
+2. [[WLAN Authentication]]
+	1. [[Open System Authentication]] -> jeder darf rein
+	2. [[Shared Key Authentication]] -> [[DEE|Endgerät]] und [[Access Point|AP]] brauchen ein gemeinsames Passwort
+3. [[WLAN Assoziation]]
+	1. aushandeln der Rollenverteilung (welche Protokolle kann das Gerät etc.)

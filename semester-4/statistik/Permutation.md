@@ -1,2 +1,2 @@
-> Eine bestimmte Anordnung verschiedener Elemente in einer [[Folge]]
+> **Eine** aus **vielen** Möglichkeiten, die Elemente einer [[Array|Liste]] anzuordnen
 

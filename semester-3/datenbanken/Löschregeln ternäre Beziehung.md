@@ -4,9 +4,9 @@
 
 ![[Pasted image 20250326151716.png]]
 
-> [!warning] Es darf nichts [[SQL Löschregeln#Foreign Key auf Null setzen|null gesetzt]] werden, weil alles als [[Schlüssel]] fungiert -> darf nicht [[null]] sein
+> [!warning] Es darf nichts [[Löschregeln#Foreign Key auf Null setzen|null gesetzt]] werden, weil alles als [[Schlüssel]] fungiert -> darf nicht [[null]] sein
 
-=> einfach für alles [[SQL Löschregeln#CASCADE|cascaden]] lol
+=> einfach für alles [[Löschregeln#CASCADE|cascaden]] lol
 
 - MA: cascade
 - Projekt: cascade

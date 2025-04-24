@@ -1,8 +1,10 @@
-[[WLAN]]
+[[WLAN]], [[QBSS|ESS]]
 
 - wenn Verbindung zu [[Access Point]] schlechter wird (i.e. höhere [[Bitfehler]]-Rate), schaut sich Endgerät um, ob es einen AP mit besserer Verbindung gibt
-- AP2 meldet über distribution [[Switch]] an AP1, dass STA sich in [[Funkzelle]] B eingeloggt hat
-
+	- Wird von [[Access Point]] erkannt, [[DEE|Endgerät]] wird dann **von AP** darauf hingewiesen, sich umzuschauen
+	- in [[QBSS|ESS]]: [[Access Point|AP]] schlägt andere APs vor, je nachdem wie diese ausgelastet sind
+- AP2 meldet über [[QBSS|Distribution System]] an AP1, dass STA sich in [[Funkzelle]] B eingeloggt hat
+- benötigt neue [[WLAN Authentication|Authentifizierung]] - die [[WLAN Assoziation|Assoziationen]] werden vom alten [[Access Point]] einfach per DS rüber geschickt
 
 > [!info] Handover = Gerät wechselt [[Funkzelle|Funkzellen]], ohne [[Subnetting|Subnet]] zu ändern
 

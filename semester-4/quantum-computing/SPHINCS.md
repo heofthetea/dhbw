@@ -36,8 +36,9 @@ aliases:
 1. [[Hash|Digest]] The message into a $ka$-[[Bit]] string using a [[Hash-Funktion|Hash function]]
 2. Generate a [[FORS]] for the message - uses message-dependent values so that the [[FORS]] is new each time
 3. [[Digital Signature|sign]] the [[Nachricht|Message]] [[Hash|Digest]] using the [[FORS]]
-4. [[Digital Signature|sign]] the [[FORS]] [[Public Key]] using the [[XMSS]]
-5. Concatenate the following information:
+4. Choose a [[Blatt|leaf]] based on per-message randomness
+5. [[Digital Signature|sign]] the [[FORS]] [[Public Key]] using the [[XMSS]]
+6. Concatenate the following information:
 	1. [[FORS#Signature Generation|FORS Signature]] of the [[Nachricht|Message]] <span style="color:rgb(245, 154, 35)">digest</span>
 	2. [[WOTS#Compute the signature|WOTS+ Signature]] of the [[FORS]] Public Key
 	3. The [[Merkle Tree#Authentication Pfad Path|Authentication Path]] and the [[Wurzel|roots]] of all [[Merkle Tree|merkle trees]] involved so that the [[Public Key]] can be re-computed

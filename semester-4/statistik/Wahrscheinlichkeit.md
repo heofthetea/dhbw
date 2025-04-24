@@ -1,5 +1,7 @@
 > Misst die **Sicherheit**, zu der ein [[Ereignis]] eintritt.
 
+[[Operationen auf Wahrscheinlichkeiten]]
+
 - Einheit: $\%$ ("pro hundert") 
 => $n\% = \frac{n}{100}$ 
 

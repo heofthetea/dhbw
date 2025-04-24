@@ -9,3 +9,14 @@ $$s^{2} := \frac{1}{n} \sum\limits_{i=1}^{n}(x_{i} - \overline{x})^2$$
 $$\overline{x^{2}} - \overline{x}^{2}$$
 
 
+# Stochastik
+[[Wahrscheinlichkeit]]
+$$Var(x) = \frac{1}{n}\sum\limits_{i=1}^{n}(x_{i} - E(X))^{2} \cdot P(x_{i})$$
+
+## Eigenschaften
+- [[Linearkombination|lineare]] Transformationen:
+	- $Var(X + a) = Var(X)$ (Absorption)
+	- $Var(b\cdot X) = b^{2} Var(X)$
+	- $Var(b\cdot X + a) = b^{2}\cdot Var(X)$
+- Additivität bei [[Unabhängige Ereignisse|Unabhängigkeit]]:
+	- $Var(X + Y) = Var(X) + Var(Y)$

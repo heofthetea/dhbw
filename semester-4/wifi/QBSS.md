@@ -1,3 +1,7 @@
+---
+aliases:
+  - ESS
+---
 > Extended Service Set
 
 - Mehrere [[Infrastruktur BSS|Infrastructure BSS]], die mit Distribution System verbunden sind

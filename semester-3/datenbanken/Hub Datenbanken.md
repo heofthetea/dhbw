@@ -189,9 +189,9 @@ path: datenbanken/scripts
 	- [[SQL COPY]]
 	- [[SQL UPDATE]]
 	- [[SQL DELETE]]
+		- [[Löschregeln]]
+		- [[Updateregeln]]
 	- [[SQL Zwischentabelle]]
-
-
 
 #### Übungen
 - [[Gargantuan Übung Ternäre Beziehung SQL]]
@@ -200,7 +200,27 @@ path: datenbanken/scripts
 - [[Löschregeln ternäre Beziehung]]
 - [[Übung Softwarehaus interne Projekte]]
 
+## 7 Relationale Algebra
+- [[DB_Kap07_Relationale Algebra_Stud.pdf]]
+- [[Relation]]
+- [[Relationale Algebra]]
+	- [[Selektion]]
+	- [[Projektion]]
+	- [[Operationen auf Mengen]]
+		- [[Vereinigung]]
+		- [[Differenz von Relationen]]
+		- [[RelAlg Kreuzprodukt]]
+		- [[Umbenennung]]
+	- [[Operationen auf Relationen]]
+	- [[Operatorbaum]]
+		- [[Optimierung Operatorbaum]]
+- [[Verkettung]]
 
+### Joins
+- [[Equi Join]]
+
+### Übungen
+- [[Übung Relationale Algebra]]
 ## Postgres misc
 - [[Postgres locale]]
 - [[PGadmin backup]]

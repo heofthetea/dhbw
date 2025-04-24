@@ -6,6 +6,13 @@
 [[WLAN-Vorlesung_Teil-1.pdf]]
 [[WLAN-Vorlesung_Teil-2.pdf]]
 [[WLAN-Vorlesung_Teil-3.pdf]]
+[[WLAN-Vorlesung_Teil-4.pdf]]
+[[WLAN-Vorlesung_Teil-5.pdf]]
+[[WLAN-Vorlesung_Teil-6.pdf]]
+[[WLAN-Vorlesung_Teil-7.pdf]]
+[[WLAN-Vorlesung_Teil-9.pdf]]
+
+[[WLAN-Analyse_mit_Wireshark-1.pdf]]
 
 [[WLAN-Script_20250325.pdf]]
 ## Basics
@@ -118,10 +125,47 @@
 [[WLAN-Vorlesung_Teil-6.pdf]] 
 
 - [[IEEE 802.11]]
-- [[OFDMA]]
+- [[Resource Units]]
 - [[BSS Colouring]]
 - [[Target Wakeup Time]]
 - [[802.11ac vs. ax]]
 - [[Wifi 6e]]
 - [[Wifi 7]]
 	- [[Multi-Link Operation]]
+	- [[EMLMR]]
+	- [[EMLSR]]
+
+## Verbindungsaufbau
+[[WLAN-Vorlesung_Teil-7.pdf]]
+
+- [[World Mode]]
+- [[Quality of Service]]
+	- [[WLAN QoS Priorität]]
+- [[Handover]]
+- [[WPA]]
+- [[WLAN Verbindungsvorgang]]
+	- [[WLAN Scanning]]
+	- [[WLAN Authentication]]
+	- [[WLAN Assoziation]]
+
+
+## finally Sicherheit? nein Antennen BRO WTF WARUM KÖNNEN WIR NICHT EINFACH COMPILERBAU HABEN WTFFFFFFFFFFFF
+- [[Antenne]]
+	- [[Antennen in Handys]]
+	- [[Patch Antenne]]
+	- [[Yagi-Antenne]]
+- [[Antennengewinn]]
+- [[Freiraumdämpfung]]
+- [[Halbwellendipol]]
+- [[Dipolgruppen]]
+- [[Halbwertsbreite]]
+- [[Fresnel Zone]]
+- [[Hindernisse für Funkwellen]]
+- [[Übung Sendeleistung]]
+
+## Security FUCKING FINALLY
+- [[Schutzziele WLAN]]
+- [[End-to-End Encryption]]
+- [[WEP Encryption]]
+	- [[Probleme mit WEP]]
+- [[WPA]] 

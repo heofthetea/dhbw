@@ -1,3 +1,8 @@
+> nicht weiter logisch zerteilbare Einheit
+
+
+## in Prolog
+
 Strings bestehen aus Buchstaben, Ziffern und Unterscores
 beginnend mit _Kleinbuchstaben_ --> wichtig für Unterscheidung Atom/[[Variable|Variable]]
 

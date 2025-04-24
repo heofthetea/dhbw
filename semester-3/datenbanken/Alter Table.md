@@ -9,6 +9,7 @@ ADD FOREIGN KEY (additional_key) REFERENCES name;
 ```
 
 ## Cosntraint hinzufügen
+[[UNIQUE Constraint]]
 ```sql
 ALTER TABLE name ADD UNIQUE(attribute_name);
 ```

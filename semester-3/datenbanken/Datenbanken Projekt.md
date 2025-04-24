@@ -39,7 +39,7 @@ Deadline -> 30.09
 1. Tabellen anlegen
 2. Alter table mit constraints
 	1. [[FOREIGN KEY Constraint]]
-	2. [[SQL Löschregeln]]
+	2. [[Löschregeln]]
 3. Sinnvolle Daten anlegen (25%)
 
 > [!warning] Nur Befehle, die in der Vorlesung behandelt wurden!!!

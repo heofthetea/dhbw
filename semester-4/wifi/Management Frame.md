@@ -5,6 +5,7 @@
 - Datenverwaltung während Stromsparmodus
 	- Beispiel: [[Beacon Frame]]
 
+
 ## Kategorisierung
 ![[Pasted image 20250403105551.png]]
 

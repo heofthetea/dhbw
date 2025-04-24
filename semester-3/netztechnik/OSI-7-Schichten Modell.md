@@ -1,6 +1,6 @@
-[[Stack]]
+[[Stack]], [[Schichtenmodell]]
 
-
+- Kommunikation zwischen Layern via [[Primitive|Primitiven]]
 
 | Schicht | Ebene                  |
 | ------- | ---------------------- |

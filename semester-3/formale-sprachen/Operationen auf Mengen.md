@@ -15,6 +15,7 @@ $$A \cap B = \set{x\ |\ x \in A \land x \in B}$$
 > Differenz
 
 $$A \textbackslash B = \set{x \in A\ |\ x \not\in B}$$
+Alternative Identität: $A\textbackslash B  = A \cap \overline{B}$ 
 ### Complement
 > Komplementärmenge
 

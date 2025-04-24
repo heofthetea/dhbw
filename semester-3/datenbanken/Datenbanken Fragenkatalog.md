@@ -303,3 +303,27 @@
 
 > [!question]- 73\. Wie fügt man am besten Massendaten in eine [[Datenbank]] ein?
 > - [[SQL COPY]]
+
+
+## 11
+> [!question]- 74\. Was bassiert bei `UPDATE mitarbeiter set skill = 'test';`?
+> Es werden alle mitarbeiter geupdated. [[SQL UPDATE]]
+
+> [!question]- 75\. Weshalb erhielten wir eine Fehlermeldung als wir den Mitarbeiter mit der Personalnummer 5 löschen wollten? 
+> [[SQL DELETE]]
+> Es gibt keine [[Löschregeln|Löschregeln]] -> default ist RESTRICT. Wird also von der Datenbank rejected, da ein [[Fremdschlüssel]] auf den Mitarbeiter 5 zeigt.
+
+> [!question]- 76\. Wozu dienen die [[Löschregeln]]?
+> - Damit [[DBMS]] weiß, wie es die [[Referenzielle Integrität]] überwachen soll
+> - Spezifizieren, wie [[DBMS]] reagieren soll, wenn gelöscht wird, um diese Integrität realisiert zu halten.
+
+> [!question]- 78\. In welchem Zusammenhang werwenden wir welche [[Löschregeln|Löschregel]]?
+> - CASCADE - [[Schwacher Entitätstyp]]
+> - set [[null]] - wenn "schwache" Entität auch ohne Beziehung existieren kann
+> - RESTSRICT: wenn es keinen [[Semantik|semantischen]] Sinn ergibt, die Entität ohne eine Beziehung zu haben.
+
+> [!question]- 79\. Was ist beim Aufstellen der Löschregeln in einer Beziehungsstruktur in einer Datenbank zu beachten?
+> - In Miniwelt soll nirgends ein [[Zyklus]] entstehen, bei dem alles gelöscht werden kann
+
+> [!question]- 80\. Warum ergibt ein SET NULL bei der Updateregel keinen Sinn?
+> - [[Fremdschlüssel]] zeigt auf einen [[PRIMARY KEY Constraint|Primärschlüssel]] => [[null]] als Primärschlüssel gibt es nicht (??)

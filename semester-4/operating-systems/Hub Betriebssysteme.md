@@ -1,5 +1,4 @@
 ### Libraries
-
 [[Library Betriebssysteme Basics]]
 [[Library Virtual Memory Management]]
 [[Library Prozesse]]

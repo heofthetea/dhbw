@@ -3,3 +3,8 @@
 - Mobilfunk
 - GPS
 - NFC
+
+
+
+> [!hint] Sind diese kleinen Unterbrechungen am Rand des Handys.
+

@@ -2,6 +2,7 @@ $$\leq$$
 [[Relation]], die eine Ordnung vorgibt
 --> Bedingung, nach welcher [[Sortieren formal|sortiert]] wird
 
+> [!hint] Semantisch gesehen ein zweistelliges [[Prädikat]].
 
 ### Transitivität
 Eine [[Ordnungsrelation]] muss [[transitiv]] sein: 

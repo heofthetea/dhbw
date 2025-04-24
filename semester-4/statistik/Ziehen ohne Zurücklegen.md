@@ -10,3 +10,4 @@ $$\frac{n!}{(n-k)!}$$
 ## Sonderfall n = k
 - hier gibt es nur verschiedene [[Permutation|Permutationen]]
 $$n!$$
+

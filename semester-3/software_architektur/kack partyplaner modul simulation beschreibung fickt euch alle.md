@@ -48,3 +48,17 @@ guests:
 		
 ```
 
+
+## stuff for presentation
+```python
+def neighbouring_cells(pos: tuple) -> list[3][3];
+def find_max_value_no_collisions(neighbours: list[3][3]) -> tuple;
+
+def schritteAusführen(iterations: int):
+	for i in range(iterations):
+		stop if stopped
+		for guest in guests:
+			for cell in neighbouring cells:
+				cell.value = guest.calculate_comfort(cell)
+		guest.move(empty cell with highest comfort value)
+```

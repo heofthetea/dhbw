@@ -1,0 +1,1 @@
+- Befasst sich mit Operationen von abstrakten Elementen

@@ -1,6 +1,6 @@
 > [[Ereignis]], das nie auftreten kann.
 
-[[Leere Menge]]
+[[Leere Menge]], [[Zero]]
 $$A_{n} = \varnothing$$
 
 > [!question] Wieso nicht $A_{n} \cap \Omega = \varnothing$?

@@ -1,3 +1,5 @@
+
+> [!hint] These are only achievable through trust.
 ## Confidentiality
 - Message cannot be read from anyone else
 

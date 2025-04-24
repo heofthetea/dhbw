@@ -16,7 +16,7 @@ Erweiterung [[IEEE802.1]] für [[WLAN]]
 	- [[Beamforming]] -> Ausrichtung der Funkwellen
 	- [[Punktierung]] -> bessere [[Coderate]]
 	- besseres [[QAM]]
-	- kürzere <span style="color:rgb(245, 154, 35)">Guardintervalle</span> (= Zeit, die gewartet werden muss zwischen der Übertragung zweier [[Symbol|Symbole]])
+	- kürzere [[Guard Interval|Guardintervalle]]
 	- Verrhältnismäßig weniger [[Pilotträger|Pilottöne]] Pro [[Frequenzbänder|Frequenzband]] 
 	- Das erste mal können [[2.4G]] und [[5G]] gleichzeitig von einem [[Access Point|AP]] abgehandelt werden
 - 802.11ac -> kann nur in [[5G]] agieren

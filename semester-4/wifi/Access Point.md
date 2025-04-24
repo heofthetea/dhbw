@@ -1,3 +1,7 @@
+---
+aliases:
+  - AP
+---
 > Zentraler Bereitsteller für [[WLAN]]-Verbindng
 
 

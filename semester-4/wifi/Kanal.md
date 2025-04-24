@@ -1,4 +1,5 @@
-> Sub-Carrier
+
+> [!hint] Muss mindestens $20\ MHz$ breit sein.
 
 
 - gelb: Normspektralmaske 

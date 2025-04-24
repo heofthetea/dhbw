@@ -1,5 +1,6 @@
 > eng.: "n choose k"
 > Urnenmodell: $k$ Kugeln gleichzeitig ziehen.
+
 $${n\choose k} = \frac{n!}{(n-k)!k!}$$
 - im WTR: nCr - n choose r
 
