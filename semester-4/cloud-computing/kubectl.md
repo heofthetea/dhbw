@@ -8,3 +8,6 @@
 	- [[Kubernetes Control Plane]] compares desired state with actual [[Zustand|state]]
 		- figures out on its own what it needs to do and applies those changes
 		- similar to [[Terraform]]
+- based on [[deployment.yml]]
+
+> [!hint] [[HTTP]]-based

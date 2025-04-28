@@ -1,12 +1,10 @@
-[[Kubernetes]]
+[[Kubernetes]], [[Service Discovery]]
 
 - define a logical [[Menge|set]] of [[Kubernetes Pod|Pods]] which build an application tier
 - can [[Horizontal Scaling|scale]] up and down
-- [[Service Discovery]]
 - has its own [[IP Adresse|IP address]] 
 
 > [!hint] can be [[Stateful]] or [[Stateless]]
-
 
 ## YAML configuration
 [[YAML]]

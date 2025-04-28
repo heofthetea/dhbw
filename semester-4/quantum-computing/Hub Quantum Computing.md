@@ -68,7 +68,9 @@
 - [[Qiskit Tutorial Github]]
 
 
-
+## Project Questions
+- [[Faster than light communication]]
+- [[QC didactic materials]]
 
 ---
 ## Project: Quantum Cryptography

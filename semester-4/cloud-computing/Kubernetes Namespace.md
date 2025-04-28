@@ -1,4 +1,4 @@
-> Group & organize multiple [[Kubernetes Objects]] into different [[Kernel Namespace|namespaces]]
+> Group & organize multiple [[Kubernetes Objects]] into different Namespaces
 
 - isolate [[Service|Services]] from each other
 - a **logical** grouping of [[Kubernetes Objects]] 

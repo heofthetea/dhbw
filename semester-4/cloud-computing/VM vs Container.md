@@ -12,4 +12,4 @@
 	- Start the [[Prozess]] inside the container
 - Better resource utilization:
 	- Does not waste resources on a simulated [[Betriebssystem|operating system]]
-- Allows for [[Micro Service]] implementation
+- Allows for [[Microservice]] implementation

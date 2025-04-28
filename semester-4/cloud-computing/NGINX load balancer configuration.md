@@ -1,5 +1,7 @@
 [[NGINX]]
 
+- Is an [[Layer 7|Application]] Load balancer
+
 ```nginx
 events {
   worker_connections  1024;  ## Default: 1024  whos knows

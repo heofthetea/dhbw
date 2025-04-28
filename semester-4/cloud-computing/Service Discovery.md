@@ -7,5 +7,6 @@
 
 > [!hint] [[Docker]] achieves this, by writing the [[DNS|Domain Name]] of all other containers into `/etc/hosts`.
 
+> [!hint] [[DNS]] technically also is [[Service Discovery]].
 
 ![[Pasted image 20250414181146.png]]

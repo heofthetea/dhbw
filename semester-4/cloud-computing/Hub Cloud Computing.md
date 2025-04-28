@@ -102,9 +102,24 @@ https://owncloud.dhbw-stuttgart.de/index.php/s/ApXMZDmaE2QFbBg
 		- [[Kubernetes Namespace]]
 - [[Multi-tiered Application]]
 	- [[Cluster IP]]
+- [[Headless Service]]
+- [[NodePort Service]]
+- [[Loadbalancer Service]]
+- [[Ingress]]
+- [[K8s Storage]]
+- [[Stateful Set]]
+- [[Service-Mesh]]
+## Serverless
+[[Cloud_Computing_Serverless.pdf]]
+- [[Serverless]]
+- [[Event-driven Architecture]]
+- [[FaaS]]
+- [[Capacity and Scaling Profiles]]
 
 ## SaaS
 - [[SaaS]]
+
+
 
 ## Code
 ```expander

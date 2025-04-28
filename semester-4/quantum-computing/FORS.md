@@ -15,7 +15,7 @@
 2. [[Private Key]]: $k$ [[Menge|sets]] containing $t$ $n$-[[Byte]] strings each
 	1. these strings are once again generated using a [[Pseudo-random Function|PRF]] with a <span style="color:rgb(245, 154, 35)">secret seed</span>
 3. For each of the $k$ [[Menge|sets]]:
-	1. [[Hash]] every string in the set
+	1. [[Hash]] every string in the set (with randomization)
 	2. Use thes [[Hash|Hashes]] as [[Blatt|leaves]] for [[Merkle Tree|Merkle Trees]] => results in $k$ trees of height $a$[^1]
 4. [[Public Key]]: [[Konkatenation|concatenate]] the [[Wurzel|roots]] of those trees
 

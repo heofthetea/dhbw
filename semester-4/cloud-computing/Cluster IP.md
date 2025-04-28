@@ -8,5 +8,7 @@
 - "ich als [[Service]] bin für alles Ansprechpartner, was sich als `microservice-one` identifiziert"
 	- dient als [[NGINX load balancer configuration|load balancer]], [[NAT]] entity
 
+> [!warning] Man kann nicht auf einen [[Kubernetes Pod|Pod]] zugreifen, ohne eine [[Cluster IP]] zu haben.
+
 ![[Pasted image 20250414183626.png]]
 

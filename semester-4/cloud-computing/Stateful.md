@@ -1,5 +1,5 @@
 > Hat einen [[Zustand]]
 
 - [[Zustand]] kann verändert werden
-- Verhalten ist abhängig vom [[Zustand]]
+- [[Nichtdeterminismus|nichtdeterministisch]] abhängig vom Input => Verhalten ist abhängig vom [[Zustand]]
 

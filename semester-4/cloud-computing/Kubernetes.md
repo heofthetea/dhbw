@@ -36,3 +36,4 @@ Kubernetes Dokumentation
 	-  https://www.youtube.com/watch?v=T4Z7visMM4E -> Services 
 	-  https://www.youtube.com/watch?v=80Ew_fsV4rM -> Ingress 
 	-  https://www.youtube.com/watch?v=pPQKAR1pA9U -> StatefulSet
+	-  https://www.youtube.com/watch?v=T4Z7visMM4E -> [[Headless Service]]

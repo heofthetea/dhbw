@@ -28,6 +28,7 @@ spec:
 					spec: 
 						containers: 
 							- name: <container name> 
-								image: juergenschneider/ultimativeapp:dhbw imagePullPolicy: Always
+								image: juergenschneider/ultimativeapp:dhbw
+								imagePullPolicy: Always
 ```
 
