@@ -1,4 +1,4 @@
-[[Fakultät]]
+[[Fakultät]], [[Permutation]]
 
 > Wie viele Möglichkeiten gibt es, die Kugeln zu ziehen?
 

@@ -27,3 +27,43 @@
 ## Linearregression
 
 #todo 
+
+
+
+# Stochastik
+## Grundlagen
+- $\Omega$: Ergebnisraum -> [[Menge]] der möglichen [[Elementarereignis|Elementarereignisse]] eines [[Zufallsvorgang|Zufallsexperiment|Zufallsexperimentes]]
+- Jedes [[Ereignis]] $A \subset \Omega$ ist eine [[Teilmenge]] des Ergebnisraums
+
+> [!hint] [[Operationen auf Ereignissen]] sind äquivalent zu [[Operationen auf Mengen]].
+
+### Kombinatorik
+- [[Kombinatorik]] - "Wissenschaft des Zählens" (still use your brain tho)
+- Urnenmodell:
+	- [[Ziehen mit Zurücklegen]] -> jedes mal sind Bedingungen identisch; $n^{k}$
+	- [[Ziehen ohne Zurücklegen]] -> jedes Mal eine Option weniger, verschiedene [[Permutation|Permutationen]] sind seperat zu behandeln => $\frac{n!}{(n-k)!}$ 
+	- [[Binomialkoeffizient|Gleichzeitig Ziehen]] -> [[Permutation|Permutationen]] irrelevant, demnach Korrektur um $\frac{1}{k!}$ => [[Binomialkoeffizient]]
+
+## Diskrete Verteilungen
+- [[Laplace Experiment]] (Diskrete Gleichverteilung):
+	1. Jedes [[Elementarereignis]] hat dieselbe [[Wahrscheinlichkeit]] $\frac{1}{|\Omega|}$
+	2. $\Omega$ ist [[endliche Sprachen|endlich]] 
+	- [[Wahrscheinlichkeit]] eines [[Ereignis]]: $P(A) = \frac{|A|}{|\Omega|}$
+- [[Bernoulli-Verteilung]]: $X \sim B(1, p)$
+	- Bei jedem [[Zufallsvorgang|Zufallsereignis]] gibt es <span style="color:rgb(245, 154, 35)">genau zwei</span> [[Ereignis|Ereignisse]]: $A$ und $\overline{A}$
+	- Wahrscheinlichkeit für Erfolg $P(A) = p$ ist gegeben
+- [[Binomialverteilung]]: $X \sim B(n, p)$
+	- Ein [[Bernoulli-Verteilung|Bernoulli-Experiment]] $B(1, p)$ wird $n$ mal wiederholt
+	- Wie [[Wahrscheinlichkeit|wahrscheinlich]] ist es, dass $A$ genau $k$ mal eintrifft?
+		- $P(X = k) = {n \choose k} p^{k}(1-p)^{n-k}$ ([[Binomialkoeffizient]])
+- [[Poisson-Verteilung]]: $X \sim P(\lambda)$
+	- [[Binomialverteilung]], die **nicht** durch ein $n$ beschränkt ist, also aus unendlich vielen Versuchen bestehen kann
+	- $\lambda = E(X) = Var(X)$
+	- [[Wahrscheinlichkeit]], dass Erfolg $A$ genau $k$ mal eintrifft:
+		- $P(X = k) = \frac{\lambda^{x}}{x!}\cdot exp(-\lambda)$
+- [[Geometrische Verteilung]]: $X \sim G(p)$
+	- Wie lange dauert es, bis bei einer [[Folge]] aus [[Bernoulli-Verteilung|Bernoulli-Experimenten]] der erste Erfolg $A$ nach $k$ Versuchen eintritt?
+	- $P(X = k) = p \cdot (1-p)^{k-1}$ 
+
+## Stetige Verteilungen
+- 

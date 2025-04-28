@@ -18,6 +18,25 @@
 	2. Durchführen des [[POST]] => Initialisierung und Tests, ob alle Komponenten funktionieren
 	3. Speichermedien nach [[Master Boot Routine|MBR]] & ausführen
 
+### Master Boot Routine
+- Zuständig für Laden der [[Bootloader]]
+- ist unter anderem abgelegt im [[Master Boot Record]]:
+	- Die ersten 512 [[Byte]] auf der [[Hard Drive|Festplatte]]
+	- enthält zusätzlich die [[GUID Partition Table|Partition Table]]
+
+> [!info] Ist [[Digital Signature|signiert]] mit der Bytefolge $0x\,55aa$ => ist diese **Magic Number** nicht gegeben, handelt es sich _nicht_ um eine Boot routine!!
+
+#### Schematischer Ablaufs
+[[Master Boot Routine#Schematischer Ablauf]]
+- Ziel: Einfache Implementierung und Unterstützung für [[Multi-Stage Bootloader|mehrstufige Bootloader]] oder [[Chainloader]]
+	- Damit kann [[Bootloader]] größer sein als der [[Master Boot Record|MBR]] Platz hat
+1. Lädt ersten [[Bootloader]] $B_{0}$ an `0x7c00`
+2. $B_{0}$ verschiebt <span style="color:rgb(245, 154, 35)">sich selbst</span> an andere [[Adresse]] (oft: `0x600`) -> frees `0x7c00`
+3. $B_0$ lädt den nächsten [[Bootloader]] an `0x7c00` nach
+
+> [!hint] Dadurch kann [[Master Boot Routine|MBR]] einfach immer [[Bootloader]] an `0x7c00` nachladen -> [[Programm Counter|PC]] muss  nicht suchen, sondern kann einfach den Code an `0x7c00` ausführen
+
+> [!hint] Weiterer Vorteil: Verschiedene Bootloader müssen nichts voneinander wissen (z.B.) in Dual Boots, müssen nicht mal vom selben Betriebssystem sein (s. [[GRUB]])
 ## Booting Linux
 (Windows geht mir am Arsch vorbei lolol)
 [[Booting Linux]] 

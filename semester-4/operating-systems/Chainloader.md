@@ -1,7 +1,7 @@
 > Mehrere eigenständige [[Bootloader]] laden sich nacheinander
 
 - Vorgang: "Chainloading"
-- [[Bootloader]] können auf verschiedenen [[Partition|Partitionen]]/Mediel liegen
+- [[Bootloader]] können auf verschiedenen [[Partition|Partitionen]]/Medien liegen
 - Beispiel: [[GRUB]]:
 	- 1. [[Bootloader]] = Zeigt Bootmenu
 	- 2. [[Bootloader]] = ausgewählter Booteintrag wird ausgeführt

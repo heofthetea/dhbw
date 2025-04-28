@@ -12,7 +12,7 @@ aliases:
 
 ## Algorithm
 - $n$: length of the [[Nachricht|Message]] in [[Byte|Bytes]]
-- $w$: Winternitz parameter
+- $w$: Winternitz parameter ($\in \set{4, 16}$)
 - $H$: a cryptographic [[Hash-Funktion|hash function]] such as [[SHA-256]] or SHAKE
 - $msg$: the [[Nachricht|Message]] to sign
 

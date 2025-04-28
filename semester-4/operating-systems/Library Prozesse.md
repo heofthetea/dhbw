@@ -119,7 +119,7 @@
 # Multitasking
 - [[Ziele Multitasking|Ziel]]: Bestmögliche Auslastung von [[CPU|Prozessor]] & Leerlauf verhindern
 
-| [[Multitasking]]                                                            | [[Multithreading]]                                                                                                             |
+| **[[Multitasking]]**                                                        | **[[Multithreading]]**                                                                                                         |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | parallel laufende [[Prozess\|Prozesse]]                                     | parallel Laufende [[Thread\|Threads]] innerhalb eines [[Prozess\|Prozesses]]                                                   |
 | jeder [[Prozess]] hat eine eigene Umgebung (Adressraum, [[Register]], etc.) | Alle Threads haben (beinahe) dieselbe Umgebung wie der [[Prozess]] - aber: eigener [[Call Stack]], Zustand und local variables |
@@ -152,3 +152,4 @@
 ## Threading
 
 
+#todo

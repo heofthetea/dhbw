@@ -8,6 +8,8 @@ aliases:
 FOREIGN KEY <attribute_name> REFERENCES <other_tablename>
 ```
 
+
+
 [[Fremdschlüssel]]
 
 

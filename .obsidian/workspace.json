@@ -11,7 +11,7 @@
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 64.89058039961941,
+            "dimension": 52.52140818268316,
             "children": [
               {
                 "id": "3578ff700070f6e6",
@@ -124,14 +124,27 @@
                   "icon": "lucide-file",
                   "title": "Hub Statistik"
                 }
+              },
+              {
+                "id": "a0bbb3fb70151db9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-3/software_architektur/Hub Software Engineering.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hub Software Engineering"
+                }
               }
-            ],
-            "currentTab": 5
+            ]
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 35.10941960038059,
+            "dimension": 47.47859181731684,
             "children": [
               {
                 "id": "987357965ec8cadc",
@@ -259,7 +272,7 @@
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 35.39486203615604,
+            "dimension": 39.39105613701237,
             "children": [
               {
                 "id": "46076b15ecb0f9d6",
@@ -386,14 +399,28 @@
                   "icon": "lucide-file",
                   "title": "WPA"
                 }
+              },
+              {
+                "id": "8d8374fdee5c65c1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/cloud-computing/Virtualisierung.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Virtualisierung"
+                }
               }
             ],
-            "currentTab": 8
+            "currentTab": 9
           },
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 64.60513796384396,
+            "dimension": 60.60894386298763,
             "children": [
               {
                 "id": "459e3140c1d6cb95",
@@ -402,11 +429,11 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-4/operating-systems/resources/06_Dateisysteme.pdf"
+                    "file": "semester-4/operating-systems/resources/07_Virtualisierung.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "06_Dateisysteme"
+                  "title": "07_Virtualisierung"
                 }
               },
               {
@@ -465,8 +492,7 @@
                   "title": "WLAN-Vorlesung_Teil-9"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "horizontal"
@@ -636,53 +662,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "717920cd59ace1d6",
+  "active": "459e3140c1d6cb95",
   "lastOpenFiles": [
-    "semester-4/quantum-computing/symmetric Encryption.md",
-    "semester-4/wifi/WPA.md",
-    "semester-4/quantum-computing/Cryptographic Key.md",
-    "semester-4/wifi/Hub WLAN.md",
-    "semester-4/wifi/Probleme mit WEP.md",
-    "semester-4/wifi/BPSK.md",
-    "semester-4/wifi/WEP Encryption.md",
-    "semester-4/quantum-computing/asymmetric Encryption.md",
-    "semester-4/quantum-computing/Encryption.md",
-    "semester-2/algorithmen/Hash-Funktion.md",
-    "semester-1/digitaltechnik/XOR.md",
-    "semester-4/quantum-computing/images/Pasted image 20250424112614.png",
-    "semester-4/quantum-computing/images/Pasted image 20250424112601.png",
-    "semester-4/wifi/images/Pasted image 20250424112212.png",
-    "semester-3/netztechnik/CRC.md",
-    "semester-4/wifi/images/Pasted image 20250424112009.png",
-    "semester-4/wifi/Schutzziele WLAN.md",
-    "semester-4/quantum-computing/Goals of Cryptography.md",
-    "semester-4/wifi/End-to-End Encryption.md",
-    "semester-4/wifi/Übung Sendeleistung.md",
+    "semester-4/cloud-computing/Virtualisierung.md",
+    "semester-4/operating-systems/Hub Betriebssysteme.md",
+    "semester-4/operating-systems/ext4.md",
+    "semester-4/operating-systems/Simulation.md",
+    "semester-4/operating-systems/Emulation.md",
+    "semester-4/operating-systems/resources/07_Virtualisierung.pdf",
+    "semester-4/operating-systems/resources/06_Dateisysteme.pdf",
+    "semester-4/operating-systems/Inode.md",
+    "semester-4/operating-systems/Superblock.md",
+    "semester-4/operating-systems/Mount.md",
+    "semester-4/operating-systems/Everything is a file.md",
+    "semester-4/operating-systems/images/Pasted image 20250428112546.png",
+    "semester-4/operating-systems/APFS.md",
+    "semester-4/operating-systems/HFS.md",
+    "semester-4/operating-systems/NTFS.md",
+    "semester-4/operating-systems/Journaling.md",
+    "semester-4/operating-systems/FAT.md",
+    "semester-4/operating-systems/Volume Boot Record.md",
+    "semester-4/operating-systems/Defragmentierung.md",
+    "semester-2/web-engineering/Fragmentierung.md",
+    "semester-4/operating-systems/LBA Format.md",
+    "semester-4/operating-systems/GUID Partition Table.md",
+    "semester-4/operating-systems/images/Pasted image 20250428105606.png",
+    "semester-4/operating-systems/Beispiel Partition Table.md",
+    "semester-4/operating-systems/images/Pasted image 20250428105336.png",
+    "semester-4/operating-systems/CHS Format.md",
+    "semester-4/operating-systems/Partition Table.md",
+    "semester-4/operating-systems/images/Pasted image 20250428105109.png",
+    "semester-4/operating-systems/images/Pasted image 20250428105009.png",
+    "semester-4/operating-systems/images/Pasted image 20250428104750.png",
+    "semester-4/operating-systems/Hard Drive.md",
+    "semester-4/operating-systems/Partition.md",
+    "semester-4/operating-systems/RAID.md",
+    "semester-4/operating-systems/images/Pasted image 20250428103612.png",
+    "semester-4/operating-systems/Optical Disk.md",
+    "semester-4/operating-systems/images/Pasted image 20250428101331.png",
+    "semester-4/operating-systems/images/Pasted image 20250428101233.png",
+    "semester-4/operating-systems/images/Pasted image 20250428095932.png",
+    "semester-4/statistik/resources/Übungen zum Kapitel 6.pdf",
+    "semester-4/statistik/resources/Übungen zum Kapitel 5.pdf",
     "semester-4/wifi/resources/WLAN-Vorlesung_Teil-9.pdf",
     "semester-3/datenbanken/sources/DB_Kap06_1_SQL_DDL_DML_Stud.pdf",
     "semester-4/wifi/resources/WLAN-Vorlesung_Teil-8.pdf",
-    "semester-4/wifi/Sendeleistung.md",
-    "semester-4/wifi/images/Pasted image 20250424104051.png",
-    "semester-4/wifi/Antennengewinn.md",
-    "semester-4/wifi/Hindernisse für Funkwellen.md",
-    "semester-4/wifi/images/Pasted image 20250424102738.png",
-    "semester-4/wifi/images/Pasted image 20250424102549.png",
-    "semester-4/wifi/images/Pasted image 20250424102450.png",
-    "semester-4/wifi/Fresnel Zone.md",
-    "semester-4/wifi/Yagi-Antenne.md",
-    "semester-4/wifi/images/Pasted image 20250424101900.png",
-    "semester-4/wifi/images/Pasted image 20250424101800.png",
-    "semester-4/wifi/Halbwertsbreite.md",
-    "semester-4/wifi/Patch Antenne.md",
-    "semester-4/wifi/Dipolgruppen.md",
-    "semester-4/wifi/Halbwellendipol.md",
-    "semester-4/wifi/Freiraumdämpfung.md",
     "semester-4/wifi/resources/WLAN-Analyse_mit_Wireshark-1.pdf",
     "semester-3/datenbanken/pgadmin_data/scripts/solutions/Anl_Softwarehaus_schema_FK.sql",
-    "semester-3/datenbanken/pgadmin_data/scripts/solutions/Anl_Softwarehaus_schema_ohne_FK.sql",
-    "semester-4/wifi/resources/WLAN-Vorlesung_Teil-7.pdf",
-    "semester-4/wifi/resources/WLAN-Vorlesung_Teil-6.pdf",
-    "semester-4/wifi/resources/WLAN-Vorlesung_Teil-5.pdf",
-    "semester-3/datenbanken/pgadmin_data/scripts/solutions/Alter_Delete_On_Gesamt.sql"
+    "semester-3/datenbanken/pgadmin_data/scripts/solutions/Anl_Softwarehaus_schema_ohne_FK.sql"
   ]
 }

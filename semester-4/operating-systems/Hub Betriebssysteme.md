@@ -126,6 +126,7 @@
 - [[Booting Linux]]
 - [[Master Boot Routine]]
 	- [[Master Boot Record]]
+	- [[Volume Boot Record]]
 	- [[Bootloader]]
 		- [[Chainloader]]
 		- [[Multi-Stage Bootloader]]
@@ -140,3 +141,30 @@
 	- [[Hierarchical Filesystem]]
 	- [[Network Filesystem]]
 	- [[Virtual Filesystem]]
+- Speichermedien
+	- [[Hard Drive]]
+	- [[SSD]]
+	- [[Flash Speicher]]
+	- [[Optical Disk]]
+- [[RAID]]
+- [[Partition]]
+	- [[Partition Table]]
+		- [[CHS Format]]
+	- [[Beispiel Partition Table]]
+- [[Defragmentierung]]
+
+### Arten
+- [[FAT]]
+- [[NTFS]]
+- [[HFS]]
+	- [[APFS]]
+- [[Everything is a file]]
+- [[ext4]]
+
+
+## Virtualisierung
+[[07_Virtualisierung.pdf]]
+
+- [[Virtualisierung]]
+	- [[Simulation]]
+	- [[Emulation]]

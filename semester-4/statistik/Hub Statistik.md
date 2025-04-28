@@ -15,6 +15,8 @@
 [[semester-4/statistik/resources/Übungen zum Kapitel 2.pdf|Übungen zum Kapitel 2.pdf]]
 [[semester-4/statistik/resources/Übungen zum Kapitel 3.pdf|Übungen zum Kapitel 3.pdf]]
 [[semester-4/statistik/resources/Übungen zum Kapitel 4.pdf|Übungen zum Kapitel 4]]
+[[semester-4/statistik/resources/Übungen zum Kapitel 5.pdf|Übungen zum Kapitel 5]]
+[[Übungen zum Kapitel 6.pdf]]
 [[Statistik Übung 1]]
 
 ## 00 Basics

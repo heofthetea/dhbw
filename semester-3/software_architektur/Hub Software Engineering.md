@@ -40,7 +40,8 @@ download: yEd Graph Editor (for Darstellungen)
 [[IOT Framework Alm]]
 [[FURPS]]
 
-
+- [[SWE Testvorbereitung Basistechniken]] 
+	- [[Komponentendiagramm]]
 
 ## Random Stuff
 - [[UML]]

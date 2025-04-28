@@ -34,6 +34,8 @@ $$\varphi(v,\ o) = t(v) + o$$
 	- Alternative [[Demand Paging]]: Nicht gesamter Kontext, sondern nur einzelne [[Page|Pages]] werden ausgelagert
 - Ermöglicht effizientere Nutzung des [[Memory|Hauptspeichers]] => Mehr Prozesse mit viel Speicherbedarf möglich
 
+> [!hint] Heutzutage wird eigentlich immer [[Demand Paging]] gemacht, aber trotzdem Swapping genannt.
+
 > [!warning] Der Kern des [[Betriebssystem|Betriebssystems]] selbst wird ofc nie ausgelagert!
 ### Strategien
 - <span style="color:rgb(245, 154, 35)">Not Recently Used</span>: [[Page|Pages]], die lange nicht genutzt wurden
