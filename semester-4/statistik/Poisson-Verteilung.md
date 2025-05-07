@@ -2,6 +2,7 @@
 
 [[Diskrete Verteilung]]
 
+- Frage: Was ist die Wahrscheinlichkeit, dass $X$ $k$ mal auftritt, wenn $X$ unendlich oft eintreten kann?
 
 > [!hint] eine [[Binomialverteilung]] $B(n, p)$ mit sehr großen $n$ und kleinem $p$ [[Grenzwert|konvergiert]] gegen die [[Poisson-Verteilung]].
 

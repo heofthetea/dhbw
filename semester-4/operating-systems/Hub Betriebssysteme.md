@@ -5,7 +5,7 @@
 [[Library Booting]]
 
 ### misc
-- [[CPUs are fast
+- [[CPUs are fast]]
 - [[sleep is actually fast]]
 
 
@@ -159,6 +159,7 @@
 - [[HFS]]
 	- [[APFS]]
 - [[Everything is a file]]
+	- [[Inode]]
 - [[ext4]]
 
 
@@ -168,3 +169,28 @@
 - [[Virtualisierung]]
 	- [[Simulation]]
 	- [[Emulation]]
+- Arten
+	- [[Application Virtualization]]
+	- [[Desktop Virtualization]]
+	- [[Hardware Virtualization]]
+		- [[Software Assisted Virtualization]]
+		- [[Hardware Assisted Virtualization]]
+	- [[Netzwerk Virtualization]]
+	- [[Speicher Virtualization]]
+- [[SLAT]]
+
+### Docker again
+- [[chroot]]
+- [[Kernel Namespace]]
+- [[cgroup]]
+
+## Shell programming
+- [[08_Shellprogrammierung_I.pdf]] -> Windows CMD
+- [[08_Shellprogrammierung_II.pdf]] -> Powershell
+- [[08_Shellprogrammierung_III.pdf]] -> Bash
+- [[Monad Manifest]]
+- [[Powershell]]
+- [[Bash]]
+	- [[Bash Array]]
+	- [[Bash for loop]]
+	- [[Output redirection]]

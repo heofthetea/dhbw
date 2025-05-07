@@ -8,7 +8,7 @@ $$[L] \subseteq [R_{1}]\ \land\ [R] \subseteq [R_{2}]$$
 
 - $R_{1}$ und $R_{2}$ sind [[Relation|Relationen]]
 - Kombiniert die [[Attribut|Attribute]] von zwei [[Tupel|Tupeln]] $r_{1} \in R_{1}$ und $r_{2} \in R_{2}$ gdw. 
-$$\Pi_{[L]}\set{[r_{1}]} = \Pi_{[R]}\set{[r_{2}]}$$
+$$\Pi_{[L]}\set{[R_{1}]} = \Pi_{[R]}\set{[R_{2}]}$$
 
 
 ## Als Kombination aus Basisoperationen
@@ -43,3 +43,10 @@ $$Mitarbeiter\ \Join_{[MA.Abt\_{Nr}] = [Abt.Abt\_{Nr}]}\ Abteilung$$
 | 1              | John    | Doe        | 1             | IT Abteilung |
 | 2              | Max     | Mustermann | 2             | Marketing    |
 | 3              | Juan    | Perez      | 1             | IT Abteilung |
+
+
+
+
+$$R_{1} \Join_{[A]=[D]} R_{2}$$
+
+

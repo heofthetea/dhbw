@@ -11,3 +11,4 @@
 - Basiert auf [[CMOS]]
 
 > [!hint] Microsoft [[Digital Signature|signiert]] die [[Linux]]-Sachen lol
+

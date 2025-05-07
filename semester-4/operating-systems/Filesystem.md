@@ -1,6 +1,6 @@
 > Ablagestrategie für [[File|Dateien]] auf einem Datenträger
 
-- ermöglicht [[Adressierung]], lesen, verändern und Verhalten von [[File|Dateien]]
+- ermöglicht [[Adressierung]], lesen, verändern, erstellen und Verhalten von [[File|Dateien]]
 
 
 ### Instanzen

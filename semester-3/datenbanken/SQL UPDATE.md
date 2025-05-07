@@ -8,4 +8,4 @@ WHERE <predicate>
 
 > [!warning] Ohne [[SQL WHERE|WHERE statement]] wird das Update für **alle** Zeilen durchgeführt.
 
-- kann auch [[SQL Sonderfunktionen]] verwenden, wie `AVG`
+- kann auch [[Aggregatsfunktion]] verwenden, wie `AVG`

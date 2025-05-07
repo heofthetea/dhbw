@@ -40,8 +40,13 @@ download: yEd Graph Editor (for Darstellungen)
 [[IOT Framework Alm]]
 [[FURPS]]
 
+# 4. Semester 🤮
 - [[SWE Testvorbereitung Basistechniken]] 
+	- [[4 plus 1 Sichtenmodell]]
 	- [[Komponentendiagramm]]
+	- [[Arten der UI-Entwurfe]]
+	- [[Sichten auf ein Produkt]]
+- [[UML-Notationsübersicht_oose.pdf]]
 
 ## Random Stuff
 - [[UML]]

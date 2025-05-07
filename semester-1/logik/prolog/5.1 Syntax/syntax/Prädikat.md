@@ -2,6 +2,7 @@
 
 $$P: M \longrightarrow \mathbb{B}$$
 
+
 ## Prolog
 
 Ein _Prädikat_ ist ein [[Atom]], das als äußerster _Funktor_ in einem [[Komplexer Term|Komplexen Term]] in der [[Wissensbank]] vorkommt.

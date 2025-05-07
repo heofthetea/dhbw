@@ -171,7 +171,7 @@
 - [[Liste vs Array]]
 - [[Doubly vs Singly linked List]]
 ## Sortieren
-- [[Sortieren formal]]
+- [[Sortieren]]
 - [[Lexikalisches Sortieren]]
 
 [[in-place Sortieren]]

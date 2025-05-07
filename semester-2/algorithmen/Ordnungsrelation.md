@@ -1,6 +1,6 @@
 $$\leq$$
 [[Relation]], die eine Ordnung vorgibt
---> Bedingung, nach welcher [[Sortieren formal|sortiert]] wird
+--> Bedingung, nach welcher [[Sortieren|sortiert]] wird
 
 > [!hint] Semantisch gesehen ein zweistelliges [[Prädikat]].
 

@@ -1,12 +1,12 @@
 > $50\%$-[[Quantil]] -> Die Ausprägung in der Mitte
 
-[[Ordinales Skalenniveau]], [[Sortieren formal|Sortieren]] 
+[[Ordinales Skalenniveau]], [[Sortieren|Sortieren]] 
 
 - 50% der Ausprägungen sind größer als die des [[Median]], 50% der Ausprägungen sind kleiner
 
 $$x_{med} = \begin{cases}x_{\frac{n+1}{2}}\ f.\ 2\not{|}n \\ \frac{1}{2} \cdot (x_{\frac{n}{2}} + x_{\frac{n}{2}+1})\ f.\ 2|n\end{cases}$$
 
-> [!warning] [[Daten]] müssen [[Sortieren formal|sortiert]] sein -> Darstellung: $x_{[1]}\dots x_{[n]}$ 
+> [!warning] [[Daten]] müssen [[Sortieren|sortiert]] sein -> Darstellung: $x_{[1]}\dots x_{[n]}$ 
 
 > [!warning] Ist nur für [[Ordinales Skalenniveau]] anwendbar.
 
@@ -18,7 +18,7 @@ $$x_{med} = \begin{cases}x_{\frac{n+1}{2}}\ f.\ 2\not{|}n \\ \frac{1}{2} \cdot (
 ## Beispiel
 ![[Pasted image 20250319085700.png]]
 
-- [[Sortieren formal|sortierter]] Datensatz:
+- [[Sortieren|sortierter]] Datensatz:
 
 ![[Pasted image 20250319085720.png]]
 

@@ -6,6 +6,9 @@
 - [[theorie_praxisphasen.pdf]]
 - [[Notenformel]]
 
+## Misc
+- [[The 7 Horsemen of over-generalization]]
+- [[The Everything Model]]
 
 ## Utilities
 - [[Master Exports]]
@@ -63,12 +66,6 @@
 - [[Hub Cloud Computing]]
 - [[Hub Web Engineering 2]]
 - [[Hub Statistik]]
-
-
-
-
-
-
 
 ## Extern
 - [[Hub Extern]]

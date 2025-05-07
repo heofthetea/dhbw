@@ -1,6 +1,7 @@
 [[Stack]]
 
-- Benutzt für Aufruf von [[Functions]]
+- Benutzt für Aufruf von [[Functions|Funktionen]] & deren Parameter
+- Daten müsen in umgekehrter Reihenfolge ausgelesen werden, wie sie angelegt werden -> LIFO
 
 
 > [!info] [[Programm Counter|PC]] als Rücksprungadresse wird in der Regel in [[Register|Registern]] gespeichert, nicht auf den Stack.

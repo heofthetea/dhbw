@@ -29,7 +29,7 @@ def merge(arr_l, arr_r, out):
 	
 ```
 ### Runtime
-Since lists are known to be [[Sortieren formal|sorted]], only the first elements can be compared
+Since lists are known to be [[Sortieren|sorted]], only the first elements can be compared
 --> The first list is always completely compared with the first one from the second list
 
 --> [[lineare Laufzeit]]$$\in \Theta(n)$$ 

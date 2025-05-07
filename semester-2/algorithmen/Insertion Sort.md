@@ -3,7 +3,7 @@
 [[stable sorting algorithm]], [[out-of-place Sortieren]]
 
 1. gehe [[Array]] von successive von vorne nach hinten durch
-2. schiebe Element an der Stelle $i$ an ihre richtig [[Sortieren formal|sortierte]] Stelle im Output-Array
+2. schiebe Element an der Stelle $i$ an ihre richtig [[Sortieren|sortierte]] Stelle im Output-Array
 
 ==> Out-Array ist einfach der Anfang des In-Arrays für [[in-place Sortieren]] 
 

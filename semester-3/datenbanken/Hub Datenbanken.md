@@ -191,7 +191,7 @@ path: datenbanken/scripts
 	- [[SQL DELETE]]
 		- [[Löschregeln]]
 		- [[Updateregeln]]
-	- [[SQL Zwischentabelle]]
+	- [[Zwischentabelle]]
 
 #### Übungen
 - [[Gargantuan Übung Ternäre Beziehung SQL]]
@@ -199,6 +199,26 @@ path: datenbanken/scripts
 - [[Übung Löschregeln]]
 - [[Löschregeln ternäre Beziehung]]
 - [[Übung Softwarehaus interne Projekte]]
+
+## 6.2 DQL
+[[DB_Kap06_2_SQL_DQL_View_Stud.pdf]]
+ - [[SQL select]]
+	 - [[SQL order by]]
+	 - [[SQL Prädikate]]
+	 - [[Aggregatsfunktion]]
+	 - [[SQL Group By]]
+ - [[Abarbeitungsreihenfolge SELECT]]
+ - [[Unterabfragen]]
+	 - [[Sub-queries mit Relationen]]
+ - [[Postgres SERIAL]]
+ - [[Abarbeitung einer Abfrage]]
+
+#### Übungen
+- [[Übung Select]]
+- [[Gargantuan Übung Select]]
+- [[Übung Sub-queries]]
+- [[Übung Sub-query insert]]
+- [[Übung Serial durch Alter Table]]
 
 ## 7 Relationale Algebra
 - [[DB_Kap07_Relationale Algebra_Stud.pdf]]
@@ -215,12 +235,16 @@ path: datenbanken/scripts
 	- [[Operatorbaum]]
 		- [[Optimierung Operatorbaum]]
 - [[Verkettung]]
-
+- [[RelAlg Aggregation]]
+- [[RelAlg Schnitt]]
 ### Joins
 - [[Equi Join]]
+- [[Theta Join]]
 
+[[Equi Join.pptx]]
 ### Übungen
 - [[Übung Relationale Algebra]]
+
 ## Postgres misc
 - [[Postgres locale]]
 - [[PGadmin backup]]

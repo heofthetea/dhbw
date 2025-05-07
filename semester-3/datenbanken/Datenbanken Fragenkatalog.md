@@ -317,13 +317,44 @@
 > - Damit [[DBMS]] weiß, wie es die [[Referenzielle Integrität]] überwachen soll
 > - Spezifizieren, wie [[DBMS]] reagieren soll, wenn gelöscht wird, um diese Integrität realisiert zu halten.
 
-> [!question]- 78\. In welchem Zusammenhang werwenden wir welche [[Löschregeln|Löschregel]]?
+> [!question]- 77\. In welchem Zusammenhang werwenden wir welche [[Löschregeln|Löschregel]]?
 > - CASCADE - [[Schwacher Entitätstyp]]
 > - set [[null]] - wenn "schwache" Entität auch ohne Beziehung existieren kann
 > - RESTSRICT: wenn es keinen [[Semantik|semantischen]] Sinn ergibt, die Entität ohne eine Beziehung zu haben.
 
-> [!question]- 79\. Was ist beim Aufstellen der Löschregeln in einer Beziehungsstruktur in einer Datenbank zu beachten?
+> [!question]- 78\. Was ist beim Aufstellen der Löschregeln in einer Beziehungsstruktur in einer Datenbank zu beachten?
 > - In Miniwelt soll nirgends ein [[Zyklus]] entstehen, bei dem alles gelöscht werden kann
 
-> [!question]- 80\. Warum ergibt ein SET NULL bei der Updateregel keinen Sinn?
+> [!question]- 79\. Warum ergibt ein SET NULL bei der Updateregel keinen Sinn?
 > - [[Fremdschlüssel]] zeigt auf einen [[PRIMARY KEY Constraint|Primärschlüssel]] => [[null]] als Primärschlüssel gibt es nicht (??)
+
+## 12
+> [!question]- 80\. Was versteht man unter einer [[Relation]]?
+> Eine [[Relation]] ist eine [[Teilmenge]] der [[Kartesisches Produkt|Produktmenge]].
+
+
+> [!question]- 81\. Was ist das Ergebnis einer [[Operationen auf Relationen|Operation auf einer Relation]]?
+> Eine neue [[Relation]].
+
+> [!question]- 82\. Beschreiben Sie kurz, was in der [[Relationale Algebra|Relat. Algebra]] unter einer [[Selektion]] und einer [[Projektion]] verstanden wird.
+> - [[Selektion]]: Wählt aus einer [[Relation]] alle [[Tupel]] aus, die einer Bedingung entsprechen
+> - [[Projektion]]: Wählt aus einer [[Relation]] für **jedes** [[Tupel]] eine Menge aus [[Attribut|Attributen]] aus
+
+> [!question]- 83\. Was ist das [[Prädikat]] einer Operation und was ist sein Ergebnis?
+> - Ist eine Bedingung, und equates to either true or false.
+
+> [!question]- 84\. Ist eine Verknüpfung der Operationen [[Selektion]] und [[Projektion]] [[Kommutativität|kommutativ]]?
+> - Nein - Bei der [[Projektion]] geht Informatioin über Attribute verloren, diese Attribute könnten aber für die [[Selektion]] relevant sein
+
+> [!question]- 85\. Was bedeutet der Satz: In der [[Relationale Algebra|Relationalen Algebra]] gibt es keine Multimengen?
+> In jeder [[Relation]] kommen keine [[Tupel]] doppelt vor. (Kommt aus der [[Menge|Mengendefinition]]) => ist wichtig, weil das in [[SQL]] nicht gegeben ist.
+
+> [!question]- 86\. Was muss bei der [[Vereinigung]] zweier [[Relation]]en gleich sein, damit dies erlaubt ist?
+> - Das [[Schema einer Relation|Schema]] der Relationen.
+
+> [!question]- 87\.Wie sieht das [[Schema einer Relation|Schema]] der Ergebnisrelation nach einem [[RelAlg Kreuzprodukt|Kreuzprodukt]] aus?
+> $[R'] = [R_{1}]\cup [R_{2}]$
+
+> [!question]- 88\. Wozu benötigt man die Operation [[Umbenennung]]?
+> Um Verwirrung bei der Verbindung zweier [[Relation|Relationen]] zu verhindern, da zwei Attribute jeweils gleich heißen. Auch [[Relation|Relationen]] können umbenannt werden, z.B. um sie mit sich selbst zu verbinden.
+

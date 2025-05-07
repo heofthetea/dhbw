@@ -8,7 +8,7 @@
 2. [[Memory|Speicher]]
 	1. für Daten - _womit_ wird gearbeitet? [[Datenspeicher]]
 	2. für Programme - _was_ wird gearbeitet? [[Befehlsspeicher]]
-3. I/O - Kommunikation nach Außen ([[Device File]])
+3. I/O - Kommunikation nach Außen ([[Device]])
 4. [[BUS-System]] - für interne Kommmunikation
 
 #### Zusätzliche Komponenten

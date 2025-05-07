@@ -22,7 +22,7 @@
 ### Signature Generation
 1. Decompose the [[Nachricht|Message]] into $k$ strings of length $a$ (in [[Bit]]) => $l_{0}\ \dots\,l_{k-1}$
 2. From each [[Merkle Tree]] $i$ choose one [[Blatt|leaf]] $sk_{i,\ j}$ 
-3. [[Konkatenation|Concatenate]] the chosen leaves
+3. [[Konkatenation|Concatenate]] the chosen leaves -> put this information into the [[Digital Signature|signature]]
 4. For each [[Merkle Tree]]: Compute the required [[Merkle Tree#Authentication Pfad Path|Authentication Path]] to reconstruct each [[Wurzel|root]] $r_{i}$
 
 ![[Pasted image 20250413142240.png]]

@@ -125,3 +125,9 @@
 	- [[Normalverteilung]]
 		- [[Quantiltabelle]]
 	- [[Standard-Normalverteilung]]
+
+## 07 Zweidimensionale Verteilung
+okay i guess wir machen das nicht..... dafuqqq??????
+## 08 Schätzung
+- [[Schätzung]]
+- [[Schätzer]]

@@ -12,3 +12,4 @@ aliases:
 - [[CPU]] und [[RAM]] bleiben weitestgehend aktiv
 
 > [!hint] Bei Handys, wenn ungenutzt -> Bildschirm aus.
+

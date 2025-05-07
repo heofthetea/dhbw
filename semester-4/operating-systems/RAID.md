@@ -9,7 +9,7 @@ aliases:
 - [[Parity]] Disks -> z.B.: Auf einer Platte wird [[Redundanz]] als [[XOR]] zweier anderen Platten gespeichert
 
 > [!warning]- [[RAID]] ist **kein Backup**!
-> Wird eine [[File|Datei]] gelöscht, ist sie auf _allen_ Platten weg
+> **Wird eine [[File|Datei]] gelöscht, ist sie auf _allen_ Platten weg**
 > In einem Backup wäre sie nach wie vor vorhanden
 
 - RAID 5: verteilt [[Parity]] über alle Platten (wird idR bei NAS systemen benutzt)

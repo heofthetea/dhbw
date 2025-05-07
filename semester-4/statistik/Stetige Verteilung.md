@@ -11,4 +11,6 @@
 
 [[Dichtefunktion]]
 - Summe des [[Erwartungswert]] wird [[Stetigkeit|stetig]] -> wird zu [[Integral]]
-$$E(X) = \int\limits_{-\infty}^{\infty} xf(x)\,dx$$
+- Sei die [[Dichtefunktion]] $f(x)$ definiert auf $x \in [a, b]$
+$$E(X) = \int\limits_{a}^{b} xf(x)\,dx$$
+

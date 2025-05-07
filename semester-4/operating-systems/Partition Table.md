@@ -8,9 +8,8 @@
 - [[Master Boot Record|MBR]] ehemaliger Standard 
 - [[GUID Partition Table]] ist heutzutage weitverbreitester Standard
 
-
 ## Aufbau in [[Master Boot Record|MBR]]
-- hisstorisch: Kann nur 4 [[Partition|Partitionen]] speichern
+- historisch: Kann nur 4 [[Partition|Partitionen]] speichern
 - [[CHS Format]] 
 - Für größere Platten: [[LBA Format]]
 
