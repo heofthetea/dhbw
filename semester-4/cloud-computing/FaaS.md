@@ -8,7 +8,7 @@ aliases:
 - they do everything else
 
 > [!question] Why?
-> Minimizes compute time - customer is billed only when the provided [[Functions|Function]] actually runs.
+> Minimizes compute time - customer is billed only when the provided [[Function|Function]] actually runs.
 
 ## Knative Implementation
 

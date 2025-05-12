@@ -8,6 +8,8 @@ https://owncloud.dhbw-stuttgart.de/index.php/s/ApXMZDmaE2QFbBg
 - [[Security vs. Privacy]]
 - [[Conway's law]]
 
+### Klausurvorbereitung lol
+- [[Klausurvorbereitung Cloud]]
 ## Basics
 [[Cloud_Computing_Introduction.pdf]]
 - [[Cloud]]
@@ -116,7 +118,20 @@ https://owncloud.dhbw-stuttgart.de/index.php/s/ApXMZDmaE2QFbBg
 - [[FaaS]]
 - [[Capacity and Scaling Profiles]]
 
-## SaaS
+### Microservice
+- [[Microservice]]
+- [[12 factor app]]
+- [[Cloud_Computing_12App_Micro_Services.pdf]]
+
+## Data Persistence
+- [[Cloud_Computing_NoSQL.pdf]]
+- [[Key Storage]]
+- [[Data Consistency]]
+- [[Distributed Data storage]]
+- [[NoSQL]]
+	- [[CAP theorem]]
+- [[CouchDB]]
+## Saas
 - [[SaaS]]
 
 

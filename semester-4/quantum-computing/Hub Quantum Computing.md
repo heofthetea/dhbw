@@ -87,3 +87,5 @@
 - [[Store Now Decrypt Later]]
 - [[Grover's Algorithm]]
 - [[Security through Obscurity]]
+
+[[Concatenation QC]]

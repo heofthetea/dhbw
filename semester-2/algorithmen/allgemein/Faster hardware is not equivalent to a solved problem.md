@@ -4,10 +4,10 @@
 ### Modern hardware is overpowered
 - Gigabytes in Main storage
 - Terabytes in mass storage
-- billions of operations per second
+- [[CPUs are fast]]
 
 
---> Bad programming forces every hardware to its knees
+-> Bad programming forces every hardware to its knees
 
 
 

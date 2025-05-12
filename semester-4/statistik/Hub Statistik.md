@@ -125,9 +125,27 @@
 	- [[Normalverteilung]]
 		- [[Quantiltabelle]]
 	- [[Standard-Normalverteilung]]
+	- [[Exponentialverteilung]]
 
 ## 07 Zweidimensionale Verteilung
 okay i guess wir machen das nicht..... dafuqqq??????
 ## 08 Schätzung
+
+### Punktschätzung
 - [[Schätzung]]
 - [[Schätzer]]
+- [[Punktschätzer]]
+	- [[Erwartungstreue]]
+	- [[Bias]]
+	- [[Mean Square Error]]
+- [[Stichprobe]]
+- [[Punktschätzer Mittelwert]]
+- [[Punktschätzer Varianz]]
+- [[Beispiel Schätzer]]
+
+### Intervallschätzung
+- [[Intervallschätzung]]
+	- [[Konfidenzintervall]]
+	- [[Intervallschätzer von Anteilen]]
+	- [[Intervallschätzer Normalverteilung]]
+	- [[Schätzung einseitiges Konfidenzintervall]]

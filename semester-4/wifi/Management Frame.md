@@ -1,7 +1,7 @@
 [[WLAN Frame]] für management lol
 
 - Auffinden eines [[Access Point]]
-- An- und Abmelden einer Station
+- An- und Abmelden einer [[Station]]
 - Datenverwaltung während Stromsparmodus
 	- Beispiel: [[Beacon Frame]]
 

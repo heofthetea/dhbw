@@ -1,6 +1,7 @@
 
-### Prüfungsfragen
+### Prüfungsvorbereitung
 - [[Prüfungsfragen WLAN]]
+- [[Library WLAN]]
 
 ### Resources
 [[WLAN-Vorlesung_Teil-1.pdf]]
@@ -163,9 +164,21 @@
 - [[Hindernisse für Funkwellen]]
 - [[Übung Sendeleistung]]
 
-## Security FUCKING FINALLY
+## Security COMPLETELY BUTCHERED
 - [[Schutzziele WLAN]]
 - [[End-to-End Encryption]]
 - [[WEP Encryption]]
-	- [[Probleme mit WEP]]
+	- [[WEP Disaster]]
 - [[WPA]] 
+	- [[WPA Modi]]
+	- [[WPA PRF]]
+	- [[Group Key]]
+	- [[TKIP Encryption]]
+	- [[TKIP Decryption]]
+	- [[TKIP Header]]
+- [[WPA2]]
+	- [[AES]]
+	- [[CCMP Encryption]]
+	- [[CCMP Decryption]]
+- [[WPA3]]
+- [[Hub Security]]

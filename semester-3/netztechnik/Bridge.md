@@ -1,4 +1,4 @@
-> [[Repeater]], der [[Kollision (Zugriffsverfahren)|Kollisionen]] nicht weiterleitet
+> [[Repeater]], der [[semester-3/netztechnik/Kollision|Kollisionen]] nicht weiterleitet
 
 [[Layer 2]]
 

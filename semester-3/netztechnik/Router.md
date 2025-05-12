@@ -6,7 +6,7 @@
 ![[Pasted image 20241030111751.png]]
 
 - [[Broadcast]] auf Ebene 2 abgehandelt --> nicht von [[Router]] weitergeleitet
-- [[Kollision (Zugriffsverfahren)]] auf Ebene 1 abgehandelt --> nicht weitergeleitet
+- [[semester-3/netztechnik/Kollision]] auf Ebene 1 abgehandelt --> nicht weitergeleitet
 
 
 > [!hint] Schränken Broadcast- und Kollisions-Domänen ein.

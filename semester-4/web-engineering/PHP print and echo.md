@@ -1,6 +1,6 @@
 [[PHP]]
 
-- print ist [[Functions|Funktion]] - hat return value
+- print ist [[Function|Funktion]] - hat return value
 
 
 ## Kurzausgabe

@@ -12,6 +12,8 @@
 - [[Library Datenbanken 1]]
 - [[Library Modellierung]]
 - [[Library DB Normalisierung]]
+- [[Library Relationale Algebra]]
+- [[Library SQL]]
 ## Projekt
 [Link zu moodöl](https://elearning.dhbw-stuttgart.de/moodle/mod/folder/view.php?id=394622)
 [[DB_Semesteraufgabe_Studierende.pdf]]
@@ -212,6 +214,9 @@ path: datenbanken/scripts
 	 - [[Sub-queries mit Relationen]]
  - [[Postgres SERIAL]]
  - [[Abarbeitung einer Abfrage]]
+ - [[Unterschied Join und Kreuzprodukt]]
+ - [[Join over multiple tables]]
+ - [[SQL WITH AS]]
 
 #### Übungen
 - [[Übung Select]]
@@ -219,6 +224,7 @@ path: datenbanken/scripts
 - [[Übung Sub-queries]]
 - [[Übung Sub-query insert]]
 - [[Übung Serial durch Alter Table]]
+- [[Übungen vorlesung 13]]
 
 ## 7 Relationale Algebra
 - [[DB_Kap07_Relationale Algebra_Stud.pdf]]
@@ -240,10 +246,27 @@ path: datenbanken/scripts
 ### Joins
 - [[Equi Join]]
 - [[Theta Join]]
+- [[Natural Join]]
+- [[Left outer Join]]
+- [[Full Outter Join]]
+- [[Semi Join]]
 
 [[Equi Join.pptx]]
 ### Übungen
 - [[Übung Relationale Algebra]]
+
+
+## 8 Views
+- [[Benutzersicht]]
+- [[SQL View]]
+	- [[SQL View Rules]]
+	- [[Einfügen in View]]
+	- [[Datenunabhängigkeit von View]]
+
+### Übungen
+- [[Übung Views]]
+
+
 
 ## Postgres misc
 - [[Postgres locale]]

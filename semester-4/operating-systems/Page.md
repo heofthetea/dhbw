@@ -4,3 +4,6 @@
 - wird von [[MMU]] mithilfe einer [[Lookup Table]] auf einen physischen [[Segment|Speicherblock]] gemappt
 
 
+
+> [!hint] In Praxis ist Page size idR power of 2.
+

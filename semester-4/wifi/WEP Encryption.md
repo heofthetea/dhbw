@@ -1,11 +1,17 @@
+> Wired-equivalent Privacy (Ziel: gleiche Sicherheit wie über [[Ethernet]])
+
 [[symmetric Encryption]], [[Pseudo-random Function]]
 
 - Auswahl aus einem von 4 Schlüsseln -> wird festgelegt in [[WLAN Frame|Frame Header]], welcher das ist
 - IV wird in Kombination mit [[Cryptographic Key|Schlüssel]] als Seed für [[Pseudo-random Function|PRF]] verwendet, um tatsächlichen symmetrischen Schlüssel zu bekommen
 
+> [!hint] Schlüssel werden generiert ausgehend von dem infamous WLAN-Passwort.
+
 > [!warning] Schlüsselströme wiederholen sich -> ermöglicht irgendwann [[Häufigkeitsanalyse]].
 
-> [!warning] Problem: IV ist in Klartext -> Teil des Schlüssels wird veröffentlicht
+> [!error] Problem: IV ist in Klartext -> Teil des Schlüssels wird veröffentlicht
+
+> [!error] Problem: Schlüsselgröße mit $64b$ viel zu klein
 
 ![[Pasted image 20250424112212.png]]
 ## Encryption

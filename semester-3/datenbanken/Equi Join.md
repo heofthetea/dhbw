@@ -2,12 +2,14 @@
 
 $$R' = R_{1}\ \Join_{[L] = [R]}\ R_{2}$$
 $$[R'] = [R_{1}] \cup [R_{2}]$$
+> [!hint] ist $[R] \neq [L]$, kommen beide [[Attribut|Attribute]] mit identischen Inhalten in $R'$ vor.
+
 - Vorraussetzungen:
 $$[L] \subseteq [R_{1}]\ \land\ [R] \subseteq [R_{2}]$$
 
 
 - $R_{1}$ und $R_{2}$ sind [[Relation|Relationen]]
-- Kombiniert die [[Attribut|Attribute]] von zwei [[Tupel|Tupeln]] $r_{1} \in R_{1}$ und $r_{2} \in R_{2}$ gdw. 
+- Kombiniert die [[Relation|Relationen]] und includiert genau die [[Tupel]] $r_{1}\in R_{1},\ r_{2} \in R_{2}$, für die gilt:
 $$\Pi_{[L]}\set{[R_{1}]} = \Pi_{[R]}\set{[R_{2}]}$$
 
 
@@ -15,6 +17,12 @@ $$\Pi_{[L]}\set{[R_{1}]} = \Pi_{[R]}\set{[R_{2}]}$$
 [[RelAlg Kreuzprodukt]], [[Selektion]]
 $$\sigma_{[L] = [R]}(R_{1} \times R_{2})$$
 
+## SQL
+```sql
+SELECT *
+FROM R1
+JOIN R2 USING (Attribute1, ...)
+```
 
 ## Beispiel
 

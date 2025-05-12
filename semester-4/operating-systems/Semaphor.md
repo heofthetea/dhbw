@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lock
+---
 > Nicht [[Betriebssystem|OS]], sondern [[Prozess]] selbst steuert den [[Kritischer Abschnitt|Kritischen Abschnitt]] 
 
 - Für jede zu schützende Datenmenge wird eine **Sperrvariable** (= Semaphor) definiert

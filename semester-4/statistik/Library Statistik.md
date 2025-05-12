@@ -66,4 +66,8 @@
 	- $P(X = k) = p \cdot (1-p)^{k-1}$ 
 
 ## Stetige Verteilungen
-- 
+#todo stetige Verteilungen
+
+
+## Schätzer
+#todo schätzer (und übungen FUUUUUUCCKKKKK)

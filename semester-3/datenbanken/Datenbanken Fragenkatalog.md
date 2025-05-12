@@ -358,3 +358,40 @@
 > [!question]- 88\. Wozu benötigt man die Operation [[Umbenennung]]?
 > Um Verwirrung bei der Verbindung zweier [[Relation|Relationen]] zu verhindern, da zwei Attribute jeweils gleich heißen. Auch [[Relation|Relationen]] können umbenannt werden, z.B. um sie mit sich selbst zu verbinden.
 
+## 13
+> [!question]- 89\. Welche Möglichkeiten der Einschränkung in der WHERE-klausel kennen Sie?
+> IN, reguläre [[Prädikat|Prädikate]], BETWEEN, LIKE -> [[SQL Prädikate]]
+
+> [!question]- 90\.Wir suchen die Anzahl Mitarbeiter und das Durchschnittsgehalt. Wie schreiben Sie das in [[SQL]]?
+> ```sql
+> SELECT count(*), avg(gehalt) from mitarbeiter;
+
+> [!question]- 91\. Was an dem nachfolgenden SQL-Statement ist falsch und warum?
+> ![[Pasted image 20250507123202.png]]
+> Gehalt wird ausgegeben, aber wird nicht gruppiert
+> Lösung: in Group by clause einfügen, oder in [[Aggregatsfunktion]] verwenden
+
+> [!question]- 92\. In welcher [[Abarbeitungsreihenfolge SELECT|Reihenfolge]] arbeitet das [[DBMS]] ein [[SQL select]] ab?
+> 1. from
+> 2. where
+> 3. group by
+> 4. having
+> 5. select
+> 6. order by
+
+> [!question]- 93\. Was versteht man unter einer [[Unterabfragen|Unterabfragen]] und wozu verwendet man sie?
+> - In einem SQL query einen weitere, logisch vollständigen Query verwenden, um dessen Ergebnis zu verwenden
+> - Dynamisches Erhalten von Werten innerhalb einer Abfrage
+
+> [!question]- 94\. Wie kann ich den Vergleich "jahr=1958 oder jahr=1980" in einer [[Unterabfragen|Unterabfragen]] schreiben?
+> 1. in
+> 2. exists und any
+
+> [!question]- 95\. Warum verwenden wir bei der Unterabfrage ANY, ALL, EXISTS und IN?
+> - um auch mit Unterabfragen arbeiten zu können, die [[Relation|Relationen]] zurück zu geben, anstatt eines einzelnen Wertes
+
+> [!question]- 96\. Was lege ich mit dem Statement `CREATE SEQUENCE` an, und wozu verwenden wir dies?
+> [[Postgres SERIAL]]
+> - Eine Variable, die automatisch hochzählt -> [[Übung Serial durch Alter Table]]
+
+

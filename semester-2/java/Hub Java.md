@@ -80,6 +80,7 @@ compilation:
 [[Java Array]]
 [[Type Casting]]
 
+[[Java Record]]
 
 [[Reference Equality]]
 

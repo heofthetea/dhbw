@@ -1,7 +1,7 @@
 [[WLAN]], [[WLAN im Schichtenmodell]]
 
 - in drei Teile aufgeteilt
-	- Station-Management-Entity SME: Das gesamte Gerät verwalten
+	- [[Station]]-Management-Entity SME: Das gesamte Gerät verwalten
 	- Layer-Management Entity: Stößt Verfahren an ("mach mal")
 	- letzte Ebene?: macht das Zeug
 - Kommunikation über [[SAP|Service Access Points]] 

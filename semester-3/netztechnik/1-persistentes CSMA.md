@@ -2,9 +2,9 @@
 
 [[CSMA CD]]
 
-- Station 1 sendet
-	- Station 2 und 3 warten, bis $1$ mit senden fertig ist
-- nach Erkennung von [[Kollision (Zugriffsverfahren)]]: beide warten eine _zufällige Zeit_
+- [[Station]] 1 sendet
+	- [[Station]] 2 und 3 warten, bis $1$ mit senden fertig ist
+- nach Erkennung von [[semester-3/netztechnik/Kollision]]: beide warten eine _zufällige Zeit_
 
 > [!hint] aggressivstes Vorgehen - vgl. 23B bei den Mathe-Aufgaben
 

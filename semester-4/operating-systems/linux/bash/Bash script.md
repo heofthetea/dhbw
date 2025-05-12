@@ -4,6 +4,6 @@
 
 [[Bash if statement]]
 
-[[Bash switch-case]]
+[[Bash case]]
 
 [[Bash logical operators]]

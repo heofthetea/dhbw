@@ -253,7 +253,7 @@
 	- [[Übung Hashing]] (! important resource)
 	- [[Optimale Füllung Hash Maps]]
 	- [[Hashing von Strings]]
-- [[Kollision]]
+- [[semester-2/algorithmen/Kollision]]
 	- [[Linear Probing]]
 	- [[Chaining]]
 	- [[Re-hashing]]

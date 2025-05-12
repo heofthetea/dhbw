@@ -6,3 +6,11 @@ $$[R'] := [R_{1}]=[R_{2}]$$
 
 - Enthält die [[Tupel]], die in beiden [[Relation|Relationen]] vorkommen
 - Vorraussetzungen: $[R_{1}] = [R_{2}]$
+
+
+## SQL
+```sql
+SELECT vorname FROM mitarbeiter
+INTERSECT
+SELECT vorname FROM kunde;
+```

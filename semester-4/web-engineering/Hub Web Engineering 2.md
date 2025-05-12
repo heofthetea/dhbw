@@ -34,6 +34,7 @@
 - [[MIME-Type]]
 - [[MVC]] 
 - [[REST]]
+- [[WebSocket]]
 ## Code
 
 ```expander
@@ -61,3 +62,20 @@ Path: semester-4/web-engineering/code
 ## Se Projekt
 
 [[Projektspezifikation Web 2]]
+
+[[Horsey Websocket diagram]]
+
+
+### Vue
+[[Vue.js]]
+
+- [[Vue Composition API]]
+- 
+- [[Vue Model]]
+- [[Vuex Store]]
+	- [[Vuex Store setup]]
+- [[Vue Router]]
+- [[vue prop]]
+- [[vue slot]]
+- [[Vue event listerner]]
+

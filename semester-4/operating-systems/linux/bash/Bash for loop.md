@@ -19,7 +19,9 @@ done
 either use [[unix seq]]
 or:
 ```bash
-for i in {1..10}; do
+for i in {1..10..2}; do
 	echo $i
 done
 ```
+
+- Reihenfolge: `start...end...increment`

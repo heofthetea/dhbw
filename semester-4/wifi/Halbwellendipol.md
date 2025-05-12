@@ -1,6 +1,7 @@
 > Dipol, der eine **halbe** [[Wellenlänge]] emittieren kann
 
-
+- magnetische Ausrichtung: Wellen orthogonal zu [[Antenne]]
+- elektrische Ausrichtung: parallel zu [[Antenne]]
 
 Grundlage für [[Antenne]]
 - Stromfluss durch Leiter erzeugt elektromagnetisches Feld

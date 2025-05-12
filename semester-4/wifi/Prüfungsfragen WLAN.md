@@ -154,3 +154,47 @@
 	2. [[Shared Key Authentication]] -> [[DEE|Endgerät]] und [[Access Point|AP]] brauchen ein gemeinsames Passwort
 3. [[WLAN Assoziation]]
 	1. aushandeln der Rollenverteilung (welche Protokolle kann das Gerät etc.)
+
+## Auf welcher Ebene im [[OSI-7-Schichten Modell]] funktioniert [[Quality of Service]]?
+- [[Layer 2]] -> in [[WLAN MAC Header|MAC]] Ebene (nicht LLL)
+	- und halt auch [[EDCA]] -> hier passiert tatsächlich das [[Quality of Service|QoS]]
+- Warum hier?
+	- Weil die Priorität direkt Einfluss nimmt auf den Backoff Timer im [[CSMA CA]]
+
+> [!hint] hier passiert auch [[Distributed Coordination Function|DCF]] und [[Point Coordination Function|PCF]] 
+
+## Welche Antennenbauformen kennen Sie?
+- [[Halbwellendipol]] (für halbe [[Wellenlänge]])
+- Richtantennen:
+	- [[Yagi-Antenne]] - [[Halbwellendipol]] mit extra Reflektoren
+	- Parabolantennen - Satellitenschüsseln z.b.
+- [[Patch Antenne]] - idfk WLAN ist so ein bullshit
+
+### Anordnung ([[Dipolgruppen]])
+- vertikal stacken (Dipollinie)
+- horizontal (Dipolreihe)
+
+## Was ist der [[Antennengewinn]]?
+- Wie weiter breitet sich eine gerichtete [[Antenne]] aus, verglichen zu einem [[Isotroper Strahler|isotropen Strahler]]
+- gemessen in dBm
+
+> [!question] Was heißt "3db" Unterschied?
+> So viel stärker ist halt die Leistung beim Empfänger
+
+- wieso ist das Wichtig?
+	- Weil vorgeschrieben ist, wie viel Leistung maximal verwendet werden darf
+	- => man muss entsprechend die [[Sendeleistung]] abgleichen mit Vorgab
+
+## Freiraumausbreitung/Hindernisse
+[[Hindernisse für Funkwellen]]
+
+- Reflektion
+- Absorption => umgewandelt in thermische Energie
+- Beugung => Am Hindernis vorbei
+- Transmission (kommt durch)
+
+## Hidden Station Problem
+- setup [[Infrastruktur BSS]] mit zwei [[Station|Stationen]]
+- Beide sehen einander nicht, aber den Access point
+- wenn sie jetzt [[CSMA CA]] machen, funktioniert carrier sense nicht gescheit -> [[semester-3/netztechnik/Kollision|Kollision]] um den [[Access Point|AP]] herum
+	- => requires [[RTS CTS]]

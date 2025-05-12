@@ -5,7 +5,7 @@
 
 > [!hint] Manchmal wird [[BSSID]] vom [[Access Point]] nicht im [[Beacon Frame]] broadcastet (Sicherheitsgründen) => [[#Active Scanning]]
 
-> [!warning] An diesem Punkt gibt es aber noch keine Rollenverteilung => Wer [[Access Point]] ist, und wer nur Station, wird erst in [[WLAN Assoziation|Assoziation]] ausgehandelt.
+> [!warning] An diesem Punkt gibt es aber noch keine Rollenverteilung => Wer [[Access Point]] ist, und wer nur [[Station]], wird erst in [[WLAN Assoziation|Assoziation]] ausgehandelt.
 ## Active Scanning
 
 - Probe Request -> [[DEE|Endgerät]] fragt [[Access Point]], was er kann

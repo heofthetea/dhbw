@@ -13,7 +13,7 @@
 > [!hint] erlaubt maximal $2.5$km Distanz zwischen zwei verbundenen Netzwerken
 > Ist erweiterbar, indem man Repeater untereinander mit [[Glasfaser]] verbindet
 
-> [!error] Wenn in einem [[Netzwerk]] eine [[Kollision (Zugriffsverfahren)|Kollision]] stattfindet, leitet [[Repeater]] diese in alle Netze weiter --> Eine Kollision in einem Teilnetz legt das ganze Netz lahm
+> [!error] Wenn in einem [[Netzwerk]] eine [[semester-3/netztechnik/Kollision|Kollision]] stattfindet, leitet [[Repeater]] diese in alle Netze weiter --> Eine Kollision in einem Teilnetz legt das ganze Netz lahm
 
 
 ## Klassen

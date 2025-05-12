@@ -123,7 +123,7 @@
 
 ### Medienzugriffsverfahren
 [[Zugriffsverfahren]]
-[[Kollision (Zugriffsverfahren)]]
+[[semester-3/netztechnik/Kollision]]
 [[CSMA]]
 - [[CSMA CD]]
 - [[CSMA CA]]

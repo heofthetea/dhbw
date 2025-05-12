@@ -19,7 +19,7 @@
 ## Contents
 [[C concepts]]
 [[Pointer]]
-[[Functions]]
+[[Function]]
 [[String|String]]
 [[Structs]]
 [[switch-case]]

@@ -1,4 +1,4 @@
-Uses the same [[Cryptographic Key|Key]] for both en- and decryption
+> Uses the same [[Cryptographic Key|Key]] for both en- and decryption
 
 [[Encryption]], [[XOR]]
 

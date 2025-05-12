@@ -128,7 +128,7 @@
 
 ## Forking
 - [[Forking]]: Erstellen eines [[Kindprozess|Kindprozesses]] durch Abspalten vom [[Prozess|Elternprozess]]
-	- Systemaufruf zu [[Functions|Funktion]] `fork()`
+	- Systemaufruf zu [[Function|Funktion]] `fork()`
 	1. Neue Prozessumgebung erstellen
 	2. Neuen [[Addressraum]] erstellen
 	3. Kopieren des Eltern-[[Addressraum|Addressraums]] in den neuen [[Addressraum]] 

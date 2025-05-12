@@ -9,7 +9,7 @@
 [[Interruptlogik direkt an CPU]]
 - [[Interrupt Handling durch Oder]]: Es gibt einen [[BUS-System|Bus]] für [[INTA]] und [[INTR]], an den sich alle Geräte anhängen
 
-> [!error]- Es gibt kein [[Zugriffsverfahren]], aber trotzdem Risiko für [[Kollision (Zugriffsverfahren)|Kollisionen]] => Das ganze geht ziemlich schnell den Bach runter lol
+> [!error]- Es gibt kein [[Zugriffsverfahren]], aber trotzdem Risiko für [[semester-3/netztechnik/Kollision|Kollisionen]] => Das ganze geht ziemlich schnell den Bach runter lol
 
 - [[Daisy Chain]]
 	- Geräte sind in Reihe Geschaltet

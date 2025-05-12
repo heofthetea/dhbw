@@ -21,6 +21,11 @@
 [[Fiktiver Leser]]
 
 
+#### Structure of scientific papers
+- [[Scientific Introduction]]
+- [[Scientific Conclusion]]
+
+
 ### Tipps
 [[How to Einstieg (Überwindung Schreibblockaden)]]
 [[Beispielgliederung Praxisbericht]]

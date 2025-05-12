@@ -12,7 +12,7 @@
 	- deterministisch: durch tokens; Ich kann vorhersagen, wann [[Paket]] ankommt
 - **stochastisch**: 
 	- [[CSMA]]: jeder teilnehmer muss hören, ob [[Leitung]] frei ist
-		- [[CSMA CD|CD]] (Collision Detection): wenn Leitung frei, dürfen alle gleichzeitig drauf zugreifen - [[Kollision (Zugriffsverfahren)|Kollision]] beim Senden muss erkannt werden
+		- [[CSMA CD|CD]] (Collision Detection): wenn Leitung frei, dürfen alle gleichzeitig drauf zugreifen - [[semester-3/netztechnik/Kollision|Kollision]] beim Senden muss erkannt werden
 		- [[CSMA CA|CA]] (Collision Avoidance): Standard für WLAN/Funk
-			- Versucht, [[Kollision (Zugriffsverfahren)|Kollisionen]] zu outright zu vermeiden
+			- Versucht, [[semester-3/netztechnik/Kollision|Kollisionen]] zu outright zu vermeiden
 	- [[ALOHA]] 

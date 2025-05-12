@@ -1,9 +1,10 @@
 > Request-to-Send/Clear-to-send
 > Lösung für [[Hidden Station Problem]]
 
+[[Distributed Coordination Function|DCF]]
 
-- Will eine Station Daten senden, wird ein Control Frame (Request to Send) an den [[Access Point]].
-	- **Nur** wenn ein Clear-To-Frame zurück kommt, darf Station schicken
+- Will eine [[Station]] Daten senden, wird ein Control Frame (Request to Send) an den [[Access Point]].
+	- **Nur** wenn ein Clear-To-Frame zurück kommt, darf [[Station]] schicken
 
 ![[Pasted image 20250403095618.png]]
 

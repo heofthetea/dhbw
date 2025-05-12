@@ -6,12 +6,12 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 39.01918976545842,
+        "dimension": 48.18763326226012,
         "children": [
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 52.52140818268316,
+            "dimension": 64.50999048525215,
             "children": [
               {
                 "id": "3578ff700070f6e6",
@@ -27,22 +27,6 @@
                   "pinned": true,
                   "icon": "lucide-file",
                   "title": "Hub Betriebssysteme"
-                }
-              },
-              {
-                "id": "6335bae433eb7661",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/quantum-computing/Hub Quantum Computing.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Hub Quantum Computing"
                 }
               },
               {
@@ -62,19 +46,19 @@
                 }
               },
               {
-                "id": "e0524d2c7451d0c2",
+                "id": "806cf93b18e78e81",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/web-engineering/Hub Web Engineering 2.md",
+                    "file": "semester-2/web-engineering/Hub Web Engineering.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Hub Web Engineering 2"
+                  "title": "Hub Web Engineering"
                 }
               },
               {
@@ -126,26 +110,28 @@
                 }
               },
               {
-                "id": "a0bbb3fb70151db9",
+                "id": "a9686d886bd7c0fc",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/software_architektur/Hub Software Engineering.md",
+                    "file": "semester-1/forschungsmethoden/wissenschaftliches-arbeiten/Fortbildung/Hub Wissenschaftliche Arbeiten.md",
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Hub Software Engineering"
+                  "title": "Hub Wissenschaftliche Arbeiten"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 47.47859181731684,
+            "dimension": 35.49000951474786,
             "children": [
               {
                 "id": "987357965ec8cadc",
@@ -228,39 +214,22 @@
                 }
               },
               {
-                "id": "bacd0f9d55813ed7",
+                "id": "948a873c44206518",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/operating-systems/Library Prozesse.md",
+                    "file": "semester-3/datenbanken/Übungen vorlesung 13.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Library Prozesse"
-                }
-              },
-              {
-                "id": "1ec553001defcbdf",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/operating-systems/Library Booting.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library Booting"
+                  "title": "Übungen vorlesung 13"
                 }
               }
-            ],
-            "currentTab": 6
+            ]
           }
         ],
         "direction": "horizontal"
@@ -268,12 +237,12 @@
       {
         "id": "45b82f0a2d3f66e4",
         "type": "split",
-        "dimension": 60.98081023454158,
+        "dimension": 51.81236673773988,
         "children": [
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 51.56993339676499,
+            "dimension": 77.73549000951475,
             "children": [
               {
                 "id": "b0da47054ab0cc29",
@@ -281,54 +250,48 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/wifi/Handover.md",
+                    "file": "semester-4/statistik/Beispiel Schätzer.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Handover"
+                  "title": "Beispiel Schätzer"
                 }
               },
               {
-                "id": "717920cd59ace1d6",
+                "id": "133a62aaad42d666",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "semester-4/cloud-computing/Application Load Balancer.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "semester-4/statistik/resources/Formelsammlung Dr. Giles-A Nzouankeu Nana.pdf"
                   },
-                  "icon": "lucide-file",
-                  "title": "Application Load Balancer"
+                  "icon": "lucide-file-text",
+                  "title": "Formelsammlung Dr. Giles-A Nzouankeu Nana"
                 }
               },
               {
-                "id": "bdfa1f53da68b0cf",
+                "id": "13a70f18ea48e0a7",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "semester-4/cloud-computing/Worker node.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "semester-4/statistik/resources/Übungen zum Kapitel 6.pdf"
                   },
-                  "icon": "lucide-file",
-                  "title": "Worker node"
+                  "icon": "lucide-file-text",
+                  "title": "Übungen zum Kapitel 6"
                 }
               },
               {
-                "id": "8220836dcf31c272",
+                "id": "6eb24e92e8016c00",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "semester-4/cloud-computing/Capacity and Scaling Profiles.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "semester-4/operating-systems/resources/TINF19B_2020_Klausur.pdf"
                   },
-                  "icon": "lucide-file",
-                  "title": "Capacity and Scaling Profiles"
+                  "icon": "lucide-file-text",
+                  "title": "TINF19B_2020_Klausur"
                 }
               }
             ],
@@ -337,20 +300,20 @@
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 48.43006660323502,
+            "dimension": 22.26450999048525,
             "children": [
               {
-                "id": "459e3140c1d6cb95",
+                "id": "bdfa1f53da68b0cf",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-4/operating-systems/resources/07_Virtualisierung.pdf"
+                    "file": "semester-4/operating-systems/resources/08_Shellprogrammierung_II.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "07_Virtualisierung"
+                  "title": "08_Shellprogrammierung_II"
                 }
               },
               {
@@ -360,11 +323,11 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-4/cloud-computing/resources/Cloud_Computing_Serverless.pdf"
+                    "file": "semester-4/cloud-computing/resources/Cloud_Computing_NoSQL.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "Cloud_Computing_Serverless"
+                  "title": "Cloud_Computing_NoSQL"
                 }
               },
               {
@@ -388,11 +351,11 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-3/datenbanken/sources/DB_Kap06_1_SQL_DDL_DML_Stud.pdf"
+                    "file": "semester-3/datenbanken/sources/DB_Kap06_2_SQL_DQL_View_Stud.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "DB_Kap06_1_SQL_DDL_DML_Stud"
+                  "title": "DB_Kap06_2_SQL_DQL_View_Stud"
                 }
               },
               {
@@ -407,6 +370,34 @@
                   "pinned": true,
                   "icon": "lucide-file-text",
                   "title": "WLAN-Vorlesung_Teil-9"
+                }
+              },
+              {
+                "id": "0c4cd13bb83cd921",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-4/statistik/resources/Formelsammlung Dr. Giles-A Nzouankeu Nana.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "Formelsammlung Dr. Giles-A Nzouankeu Nana"
+                }
+              },
+              {
+                "id": "18ae77802ab356a3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-4/operating-systems/resources/08_Shellprogrammierung_III.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "08_Shellprogrammierung_III"
                 }
               }
             ],
@@ -445,7 +436,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bypass",
+                "query": "tenancy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -501,10 +492,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-3/formale-sprachen/Library Kontextfreie Grammatiken.md"
+                "file": "semester-4/cloud-computing/FaaS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Library Kontextfreie Grammatiken"
+              "title": "Outline of FaaS"
             }
           },
           {
@@ -527,7 +521,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-4/wifi/resources/WLAN-Analyse_mit_Wireshark-1.pdf",
+                "file": "semester-4/operating-systems/Hub Betriebssysteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -537,7 +531,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WLAN-Analyse_mit_Wireshark-1"
+              "title": "Backlinks for Hub Betriebssysteme"
             }
           },
           {
@@ -580,53 +574,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "8220836dcf31c272",
+  "active": "6eb24e92e8016c00",
   "lastOpenFiles": [
-    "semester-4/cloud-computing/FaaS.md",
-    "semester-4/cloud-computing/Capacity and Scaling Profiles.md",
+    "semester-4/cloud-computing/Klausurvorbereitung Cloud.md",
     "semester-4/cloud-computing/Hub Cloud Computing.md",
-    "semester-4/cloud-computing/images/Pasted image 20250428183615.png",
-    "semester-4/cloud-computing/Event-driven Architecture.md",
-    "semester-4/cloud-computing/Serverless.md",
-    "semester-4/cloud-computing/Magic.md",
-    "semester-3/datenbanken/DBMS.md",
-    "semester-2/algorithmen/allgemein/Algorithmus.md",
-    "semester-4/cloud-computing/Service-Mesh.md",
+    "semester-4/cloud-computing/Kubernetes Cluster.md",
+    "semester-4/cloud-computing/Resource Dependencies.md",
+    "semester-4/web-engineering/Hypervisor.md",
+    "semester-4/cloud-computing/Systems of Record.md",
+    "semester-4/statistik/Library Statistik.md",
+    "semester-4/operating-systems/Hub Betriebssysteme.md",
+    "semester-4/statistik/Hub Statistik.md",
+    "semester-3/datenbanken/Hub Datenbanken.md",
+    "semester-4/cloud-computing/CouchDB.md",
+    "semester-3/datenbanken/Lost-Update Problem.md",
+    "semester-4/cloud-computing/Distributed Data storage.md",
+    "semester-4/cloud-computing/ACID.md",
+    "semester-4/cloud-computing/CAP theorem.md",
+    "semester-4/cloud-computing/images/Pasted image 20250512171703.png",
+    "semester-4/cloud-computing/NoSQL.md",
+    "semester-4/cloud-computing/SLA.md",
+    "semester-2/algorithmen/allgemein/Faster hardware is not equivalent to a solved problem.md",
+    "semester-4/cloud-computing/Data Consistency.md",
+    "semester-2/algorithmen/allgemein/Throw faster hardware at the problem.md",
+    "semester-3/datenbanken/Referenzielle Integrität.md",
+    "semester-3/datenbanken/SQL.md",
+    "semester-4/operating-systems/Semaphor.md",
+    "semester-4/operating-systems/Race Condition.md",
+    "semester-3/datenbanken/images/Pasted image 20250512170116.png",
+    "semester-4/cloud-computing/resources/Cloud_Computing_NoSQL.pdf",
+    "semester-4/cloud-computing/images/Pasted image 20250512165933.png",
+    "semester-4/cloud-computing/images/Pasted image 20250512165837.png",
+    "semester-3/datenbanken/Konsistenzüberwachung.md",
+    "semester-4/cloud-computing/images/Pasted image 20250512165304.png",
+    "semester-4/cloud-computing/Key Storage.md",
+    "semester-4/cloud-computing/images/Pasted image 20250512164248.png",
+    "semester-4/cloud-computing/resources/Cloud_Computing_12App_Micro_Services.pdf",
     "semester-4/cloud-computing/resources/Cloud_Computing_Serverless.pdf",
-    "semester-4/cloud-computing/resources/Cloud_Computing_PaaS_Container.pdf",
-    "semester-4/cloud-computing/Microservice.md",
-    "semester-4/cloud-computing/images/Pasted image 20250428175429.png",
-    "semester-4/cloud-computing/Stateful Set.md",
-    "semester-4/cloud-computing/Cluster IP.md",
-    "semester-4/cloud-computing/Headless Service.md",
-    "semester-4/cloud-computing/images/Pasted image 20250428172331.png",
-    "semester-4/cloud-computing/K8s Storage.md",
-    "semester-4/cloud-computing/Persistent Volume Claim.md",
-    "semester-4/cloud-computing/NodePort Service.md",
-    "semester-4/cloud-computing/Ingress.md",
-    "semester-4/cloud-computing/images/Pasted image 20250428165541.png",
-    "semester-4/cloud-computing/images/Pasted image 20250428165335.png",
-    "semester-4/cloud-computing/images/Pasted image 20250428165205.png",
-    "semester-4/cloud-computing/Loadbalancer Service.md",
-    "semester-4/cloud-computing/Application Load Balancer.md",
-    "semester-4/cloud-computing/NGINX load balancer configuration.md",
-    "semester-3/netztechnik/Layer 7.md",
-    "semester-4/cloud-computing/Worker node.md",
-    "semester-4/cloud-computing/images/Pasted image 20250428164201.png",
-    "semester-4/cloud-computing/images/Pasted image 20250428164143.png",
-    "semester-4/cloud-computing/images/Pasted image 20250428164056.png",
-    "semester-4/cloud-computing/Kubernetes.md",
-    "semester-4/cloud-computing/images/Pasted image 20250428163706.png",
-    "semester-4/cloud-computing/Kubernetes Namespace.md",
-    "semester-4/web-engineering/Kernel Namespace.md",
-    "semester-4/cloud-computing/Service Discovery.md",
-    "semester-4/operating-systems/resources/07_Virtualisierung.pdf",
-    "semester-4/operating-systems/resources/06_Dateisysteme.pdf",
-    "semester-4/statistik/resources/Übungen zum Kapitel 6.pdf",
-    "semester-4/statistik/resources/Übungen zum Kapitel 5.pdf",
-    "semester-4/wifi/resources/WLAN-Vorlesung_Teil-9.pdf",
-    "semester-3/datenbanken/sources/DB_Kap06_1_SQL_DDL_DML_Stud.pdf",
-    "semester-4/wifi/resources/WLAN-Vorlesung_Teil-8.pdf",
-    "semester-4/wifi/resources/WLAN-Analyse_mit_Wireshark-1.pdf"
+    "modulhandbuch.pdf",
+    "semester-4/operating-systems/scripts/bash_übung_3.sh",
+    "semester-4/operating-systems/scripts/bash_übung_2.sh",
+    "semester-4/operating-systems/scripts/bash_übung_2",
+    "semester-4/operating-systems/resources/08_Shellprogrammierung_III.pdf",
+    "semester-4/operating-systems/scripts/bash_übung_1.sh",
+    "semester-4/operating-systems/scripts",
+    "semester-4/operating-systems/images/Pasted image 20250512100612.png",
+    "semester-4/operating-systems/images/Pasted image 20250512094801.png",
+    "semester-4/operating-systems/images/Pasted image 20250509134922.png",
+    "semester-4/operating-systems/images/Pasted image 20250508135109.png"
   ]
 }

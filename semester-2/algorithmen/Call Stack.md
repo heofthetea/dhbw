@@ -1,6 +1,6 @@
 [[Stack]]
 
-- Benutzt für Aufruf von [[Functions|Funktionen]] & deren Parameter
+- Benutzt für Aufruf von [[Function|Funktionen]] & deren Parameter
 - Daten müsen in umgekehrter Reihenfolge ausgelesen werden, wie sie angelegt werden -> LIFO
 
 

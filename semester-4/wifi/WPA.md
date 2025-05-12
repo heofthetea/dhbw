@@ -1,7 +1,9 @@
 > [[WLAN|WI-FI]] Protected Access
 
 
-- Wurde nachgetragen - erster Sicherheitsansatz WEP war halt scheise nh
+- Wurde nachgetragen - erster Sicherheitsansatz [[WEP Encryption|WEP]] war halt scheise nh
+- Schlüsselhierarchie aus [[Pairwise Key]]s: [[Pairwise Master Key]], [[PairwiseTransient Key]], Keys für Schlüssel- und Datenübertragung
+- nutzt [[TKIP Encryption]]
 
 ### Anforderungen
 1. Pakete müssen [[symmetric Encryption|verschlüsselt]] und [[Goals of Cryptography#Authenticity|authentifiziert]] sein

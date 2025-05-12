@@ -19,7 +19,7 @@
 
 ## Durchsatzverbesserung
 - über dem Pfeil: gesendet von [[Access Point]]
-- unter dem Pfeil: gesendet von Station
+- unter dem Pfeil: gesendet von [[Station]]
 - mögliches Problem: auf jedem [[Kanal]] sind auch noch andere Geräte -> kann durch [[Zugriffsverfahren]] zu Verzögerungen kommen
 	- Im schlimmsten Fall: **Überholungen**, da ein Kanal viel besser geht als ein anderer
 

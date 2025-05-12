@@ -6,3 +6,11 @@ $$R' = R_{1} \Join_{p} R_{2}$$
 
 ### Durch Elementaroperationen
 $$\sigma_{p}(R_{1} \times R_{2})$$
+
+## SQL
+```sql
+SELECT *
+FROM Kunde
+JOIN Auftrag
+ON Kunden_Nr = erteilt_von;
+```

@@ -8,7 +8,7 @@
 ## Cut through
 - Sobald ich Ziel [[MAC Adresse]] habe -> Weiterleiten
 - fucking fast
-- leitet aber auch [[Kollision (Zugriffsverfahren)|Schrott]] weiter
+- leitet aber auch [[semester-3/netztechnik/Kollision|Schrott]] weiter
 
 ## Cut Through Collision Free
 [[CSMA]]

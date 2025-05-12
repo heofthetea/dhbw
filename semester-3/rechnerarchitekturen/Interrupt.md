@@ -1,4 +1,4 @@
-> Hardware-generierter [[Functions|Unterprogrammaufruf]] als Reaktion auf **äußere Ereignisse**
+> Hardware-generierter [[Function|Unterprogrammaufruf]] als Reaktion auf **äußere Ereignisse**
 
 [[Minimalsystem]], [[Begrifflichkeiten für Interupt]]
 

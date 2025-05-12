@@ -20,9 +20,9 @@
 
 > [!info] Feld "more frag" in [[ACK|Quittung]] indicated, ob [[Fragmentierung|fragmentiert]] wurde, also länger gewartet werden muss.
 
-## [[Kollision (Zugriffsverfahren)|Kollisions]]-Behandlung
+## [[semester-3/netztechnik/Kollision|Kollisions]]-Behandlung
 
-> [!hint] [[Kollision (Zugriffsverfahren)|Kollision]] kann trotzdem auftreten, wenn sich zwei Geräte dieselbe Backoff-Zeit auswählen.
+> [!hint] [[semester-3/netztechnik/Kollision|Kollision]] kann trotzdem auftreten, wenn sich zwei Geräte dieselbe Backoff-Zeit auswählen.
 
 > [!warning] Kann nur mithilfe von [[ACK|Quittung]]  in [[Layer 2]] erkannt werden (weil halt keine kommt) => Wenn es sich um ein Control-Frame handelt, ist der halt futsch.
 

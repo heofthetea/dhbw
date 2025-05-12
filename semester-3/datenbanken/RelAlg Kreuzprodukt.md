@@ -1,3 +1,7 @@
+---
+aliases:
+  - Cross Join
+---
 [[Kartesisches Produkt]], [[Relationale Algebra]]
 
 $$R' := R_{1} \times R_{2}$$
@@ -9,6 +13,12 @@ $$[R'] := [R_{1}] \cup [R_{2}]$$
 
 ![[Pasted image 20250416135410.png]]
 
+
+## SQL
+```sql
+SELECT *
+FROM A, B;
+```
 ## Beispiel
 [[Selektion]]
 

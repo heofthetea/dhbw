@@ -15,4 +15,4 @@ Simulieren Sie die folgenden [[Prozess Scheduler]] Strategien:
 | D           | 3          | 2                                  |
 > [!hint] In Klausur ist eine Tabelle gegeben. Man muss Zeitslots eingeben.
 ## Bearbeitung
-![[Pasted image 20250324094447.png]]j
+![[Pasted image 20250324094447.png]]

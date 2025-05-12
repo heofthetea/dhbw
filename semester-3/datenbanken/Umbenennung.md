@@ -12,3 +12,15 @@ $$[R'] = [R]$$
 
 - bennenne eine [[Relation]] um -> [[Schema einer Relation|Schema]] bleibt aber gleich.
 
+
+## SQL
+### Umbenennung einer Relation
+```sql
+SELECT Relation AS rel
+```
+
+oder
+
+```sql
+SELECT Relation rel
+```

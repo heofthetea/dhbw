@@ -7,5 +7,13 @@ $$[R'] = [R_{1}] = [R_{2}]$$
 
 > [!warning] Auch hier müssen die [[Schema einer Relation|Schemata]] gleich sein!
 
+## SQL
+```sql
+SELECT vorname from mitarbeiter
+EXCEPT
+select vorname from kunde;
+```
+
+> [!hint] Hier wählt `ALL` halt einfach wieder Werte doppelt aus, die doppelt existieren.
 ## Beispiel
 ![[Pasted image 20250416134712.png]]
