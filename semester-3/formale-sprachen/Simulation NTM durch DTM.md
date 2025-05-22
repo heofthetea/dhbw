@@ -1,6 +1,5 @@
 > Jede nichtdeterministische [[Turing Machine]] kann durch eine [[Determinismus|deterministische]] [[Turing Machine]] simuliert werdenl.
 
-
 - verwende [[k-Band Turing Machine|2-band Turing Machine]]
 	- Band $1$: Aufzählung aller möglichen [[Konfiguration TM|Konfigurationen]] von $M$ auf $w$
 		- funktioniert als [[Queue|Warteschlange]]

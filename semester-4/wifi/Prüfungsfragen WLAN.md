@@ -83,7 +83,7 @@
 
 
 ## Welche Bestandteile hat ein ESS?
-- [[QBSS|ESS]] - Extended Service Set
+- [[ESS|ESS]] - Extended Service Set
 - Mehrere [[Access Point|Access Points]] (=> [[Infrastruktur BSS]]) sind Backbone im selben logischen Netz
 	- Dieser Backbone-[[Switch]] heißt **Distribution System**
 
@@ -137,13 +137,13 @@
 ## Wie wird [[Quality of Service]] umgesetzt?
 - Frames eingeteilt in 4 Kategorien
 - Werden anhand dieser Kategorien priorisiert
-- eigenes Zugriffsverfahren: [[EDCA]]
+- eigenes Zugriffsverfahren: [[EDAC]]
 	- gibt 4 verschiedene Inter Frame Spaces
 	- je höher priorisiert, desto länger das contention window -> Können schneller runter zählen
 - Priorität wird von [[IP]] (ein layer drüber) übernommen
 
 ## Welche Schritte werden beim Verbindungsaufbau abgehandelt?
-[[WLAN Verbindungsvorgang]]
+[[WLAN Verbindungsaufbau]]
 
 1. [[WLAN Scanning]]
 	1. passive scanning: [[Access Point]] schickt BSSID In [[Beacon Frame]]
@@ -157,7 +157,7 @@
 
 ## Auf welcher Ebene im [[OSI-7-Schichten Modell]] funktioniert [[Quality of Service]]?
 - [[Layer 2]] -> in [[WLAN MAC Header|MAC]] Ebene (nicht LLL)
-	- und halt auch [[EDCA]] -> hier passiert tatsächlich das [[Quality of Service|QoS]]
+	- und halt auch [[EDAC]] -> hier passiert tatsächlich das [[Quality of Service|QoS]]
 - Warum hier?
 	- Weil die Priorität direkt Einfluss nimmt auf den Backoff Timer im [[CSMA CA]]
 
@@ -198,3 +198,16 @@
 - Beide sehen einander nicht, aber den Access point
 - wenn sie jetzt [[CSMA CA]] machen, funktioniert carrier sense nicht gescheit -> [[semester-3/netztechnik/Kollision|Kollision]] um den [[Access Point|AP]] herum
 	- => requires [[RTS CTS]]
+
+## Welche Neuerungen gibt es mit der Einführung von [[TKIP Encryption]]?
+- [[WPA]] => ist das **neue** an [[WPA]]
+- Ermöglicht "einigermaßen" akzeptables [[Cryptographic Key|Schlüssel]] management
+- es gibt [[Pairwise Master Key]] und [[Group Key]]
+	- PMK: genutzt für [[Unicast]]
+	- GMK: genutzt für [[Multicast]]/[[Broadcast]]
+- Aus Master Keys werden [[PairwiseTransient Key|Transient Keys]] abgeleitet -> das sind die 4 Schlüssel, die auch [[WEP Encryption|WEP]] benutzt.
+- [[TKIP Decryption]] - Message Integrity Check ist refined (= aufwendiger)
+- Sequence Counter: Stellt sicher, dass keine Wiederholungen eintreten können
+
+> [!question]- Warum zwei Arten von [[Cryptographic Key|Keys]]?
+> Man kann [[Cryptographic Key|Schlüssel]] nur einmal austauschen -> muss von vorne herein feststehen, für welche Kommunikation sie genutzt werden

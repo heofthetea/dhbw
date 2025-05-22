@@ -11,6 +11,7 @@
 
 ### Altklausuren
 [[Nachklausur_Netztechnik-I_STG-TINF22E.pdf]] -> Probeklausur, weniger umfangreich als unsere
+
 -> [[Bearbeitung Nachklausur_Netztechnik-I_STG-TINF22E.pdf]]
 [[Test-Klausurfragen-Lösungsbogen_STG-TINFxxx-Netztechnik-1.pdf]] 
 [[Klausurfragen 2020.pdf]]

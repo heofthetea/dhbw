@@ -1,6 +1,6 @@
 > [[DEE|Endgerät]] muss erstmal herausfinden, ob ein [[Access Point]] existiert
 
-- [[Access Point]] schickt alle ~100ms einen [[Beacon Frame]] los
+- [[Access Point]] schickt alle ~100ms einen [[Beacon Frame]] los (= **passive scanning**)
 - [[DEE|Endgerät]] muss auf jedem [[Kanal]] hören, ob irgendwo zufällig ein [[Beacon Frame]] kommt
 
 > [!hint] Manchmal wird [[BSSID]] vom [[Access Point]] nicht im [[Beacon Frame]] broadcastet (Sicherheitsgründen) => [[#Active Scanning]]

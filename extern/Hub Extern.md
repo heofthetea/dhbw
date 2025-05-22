@@ -23,7 +23,7 @@ Path: extern/ -path: "Virologie lol/"
 [[Segmented Sieve.pdf]]
 [[Speech processing]]
 [[Template Mermaid State Diagram]]
-[[The 7 Horsemen of over-generalization]]
+[[The 8 Horsemen of over-generalization]]
 [[Tina - AI assistant]]
 [[Tipps Klausur Logik.pdf]]
 [[Tipps Klausur Logik shortened.pdf]]

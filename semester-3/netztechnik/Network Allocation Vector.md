@@ -1,5 +1,13 @@
+---
+aliases:
+  - NAV
+---
 > kurz: NAV
 
-- erkent für [[CSMA CD]], wann die Leitung belegt ist
+- definiert für [[CSMA CA]], wie lange die Leitung belegt ist
 - erhält info aus [[WLAN MAC Header]] (**Duration** field)
+
+> [!info] Besagt im Prinzip: So lange brauche ich nicht abhören
+
+
 

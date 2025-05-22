@@ -1,5 +1,8 @@
-> Wird als Divisor in Cyclic Redundancy Check verwendet
+> Wird als Divisor in [[CRC]] verwendet
 
+[[Faltungscodierer]]
+
+- die Stellen, an denen die [[Bit]] für die [[XOR]] Verrechnung der Codesymbole abgeknüpft wird
 
 
 

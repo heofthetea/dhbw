@@ -10,4 +10,4 @@
 - einfach anwendbar
 
 ### Nachteile
-- braucht eine Programmiersprache, die das unterstützt
+- braucht eine Programmiersprache, die das unterstützt (z.B. [[Java]])

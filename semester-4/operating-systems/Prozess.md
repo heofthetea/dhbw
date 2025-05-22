@@ -13,8 +13,8 @@
 > [!hint] An sich wissen Prozesse nichts voneinander -> [[Prozesskommunikation]]
 ## Anforderungen an [[Betriebssystem]]
 - "gleichzeitig ausführen" -> [[Betriebssystem]] muss Programm nur **partiell** ausführen können
-- OS muss einem [[Prozess]] Ressourcen zuteilen können
-- OS muss inter process communication ermöglichen
+- [[Betriebssystem|OS]] muss einem [[Prozess]] Ressourcen zuteilen können
+- [[Betriebssystem|OS]] muss[[Prozesskommunikation]] ermöglichen
 - Eindeutige Erkennung -> [[PID]]
 
 

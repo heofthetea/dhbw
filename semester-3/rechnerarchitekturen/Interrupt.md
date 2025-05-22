@@ -1,6 +1,6 @@
 > Hardware-generierter [[Function|Unterprogrammaufruf]] als Reaktion auf **äußere Ereignisse**
 
-[[Minimalsystem]], [[Begrifflichkeiten für Interupt]]
+[[Minimalsystem]], [[Begrifflichkeiten für Interrupt]]
 
 - passiert [[asynchronous|asynchron]] vom normalen Programmaufruf
 - unterbricht [[CPU]] in Abarbeitung von aktuellem [[Prozess]]

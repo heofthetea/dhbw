@@ -1,4 +1,4 @@
-> Control [[WLAN Frame|Frame]], der alle $100\mu s$ vom [[Access Point]] gesendet wird
+> [[Management Frame]], der alle $100\mu s$ vom [[Access Point]] gesendet wird
 
 [[Infrastruktur BSS]]
 

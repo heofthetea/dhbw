@@ -5,11 +5,11 @@
 ## Ablauf
 - am Anfang sind alle [[Page|Pages]] in [[Memory]]
 - Wird [[Memory]] voll, muss Platz gemacht werden
-- einzelne Pages werden ausgelagert
+- einzelne Pages werden [[Swapping|ausgelagert]]
 - Verschiebung durch [[Betriebssystem]] => transparent für [[Prozess]]!
 
 ### Nutzen von [[Interrupt|Interrupts]]
-- [[Page]] nicht in [[Memory]] -> wirft Page Fault
+- [[Page]] nicht in [[Memory]] -> wirft [[Segmentation Fault|Page Fault]]
 - [[Interrupt]] löst Routine aus, die auf der [[Hard Drive]] die Daten findet
 - [[Daten]] werden gladen
 - Page Table Eintrag wird aktualisiert

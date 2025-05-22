@@ -32,7 +32,6 @@
 ## 3NF
 > [!info] Eine [[Relation]] ist in [[3NF]], wenn sie in [[2NF]] ist und kein [[Attribut]] [[transitiv]] von einem [[Schlüsselkandidat|Schlüsselkandidaten]] abhängig ist.
 
-
 ### Formal
 Für jede [[Funktionale Abhängigkeit]] $X \rightarrow \alpha$ innerhalb der [[Relation]] $R$ muss eine der folgenden Bedingungen gelten gelten:
 - $X$ ist [[Superschlüssel]] von $[R]$
@@ -41,8 +40,6 @@ Für jede [[Funktionale Abhängigkeit]] $X \rightarrow \alpha$ innerhalb der [[R
 
 ### Prüfung auf [[3NF]]
 1. Zerlege [[Funktionale Abhängigkeit|FAs]] in einzelne Abhängigkeiten der Form $X \rightarrow \alpha$
-
-
 
 ## BCNF
 - [[BCNF]]

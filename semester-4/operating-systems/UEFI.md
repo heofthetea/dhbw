@@ -8,7 +8,7 @@
 	- Hochauflösende Grafik bei boot
 	- Eigene [[Shell]]
 	- [[GUID Partition Table]] (soll besser als MBR sein)
-- Basiert auf [[CMOS]]
+- Basiert auf [[CMOS]] mit eigener Batterie
 
 > [!hint] Microsoft [[Digital Signature|signiert]] die [[Linux]]-Sachen lol
 

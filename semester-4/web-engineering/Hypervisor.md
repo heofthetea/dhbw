@@ -7,6 +7,7 @@
 - Auch genannt: VMM (Virtul Machine Monitor/Manager)
 - zwei Typen - unterschieden anhand ihrer intended purpose (virtualisierung im vorder- oder Hintergrund?)
 
+> [!hint] Eselsbrücke: "Typ $n$ [[Hypervisor]]" => [[Hypervisor]] ist die $n$-te Schicht über der Hardware
 ## Typ 1
 - [[Hypervisor]] ist das [[Betriebssystem]] -> **muss** [[Virtual Machine|VMs]] starten, damit System benutzbar wird
 

@@ -5,6 +5,8 @@
 
 [[Race Condition]]
 
+## Lösung
+
 > [!info] Lösung: [[Semaphor|Locks]]/[[Transaktion]] - ist halt langsam.
 
 - andere Halb-Lösung: revisions

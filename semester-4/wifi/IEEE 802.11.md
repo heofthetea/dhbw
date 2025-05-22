@@ -6,7 +6,7 @@ Erweiterung [[IEEE802.1]] für [[WLAN]]
 
 ![[Pasted image 20250403111815.png]]
 
-
+so test hello u working ma dude
 ## Meilensteine
 - 802.11g: [[OFDM]]
 - 802.11h:  [[5G]] wirklich nutzbar (inkl. Primäruser)

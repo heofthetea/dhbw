@@ -1,13 +1,10 @@
 [[BananaNana]] 
 ### Resources
-
 [[Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025.pdf]]
 [[Formelsammlung Dr. Giles-A Nzouankeu Nana.pdf]]
-
+[[ProbeklausurKlausur Statistik Dr. Giles-A. Nzouankeu Nana.PDF]]
 ### Klausurvorbereigung
-
 [[Random dropped infos]]
-
 [[Library Statistik]]
 
 ### Übungen
@@ -17,6 +14,7 @@
 [[semester-4/statistik/resources/Übungen zum Kapitel 4.pdf|Übungen zum Kapitel 4]]
 [[semester-4/statistik/resources/Übungen zum Kapitel 5.pdf|Übungen zum Kapitel 5]]
 [[Übungen zum Kapitel 6.pdf]]
+[[Übungen zum Kapitel 8 bis 10.PDF]]
 [[Statistik Übung 1]]
 
 ## 00 Basics
@@ -129,7 +127,7 @@
 
 ## 07 Zweidimensionale Verteilung
 okay i guess wir machen das nicht..... dafuqqq??????
-## 08 Schätzung
+## 08/09 Schätzung
 
 ### Punktschätzung
 - [[Schätzung]]
@@ -139,6 +137,7 @@ okay i guess wir machen das nicht..... dafuqqq??????
 	- [[Bias]]
 	- [[Mean Square Error]]
 - [[Stichprobe]]
+- [[Punktschätzer von Anteilen]]
 - [[Punktschätzer Mittelwert]]
 - [[Punktschätzer Varianz]]
 - [[Beispiel Schätzer]]
@@ -149,3 +148,13 @@ okay i guess wir machen das nicht..... dafuqqq??????
 	- [[Intervallschätzer von Anteilen]]
 	- [[Intervallschätzer Normalverteilung]]
 	- [[Schätzung einseitiges Konfidenzintervall]]
+
+## 10 Hypothesentests
+- [[Statistischer Test]]
+- [[Gausstest]]
+	- [[Prüfgröße]]
+	- [[Ablehnungsbereich]]
+	- [[Beispiel Gausstest]]
+- [[t-Test]]
+	- [[t-Verteilung]]
+- [[Fehler 1. Art]]

@@ -9,6 +9,9 @@ Das Softwarehaus führt Projekte für verschiedene Kunden durch und benötigt ei
 [[ERM]]
 ![[Pasted image 20241008180118.png]]
 
+### Erweiterung für Transaktionen
+![[Pasted image 20250514141219.png]]
+
 ## Entitäten
 [[Entität]]
 

@@ -1,10 +1,12 @@
 [[DB_Kap01_Grundlagen_Stud.pdf]]
-[[Alfons Kemper, André Eickler - Datenbanksysteme. Eine Einführung-Oldenburg Wissenschaftsverlag (2009).pdf]]
+Komplett Skript: [[Skript Datenbanken I komplett.pdf]]
+Buch: [[Alfons Kemper, André Eickler - Datenbanksysteme. Eine Einführung-Oldenburg Wissenschaftsverlag (2009).pdf]]
 ### Prüfungsleistung
 - Klausur 60% im 4. Semester (60 min)
 - Projekt: 40% in Semester 3 & 4 
 	- we'll use [[PostgreSQL]]
 - [[Tipps Klausur Datenbanken]]
+- [[Klausur_Datenbanken_2021_Stud_-_Stark.pdf]]
 
 
 ## Fragenkatalog/Libraries
@@ -56,7 +58,7 @@
 
 #### Übungen
 [[Übung DB Entwurf Universität]]
-### Psychological stuff lol
+### Philosophical stuff lol
 [[Von Zeichen zu Wissen]]
 [[Information]]
 [[Daten]]
@@ -134,6 +136,7 @@
 	- [[BCNF]]
 		- [[Gültige Zerlegung]]
 		- [[Verlustlose Zerlegung]]
+- [[Vorgehen Zerlegung]]
 - [[Anomalie]]
 - [[Projektion]]
 - [[Funktionale Abhängigkeit]]
@@ -224,7 +227,7 @@ path: datenbanken/scripts
 - [[Übung Sub-queries]]
 - [[Übung Sub-query insert]]
 - [[Übung Serial durch Alter Table]]
-- [[Übungen vorlesung 13]]
+
 
 ## 7 Relationale Algebra
 - [[DB_Kap07_Relationale Algebra_Stud.pdf]]
@@ -254,6 +257,7 @@ path: datenbanken/scripts
 [[Equi Join.pptx]]
 ### Übungen
 - [[Übung Relationale Algebra]]
+- [[Übungen vorlesung 13]]
 
 
 ## 8 Views
@@ -262,9 +266,21 @@ path: datenbanken/scripts
 	- [[SQL View Rules]]
 	- [[Einfügen in View]]
 	- [[Datenunabhängigkeit von View]]
+- [[SQL Trigger]]
 
 ### Übungen
 - [[Übung Views]]
+
+
+## 9 Transactions
+- [[DB_Kap08_TCL_Mehrbenutz.pdf]]
+- [[Transaktion]]
+	- [[Bestellung Softwarehaus]]
+	- [[ACID]]
+	- [[Zustand einer Transaktion]]
+	- [[Ablauf Transaktion]]
+	- [[Nebenläufigkeit]]
+- [[Isolationslevel]]
 
 
 

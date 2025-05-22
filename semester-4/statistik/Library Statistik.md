@@ -25,8 +25,10 @@
 5. Berechne [[Kovarianz]]: $cov(x,y) := \overline{xy} - \overline{x}\cdot\overline{y}$
 6. Berechne [[Korrelationskoeffizient]] (Normierung): $r_{xy} := \frac{cov(x,y)}{s_{x}s_{y}}$ 
 ## Linearregression
-
-#todo 
+1. Wähle $X$ und $Y$ aus [[Semantik]], so dass $X \rightarrow Y$
+2. Berechne [[Kovarianz]]
+3. Berechne $s^{2}_{x}$
+4. Use [[Formelsammlung Dr. Giles-A Nzouankeu Nana.pdf|Formelsammlung]]
 
 
 

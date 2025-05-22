@@ -79,3 +79,7 @@ Path: semester-4/web-engineering/code
 - [[vue slot]]
 - [[Vue event listerner]]
 
+### NGINX
+- [[NGINX]]
+- [[Self-sign certificate]]
+

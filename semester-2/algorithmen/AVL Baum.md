@@ -1,6 +1,6 @@
 > [[Binary Search Tree]] ohne Worst Case Laufzeiten
 
-
+> [!hint] Wird z.B. benutzt für die interne Indexierung von [[Datenbank|Relationalen Datenbanken]].
 
 [[Binary Search Tree]] kann entarten --> Entspricht [[Liste]]
 Idee: [[Höhenbalance]] (Höhenbalance)

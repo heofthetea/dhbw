@@ -1,7 +1,7 @@
 > Secure Shell Protocol
 
 ```bash
-ssh <user>@<remote> -p <port>
+ssh <user>@<remote> -i <private-key-file> -p <port>
 ```
 
 

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Mittelwert
+---
 > ugs. Durschnitt
 
 - benötigt [[Metrisches Skalenniveau]]

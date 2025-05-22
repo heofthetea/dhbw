@@ -11,12 +11,13 @@
 
 ![[Pasted image 20250320110900.png]]
 
+- Am Anfang müssen D-FFs in einen definierten Zustand -> Lauter $0$en (steht auch in [[WLAN Präambel]] (als Tailbits))
 - [[Bit]] wird jeden [[Taktsteuerung|Takt]] weiter geschoben -> inssgesamt 6 Takte
 - zwei Nutzungen der [[Information]], die ein [[Bit]] haben kann
 - [[Information]] des [[Bit]] wird in 6 Takten verwendet
 
-> [!info] Kenngrößen
-> - $k$ - Informationsbits
-> - $n$ - Codebits
-> - $b$ (manchmal $m$) - Anzahl der [[D-Flipflop (Delay-FF)|D-Flipflops]]
-> - $L_{c}$ - wie oft hat ein [[Bit]] Auswirkung auf den Ausgang, i.e. wie oft wird abgezweigt (auch nicht verwendete werden gezählt lol => $k(b+1)$) 
+## Kenngrößen
+- $k$ - **Informationsbits** (= Anzahl Eingänge)
+- $n$ - **Codebits** (= Anzahl Ausgänge)
+- $b = m$ - **Symbolspeichertiefe** - Anzahl der [[D-Flipflop (Delay-FF)|D-Flipflops]] auf dem längsten [[Pfad]]
+- $L_{c} = k(b+1)$ - wie oft hat ein [[Bit]] Auswirkung auf den Ausgang, i.e. wie oft wird abgezweigt (auch nicht verwendete werden gezählt) 

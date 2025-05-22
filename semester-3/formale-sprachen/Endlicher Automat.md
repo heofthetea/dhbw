@@ -1,7 +1,5 @@
 [[Automat]], [[Beispiel Zugangskontrolle]], [[Reguläre Sprache]], [[Regulärer Ausdruck]]. [[Zustandsdiagramm]]
 
-
-
 [[Zustand]]
 - [[Startzustand]]
 - [[Endzustand]]

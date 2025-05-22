@@ -12,7 +12,7 @@
 
 ![[Pasted image 20240216165516.png]]
 
-### Decoding - alternative
+### Decoding - nicht-grafisch
 1. einzelne Felder [[Binärsystem|binär]] adressieren ($0000 - 1111$)
 2. Die [[Adresse|Adressen]], an denen eine $1$ steht, aufschreiben
 3. Spaltenweise (_dezimal_) aufsummieren

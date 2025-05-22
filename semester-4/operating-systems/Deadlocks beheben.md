@@ -15,8 +15,8 @@
 3. Entzug von Betriebsmitteln: Ressourcen werden aktiv entzogen
 
 
-| Name    | was tut's                                    | Vorteil                                                                                 | Nachteil                                                                         |
-| ------- | -------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Abbruch | `kill -9`                                    |                                                                                         |                                                                                  |
-| Reset   | nur einen Prozess unterbrechen               | - finden des effektivsten Opfers = Prozess, der am einfachsten wiederzustarten ist<br>- | - erfordert [[Transaktion]]<br>- Gefahr: Prozess verhungert (kommt niemals dran) |
-| Entzug  | [[Resource]] für einen [[Prozess]] entziehen | - sind Ressourcen frei, kann [[Prozess]] sie wieder anfordern                           | - geht nicht bei: Schreiben von Dateien, Ausgabe am Drucker<br>-                 |
+| Name    | was tut's                                    | Vorteil                                                                            | Nachteil                                                                                                                    |
+| ------- | -------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Abbruch | `kill -9`                                    |                                                                                    |                                                                                                                             |
+| Reset   | nur einen Prozess unterbrechen               | - finden des effektivsten Opfers = Prozess, der am einfachsten wiederzustarten ist | - erfordert [[Transaktion]] (das Zustände rekonstruiert werden können)<br>- Gefahr: Prozess verhungert (kommt niemals dran) |
+| Entzug  | [[Resource]] für einen [[Prozess]] entziehen | - sind Ressourcen frei, kann [[Prozess]] sie wieder anfordern                      | - geht nicht bei: [[Kritischer Abschnitt\|kritischem Abschnitt]]                                                            |

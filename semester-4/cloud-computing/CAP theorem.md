@@ -4,6 +4,8 @@
 
 - In der Praxis können nur zwei dieser drei Bedingungen sinnvoll reallizierte werden
 
+> [!hint] Ist theoretisch bewiesen
+
 ![[Pasted image 20250512171703.png]]
 
 

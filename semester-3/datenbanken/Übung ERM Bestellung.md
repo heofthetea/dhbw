@@ -2,7 +2,7 @@
 
 1. Jeder Kunde besitzt genau eine Anschrift.
 2. Jeder Kunde darf beliebig viele Bestellungen machen. Aber zu einer Bestellung existiert genau ein Kunde.
-3. In jedem Bereich gibt es mehrere Vertriebsmitarbeiter, aber jeder ist nur für einen Gereich zuständig.
+3. In jedem Bereich gibt es mehrere Vertriebsmitarbeiter, aber jeder ist nur für einen Bereich zuständig.
 4. In jedem Bereich können verschiedene Produkte bestellt werden, aber jedes Produkt ist genau einem Bereich zugeordnet.
 5. Werden bei einer Bestellung verschiedene Produkte in verschiedenen Bereichen bestellt, so sind mehrere Vertriebsmitarbeiter involviert. Aber für alle Produkte einer Bestellung aus einem Bereich ist genau ein Vertriebsmitarbeiter zuständig.
 

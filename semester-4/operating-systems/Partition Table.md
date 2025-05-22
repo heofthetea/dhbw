@@ -13,4 +13,6 @@
 - [[CHS Format]] 
 - Für größere Platten: [[LBA Format]]
 
+> [!info] Diese Information wird für jede [[Partition]] gespeichert -> maximal 4 mal.
+
 ![[Pasted image 20250428104750.png]]

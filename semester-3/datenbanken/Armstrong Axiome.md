@@ -2,7 +2,7 @@
 aliases:
   - Interferenzregeln
 ---
-
+ 
 
 [[Hülle einer funktionalen Abhängigkeit]]
 

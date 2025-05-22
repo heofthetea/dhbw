@@ -1,6 +1,7 @@
 ---
 aliases:
   - Festplatte
+  - HDD
 ---
 - magnetisches Speichermedium
 - [[Daten]] liegen auf rotierenden Scheiben (Platten) und werden von einem Schreib-Lesekopf gelesen

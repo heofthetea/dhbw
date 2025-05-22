@@ -42,7 +42,6 @@ A[Interrupt-Nr] --> B((Tabelleneintrag)) --> Adresse
 9. Rücksprung
 
 
-
-> [!hint] Hier werden alle $8$ [[Bit]] der Vektornummer auf den [[Datenbus]] gelegt (nicht nur $3$ wie bei [[Nummer-Interrupt]] ==> $256$ mögliche Vektornummern
+> [!hint] Hier werden alle $8$ [[Bit]] der Vektornummer auf den [[Datenbus]] gelegt (nicht nur $3$ wie bei [[Nummer-Interrupt]] => $256$ mögliche Vektornummern
 
 > [!info] [[Lookup Table]] liegt im [[Memory|Hauptspeicher]] --> es muss sich wieder das [[Betriebssystem]] drum kümmern, die aufzubauen

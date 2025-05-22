@@ -5,8 +5,9 @@
 
 > [!hint] Resourcen teilbar machen wird gerne gemacht bei [[Hard Drive|Festplatte]] und [[Netzwerk]]
 
----
+- lineare Ordnung für [[Resource|Ressourcen]]: Was darf in welcher Reihenfolge überhaupt reserviert werden?
 
+---
 ## Resource Management
 
 - [[Prozess]] gibt vorab info, welche Ressourcen benötigt werden

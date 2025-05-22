@@ -4,6 +4,6 @@ $$(g\ \circ\ f)(x) = f(g(x))$$
 
 ## Relationale Algebra
 
-> [!warning] Nur die [[Attribut|Attribute]], die auch tatsächlich von der ersten Funkton
+> [!warning] Nur die [[Attribut|Attribute]], die auch tatsächlich von der ersten Funkton akzeptiert werden können!
 
 ![[Pasted image 20250416133804.png]]

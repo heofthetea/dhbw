@@ -1,3 +1,7 @@
+---
+aliases:
+  - ASLR
+---
 > [[Page|Pages]] zufällig über [[Memory]] verteilt, nicht kontinuierlich
 
 - Adressbereiche werden zufällig zugewiesen

@@ -1,6 +1,6 @@
 > Kommunikation über Nachrichten
 
-- Quellprozess sendet Nachricht an Zielprozess
+- Quellprozess sendet Nachricht an Zielprozess => [[Prozesskommunikation]]
 
 ## synchrone Nachricht
 - [[Prozess]] [[Prozess Blocking|blockiert]] beim Senden/Empfangen

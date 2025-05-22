@@ -1,9 +1,16 @@
+
 - [[Paging]]: Dient der virtuellen Speicherverwaltung, ähnlich zu [[Segmentierung]]
 - Jede [[Page]] ist auf ein gleich großes physisches [[Segment]] gemappt
 	- Die Größe, mit der eine [[Page]] angelegt wird, ist arbitrary
 	- Die Größe einer [[Page]] kann im Nachhinein nicht verändert werden.
 - Wird [[Memory]] durch `malloc()` angefordert, wird eine [[Page]] erstellt und returned
-
+- Arten von "Datentypen":
+	-  Code
+	- Daten
+		- Statische Daten
+		- Konstante Daten
+		- [[Program Heap]]
+		- [[Call Stack]]
 #### Additional Features
 - [[Address Space Layout Randomization]]: [[Page]]s liegen verstreut im physischen Speicher -> verhindert [[Buffer Overflow]] Exploitation
 - [[Paging]] ermöglicht durch [[MMU]] zusätzlich Zugriffskontrolle durch [[Linux file permissions|permissions]] etc.
@@ -18,7 +25,7 @@ $$\varphi(v,\ o) = t(v) + o$$
 - $t$: Übersetzung gegeben durch [[Lookup Table]]
 - `[v | o]`: virtuelle [[Adresse]] mit **V**irtual Page Number und **O**ffset
 
-> [!warning] Die [[MMU]] **verwaltet** den Speicher nicht, sondern dient nur als Abstraction Layer.
+> [!warning] Die [[MMU]] **verwaltet** den Speicher nicht, sondern dient nur als Abstraction Layer. -> Verwaltung macht das [[Betriebssystem]]
 
 ### Translation Table
 - von [[MMU]] genutzt, um virtuelle [[Adresse]] in physikalische Adresse zu übersetzen
@@ -44,6 +51,12 @@ $$\varphi(v,\ o) = t(v) + o$$
 
 > [!hint] In Praxis wird eine Mischung verwendet. Dabei wird FIFO nicht gerne verwendet.
 
+### [[Demand Paging]]
+- es werden selten genutzte [[Page|Pages]] ausgelagert, anstatt gesamter [[Prozess]]-Kontext
 
+
+## Page Sharing
+- [[Page Sharing]]
+- [[Copy on Write]]
 
 [^1]: gesamter Kontext = alle Pages ?

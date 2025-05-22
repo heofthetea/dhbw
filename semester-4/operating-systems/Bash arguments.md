@@ -5,10 +5,10 @@
 
 - `$#` -> Anzahl der Parameter
 - `${n}` -n-ter Parameter, für 1-9 auch ohne braces
-- `$@` -> **alle** Parameter als [[Bash Array]]
+- `$@`/`${@}` -> **alle** Parameter als [[Bash Array]]
 - `$*` -> **alle** Parameter als String
 
-> [!warning] Alle [[Named Parameter]] müssen selber implementiert werden.
+> [!warning] Alle [[Positioinal Parameter]] müssen selber implementiert werden.
 
 
 ## Shift

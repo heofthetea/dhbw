@@ -4,4 +4,4 @@
 
 ## Für Betriebssysteme
 - [[Synchroner Interrupt]]
-- Asynchroner 
+- Asynchroner Interrupt

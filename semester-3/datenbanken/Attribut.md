@@ -1,7 +1,11 @@
 [[Entität]], [[Schlüsselattribut]]
 
+- Ein Key-Value Pair aus **name** und [[Menge|Domäne]] (= Wertebereich)/Datentyp
+
+## Konzeptioneller Entwurf ([[ERM]])
+
 Eigenschaften einer [[Entität]] _oder_ einer [[Relationship|Beziehung]]
---> wird in [[Datenbankschema]] zu den Spalten
+-> wird in [[Datenbankschema]] zu den Spalten
 
 - Einzelne Ausprägungen heißen _Attributwerte_
 - Es werden nur Attribute gespeichert, die für die _konkrete Anwendung_ relevant ist.

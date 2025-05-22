@@ -1,3 +1,4 @@
+[[WebSocket]], [[Sequenzdiagramm]]
 ```mermaid
 sequenceDiagram
 	box horsey-go-brrrr-fe
@@ -21,3 +22,4 @@ sequenceDiagram
 	API ->> Client A: 200 OK
 
 ```
+

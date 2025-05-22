@@ -1,7 +1,11 @@
+[[WLAN Beschwerdemail]]
 
 ### Prüfungsvorbereitung
 - [[Prüfungsfragen WLAN]]
 - [[Library WLAN]]
+- [[Klausurfragen_WLAN_STG-TINF22BE.pdf]] -> Altklausur von ihm
+- [[WLAN_Testklausur_STG-TINF20B.pdf]] -> Altklausur von Christian
+- [[Tipps Klausur]]
 
 ### Resources
 [[WLAN-Vorlesung_Teil-1.pdf]]
@@ -12,6 +16,8 @@
 [[WLAN-Vorlesung_Teil-6.pdf]]
 [[WLAN-Vorlesung_Teil-7.pdf]]
 [[WLAN-Vorlesung_Teil-9.pdf]]
+[[WLAN-Vorlesung_Teil-10.pdf]]
+[[WLAN-Vorlesung_LoRaWAN.pdf]]
 
 [[WLAN-Analyse_mit_Wireshark-1.pdf]]
 
@@ -28,7 +34,7 @@
 	- [[IBSS]]
 	- [[PBSS]]
 	- [[Infrastruktur BSS]]
-	- [[QBSS]]
+	- [[ESS]]
 - [[Handover]], [[Roaming]]
 - [[Mobile IP]]
 - [[WLAN Security]]
@@ -52,6 +58,7 @@
 	- [[QPSK]]
 	- [[QAM]]
 - [[Management Frame]]
+- [[Control Frame]]
 
 ## WLAN im [[OSI-7-Schichten Modell]]
 - [[WLAN Frame]]
@@ -83,6 +90,8 @@
 [[Faltungscodierer-v2.pdf]]
 
 - [[Faltungscodierer]]
+	- [[Zustandsdiagramm aus Faltungscodierer]]
+	- [[Generatorpolynom]]
 	- [[Coderate]]
 	- [[Beispiel Faltungscodierer]]
 	- [[Beispiel Faltungscodierer ii]]
@@ -110,6 +119,7 @@
 - [[Point Coordination Function]]
 - [[Beacon Frame]]
 	- [[Zeitsynchronisation Ad-hoc Modus]]
+- [[Coordination PCF und DCF]]
 
 ## IEEE802.11 Erweiterungen
 [[WLAN-Vorlesung_Teil-5.pdf]]
@@ -144,7 +154,7 @@
 	- [[WLAN QoS Priorität]]
 - [[Handover]]
 - [[WPA]]
-- [[WLAN Verbindungsvorgang]]
+- [[WLAN Verbindungsaufbau]]
 	- [[WLAN Scanning]]
 	- [[WLAN Authentication]]
 	- [[WLAN Assoziation]]
@@ -182,3 +192,19 @@
 	- [[CCMP Decryption]]
 - [[WPA3]]
 - [[Hub Security]]
+
+
+## FUCKING NETZPLANUNG
+- [[WLAN Reichweite]]
+- [[WLAN Flächenplanung]]
+- [[WLAN Flächenplanung Hochregallager]]
+- [[Ausleuchtungsmessung]]
+	- [[Signalstärke]]
+- [[WLAN SIND WIR ENDLICH DONE HOLY SHIT]]
+
+
+## The fucking what HÖR AUF ZU YAPPEN DU HURENSOHN
+- [[LoRaWAN]]
+	- [[CSS Modulation]]
+- [[Wireshark Linux]]
+	- [[Register logical network interface]]

@@ -7,7 +7,7 @@
 - [[Notenformel]]
 
 ## Misc
-- [[The 7 Horsemen of over-generalization]]
+- [[The 8 Horsemen of over-generalization]]
 - [[The Everything Model]]
 
 ## Utilities
@@ -22,7 +22,7 @@
 
 
 ## Semester
-- [[The 7 Horsemen of over-generalization]]
+- [[The 8 Horsemen of over-generalization]]
 
 ### Semester 1
 - [[Master Semester 1]]

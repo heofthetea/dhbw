@@ -1,6 +1,7 @@
 > Wer ist in der [[Relation]] drin?
 
 - Die aktuelle Ausprägung aller Elemente in der [[Relation]]
+	- zeitabhängige [[Menge]] aus [[Tupel|Tupeln]] in der [[Relation]] 
 - ist ein konkretes [[Tupel]] (aus Tupeln ig)
 
 > [!info] Entspricht immer dem aktuellen Zustand der [[Tabelle]]

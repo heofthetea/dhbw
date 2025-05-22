@@ -6,5 +6,5 @@
 	- Video
 	- Voice
 
-> [!info] Gibt ein eigenes [[Zugriffsverfahren]]: Enhanced Distributed Channel Access ([[EDCA]])
+> [!info] Gibt ein eigenes [[Zugriffsverfahren]]: Enhanced Distributed Channel Access ([[EDAC]])
 

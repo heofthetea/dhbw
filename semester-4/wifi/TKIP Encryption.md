@@ -1,6 +1,5 @@
 [[Encryption]], [[WPA]] 
 
-- TK = Session Key
 - TA = Transmit Address
 - TTAK = [[TKIP Encryption]] Transadmit??? Key => "Zwischenschlüssel"
 	- TSC0/1 ist im Vorneherein bekannt -> der finale Schlüssel kann schonmal vorberechnet werden

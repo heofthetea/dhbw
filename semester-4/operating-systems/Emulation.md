@@ -3,7 +3,7 @@
 - internes Verhalten des emulierten Systems muss nicht mit originalem System übereinstimmen
 - wirkt nach außen wie das emulierte System - was intern passiert ist egal
 
-
+> [!hint] "Black Box"
 ## Beispiel
 - DOSBox
 - QEMU

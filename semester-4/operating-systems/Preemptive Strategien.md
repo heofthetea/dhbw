@@ -4,6 +4,7 @@
 
 > [!warning] Braucht eine [[Taktsteuerung]] des Prozessors.
 
+> [!info] In der Regel benutzen moderne [[Betriebssystem|Betriebssysteme]] das hier.
 ## Strategien
 - [[Round Robin]]
 - [[Dynamic Priority based Round Robin]]

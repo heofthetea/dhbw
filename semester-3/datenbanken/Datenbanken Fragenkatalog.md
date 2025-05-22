@@ -65,7 +65,7 @@
 > 5. Physikalischer Entwurf
 
 > [!help]- 17\. Wie lauten die Beschreibsverfahren für diesen Prozess?
-> [[DB Entwurfsprozess
+> [[DB Entwurfsprozess]]
 
 ## 02 Fragenkatalog
 
@@ -395,3 +395,27 @@
 > - Eine Variable, die automatisch hochzählt -> [[Übung Serial durch Alter Table]]
 
 
+## 14
+> [!question]- 97\. Was macht das ALL beim UNION, INTERSECT und EXCEPT?
+> gibt auch duplikate mit aus
+
+
+> [!question]- 98\. Wie erstellte man vor dem Join eine Verbindung zweier Tabellen?
+> [[RelAlg Kreuzprodukt]] und dann filtern
+
+
+> [!question]- 99\. Was teilt der Join Operator dem Optimizer mit?
+> - Das er sich anhand der [[FOREIGN KEY Constraint|Fremdschlüssel]]-Beziehung entlang hangeln soll.
+
+> [!question]- 100\. Was versteht man unter einem [[Inner Join]] und einem [[Left outer Join|Outer Join]]?
+> - [[Inner Join]]: nur die [[Tupel]], die einen join-partner haben
+> - [[Left outer Join|outer join]]: alle [[Tupel]], auch die, die keinen join-partner haben
+
+> [!question]- 101\. Wozu dient eine [[SQL View]]?
+> - [[Benutzersicht]] => Unabhängigkeit von der Ablage der Daten in der [[SQL Ebenen|Konzeptioinelle Ebene]]
+
+> [!question]- 102\. Was macht das [[DBMS]] intern, wenn wir eine [[SQL View]] mit CREATE VIEW anlegen?
+> - Legt eine Regel (Rule) an mit einem skript
+> - "Anstatt XY benutze dieses skript" -> wird inline inserted bei Abfrage
+
+z

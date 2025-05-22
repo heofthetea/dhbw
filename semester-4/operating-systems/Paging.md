@@ -10,3 +10,4 @@
 
 > [!warning] Eine Page kann nur mit einem Set Flags gesetzt werden!!
 
+> [!warning] ist unabhängig von [[Segmentierung]]!

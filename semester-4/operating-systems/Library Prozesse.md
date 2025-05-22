@@ -1,9 +1,29 @@
+## Interrupts
+### Asynchrone [[Interrupt]]
+- alles, was mit [[IO]] zu tun hat
+
+### Synchroner Interrpt
+- [[Synchroner Interrupt]]
+
+
+### Hardware Interrupt
+- wird von Hardware ausgelöst
+- zwei arten:
+	- **maskable**: Kann etwas später abgehandelt werden
+	- **non-maskable** - kann **nicht** aufgeschoben werden -> muss sofort abgehandelt werden
+
+### Software Interrupt
+- halt von Software lol
+
 ## Prozess def.
 - [[Prozess]]: Die einzigartige Ausführung eines Programms mit der gesamten Prozessumgebung:
 	- [[Programm Counter]]
 	- [[Daten]]
 	- Code
 	- Alle [[Register]]
+
+> [!warning] Pro [[CPU]] kann nur **ein** [[Prozess]] gleichzeitig laufen.
+### Prozesszustände
 - [[Prozesszustand]]: [[Zustand]], in dem sich ein [[Prozess]] befindet. Es gibt 5 Zustände: 
 	1. **ready** -> [[Prozess]] zur Ausführung vorbereitet (aber kein [[CPU]]-Core) frei
 	2. **running** -> [[Prozess]] wird ausgeführt
@@ -12,15 +32,16 @@
 	5. **suspended** -> Durch [[Swapping]] ausgelagert
 - Ein [[Prozess]] kann [[Kindprozess|Kinder]] erzeugen
 
-> [!warning] Pro [[CPU]] kann nur **ein** [[Prozess]] gleichzeitig laufen.
+![[Pasted image 20250317094014.png]]
 ### Ausführungsmodi
 - Dienen der Sicherheit - welche Berechtigungen hat der [[Prozess]]?
-- [[User Mode]]: Eingeschränkter Zugriff auf Hardware & [[Betriebssystem]]
-- [[Kernel Mode]]: uneingeschränkter Zugriff auf Hardware & [[Betriebssystem]]
+1. [[User Mode]]: Eingeschränkter Zugriff auf Hardware & [[Betriebssystem]]
+2. [[Kernel Mode]]: uneingeschränkter Zugriff auf Hardware & [[Betriebssystem]]
 	- in [[Linux]]: `sudo`
 	- Alle [[Prozess|Prozesse]] des [[Betriebssystem|Betriebssystems]] laufen hier
 
 ## Process Scheduling & Deadlocks
+- [[Prozess Scheduler]]: Managed, wie die [[Prozess|Prozesse]] [[Resource|Ressourcen]] bekommen (v.a. [[CPU]])
 - [[Deadlock]]: mehrere [[Prozess|Prozesse]] [[Prozess Blocking|blockieren]] sich gegenseitig:
 	- [[Prozess]] $A$ belegt [[Resource]] $1$, und will [[Resource]] $2$
 	- [[Prozess]] $B$ belegt [[Resource]] $2$ und wartet auf [[Resource]] $1$
@@ -38,7 +59,18 @@
 | Nachfordern von Ressourcen                      | Ressourcen in einem Chunk freigeben ODER nur eine Ressource pro [[Prozess]]                                   |
 | Ressourcen können nicht entzogen werden         | [[Betriebssystem]] kann [[Prozess]] unterbrechen                                                              |
 | Zirkuläres Warten                               | Lineare Ordnung der Ressourcen                                                                                |
+> [!info] Ist eine der [[notwendige Bedingung|notwendigen Bedingung]] nicht gegeben, könnte sich das zirkuläre Warten von selbst auflösen.
+
 > [!hint] Zirkuläres Warten ist die einzige [[hinreichende Bedingung]] für einen [[Deadlock]] - alle anderen sind [[notwendige Bedingung|notwendige Bedingungen]] .
+
+### Deadlocks beheben
+- ein [[Deadlock]] wurde identifiziert -> jetzt muss man's irgendwie auflösen
+
+| Name    | was tut's                                    | Vorteil                                                                                 | Nachteil                                                                         |
+| ------- | -------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Abbruch | `kill -9`                                    |                                                                                         |                                                                                  |
+| Reset   | nur einen Prozess unterbrechen               | - finden des effektivsten Opfers = Prozess, der am einfachsten wiederzustarten ist<br>- | - erfordert [[Transaktion]]<br>- Gefahr: Prozess verhungert (kommt niemals dran) |
+| Entzug  | [[Resource]] für einen [[Prozess]] entziehen | - sind Ressourcen frei, kann [[Prozess]] sie wieder anfordern                           | - geht nicht bei: Schreiben von Dateien, Ausgabe am Drucker<br>-                 |
 ### Resource Allocation Graph
 - [[Resource Allocation Graph]]: Dient der Erkennung von [[Deadlock|Deadlocks]] 
 - [[Graph]] mit zwei Arten an [[Knoten]]: 
@@ -51,6 +83,7 @@
 > [!info] Ein [[Deadlock]] liegt dann vor, wenn in dem [[Resource Allocation Graph]] ein [[Zyklus]] existiert.
 
 > [!hint] Anwendung oft präventiv: Alle [[Prozess|Prozesse]] müssen vorab angeben, welche [[Resource|Ressourcen]] sie benötigen. Anschließend wird [[Resource Allocation Graph]] berechnet, um vorab festzustellen, ob das so umsetzbar ist oder nicht.
+
 ### Banker's Algorithm ist nicht klausurrelevant lol
 ### Scheduling
 - [[Prozess Scheduler]]: Steuert die [[Übergangsrelation|Übergänge]] von [[Prozesszustand|Prozesszuständen]] 
@@ -139,7 +172,7 @@
 
 > [!info] `fork()` gibt die [[PID]] des [[Kindprozess|Kindes]] bei Erfolg zurück.
 
-- Ein Elternprozess hat eine "Aufsichtspflicht" für seine Kinder -> **??????????**
+- Ein Elternprozess hat eine "Aufsichtspflicht" für seine Kinder -> Elternprozess muss sich drum kümnmern, dass dein [[Kindprozess|Kind]] ordnungsgemäß terminiert (bevor Elternprozess stirbt)
 	- verhindert [[Zombie Process]] ([[Prozess]] ohne [[Elternknoten|Eltern]])
 
 ### Exec
@@ -150,6 +183,8 @@
 	- Prozessumgebung wird ersetzt => Auch der [[Programm Counter|PC]] wird neu gesetzt
 
 ## Threading
-
-
-#todo
+- [[Thread]] - "Strang" innerhalb eines [[Prozess|Prozesses]]
+- [[User-Level Thread]] - [[Multithreading|Threading]] unabhängig von [[Betriebssystem]], von Anwendung/Library gemanaged
+	- Kann nicht von [[Prozess Scheduler|Process Scheduling]] profitieren
+- [[Kernel-Level Thread]] - [[Multithreading|Threading]] umgesetzt von [[Kernel]], gemanaged von [[Prozess Scheduler]]
+	- effizienter - wird aber von ältern [[Betriebssystem|OS]] nicht unterstützt

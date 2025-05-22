@@ -5,15 +5,16 @@
 [[Library Booting]]
 [[Library Filesysteme]]
 
+
+
 ### misc
 - [[CPUs are fast]]
 - [[sleep is actually fast]]
-
-
 ### Klausurvorbereitung
 - [[TINF17B_2018_Klausur.pdf]]
 - [[TINF17B_2018_Nachklausur.pdf]]
 - [[TINF18B_2019_Klausur.pdf]]
+- [[Fragen Betriebssysteme]]
 
 #### Übungen
 - [[Prozess Scheduling mit IO]]
@@ -29,20 +30,22 @@
 [[Linux]]
 
 ### Architekturen
-
 [[Monolithisches Betriebssystem]]
 [[Geschichtettes Betriebssystem]]
 [[Mikroarchitektur]]
 =>[[Modulares Betriebssystem]]
 
 ## 2. Speicherverwaltung
-
+[[02_Speicherverwaltung.pdf]]
 [[Speicherverwaltung]]
 [[RAM]]
 
+- [[Arten von Daten]]
 - [[Program Heap]] & ([[Call Stack]])
 - [[Virtual Memory Management]]
 - [[MMU]]
+	- [[Translation Table]]
+	- [[Translation Lookaside Buffer]]
 	 - [[MMU Funktionsweise]]
 - [[Paging]]
 	- [[Segmentation Fault]]
@@ -78,6 +81,7 @@
 - [[ps]]
 - [[Interrupt]]
 	- [[Synchroner Interrupt]]
+	- [[Interrupt-Typen]]
 	- [[APIC]]
 - [[Prozesskommunikation]] 
 	- [[Speicherbasierte Prozesskommunikation]]

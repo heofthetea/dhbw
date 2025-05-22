@@ -1,4 +1,4 @@
-[[WLAN Verbindungsvorgang]], [[Management Frame]], [[Handshake]]
+[[WLAN Verbindungsaufbau]], [[Management Frame]], [[Handshake]]
 
 - zwei Möglichkeiten:
 	- [[Open System Authentication]]

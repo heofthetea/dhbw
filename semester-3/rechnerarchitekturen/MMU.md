@@ -1,19 +1,13 @@
 > Memory Management Unit
 
-[[Virtual Memory Management]]
+[[Virtual Memory Management]], [[Translation Table]], [[Translation Lookaside Buffer]]
 
 - fancy für [[Leitwerk]] (kann prolly bisschen mehr)
 - Aufteilung des [[Memory|Speichers]] in mehrere Blöcke
 - übersetzt **virtuelle** [[Adresse|Adressen]] in physikalische
 - kontrolliert Zugriff auf Speicher
+- hält [[Translation Table]]
 
-## Translation Table
-- [[Lookup Table]] im Hauptspeicher
-- Speichert diverse Infos:
-	- Modify Bit (wurde Page verändert?)
-	- Reference Bit (wurde Page angefragt?)
-	- Protection Bits (Welche Aktionen - rwx - sind erlaubt?) (s. [[Linux file permissions]])
-	- [[Page Frame Number]]
+> [!warning] **Verwaltet** den Speicher nicht => Das macht weiterhin das [[Betriebssystem]]!!
 
-## Translation Lookaside Buffer (TLB)
-- [[Cache]] für MMU
+![[Pasted image 20250519091802.png]]
