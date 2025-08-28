@@ -10,7 +10,7 @@ Die [[Bedingte Wahrscheinlichkeit]] von $A$ **unter der Bedingung**, dass $B$ ei
 ### Umkehrung
 - Die Bedingung kann getauscht werden:
 
-$$P(B|A) = \frac{P(A|B)}{P(A)}$$
+$$P(B|A) = \frac{P(A|B)\cdot P(B)}{P(A)}$$
 ## Beispiel Würfel
 - $A = \set{6}$
 - $B = \set{2, 4, 6}$ (gerade Zahl würfeln)

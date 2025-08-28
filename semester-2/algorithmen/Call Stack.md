@@ -3,6 +3,7 @@
 - Benutzt für Aufruf von [[Function|Funktionen]] & deren Parameter
 - Daten müsen in umgekehrter Reihenfolge ausgelesen werden, wie sie angelegt werden -> LIFO
 
+> [!hint] A [[Pointer]] is just a value in the [[Call Stack]] pointing to the [[Program Heap]]
 
 > [!info] [[Programm Counter|PC]] als Rücksprungadresse wird in der Regel in [[Register|Registern]] gespeichert, nicht auf den Stack.
 ## Arbeitsweise

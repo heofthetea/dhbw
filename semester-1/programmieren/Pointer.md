@@ -4,13 +4,12 @@
 int *my_pointer;
 ```
 
-
 [[Array|Arrays]] in [[C]] are just a [[Pointer]] to the first element --> [[Random Access auf Arrays]]
 
 ### De-reference a pointer
 Using an Asterisk operator on a pointer returns the value stored at the location of that pointer.
 ```c
-int get_value_at_pointer(int * a) {
+int get_value_at_pointer(int *a) {
 	return *a;
 }
 ```

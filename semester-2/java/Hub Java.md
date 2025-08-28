@@ -111,7 +111,7 @@ compilation:
 ## Java under the Hood
 > This is probably the most interesting part of this lecture lol
 
-[[JAVA Primitive Data Type]]
+[[Primitive Data Type]]
 
 [[Program Heap]]
 [[Java Map]]
@@ -141,19 +141,24 @@ compilation:
 
 # intension
 ---
-[[New Maven Project]]
-[[Run Spring-Boot Project]]
+- [[New Maven Project]]
+- [[Run Spring-Boot Project]]
 
-[[Spring Keycloak integration]]
+- [[Spring Keycloak integration]]
 
 
-[[Spring Controller Class]]
-[[Spring Service Class]]
-[[Spring Security]]
-[[Custom JWT Auth Converter]]
-[[CORS Configuration]]
+- [[Spring Controller Class]]
+- [[Spring Service Class]]
+- [[Spring Security]]
+- [[Custom JWT Auth Converter]]
+- [[CORS Configuration]]
 
-[[Reactive Programming]]
+- [[Reactive Programming]]
 
-[[Java Mutiny]]
+- [[Java Mutiny]]
+- [[Java Object to HashMap]]
 
+## JFS
+- [[Optional type]]
+- [[Java Record]]
+- [[Java Switch Expression]]

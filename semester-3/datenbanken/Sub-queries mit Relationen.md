@@ -16,7 +16,7 @@ WHERE attr <predicate> ANY (SELECT ...)
 [[Allquantor]]
 
 ```sql
-WHERE attr <predicate ALL (SELECT ...)
+WHERE attr <predicate> ALL (SELECT ...)
 ```
 ## EXISTS
 [[Existenzquantor]]

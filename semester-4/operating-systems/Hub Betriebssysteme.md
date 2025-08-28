@@ -4,9 +4,6 @@
 [[Library Prozesse]]
 [[Library Booting]]
 [[Library Filesysteme]]
-
-
-
 ### misc
 - [[CPUs are fast]]
 - [[sleep is actually fast]]
@@ -14,7 +11,9 @@
 - [[TINF17B_2018_Klausur.pdf]]
 - [[TINF17B_2018_Nachklausur.pdf]]
 - [[TINF18B_2019_Klausur.pdf]]
+- [[TINF19B_2020_Klausur.pdf]]
 - [[Fragen Betriebssysteme]]
+- [[Betriebssysteme Bulimie]]
 
 #### Übungen
 - [[Prozess Scheduling mit IO]]
@@ -31,7 +30,7 @@
 
 ### Architekturen
 [[Monolithisches Betriebssystem]]
-[[Geschichtettes Betriebssystem]]
+[[Geschichtetes Betriebssystem]]
 [[Mikroarchitektur]]
 =>[[Modulares Betriebssystem]]
 
@@ -46,9 +45,9 @@
 - [[MMU]]
 	- [[Translation Table]]
 	- [[Translation Lookaside Buffer]]
-	 - [[MMU Funktionsweise]]
+	- [[MMU Funktionsweise]]
 - [[Paging]]
-	- [[Segmentation Fault]]
+	- [[Segmentation Fault|Page Fault]]
 	- [[Demand Paging]]
 - [[Übung MMU]]
 - [[Swapping]]
@@ -127,6 +126,7 @@
 - [[Physical Startup]]
 	- [[BIOS]]
 	- [[UEFI]]
+		- [[CMOS]] 
 - [[Booting Windows]]
 - [[Booting Linux]]
 - [[Master Boot Routine]]
@@ -135,8 +135,9 @@
 	- [[Bootloader]]
 		- [[Chainloader]]
 		- [[Multi-Stage Bootloader]]
-	- [[PXE]]
-		- [[Wake on LAN]]
+- [[POST]]
+- [[PXE]]
+	- [[Wake on LAN]]
 
 ## 6. Filesystem
 - [[06_Dateisysteme.pdf]]
@@ -203,6 +204,7 @@
 		- [[Bash for loop]]
 		- [[Bash if statement]]
 		- [[Bash While loop]]
+		- [[Bash case]]
 	- [[Stdio redirection]]
 	- [[Linux file permissions]]
 	- [[Bash variable]]

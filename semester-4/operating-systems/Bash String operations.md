@@ -33,4 +33,3 @@ echo $(echo $mystr | cut -d ';' -f1)
 ```
 
 - `-d`; delimeter
-- 

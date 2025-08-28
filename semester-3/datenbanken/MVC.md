@@ -1,6 +1,6 @@
 > Model-View-Controller
 
-- Controller, Service, Repository
+> [!warning] nicht ganz [[Controller-Service-Repository Architecture]]
 
 ![[Pasted image 20250327160609.png]]
 

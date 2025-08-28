@@ -53,7 +53,7 @@
 #### Aufbau einer Instruktion
 `[ OPCODE | OPERAND 1 | OPERAND 2 | OPERAND 3 ]` ([[Binärsystem|binary]] ofc)
 - [[OPCODE]]: Identifier der Operation (bspw. `ADD` - addieren)
-- Operand: Entweder direkt Werte (think [[JAVA Primitive Data Type|primitive data type]]) oder [[Adresse|Adressen]] (think [[Reference]])
+- Operand: Entweder direkt Werte (think [[Primitive Data Type|primitive data type]]) oder [[Adresse|Adressen]] (think [[Reference]])
 - [[Instruktionen mit mehreren Operanden]]:
 	0. [[Stack Machine]] - arbeitet mit einem Stack
 	1. [[Akkumulator]] - man kann viele Operationen nur auf einem [[Register]] $A$ durchführen 

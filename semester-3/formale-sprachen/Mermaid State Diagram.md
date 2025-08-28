@@ -1,5 +1,4 @@
 ```mermaid
-
 stateDiagram-v2
     [*] --> Still
     Still --> [*]
@@ -12,7 +11,6 @@ stateDiagram-v2
 
 
 ```mermaid
-%%{init: {'themeCSS':''}}%%
 
 
 flowchart LR

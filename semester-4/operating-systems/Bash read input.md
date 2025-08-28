@@ -6,3 +6,4 @@ read -nX -r
 - `-nX` : lies $X$ [[Symbol|Symbole]]
 
 > [!hint] Prompting mit `echo -n` (keine newlines)
+

@@ -5,6 +5,8 @@
 - Man page of `exec`:  "replace the current process image with a new process image"
 	- => ersetzt den [[Kontext]] des aktuellen [[Prozess|Prozesses]]
 
+> [!warning] Ersetzt aber **nicht** die [[PID]]!!
+
 > [!hint] Setzt auch [[Programm Counter]] neu -> Anderer Code.
 
 ```c

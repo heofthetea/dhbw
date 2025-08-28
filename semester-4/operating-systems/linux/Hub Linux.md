@@ -31,9 +31,10 @@
 [[My Filesystem Conventions]]
 
 ## Bash scripting
-[[Bash script]]
-[[shuf]]
-[[UNIX sort]]
-[[UNIX generate file of random strings]]
-[[get number of lines in file]]
+- [[Bash script]]
+- [[shuf]]
+- [[UNIX sort]]
+- [[UNIX generate file of random strings]]
+- [[get number of lines in file]]
+- [[Bash history]]
 

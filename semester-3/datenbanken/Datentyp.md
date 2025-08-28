@@ -1,3 +1,9 @@
+---
+aliases:
+  - Type
+---
+> Spezifiziert die [[Menge|Trägermenge]] einer [[Variable]]
+
 
 ![[Pasted image 20250326125418.png]]
 

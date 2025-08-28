@@ -2,6 +2,7 @@
 
 - DIFS: Distributed IFS (Inter-Frame Space)
 - PIFS: Point IFS => ist kürzer als DIFS
+- SIFS: Short IFS
 - [[Access Point|AP]] drängelt sich durch PIFS vor und sagt durch [[Beacon Frame]]: "wir machen jetzt [[Point Coordination Function|PCF]]"
 
 - **CFP**: Contention-free period -> hier passiert [[Point Coordination Function|PCF]]

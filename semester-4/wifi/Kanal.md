@@ -2,6 +2,7 @@
 > [!hint] Muss mindestens $20\ MHz$ breit sein.
 
 
+> [!info] Weiter aufgeteilt in Unterträger (Sub-carrier) (bruh)
 - gelb: Normspektralmaske 
 - grün ist das, was Antennen actually können
 - **dBr** sind relativ zu der maximal zulässigen Leistung

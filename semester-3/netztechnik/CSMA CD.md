@@ -1,8 +1,8 @@
 > [[CSMA]] mit [[semester-3/netztechnik/Kollision|Collision]] Detection
 > Basiert auf Kupfer-[[Leitung]], also für [[Ethernet]]
 
-[[1-persistentes CSMA]]
 
+[[1-persistentes CSMA]]
 - max Segmentlänge: $500m$
 	- maximal $5$ Segmente pro [[Netzwerk]] --> max $2500m$ Netzwerklänge
 	- maximale Laufzeit: $25\mu$-Sekunden (one way)  

@@ -3,6 +3,7 @@
 - verhindert [[Anomalie|Anomalien]] in [[Information]]
 - z.B.: das Schreiben von [[File|Dateien]] 
 
+> [!warning] Ein [[Prozess]] im [[Kritischer Abschnitt|Kritischen Abschnitt]] darf nicht unterbrochen werden!
 ### Anforderungen
 1. **mutual exlusion** -> nur ein [[Prozess]] darf im [[Kritischer Abschnitt|kritischen Abschnitt]] sein
 2. Prozesse dürfen sich nicht **untereinander hindern**, in den Kritischen Abschnitt zu wechseln

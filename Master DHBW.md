@@ -1,17 +1,16 @@
 #master
 - [[README]]
 - [[23B Battle Royale.pdf]] - the most important Document of them all
+
 ## Quick Information
 - [[modulhandbuch.pdf]]
 - [[theorie_praxisphasen.pdf]]
 - [[Notenformel]]
 
-## Misc
-- [[The 8 Horsemen of over-generalization]]
-- [[The Everything Model]]
 
 ## Utilities
 - [[Master Exports]]
+- [[Hub Misc]]
 - [[Colour Backups]]
 - [[Access Token.mdenc]]
 - [[Structuring.pdf]]
@@ -66,6 +65,3 @@
 - [[Hub Cloud Computing]]
 - [[Hub Web Engineering 2]]
 - [[Hub Statistik]]
-
-## Extern
-- [[Hub Extern]]

@@ -11,9 +11,11 @@ $$\overline{x^{2}} - \overline{x}^{2}$$
 
 # Stochastik
 [[Wahrscheinlichkeit]]
-$$Var(x) = \frac{1}{n}\sum\limits_{i=1}^{n}(x_{i} - E(X))^{2} \cdot P(x_{i})$$
+$$Var(x) =\sum\limits_{i=1}^{n}(x_{i} - E(X))^{2} \cdot P(x_{i})$$
 #### Verschiebesatz
 $$Var(x) = E(X^{2}) - E(X)^{2}$$
+##### Rechnen:
+$$Var(X) = \sum\limits_{i} x_i^2 \cdot P(X = x_i) - E(X)^2$$
 ## Eigenschaften
 - [[Linearkombination|lineare]] Transformationen:
 	- $Var(X + a) = Var(X)$ (Absorption)

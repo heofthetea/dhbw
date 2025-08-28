@@ -11,7 +11,7 @@ $$\Phi(x) = \int\limits_{-\infty}^{x}f(x)$$
 > [!warning] $\Phi$ ist nur positiv definiert => $\Phi(-x) = 1 - \Phi(x)$
 
 
-### Linearität
+### Linearität unter Addition
 $$N(\mu_{1}, \sigma^{2}_{1}) + N(\mu_{2}, \sigma^{2}_{2}) = N(\mu_{1} + \mu_{2},\ \sigma^{2}_{1} + \sigma^{2}_{2})$$
 > [!warning] Werden [[Erwartungswert|Erwartungswerte]] voneinander abgezogen, müssen die [[Varianz|Varianzen]] **dennoch** addiert werden!!
 

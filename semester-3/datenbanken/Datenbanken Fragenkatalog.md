@@ -33,10 +33,10 @@
 > [!help]- 10\.  Wozu stellte Codd seine Regeln für ein [[DBMS]] auf?
 > Was sind die Grundvorraussetzung für ein RDB? Was muss da sein? -> [[Relationale Datenbank#Codd's Regeln]]
 
-> [!help]- 11\. Nennen Sie einige Regeln von Codd und beschreiben Sie diese kurz.
+> [!help]- 11\. Nennen Sie einige von [[Relationale Datenbank#Codd's Regeln|Codd's Regeln]] und beschreiben Sie diese kurz.
 > [[Transaktion]], [[Benutzersicht]], [[Zugriffskontrolle RDB]], [[Katalog]], [[Konsistenzüberwachung]], [[Operation RDB]] ...
 
-> [!help]- 12\. Was versteht man unter: Datenbankmodell, Datenbankschema, -sprache?
+> [!help]- 12\. Was versteht man unter: [[Datenbankmodell]], [[Datenbankschema]], [[Datenbanksprache]]?
 > - Modell: Welche Form (Relational, Hierarchisch?)
 > - Schema: Beschreibt Meta-Daten (wie [[Katalog]]), wie sehen die Daten aus, was steht drin?
 > - Sprache: Wie greift man auf die Daten zu? (Data Definition L., Data Manipulation L., Data Query L)
@@ -51,18 +51,18 @@
 > - Transaktionsmanager: sorgt dafür, dass [[Transaktion|Transaktionen]] korrekt durchgeführt werden; valider Status, [[Synchronisation RDB|Mehrbenutzer-Synchronisierung]] 
 > - Recovery-Manager: Stellt Zustand nach Crash wieder her, nutzt Log files um Stand zu gewissem Stand wiederherzustellen
 
-
 > [!help]- 15\. Was versteht man unter einem Datenbankentwufs-Prozess?
 >  [[DB Entwurfsprozess]]
 >  Transformieren von Kundenanforderungen (= Chaos) in [[Datenbank]] (= Ordnung)
 >  definiert [[Datenbankschema]], [[Drei-Schichten-Modell]], etc.
 
 > [!help]- 16\. Wissen Sie noch die einzelnen Schritte des Prozesses?
+> [[DB Entwurfsprozess]]
 > 1. Anforderungsanalyse
-> 2. Konzeptioneller Entwurf 
-> 3. Logischer Entwurf
-> 4. Datenbank Definition
-> 5. Physikalischer Entwurf
+> 2. Konzeptioneller Entwurf -> [[ERM]]
+> 3. Logischer Entwurf -> [[Relationales Modell]]
+> 4. Datenbank Definition (Data Definition durch [[DDL]])
+> 5. Physikalischer Entwurf -> Filesystem etc.
 
 > [!help]- 17\. Wie lauten die Beschreibsverfahren für diesen Prozess?
 > [[DB Entwurfsprozess]]
@@ -133,7 +133,7 @@
 
 > [!help]- 32\. Nennen Sie ein Beispiel für eine Partitionierung. Was ist eine Aggregation?
 > - [[Partitionierung]] und [[Aggregation]] existieren, wenn mehrere Entitäten Teil einer ganzen sind
-> - Beispiel: Fußballteam
+> - Beispiel Partitionierung: Fußballteam
 
 > [!help]- 33\. Was versteht man unter einem existenzabhängigen Entitäts-Typ und wie wird diese identifiziert?
 > - Sie nutzen einen Fremdschlüssel als ihren [[Schlüsselattribut]] - Können nicht existieren, wenn Vaterentität nicht mehr existiert
@@ -195,7 +195,7 @@
 
 > [!help]- 47\. Erklären Sie, was man unter [[Anomalie|Anomalien]] versteht, und welche bei einem schlecht designten Datenbankschema auftreten können?
 > In einer [[Datenbank]] existiert ein inkonsistenter Zustand; etwas existiert, was dort nicht hingehört.
-> Beispiel: Etwas wurde gelöscht, etwas wurde nicht gelöscht, etwas wurde verändert - was nicht hätte passieren sollen.
+> Beispiel: Etwas wurde gelöscht, etwas wurde nicht gelöscht, etwas wurde verändert - was nicht hätte passieren sollen. (= Löschanomalie bzw. Änderungsanomalie)
 
 > [!help]- 48\. Was versteht man unter einer [[Funktionale Abhängigkeit]] bei einer [[Relation]]?
 > Wenn man von einer [[Menge]] $X$ aus [[Attribut|Attributen]] eines Schemas  **immer** auf eine andere [[Menge]] $Y$ aus Attributen schließen kann.
@@ -418,4 +418,3 @@
 > - Legt eine Regel (Rule) an mit einem skript
 > - "Anstatt XY benutze dieses skript" -> wird inline inserted bei Abfrage
 
-z

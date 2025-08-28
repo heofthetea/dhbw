@@ -5,4 +5,4 @@
 	- _Wiederverwendbarkeit_, Verwendung von [[Interface|Interfaces]] 
 	- [[Encapsulation|Datenkapselung]]; interne Daten nicht extrahierbar, wenn es keine Schnittstellen für gibt
 - klare Schnittstelle zwischen einzelnen Modulen
-- [[Geschichtettes Betriebssystem|Schichtprinzip]], um grundlegende Module "nach oben hin" zu erweitern -> [[x86 Rings of Protection]]
+- [[Geschichtetes Betriebssystem|Schichtprinzip]], um grundlegende Module "nach oben hin" zu erweitern -> [[x86 Rings of Protection]]

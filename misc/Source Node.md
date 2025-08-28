@@ -1,0 +1,1 @@
+> Knoten eines [[Flow Graph]], an dem der Flow originated

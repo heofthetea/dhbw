@@ -7,6 +7,12 @@ aliases:
 - Für jede zu schützende Datenmenge wird eine **Sperrvariable** (= Semaphor) definiert
 - [[Semaphor]] signalisiert den Belegungszustand durch einen Prozess
 
+#### Grundlegender Algorithmus
+1. Schauen - ist [[Resource]] freigegeben? -> `pass` in Beispiel
+2. Wenn frei -> set lock => Ist jetzt für andere [[Prozess|Prozesse]] gesperrt!
+3. (do calculation)
+4. Release lock
+
 ### Vorteile
 - Sehr flexibel
 - Sehr mächtig -> kann große [[Daten]]mengen

@@ -11,7 +11,7 @@ $$R^{2} = \frac{s_{\hat{y}}^{2}}{s_{y}^{2}}$$
 
 - Verhältnis der [[Varianz]] des geschätzten $y$ und der [[Varianz]] des tatsächlichen $y$ 
 
-> [!warning] In der Vorlesung nur zwei dimensionen, deshalb gilt: $R^{2} = \rho_{xy}^{2}$!!
+> [!warning] In der Vorlesung nur zwei dimensionen, deshalb gilt: $R^{2} = r_{xy}^{2}$!!
 
 
 ### Wertebereich

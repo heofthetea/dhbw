@@ -6,6 +6,6 @@
 
 > [!hint] Wird kopiert: Steht einmal ganz am Anfang der [[Hard Drive|Festplatte]], und einmal nochmal am Ende (-> Backup)
 
-
+- Protective [[Master Boot Record|MBR]] -> für backward-compatibility
 
 ![[Pasted image 20250428105606.png]]

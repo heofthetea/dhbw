@@ -57,6 +57,10 @@ $$\varphi(v,\ o) = t(v) + o$$
 
 ## Page Sharing
 - [[Page Sharing]]
+	- mehrere [[Prozess|Prozesse]] erzeugen dieselbe [[Page]]
+	- anstatt neue Page zu erstellen, verweist [[MMU]] auf bereits existierende [[Page]]
 - [[Copy on Write]]
+	- Will zweiter [[Prozess]] was schreiben, löst das einen [[Synchroner Interrupt|Trap]] aus (fehlende Berechtigungen)
+	- [[MMU]] erstellt **jetzt** erst eine neue Kopie der [[Page]] -> sagt Prozess, er soll's nochmal an der neuen Stelle probieren
 
 [^1]: gesamter Kontext = alle Pages ?

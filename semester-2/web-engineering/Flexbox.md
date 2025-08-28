@@ -9,3 +9,8 @@ display: flex;
 
 If a _container_ is a [[Flexbox]], every child element is automatically also a [[Flexbox]].
 --> the specified [[Layouting Flexbox|layout]] thus also applies to all children.
+
+
+## Layout
+- [[Layouting Flexbox]]
+![[Handle flexbox content]]

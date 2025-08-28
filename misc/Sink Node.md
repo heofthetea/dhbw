@@ -1,0 +1,1 @@
+> [[Knoten]] in einem [[Flow Graph]], an dem der Flow endet

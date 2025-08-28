@@ -12,6 +12,7 @@ def when_triggered():
 			
 ```
 (lol it's kinda funny how I'm incorporating c and Prädikatenlogik into my pseudo codes)
+[[Polling]]
 
 #### Problem: Circular references
 ```mermaid

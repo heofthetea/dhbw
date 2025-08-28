@@ -1,7 +1,7 @@
 > Request-to-Send/Clear-to-send
 > Lösung für [[Hidden Station Problem]]
 
-[[Point Coordination Function]]
+> [!info] ist eine Erweiterung für [[Distributed Coordination Function|DCF]]
 
 - Will eine [[Station]] Daten senden, wird ein Control Frame (Request to Send) an den [[Access Point]].
 	- **Nur** wenn ein Clear-To-Send [[Control Frame|Frame]] zurück kommt, darf [[Station]] schicken

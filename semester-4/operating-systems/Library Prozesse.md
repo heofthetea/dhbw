@@ -1,17 +1,19 @@
 ## Interrupts
 ### Asynchrone [[Interrupt]]
 - alles, was mit [[IO]] zu tun hat
+- asynchron vom Programmablauf -> unvorhersehbar
 
 ### Synchroner Interrpt
-- [[Synchroner Interrupt]]
-
+- [[Synchroner Interrupt]] 
+- umfasst:
+	- Trap -> geplanter Interrupt (z.B. Breakpoint)
+	- [[Segmentation Fault]]
 
 ### Hardware Interrupt
 - wird von Hardware ausgelöst
 - zwei arten:
 	- **maskable**: Kann etwas später abgehandelt werden
 	- **non-maskable** - kann **nicht** aufgeschoben werden -> muss sofort abgehandelt werden
-
 ### Software Interrupt
 - halt von Software lol
 
@@ -51,9 +53,9 @@
 	- Einem [[Prozess]] alle [[Resource|Resourcen]] entziehen
 
 ### Präventivmaßnahmen gegen Deadlocks
-[[Deadlocks verhindern]] 
+[[Deadlocks verhindern]]
 
-| Bedinung                                        | Lösung                                                                                                        |
+| Bedingung                                       | Lösung                                                                                                        |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | Exklusives Belegen von [[Resource\|Ressourcen]] | [[Resource\|Ressourcen]] können geteilt werden (v.a. bei [[Netzwerk]] und [[Hard Drive\|Festplatte]] gemacht) |
 | Nachfordern von Ressourcen                      | Ressourcen in einem Chunk freigeben ODER nur eine Ressource pro [[Prozess]]                                   |
@@ -137,17 +139,17 @@
 ### Kritischer Abschnitt
 - [[Kritischer Abschnitt]]: Abschnitt, in dem ein [[Prozess]] vom [[Prozess Scheduler|Scheduler]] nicht unterbrochen werden darf
 - Anforderungen:
-	2. Es darf nur **ein** [[Prozess]] gleichzeitig im [[Kritischer Abschnitt|Kritischen Abschnitt]] sein (<span style="color:rgb(0, 122, 255)">mutual exclusion</span>)
-	3. [[Prozess|Prozesse]] dürfen sich nicht **gegenseitig** daran **hindern**, in den [[Kritischer Abschnitt|kritischen Abschnitt]] zu gelangen
-	4. [[Prozess Scheduler|Scheduler]] muss sicher stellen, dass jeder [[Prozess]], der auf einen [[Kritischer Abschnitt|kritischen Abschnitt]] wartet, ihn auch erreicht (<span style="color:rgb(0, 122, 255)">no starvation</span>)
-	5. [[Kritischer Abschnitt]] muss **immer [[Haltekonfiguration|terminieren]]** - unabhängig von [[CPU]]-Leistung
+	1. Es darf nur **ein** [[Prozess]] gleichzeitig im [[Kritischer Abschnitt|Kritischen Abschnitt]] sein (<span style="color:rgb(0, 122, 255)">mutual exclusion</span>)
+	2. [[Prozess|Prozesse]] dürfen sich nicht **gegenseitig** daran **hindern**, in den [[Kritischer Abschnitt|kritischen Abschnitt]] zu gelangen
+	3. [[Prozess Scheduler|Scheduler]] muss sicher stellen, dass jeder [[Prozess]], der auf einen [[Kritischer Abschnitt|kritischen Abschnitt]] wartet, ihn auch erreicht (<span style="color:rgb(0, 122, 255)">no starvation</span>)
+	4. [[Kritischer Abschnitt]] muss **immer [[Haltekonfiguration|terminieren]]** - unabhängig von [[CPU]]-Leistung
 ### Umsetzungen
 - [[Unterbrechungssperre]]
 - [[Semaphor]]: Setzen einer [[Flag]] (Sperrvariable)
 	- für jede zu schützende Datenmenge wird ein [[Semaphor]] definiert
-
-#todo digga gar keinen Bock das alles auszuformulieren
-
+- [[Synchronisation - Monitor|Monitor]]: [[Semaphor]], der von Compiler realisiert wird
+- veraltet: Unterbrechungssperre
+	- alle [[Interrupt|Interrupts]] werden von [[Betriebssystem|OS]] blockiert (basiert auch auf acquire/lock mechanism)
 
 # Multitasking
 - [[Ziele Multitasking|Ziel]]: Bestmögliche Auslastung von [[CPU|Prozessor]] & Leerlauf verhindern

@@ -1,0 +1,4 @@
+- Man ruft den Service Provider (i.e. die Application) auf
+- SP redirected zu [[IDP]]
+- [[IDP]] macht [[Authentifizierung vs Authorisierung|Auth]]
+- [[IDP]] redirected nach successful Auth

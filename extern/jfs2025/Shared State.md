@@ -1,0 +1,1 @@
+> [[Zustand]], der von mehreren [[Modul|Modulen]] verwendet wird

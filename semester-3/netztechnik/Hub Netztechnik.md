@@ -8,7 +8,6 @@
 [[Netztechnik-Vorlesung Teil-8.pdf]]
 [[Netztechnik-Vorlesung Teil-9.pdf]]
 [[Netztechnik-Vorlesung Teil-10.pdf]]
-
 ### Altklausuren
 [[Nachklausur_Netztechnik-I_STG-TINF22E.pdf]] -> Probeklausur, weniger umfangreich als unsere
 
@@ -17,6 +16,7 @@
 [[Klausurfragen 2020.pdf]]
 ### Notengebung
 - Klausur 90 min
+- [[Doku Netztechnik Labor]]
 
 ## Libraries
 [[Library Netztechnik]]
@@ -198,9 +198,7 @@
 
 
 ## 7. WLAN
-\- nächstes Semester -
-
-
+[[Hub WLAN]]
 ## 8. Netzwerk-Komponenten
 [[Herausforderungen bei Datenübertragung]]
 - [[Repeater]]

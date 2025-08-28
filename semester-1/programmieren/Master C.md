@@ -21,7 +21,7 @@
 [[Pointer]]
 [[Function]]
 [[String|String]]
-[[Structs]]
+[[Struct]]
 [[switch-case]]
 [[Floating Point Darstellung]]
 [[Recursion]]

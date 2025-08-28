@@ -1,5 +1,3 @@
-
-
 > mehrere [[Prozess|Prozesse]] [[Prozess Blocking|blockieren]] sich gegenseitig, weil sie Zugriff auf dieselbe Ressource benötigen
 
 [[BSOD]]

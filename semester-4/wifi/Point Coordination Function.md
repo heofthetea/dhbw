@@ -8,7 +8,7 @@ aliases:
 - [[Polling]]: [[Access Point]] fragt nach und nach alle Stationen, ob sie was senden wollen
 	- während dem [[Polling]] kann [[Access Point]] bereits Daten oder [[ACK|Quittierungen]] schicken
 
-> [!hint] Kann abgewechselt werden mit [[Distributed Coordination Function|DCF]], für Stationen, die kein [[Point Coordination Function|PCF]] können.
+> [!hint] Kann abgewechselt werden mit [[Distributed Coordination Function|DCF]], für Stationen, die kein [[Point Coordination Function|PCF]] können. => [[Coordination PCF und DCF]]
  
 
 > [!question]- Warum der [[Access Point]], und niemand anders?

@@ -17,7 +17,7 @@ Sei $f: \mathbb{N} \longrightarrow \mathbb{N}$ eine [[Funktion]]. Eine [[Turing 
 > [!hint] Elegance and Simplicity are difficult to quantify, but nevertheless important!!
 
 
-==> [[Complexity abstract]]
+=> [[Complexity abstract]]
 [[Komplexität und Eingabe]]
 [[Komplexität bei großen n]]
 

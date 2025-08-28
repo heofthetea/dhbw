@@ -6,6 +6,7 @@
 2. Die können mit **Teilen** anderer [[File|Dateien]] gefüllt werden
 3. => Je voller die Festplatte, desto mehr Fragmentierung => **arsch langsame** Ladezeiten
 
+> [!hint] alternatives Problem: Eine Datei wird so groß, dass sie an den Anfang eines anderen Blocks "anstößt" -> ein neuer Block muss ganz woanders erstellt werden
 ## Lösung
 - Einzelne Blöcke einer [[File|Datei]] wieder zusammenführen
 - Dateien heuristik besser positionieren:
