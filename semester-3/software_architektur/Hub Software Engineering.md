@@ -9,7 +9,7 @@ download: yEd Graph Editor (for Darstellungen)
 ## 01 Motivation
 [[Gartner Hype Cycle]]
 [[Teufelsquadrat]]
-[[Multitasking]]
+[[SWE Multitasking]]
 
 ---
 
@@ -39,3 +39,15 @@ download: yEd Graph Editor (for Darstellungen)
 [[Anforderungsanalyse Alm]]
 [[IOT Framework Alm]]
 [[FURPS]]
+
+# 4. Semester 🤮
+- [[SWE Testvorbereitung Basistechniken]] 
+	- [[4 plus 1 Sichtenmodell]]
+	- [[Komponentendiagramm]]
+	- [[Arten der UI-Entwurfe]]
+	- [[Sichten auf ein Produkt]]
+- [[UML-Notationsübersicht_oose.pdf]]
+
+## Random Stuff
+- [[UML]]
+- [[kack partyplaner modul simulation beschreibung fickt euch alle]] 

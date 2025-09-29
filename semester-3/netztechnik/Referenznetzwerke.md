@@ -1,4 +1,4 @@
-[[IPv4]], [[Loopback]], [[Zeroconf]], [[Privater Adressraum]]
+[[IPv4]], [[Loopback]], [[Zeroconf]], [[Privater IP-Addressraum]]
 
 - Durch einen [[RFC]] festgelegte besondere Adressräume
 

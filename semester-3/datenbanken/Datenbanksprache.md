@@ -3,3 +3,5 @@ Spezifikationen:
 - [[DDL]]
 - [[DML]]
 - [[DQL]]
+	- [[TCL]]
+- [[DCL]]

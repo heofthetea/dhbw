@@ -1,5 +1,7 @@
 > Ein Algorithmus ist ein Verfahren zur Lösung eines Problems oder einer Problemklasse
 
+> [!def] Etwas, was eine [[Turing Machine]] durchführen kann.
+
 - überführt einen Input in einen Output
 - consists of finite amount of individual steps
 - ist ohne tieferes Verständnis durchführbar
@@ -10,7 +12,7 @@
 - (occasionally) Algorithm terminates
 	- _problematic_ 
 
-> [!info] An 'individual step' is comparable to an Instruction.
+> [!info] An 'individual step' is comparable to an [[Instruktion]].
 
 
 ### Examples

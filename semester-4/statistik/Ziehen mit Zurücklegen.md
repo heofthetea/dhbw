@@ -1,0 +1,3 @@
+Möglichkeiten:
+$$n^{k}$$
+

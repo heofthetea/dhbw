@@ -1,7 +1,10 @@
-> Auch genannt: **Interferenzregeln**
+---
+aliases:
+  - Interferenzregeln
+---
+ 
 
 [[Hülle einer funktionalen Abhängigkeit]]
-
 
 1. $Y \in X \Longrightarrow X \rightarrow Y$ ([[Triviale Funktionale Abhängigkeit]])
 2. $X \rightarrow Y \Longrightarrow XZ \rightarrow YZ$ (Verstärkung)

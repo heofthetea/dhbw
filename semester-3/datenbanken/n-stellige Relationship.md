@@ -7,7 +7,7 @@ $$R: E_{1} \times E_{2} \rightarrow E_{3}$$
 - Wenn es _drei_ $N$-[[Kardinalität|Kardinalitäten]] sind:
 	- Keine [[Abbildung]] mehr, sondern [[Relation]]!!
 
---> Leserichtung: immer von _zwei_ auf eins
+-> Leserichtung: immer von _zwei_ auf eins
 ## Allgemein
 $$R: E_{1} \times E_{2} \times ... \times E_{n} \rightarrow E_{m}$$
 

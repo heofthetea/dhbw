@@ -100,7 +100,7 @@ oder: Digitaltechnik 2.0 --> [[Library Rechenschaltungen]]
 	- [[Halb-Duplex-Betrieb]]
 	- [[Duplex-Verbindung]]
 
-- [[BUS-Schaltung]]
+- [[Parallele BUS-Schaltung]]
 	- [[synchroner BUS]]
 	- [[asynchroner BUS]]
 - [[serielle Bus-Schaltung]]
@@ -192,6 +192,6 @@ oder: Digitaltechnik 2.0 --> [[Library Rechenschaltungen]]
 		- [[Sprungvorhersage]]
 
 ## Cache
-(nicht mehr Klausurrelevant für RA, aber für Betriebssysteme)
+(nicht mehr Klausurrelevant für RA, aber für Betriebssysteme (lol nein bruv))
 [[Cache]]
 - [[4-way Cache]]

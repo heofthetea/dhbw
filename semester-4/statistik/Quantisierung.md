@@ -8,8 +8,12 @@
 > [!question]- Klassen immer gleich groß machen?
 > Nein. Generell: Je weniger [[Information]], desto kleiner die Klasse.
 
+> [!question]- Wie viele Klassen?
+> Daumenregel für relativ kleine $n$
+> $$\sqrt{n}$$
+> Für große $n$ ist das sinnlos ofc
 
-#quantisierung danke josia
+
 
 
 

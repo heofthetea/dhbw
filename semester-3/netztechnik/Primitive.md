@@ -1,14 +1,10 @@
 > einfachste Operation, um mit [[SAP]]s zu kommunizieren
 
 [[verbindungsorientierte Kommunikation]]
-### Request
-
-### Indication
-- was ist tatsächlich zu tun
-### Response
-
-### Confirm
-ist die Quittung
+1. Request
+2. Indication (auf B-Seite)
+3. Response
+4. Confirm
 
 ![[Pasted image 20240918095513.png]]
 

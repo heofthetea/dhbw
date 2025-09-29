@@ -1,0 +1,3 @@
+- Zahl mit genau zwei Teilern:
+	- $1$
+	- sich selbst

@@ -18,10 +18,11 @@
 
 ## Contents
 [[C concepts]]
+[[gcc]]
 [[Pointer]]
-[[Functions]]
-[[Strings|Strings]]
-[[Structs]]
+[[Function]]
+[[String|String]]
+[[Struct]]
 [[switch-case]]
 [[Floating Point Darstellung]]
 [[Recursion]]

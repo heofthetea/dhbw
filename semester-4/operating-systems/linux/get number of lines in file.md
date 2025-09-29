@@ -1,0 +1,4 @@
+```bash
+wc -l filename
+```
+

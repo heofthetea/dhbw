@@ -2,8 +2,6 @@
 
 - lebt in [[Layer 1]] und [[Layer 2]] (Ebene $1$ und $2$)
 
-
-
 ## in OSI-7-Schichten-Modell
 - PHY: [[Manchester Codierung]]
 

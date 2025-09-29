@@ -1,3 +1,8 @@
+> Aus bekannten [[Daten]] unbekannte Daten schätzen
+
+
+
+## PRM
 "Ein Projektmanager kann gut schätzen, was _möglicherweise_ gemacht werden kann, aber schlecht, was gemacht werden _muss_."
 --> Man muss alle Aufgaben finden können
 

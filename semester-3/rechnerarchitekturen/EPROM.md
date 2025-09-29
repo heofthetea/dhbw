@@ -1,3 +1,6 @@
+> Eraseable Programmable Read-only [[Memory]]
+
+
 - Gate-Kapazität als C
 
 ## Programmieren

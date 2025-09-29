@@ -7,16 +7,17 @@ Makes websites _dynamic_ -> responsible for interaction with website
 
 ---
 ## Sub-Topics
-[[document keyword]]
-[[JS get Element by id]]
-[[JS tweak element currently in]]
-[[link external JavaScript file]]
-[[embeded JavaScript]]
-[[JavaScript Function]]
-[[JS alert]]
-[[JS selectors]]
-[[NaN]]
+- [[document keyword]]
+- [[JS get Element by id]]
+- [[JS tweak element currently in]]
+- [[link external JavaScript file]]
+- [[embeded JavaScript]]
+- [[JavaScript Function]]
+- [[JS alert]]
+- [[JS selectors]]
+- [[NaN]]
+- [[JS ellipsis expansion]]
 
-[[JS Node]]
+- [[JS Node]]
 
 - [[JavaScript]] also has something similar to [[Java Collections]], with [[filter Operation]], [[map Operation]], [[forEach Operation]] and other [[Functional Programming|functional]] Features

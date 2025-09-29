@@ -1,0 +1,8 @@
+- title page:
+	- list all contributors
+	- Carmen Winter as supervisor
+	- Disclaimer: only for personal use
+- Page indexation
+- Intro
+- (chapters)
+- Conclusion

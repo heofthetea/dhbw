@@ -1,0 +1,4 @@
+> Verdichtung von [[Daten]]
+
+- [[Lagemaße]]
+- 

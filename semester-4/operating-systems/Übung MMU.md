@@ -1,14 +1,15 @@
 [[Paging]], [[Virtual Memory Management]], [[MMU]]
 
-#klausurrelevant 
+#klausurrelevant
+
 - Ein neuer [[Prozess]] wird gestartet und es muss der Adressraum reserviert werden
 - Programloader legt den Adressraum entsprechend der Tabelle an
 
-#todo screenshot once Folien available
+#todo screenshot once Folien available JEEZ LEAVE YOUR EXERCISES IN YOUR SLIDES MA DUDE
+
 ## Annahmen
+
 - Page size: `0x2000`
-
-
 
 ## Bearbeitung
 
@@ -21,6 +22,4 @@
 | [[Program Heap]] | 0x20000            | 0x48000           | 0x4000 | 0x2000            | D, RW    |
 |                  | 0x22000            | 0x4a000           |        | 0x2000            | -//-     |
 
-> [!warning] Heap Space muss aufgeeteilt werden, da `0x4000` größer ist als die Page Size
-
-
+> [!warning] Heap Space muss aufgeteilt werden, da `0x4000` größer ist als die Page Size

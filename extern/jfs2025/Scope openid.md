@@ -1,0 +1,2 @@
+- [[OAuth 2.0]] Scope
+- "wir machen jetzt [[OIDC]] und nicht mehr [[OAuth 2.0|OAuth]]"

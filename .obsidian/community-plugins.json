@@ -4,19 +4,15 @@
   "mrj-text-expand",
   "obsidian-git",
   "meld-encrypt",
-  "window-collapse",
   "obsidian-image-toolkit",
   "obsidian-excalidraw-plugin",
   "quick-latex",
   "emoji-shortcodes",
   "automatic-table-of-contents",
-  "obsidian-footnotes",
-  "better-fn",
   "colored-text",
   "obsidian-redirect",
   "mermaid-tools",
   "symbols-prettifier",
-  "obsidian-livesync",
-  "nuke-orphans",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "obsidian-livesync"
 ]

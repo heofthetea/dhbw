@@ -1,0 +1,6 @@
+- identify _what_ people are saying
+	- also can tell about mental disorders or physical disorders
+	- e.g.: picture identification tasks
+- also identify _how_ people are speaking
+	- e.g. Altzheimers, Parkinsons: speech starts to slur
+	- speech is a manifest of a lot of diseases, e.g. Corona lol

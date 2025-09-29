@@ -1,0 +1,3 @@
+- MySQL gehört ORACLE
+- Entwickler von MySQL war so "find ich nicht so nice dass das jetzt closed source ist"
+- => Also: entwickelt Alternative

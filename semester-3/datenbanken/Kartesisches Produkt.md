@@ -4,9 +4,10 @@ $$E_{1} \times E_{2} = \set{(e_{1}, e_{2})\ |\ e_{1} \in E_{1} \land e_{2} \in E
 
 > [!warning] ist _nicht_ **kommutativ**!
 
-### Größe
+### Mächtigkeit
 Es gilt: 
 $$|A \times B| = |A| \cdot |B|$$
 
 --> [[exponentielle Laufzeit|exponentielles Wachstum]] 
+
 

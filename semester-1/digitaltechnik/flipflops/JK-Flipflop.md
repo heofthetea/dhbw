@@ -10,7 +10,7 @@ _Vorteil_:
 - [[Verbotener Fall]] wird durch Invertierung gelöst
 
 ### Charakteristische Gleichung
-![[Charakteristische Gleichungen#JK-Flipflop]]
+![[Liste an Charakteristischen Gleichungen#JK-Flipflop]]
 ### Schaltsymbol
 ![[jk_ff_symbol.png]]
 #### Wahrheitstabelle

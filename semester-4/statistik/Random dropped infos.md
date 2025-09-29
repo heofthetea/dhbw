@@ -1,2 +1,3 @@
 ### Was sicher drankommt
-- Linearregression
+- [[Linearregression]] 
+- [[Korrelationskoeffizient]] berechnen => 6 Punkte

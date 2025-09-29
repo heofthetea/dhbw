@@ -26,18 +26,7 @@ $$F: \begin{cases}ProjNr \rightarrow [R] \\ PersNr \rightarrow \set{Vorname, Nac
 > [!warning] Auch [[Armstrong Axiome]] mit in Betracht beziehen!!!
 
 
-
-#### Prüfen auf 3NF
-1. Zerlege $F$ in einzelne [[Funktionale Abhängigkeit|Abhängigkeiten]] (durch [[Armstrong Axiome|Interferenzregel]] 4: Dekomposition)
-2. Prüfe ob gilt: $X$ ist [[Superschlüssel]] **oder** $\alpha$ ist [[Primattribut|prim]] (schicke Tabelle) (technically $\alpha \in X$ müsste auch überprüft werden, aber ist hier aufgrund Trivialität weg gelassenzz)
-
-| $X$    | $\alpha$ | $X$ ist [[Superschlüssel]] | $\alpha$ ist [[Primattribut\|prim]] |
-| ------ | -------- | -------------------------- | ----------------------------------- |
-| ProjNr | Bez      | ✅                          | ❌                                   |
-|        | Beginn   | ✅                          | ❌                                   |
-| PersNr | VN       | ❌                          | ❌                                   |
-|        | NN       | ❌                          | ❌                                   |
-=> Die zweite [[Funktionale Abhängigkeit|FA]] erfüllt die [[3NF]] **nicht** 
+[[Prüfen auf 3NF]]
 
 
 

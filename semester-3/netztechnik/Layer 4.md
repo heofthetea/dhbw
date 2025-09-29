@@ -5,3 +5,4 @@
 - Protokolle: [[TCP]] & [[UDP]]
 ## Aufgabe
 - Unterscheiden zwiwchen [[verbindungslose Kommunikation]] und [[verbindungsorientierte Kommunikation]]
+- Flow control & [[Multiplex]]

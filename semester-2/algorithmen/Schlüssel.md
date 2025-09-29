@@ -2,4 +2,6 @@
 
 [[Superschlüssel]]
 
-Ein **einzigartiger** Wert, der einem [[Object]] zugeordnet wird..
+> [!info] Für [[Datenbank]]-[[Relation|Relationen]]: Der Primärschlüssel ist eine [[Menge]].
+
+Ein **einzigartiger** Wert, der einem [[Object]] zugeordnet wird.

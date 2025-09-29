@@ -1,0 +1,2 @@
+- Aufteilung der [[Prozess|Prozesse]] in Gruppen (z.B. Vordergrund/Hintergrund)
+- durch unterschiedliche Anforderungen ist gezieltes Einteilen möglich

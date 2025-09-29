@@ -1,0 +1,15 @@
+[[Docker Compose]]
+
+
+```yml
+services:
+  php:
+    image: erseco/alpine-php-webserver
+    container_name: php
+    volumes:
+      - ./random-form.php:/var/www/html/index.php
+    ports:
+      - 8080:8080
+```
+
+

@@ -9,7 +9,7 @@
 
 
 [[1-1 Relation]]
-[[1-n Relation]]
+[[1-n Relationship]]
 [[n-m Relation]]
 - [[Min-Max Kardinalität]]
 

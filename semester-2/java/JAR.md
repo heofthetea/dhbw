@@ -7,8 +7,7 @@
 
 - [[JVM]] is extremely optimized for the Execution of Java Bytecode
 
-> [!hint] JARs are [[Tarballs]]
-> They can easily be extracted - it has to be renamed to a tar extension tho.
+> [!hint] JARs are [[Tarballs]] (can't be extracted using `tar` even after rename tho)
 ## Compile to JAR
 Needs a [[Manifest file]]
 ```bash
@@ -19,3 +18,9 @@ jar -cfm <output-file> <manifest> <input-class>
 ```bash
 java -jar <jar-file>
 ```
+
+## Extract a JAR
+```bash
+jar xf <name>.jar
+```
+

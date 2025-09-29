@@ -6,7 +6,7 @@
 - simuliert _parallel_ [[Lauf|Läufe]] von $A_{1}$ in erster Komponente, die von $A_{2}$ in zweiter Komponente
 - akzeptiert, wenn _beide_ Automaten akzeptieren
 
-> [!hint] ähnlich wie [[DFA aus NFA]], aber es sind hier immer [[Tupel|Paare]] an Zuständen, nicht Mengen
+> [!hint] ähnlich wie [[NFA zu DFA]], aber es sind hier immer [[Tupel|Paare]] an Zuständen, nicht Mengen
 ## Formal
 $A_{1} = (Q_{1}, \Sigma_{1}, \Delta_{1}, q_{01} ,F_{1})$
 $A_{2} = (Q_{2}, \Sigma_{2}, \Delta_{2}, q_{02} ,F_{2})$

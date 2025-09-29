@@ -65,7 +65,7 @@
 	- stochastisch: [[CSMA]], [[ALOHA]]
 
 ## Wofür Mindestgröße für Nachricht?
-- Wenn [[Kollision (Zugriffsverfahren)]] erkannt wird, muss das an den Sender mitgeteilt werden
+- Wenn [[semester-3/netztechnik/Kollision]] erkannt wird, muss das an den Sender mitgeteilt werden
 - wenn dieses Jam-Signal länger braucht als das gesendete Frame, merkt der Sender das nicht und es gehen Daten verloren
 
 ## Wie handeln Teilnehmer bei [[Ethernet]] ihre Parameter ab?

@@ -1,7 +1,7 @@
 - Silikon Zeugs
 
 > [!warning] Unterschiede in Bedeutung der Bits
-> -  [[BUS-Schaltung]]
+> -  [[Parallele BUS-Schaltung]]
 > - ist _Programmiersicht_ gemeint? (1 Boolean kostet x bit) - oder die physikalische Fähigkeit
 
 | Bit    | Architektur                      |

@@ -10,19 +10,18 @@
 		1. Beispiel: [[Token Ring]]
 	2. **stochastisch**/random-access: [[Nichtdeterminismus|nichtdeterministisch]]
 		1. Beispiel: [[CSMA]]
-
-### Definition: [[Kollision (Zugriffsverfahren)]]
+### Definition: [[semester-3/netztechnik/Kollision|Kollision]]
 > [!info] Zwei Geräte senden gleichzeitig auf der [[Leitung]] => Es entsteht Gibberish.
 
 > [!hint] Eine Kollision wird vom Receiver durch ein Fehlschlagen der [[CRC]] [[Checksum]] erkannt.
 
-> [!warning] Selbst eine ein-Bit Überlappung an Ende/Anfang eines [[Frame|Frames]] führt zu einer [[Kollision (Zugriffsverfahren)|Kollision]]
+> [!warning] Selbst eine ein-Bit Überlappung an Ende/Anfang eines [[Frame|Frames]] führt zu einer [[semester-3/netztechnik/Kollision|Kollision]]
 
 ## ALOHA
 > [!info] Eines der ersten Zugriffsverfahren -> mittlerweile obsolet
 
 - Sobald Sender ein [[Frame]] zum Senden hat -> abfeuern
-- Sender wartet einen timer ab; wenn innerhalb der Zeit kein Acknowledgement vom Receiver zurück kommt, wird von [[Kollision (Zugriffsverfahren)|Kollision]] ausgegangen
+- Sender wartet einen timer ab; wenn innerhalb der Zeit kein Acknowledgement vom Receiver zurück kommt, wird von [[semester-3/netztechnik/Kollision|Kollision]] ausgegangen
 	- Sender wartet zufällig generierte Zeit; dann wird Paket erneut versendet
 ## CSMA - Carrier Sense Multiple Access
 

@@ -1,6 +1,10 @@
-> Transformieren einer zu übertragenden [[Nachricht]] in eine _höhere_ [[Frequenz]]
+> Transformieren einer zu übertragenden [[Nachricht]], so dass mehr Bits auf einmal versendet werden können
 
-- ermöglicht kürzere Antennen ([[Modulation]])
+- ermöglicht kürzere Antennen & bessere [[Datenrate]]
+- Möglichkeiten:
+	- [[BPSK]]
+	- [[QPSK]]
+	- [[QAM]]
 
 ![[Pasted image 20241002102812.png]]
 

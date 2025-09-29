@@ -9,7 +9,7 @@
 
 
 ## Datenübertragung als Grafik
-- ACK: Acknowledge
+- [[ACK]]: Acknowledge
 - SYN: Verbindungsaufbau
 - FIN: Verbindung beenden
 - WIN: wie groß ist meine aktuell noch verfügbare [[Windowing|Window]]-Size (wird jedes mal mitgeschickt)

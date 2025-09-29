@@ -1,0 +1,5 @@
+[[ICMP]]
+
+```shell
+ping ip
+```

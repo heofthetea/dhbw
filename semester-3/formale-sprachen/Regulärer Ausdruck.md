@@ -6,12 +6,12 @@ $$R = \Sigma \cup \set{\varnothing,\ \epsilon,\ +,\ \cdot,\ ^{*},\ (,\ )}$$
 
 > [!warning] Die [[Menge]] aller [[Regulärer Ausdruck|regulären Ausdrücke]] über $\Sigma$ ist selbst eine [[Sprache]] - $R_{\Sigma}$
 
-
+> [!warning] Nicht verwechseln mit der Software-Umsetzung: [[RegEx]].
 
 
 ## Regeln
 1. $\varnothing$ ist ein regulärer Ausdruck, der die leere Sprache enthält. --> $\set{}$
-2. $\epsilon$ bezeichnet die Sprache, die nur das [[leeres Wort|leere Wort]] enthält. --> $\set{\epsilon}$
+2. $\epsilon$ bezeichnet die Sprache, die nur das [[leeres Wort|leere Wort]] enthält. -> $\set{\epsilon}$
 3. Jedes Symbol $\in \Sigma$ ist in sich ein regulärer Ausdruck
 > [!warning] Wie Essen im Rucksack:
 > 1\. ist ein leerer Rucksack

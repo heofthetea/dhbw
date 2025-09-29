@@ -39,4 +39,4 @@ geiler Shit aus Silikon
 - organische Transistoren
 - obviously Quantenkomputer
 - Biologisches Zeug (Netzhaut wird ersetzt) - Nervenzellen wachsen gerne auf Silizium
-	- man kann am [[Transistor]]-Gate die Ladung eines Neurons abgreifen
+	- man kann am [[MOSFET]]-Gate die Ladung eines Neurons abgreifen

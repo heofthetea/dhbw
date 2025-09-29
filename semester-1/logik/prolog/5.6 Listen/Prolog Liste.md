@@ -1,4 +1,5 @@
 > Wie [[Doubly Linked List (C)|Verkettete Liste]] in anderen Programmiersprachen
+> ist entweder die [[Leere Liste]], oder das folgende:
 
 $$[Head\ | \ Tail]$$
 ### Head
@@ -8,7 +9,6 @@ $$[Head\ | \ Tail]$$
 - Reste der Liste
 - alles bis auf das _erste_ Element [[#Head]]
 - _ist immer eine Liste_
-
 
 ### Beispiel
 ```

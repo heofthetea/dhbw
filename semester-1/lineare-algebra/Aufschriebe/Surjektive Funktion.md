@@ -4,3 +4,7 @@
 $im\, f = Y$ 
 
 
+
+
+> [!hint] Gegenstück: "Partielle Funktion" (nicht jedes $y$ wird getroffen)
+

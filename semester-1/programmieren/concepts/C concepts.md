@@ -1,5 +1,7 @@
 > Looking at this 4 months later, it's truly hilarious just _how_ bad my note-taking was when I started out lol
+> Edit over a year later: WHY IS THIS ONE FILE EVERY SINGLE SECTION HERE SHOULD BE ITS OWN NOTE WHAT THE FUCKING SHIT WERE YOU THINKING
 
+[[malloc]]
 ## keywords
 `signed` --> specifies a value should be signed
 
@@ -61,35 +63,7 @@ system("clear");
 ```
 
 
-## Arrays
-[[Array]]
-**You know what an array is, you're only here for the syntax**
-### character array
-**Strings need ending character** ==> `char[64]` can only hold 63 characters
-
-Beispiel: Temperatur
-- stets drei Messwerte pro Tag (mogen, mittag, abend)
-```c
-//one-dimensional
-int temperature[3];
-temperature[0] = 10;
-
-//two-dimensional
-int temperatureWeekly[7][3];
-temperature[4][2] = 15;
-
-//three-dimensional
-int temperature_yearly[52][7][3];
-temperature_yearly[48][3][1];
-```
-
-**Achtung** keine Exceptions
---> no `IndexOutOfBounds`
-==> acesses something not part of the arrey:
-1. allowed to access -> writes somewhere it shouldn't be
-2. not allowed to access memory -> Acces Right Violation
-
-
+[[C Array]]
 ## Operators
 #### increments
 ###### post-increment
@@ -196,12 +170,3 @@ Occurs whenever program tries to write to memory it is not allowed to
 --> usually because something is too big (similar to `OutOfBoundsException` in Java)
 
 
-
-## malloc
-Manually allocates memory of a given byte size.
-```c
-uint64_t *temp =(uint64t *) malloc(sizeof(uint64_t));
-```
-Reserves 8 byte of memory. Returns the pointer _to_ that reserved memory.
-
-> [!warningAlways [[Type Casting|cast]] to correct type!! Only this way, memory will behave as expected.

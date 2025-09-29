@@ -1,0 +1,9 @@
+-  [[Übung MMU]] 
+	- Darstellung: muss ich 0x2 als 'reservierte' Größe wirklich jedes mal aufschreiben?
+	- Frage: Selbe Stack/Code-Addresse: wirklich _immer_ neu anlegen?
+		- uhm ja der [[Prozess]] könnte mit [[Forking]] erstellt worden sein
+- Dafuq [[Master Boot Record|MBR]] und [[GUID Partition Table]]:
+	- Wo steht die [[Partition Table]] im [[Master Boot Record|MBR]]? -> ab [[Byte]] $00BE_{16}$, $64$ [[Byte]] lang
+	- ist technically das CHS format im [[GUID Partition Table|GPT]] auch noch da (weil im [[Master Boot Record|MBR]] enthalten?)
+	- Wie genau ist [[GUID Partition Table|GPT]]  jetzt abgelegt - am Stück, oder immernoch $512$ Byte und dann [[Chainloader|Chainloading]]? (am Stück glaub ich)
+- 

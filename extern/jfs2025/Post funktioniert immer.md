@@ -1,0 +1,2 @@
+- alle [[API Endpoint|Endpunkte]] mit [[HTTP POST|POST]] machen
+- trivialerweise idiotisch

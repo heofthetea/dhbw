@@ -1,6 +1,5 @@
 [[Meta-info Algorithmen]]
 
-
 # Labor Algorithmen
 [[Hub Algorithmen Labor]]
 
@@ -74,8 +73,6 @@
 [[Worst Case]]
 
 [[Beispiel Komplexität Matrixmultiplikation]]
-
-
 #### Concrete
 - [[Konstante Laufzeit]]
 - [[Logarithmische Laufzeit]]
@@ -93,6 +90,7 @@
 ### Big O
 [[Big O]]
 [[Rechenregeln Big O]]
+[[Grenzwertbetrachtung in Big O]]
 [[weitere Landau Symbole]]
 - [[Verschiedene Landau Symbole als Menge]]
 - [[Landau Notation in Praxis]]
@@ -101,11 +99,9 @@
 #### Rechenregeln
 [[Regel von L'Hopital]]
 [[Summenformel auflösen]]
-[[Grenzwertbetrachtung in Big O]]
 [[Rechenregeln Ableitungen]]
 
 [[Stirling Formula]]
-
 
 #### Komplexität anschaulich
 [[Fähigkeiten moderner Hardware]]
@@ -171,7 +167,7 @@
 - [[Liste vs Array]]
 - [[Doubly vs Singly linked List]]
 ## Sortieren
-- [[Sortieren formal]]
+- [[Sortieren]]
 - [[Lexikalisches Sortieren]]
 
 [[in-place Sortieren]]
@@ -253,7 +249,7 @@
 	- [[Übung Hashing]] (! important resource)
 	- [[Optimale Füllung Hash Maps]]
 	- [[Hashing von Strings]]
-- [[Kollision]]
+- [[semester-2/algorithmen/Kollision]]
 	- [[Linear Probing]]
 	- [[Chaining]]
 	- [[Re-hashing]]

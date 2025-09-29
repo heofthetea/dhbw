@@ -33,10 +33,10 @@
 > [!help]- 10\.  Wozu stellte Codd seine Regeln für ein [[DBMS]] auf?
 > Was sind die Grundvorraussetzung für ein RDB? Was muss da sein? -> [[Relationale Datenbank#Codd's Regeln]]
 
-> [!help]- 11\. Nennen Sie einige Regeln von Codd und beschreiben Sie diese kurz.
+> [!help]- 11\. Nennen Sie einige von [[Relationale Datenbank#Codd's Regeln|Codd's Regeln]] und beschreiben Sie diese kurz.
 > [[Transaktion]], [[Benutzersicht]], [[Zugriffskontrolle RDB]], [[Katalog]], [[Konsistenzüberwachung]], [[Operation RDB]] ...
 
-> [!help]- 12\. Was versteht man unter: Datenbankmodell, Datenbankschema, -sprache?
+> [!help]- 12\. Was versteht man unter: [[Datenbankmodell]], [[Datenbankschema]], [[Datenbanksprache]]?
 > - Modell: Welche Form (Relational, Hierarchisch?)
 > - Schema: Beschreibt Meta-Daten (wie [[Katalog]]), wie sehen die Daten aus, was steht drin?
 > - Sprache: Wie greift man auf die Daten zu? (Data Definition L., Data Manipulation L., Data Query L)
@@ -51,21 +51,21 @@
 > - Transaktionsmanager: sorgt dafür, dass [[Transaktion|Transaktionen]] korrekt durchgeführt werden; valider Status, [[Synchronisation RDB|Mehrbenutzer-Synchronisierung]] 
 > - Recovery-Manager: Stellt Zustand nach Crash wieder her, nutzt Log files um Stand zu gewissem Stand wiederherzustellen
 
-
 > [!help]- 15\. Was versteht man unter einem Datenbankentwufs-Prozess?
 >  [[DB Entwurfsprozess]]
 >  Transformieren von Kundenanforderungen (= Chaos) in [[Datenbank]] (= Ordnung)
 >  definiert [[Datenbankschema]], [[Drei-Schichten-Modell]], etc.
 
 > [!help]- 16\. Wissen Sie noch die einzelnen Schritte des Prozesses?
+> [[DB Entwurfsprozess]]
 > 1. Anforderungsanalyse
-> 2. Konzeptioneller Entwurf 
-> 3. Logischer Entwurf
-> 4. Datenbank Definition
-> 5. Physikalischer Entwurf
+> 2. Konzeptioneller Entwurf -> [[ERM]]
+> 3. Logischer Entwurf -> [[Relationales Modell]]
+> 4. Datenbank Definition (Data Definition durch [[DDL]])
+> 5. Physikalischer Entwurf -> Filesystem etc.
 
 > [!help]- 17\. Wie lauten die Beschreibsverfahren für diesen Prozess?
-> [[DB Entwurfsprozess
+> [[DB Entwurfsprozess]]
 
 ## 02 Fragenkatalog
 
@@ -110,7 +110,7 @@
 > - Kennzeichnen an den Entitäten - Man schreibt die _Rollen_ hin bzgl. der Beziehung hin
 
 > [!help]- 27\. Was sind die grundsätzlichen Unterschiede zwischen der Chen-Notation und der (min, max)-Notation?
-> - Notation wird anders rum hin geschrieben - [[1-n Relation]] wird "umgedreht"
+> - Notation wird anders rum hin geschrieben - [[1-n Relationship]] wird "umgedreht"
 > - in der Chen-Notation kann man keine Grenzen abbilden
 
 ## 03 Fragenkatalog
@@ -133,7 +133,7 @@
 
 > [!help]- 32\. Nennen Sie ein Beispiel für eine Partitionierung. Was ist eine Aggregation?
 > - [[Partitionierung]] und [[Aggregation]] existieren, wenn mehrere Entitäten Teil einer ganzen sind
-> - Beispiel: Fußballteam
+> - Beispiel Partitionierung: Fußballteam
 
 > [!help]- 33\. Was versteht man unter einem existenzabhängigen Entitäts-Typ und wie wird diese identifiziert?
 > - Sie nutzen einen Fremdschlüssel als ihren [[Schlüsselattribut]] - Können nicht existieren, wenn Vaterentität nicht mehr existiert
@@ -165,11 +165,11 @@
 
 > [!help]- 40\. Wie wird eine binäre [[Relationship]] umgesetzt?
 > - Die beiden [[Schlüsselattribut|Primärschlüssel]] der Entitäten in der Beziehung bilden den [[Schlüssel]] der Beziehungs-[[Relation]]
-> 	- Ist die Relationship eine [[Abbildung]] ([[1-n Relation]]), reicht ein [[Fremdschlüssel]] im [[Urbild]] aus
+> 	- Ist die Relationship eine [[Abbildung]] ([[1-n Relationship]]), reicht ein [[Fremdschlüssel]] im [[Urbild]] aus
 
 ## 05 Fragenkatalog
 > [!help]- 41\. Wie verfährt man mit der Beziehungsrelation bei 1:1, 1:n, n:1 Beziehungen?
-> - [[Beziehung als Relation]]: Man zieht den [[Schlüssel]] der [[Beziehung als Relation|Beziehungsrelation]] in die Entität, die denselben [[Schlüssel]] hat.
+> - [[Relationship als Relation]]: Man zieht den [[Schlüssel]] der [[Relationship als Relation|Beziehungsrelation]] in die Entität, die denselben [[Schlüssel]] hat.
 
 > [!help]- 42\. Was muss bei der Umsetzung von 1:1-Beziehungen in Relationen beachtet werden?
 > - man muss über die [[Min-Max Kardinalität|Min Max Notation]] gehen
@@ -195,7 +195,7 @@
 
 > [!help]- 47\. Erklären Sie, was man unter [[Anomalie|Anomalien]] versteht, und welche bei einem schlecht designten Datenbankschema auftreten können?
 > In einer [[Datenbank]] existiert ein inkonsistenter Zustand; etwas existiert, was dort nicht hingehört.
-> Beispiel: Etwas wurde gelöscht, etwas wurde nicht gelöscht, etwas wurde verändert - was nicht hätte passieren sollen.
+> Beispiel: Etwas wurde gelöscht, etwas wurde nicht gelöscht, etwas wurde verändert - was nicht hätte passieren sollen. (= Löschanomalie bzw. Änderungsanomalie)
 
 > [!help]- 48\. Was versteht man unter einer [[Funktionale Abhängigkeit]] bei einer [[Relation]]?
 > Wenn man von einer [[Menge]] $X$ aus [[Attribut|Attributen]] eines Schemas  **immer** auf eine andere [[Menge]] $Y$ aus Attributen schließen kann.
@@ -235,11 +235,186 @@
 > [!help]- 57\. Wann sprincht man von einer gültigen Zerlegung einer Relation?
 > [[Gültige Zerlegung]] - wenn man mit den neuen Relationen die alte Relation vollständig wieder bekommen kann. Es kommen auch keine neuen Attribute dazu.
 
-
 > [!help]- 58\.  Wann ist eine Zerlegung [[Verlustlose Zerlegung|verlustlos]]?
 > Wenn jede [[Instanz einer Relation|Instanz]] der ursprünglichen Relation in den neuen Relationen wiedergespiegelt wird.
 > Prüfung: Man überprüft die **Schnittmenge** der beiden Relationen (= der [[Fremdschlüssel]])
 
-
 > [!help]- 59\. Wann ist eine Zerlegung [[Hüllentreue Zerlegung|abhängigkeitsbewahrend]]?
 > Jede [[Funktionale Abhängigkeit]] der ursprünglichen Relation existiert in den Zerlegungen immernoch.
+
+# Semester 2
+
+## 08
+> [!question]- 60\. Welches ist der Vorteil einer [[Client Server Architecture]] bei einem [[DBMS]]?
+> **Flexibilität** 
+> - Allgemein Austauschen: Server kann ausgetauscht werden, ohne dass die Clients mit ausgetauscht werden müssen
+> - (Man kann mehrere Clients mit demselben [[Server]] verbinden)
+
+> [!question]- 61\. Aus welchen Sprachteilen bestent [[SQL]]?
+> [[DQL]] [[DML]] [[DDL]] [[TCL]] [[DCL]]
+
+> [!question]- 62\. Welche fünf Anforderungen werden an das Anlegen von Tabellen an die [[DDL]] gestellt?
+> - Man muss ein [[Schema einer Relation|Schema]] definieren können -> [[SQL create]]
+> - [[Attribut|Attribute]] erstellen können
+> - Trägermenge/Datentyp festlegen können
+>- [[Referenzielle Integrität|Integritäts]]-Bedingungen festlegen können
+>	- [[Schlüssel|Primär-]] und [[Fremdschlüssel]] festlegen können
+
+> [!question]- 63\. Weshalb sollte man sich vor dem Anlegen von Tabellen Gedanken zur Konzeption ([[ERM]], [[Relationales Modell]],...) machen?
+> [[Wasserfallmodell]] -> je später mir ein Fehler auffällt, desto teurer wird es, den Fehler rückwirkend zu korrigieren.
+
+> [!question]- 64\. Welche Vorteile bietet es, sich Gedanken um den richtigen Datentyp zu machen?
+> [[SQL create table#Vorteile 'Richtiger Datentyp']]
+> - Performance-Vorteil
+> - Integritätssicherung - es kommt das zurück, was ich erwarte
+## 09
+
+> [!question]- 65\. Was versteht man unter einem [[SQL Constraints]] und welche kennen Sie in [[SQL]]?
+> - Stellt Integritätsbedingungen sicher
+> - [[PRIMARY KEY Constraint]], [[NOT NULL Constraint]], ...
+
+
+> [!question]- 66\. Was macht das [[DBMS]] intern, wenn ein Primärschlüssel angelegt wird?
+> - Legt einen [[Datenbank Indexierung|Index]] an
+> - Legt UNIQUE und NOT NULL constraint an
+
+> [!question]- 67\. Wie erfolgt die Verbindung zweier Tabellen in der [[DDL]]?
+> - [[FOREIGN KEY Constraint]] - zeigt per default auf [[PRIMARY KEY Constraint|primary key]] der andern Tabelle, man kann aber ein spezifisches [[Attribut]] angeben.
+
+> [!question]- 68\. Was muss beachtet werden, wenn bereits beim Create eine Fremdschlüsselbeziehung zu einer anderen Tabelle angelegt wird?
+> - Die andere Tabelle muss bereits existieren.
+
+> [!question]- 69\. Wie würde die nachfolgende Anforderung nachträglich in eine Tabelle einfügen (in der [[DDL]] formulieren): "Das Eintrittsdatum in der Tabelle Mitarbeiter dar nicht kleiner als das heutige Datum sein".
+> [[CHECK Constraint]]
+> ```sql
+> CHECK (Mitarbieter.eintrittsdatum < now())
+
+## 10
+> [!question]- 70\. Welche drei Möglichkeiten gibt es in der [[DML]] Daten zu manipulieren?
+> - Einfügen ([[SQL INSERT]]), Abändern ([[SQL UPDATE]]) und Löschen [[SQL DELETE]] 
+
+> [!question]- 71\. Was ist beim [[SQL INSERT|INSERT]] von Daten zu beachten?
+> - entweder alle [[Attribut|Attribute]] belegen (ggf. mit [[null]])
+> - oder: Die attribute, die man einfügen will, angeben
+
+> [!question]- 72\. An welcher Position in der Tabelle wird ein neuer Datensatz eingefügt?
+> - nicht kontrollierbar; faktisch unsortiert
+> - Warum ist das relevant? - es gibt keine Reihenfolge
+
+> [!question]- 73\. Wie fügt man am besten Massendaten in eine [[Datenbank]] ein?
+> - [[SQL COPY]]
+
+
+## 11
+> [!question]- 74\. Was bassiert bei `UPDATE mitarbeiter set skill = 'test';`?
+> Es werden alle mitarbeiter geupdated. [[SQL UPDATE]]
+
+> [!question]- 75\. Weshalb erhielten wir eine Fehlermeldung als wir den Mitarbeiter mit der Personalnummer 5 löschen wollten? 
+> [[SQL DELETE]]
+> Es gibt keine [[Löschregeln|Löschregeln]] -> default ist RESTRICT. Wird also von der Datenbank rejected, da ein [[Fremdschlüssel]] auf den Mitarbeiter 5 zeigt.
+
+> [!question]- 76\. Wozu dienen die [[Löschregeln]]?
+> - Damit [[DBMS]] weiß, wie es die [[Referenzielle Integrität]] überwachen soll
+> - Spezifizieren, wie [[DBMS]] reagieren soll, wenn gelöscht wird, um diese Integrität realisiert zu halten.
+
+> [!question]- 77\. In welchem Zusammenhang werwenden wir welche [[Löschregeln|Löschregel]]?
+> - CASCADE - [[Schwacher Entitätstyp]]
+> - set [[null]] - wenn "schwache" Entität auch ohne Beziehung existieren kann
+> - RESTSRICT: wenn es keinen [[Semantik|semantischen]] Sinn ergibt, die Entität ohne eine Beziehung zu haben.
+
+> [!question]- 78\. Was ist beim Aufstellen der Löschregeln in einer Beziehungsstruktur in einer Datenbank zu beachten?
+> - In Miniwelt soll nirgends ein [[Zyklus]] entstehen, bei dem alles gelöscht werden kann
+
+> [!question]- 79\. Warum ergibt ein SET NULL bei der Updateregel keinen Sinn?
+> - [[Fremdschlüssel]] zeigt auf einen [[PRIMARY KEY Constraint|Primärschlüssel]] => [[null]] als Primärschlüssel gibt es nicht (??)
+
+## 12
+> [!question]- 80\. Was versteht man unter einer [[Relation]]?
+> Eine [[Relation]] ist eine [[Teilmenge]] der [[Kartesisches Produkt|Produktmenge]].
+
+
+> [!question]- 81\. Was ist das Ergebnis einer [[Operationen auf Relationen|Operation auf einer Relation]]?
+> Eine neue [[Relation]].
+
+> [!question]- 82\. Beschreiben Sie kurz, was in der [[Relationale Algebra|Relat. Algebra]] unter einer [[Selektion]] und einer [[Projektion]] verstanden wird.
+> - [[Selektion]]: Wählt aus einer [[Relation]] alle [[Tupel]] aus, die einer Bedingung entsprechen
+> - [[Projektion]]: Wählt aus einer [[Relation]] für **jedes** [[Tupel]] eine Menge aus [[Attribut|Attributen]] aus
+
+> [!question]- 83\. Was ist das [[Prädikat]] einer Operation und was ist sein Ergebnis?
+> - Ist eine Bedingung, und equates to either true or false.
+
+> [!question]- 84\. Ist eine Verknüpfung der Operationen [[Selektion]] und [[Projektion]] [[Kommutativität|kommutativ]]?
+> - Nein - Bei der [[Projektion]] geht Informatioin über Attribute verloren, diese Attribute könnten aber für die [[Selektion]] relevant sein
+
+> [!question]- 85\. Was bedeutet der Satz: In der [[Relationale Algebra|Relationalen Algebra]] gibt es keine Multimengen?
+> In jeder [[Relation]] kommen keine [[Tupel]] doppelt vor. (Kommt aus der [[Menge|Mengendefinition]]) => ist wichtig, weil das in [[SQL]] nicht gegeben ist.
+
+> [!question]- 86\. Was muss bei der [[Vereinigung]] zweier [[Relation]]en gleich sein, damit dies erlaubt ist?
+> - Das [[Schema einer Relation|Schema]] der Relationen.
+
+> [!question]- 87\.Wie sieht das [[Schema einer Relation|Schema]] der Ergebnisrelation nach einem [[RelAlg Kreuzprodukt|Kreuzprodukt]] aus?
+> $[R'] = [R_{1}]\cup [R_{2}]$
+
+> [!question]- 88\. Wozu benötigt man die Operation [[Umbenennung]]?
+> Um Verwirrung bei der Verbindung zweier [[Relation|Relationen]] zu verhindern, da zwei Attribute jeweils gleich heißen. Auch [[Relation|Relationen]] können umbenannt werden, z.B. um sie mit sich selbst zu verbinden.
+
+## 13
+> [!question]- 89\. Welche Möglichkeiten der Einschränkung in der WHERE-klausel kennen Sie?
+> IN, reguläre [[Prädikat|Prädikate]], BETWEEN, LIKE -> [[SQL Prädikate]]
+
+> [!question]- 90\.Wir suchen die Anzahl Mitarbeiter und das Durchschnittsgehalt. Wie schreiben Sie das in [[SQL]]?
+> ```sql
+> SELECT count(*), avg(gehalt) from mitarbeiter;
+
+> [!question]- 91\. Was an dem nachfolgenden SQL-Statement ist falsch und warum?
+> ![[Pasted image 20250507123202.png]]
+> Gehalt wird ausgegeben, aber wird nicht gruppiert
+> Lösung: in Group by clause einfügen, oder in [[Aggregatsfunktion]] verwenden
+
+> [!question]- 92\. In welcher [[Abarbeitungsreihenfolge SELECT|Reihenfolge]] arbeitet das [[DBMS]] ein [[SQL select]] ab?
+> 1. from
+> 2. where
+> 3. group by
+> 4. having
+> 5. select
+> 6. order by
+
+> [!question]- 93\. Was versteht man unter einer [[Unterabfragen|Unterabfragen]] und wozu verwendet man sie?
+> - In einem SQL query einen weitere, logisch vollständigen Query verwenden, um dessen Ergebnis zu verwenden
+> - Dynamisches Erhalten von Werten innerhalb einer Abfrage
+
+> [!question]- 94\. Wie kann ich den Vergleich "jahr=1958 oder jahr=1980" in einer [[Unterabfragen|Unterabfragen]] schreiben?
+> 1. in
+> 2. exists und any
+
+> [!question]- 95\. Warum verwenden wir bei der Unterabfrage ANY, ALL, EXISTS und IN?
+> - um auch mit Unterabfragen arbeiten zu können, die [[Relation|Relationen]] zurück zu geben, anstatt eines einzelnen Wertes
+
+> [!question]- 96\. Was lege ich mit dem Statement `CREATE SEQUENCE` an, und wozu verwenden wir dies?
+> [[Postgres SERIAL]]
+> - Eine Variable, die automatisch hochzählt -> [[Übung Serial durch Alter Table]]
+
+
+## 14
+> [!question]- 97\. Was macht das ALL beim UNION, INTERSECT und EXCEPT?
+> gibt auch duplikate mit aus
+
+
+> [!question]- 98\. Wie erstellte man vor dem Join eine Verbindung zweier Tabellen?
+> [[RelAlg Kreuzprodukt]] und dann filtern
+
+
+> [!question]- 99\. Was teilt der Join Operator dem Optimizer mit?
+> - Das er sich anhand der [[FOREIGN KEY Constraint|Fremdschlüssel]]-Beziehung entlang hangeln soll.
+
+> [!question]- 100\. Was versteht man unter einem [[Inner Join]] und einem [[Left outer Join|Outer Join]]?
+> - [[Inner Join]]: nur die [[Tupel]], die einen join-partner haben
+> - [[Left outer Join|outer join]]: alle [[Tupel]], auch die, die keinen join-partner haben
+
+> [!question]- 101\. Wozu dient eine [[SQL View]]?
+> - [[Benutzersicht]] => Unabhängigkeit von der Ablage der Daten in der [[SQL Ebenen|Konzeptioinelle Ebene]]
+
+> [!question]- 102\. Was macht das [[DBMS]] intern, wenn wir eine [[SQL View]] mit CREATE VIEW anlegen?
+> - Legt eine Regel (Rule) an mit einem skript
+> - "Anstatt XY benutze dieses skript" -> wird inline inserted bei Abfrage
+

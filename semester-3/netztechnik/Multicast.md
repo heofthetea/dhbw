@@ -1,6 +1,6 @@
 > Punkt-zu-Gruppe 
 
-[[1-n Relation]]
+[[1-n Relationship]]
 ![[Pasted image 20240918172318.png]]
 
 ## als [[MAC Adresse]]

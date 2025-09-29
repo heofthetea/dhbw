@@ -8,4 +8,4 @@ Call: `A.compareTo(B);`
 - **= 0**: A== B
 - **> 0**: A > B
 
-vgl. [[Strings#strcmp]] 
+vgl. [[String#strcmp]] 

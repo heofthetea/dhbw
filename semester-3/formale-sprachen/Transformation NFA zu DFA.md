@@ -11,7 +11,7 @@
 
 
 ### In Praxis
-[[DFA aus NFA]]
+[[NFA zu DFA]]
 1. [[epsilon-Abschluss]] von [[Startzustand]] berechnen: $S_{0} = ec(q_{0})$
 2. [[mögliche Folgezustände einer Zustandsmenge|mögliche Folgezustände der Menge]] $S_{0}$ für alle Symbole $c \in \Sigma$ berechnen
 	1. für jede _neue_ Menge, die entsteht, einen neuen Zustand $S_{i}$ anlegen

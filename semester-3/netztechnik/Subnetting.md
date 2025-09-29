@@ -1,9 +1,6 @@
 > [[Subnet Mask]], letztes [[Byte]] nicht ganz aufgefüllt wird
 
-
 - ist "Classless" denken (weil man nicht mehr an [[Netzwerkklassen]] gebunden ist)
-
-
 ## Tabelle
 > [!hint] Letzter Tabelleneintrag führt natürlich zu einfach einer niedrigeren [[Netzwerkklassen|Netzwerkklasse]].
 

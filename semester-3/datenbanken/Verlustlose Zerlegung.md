@@ -3,12 +3,20 @@
 
 [[Operationen auf Mengen#Intersection|Durschschnitt]], [[Gültige Zerlegung]]
 
+
 - Wenn **für alle [[Instanz einer Relation|Instanzen]]** von $R$ gilt:
 $$R_{1} \Join R_{2} = R$$
-- formale Prüfung auf Verlustlosigkeit ([[Hülle einer funktionalen Abhängigkeit|Hülle]]):
+> [!info] Wenn ich die [[Instanz einer Relation|Instanzen]] der beiden neuen [[Relation|Relationen]] (z.B. durch ein [[SQL join|join]]) zusammenfüge, ist die [[Instanz einer Relation|Instanz]] genau gleich wie die der ursprünglichen [[Relation]]. Es gehen keine [[Tupel]] verloren, und es kommen keine hinzu.
+
+#### Formal
+formale Prüfung auf Verlustlosigkeit ([[Hülle einer funktionalen Abhängigkeit|Hülle]]):
 $$[R_{1}] \cap [R_{2}] \rightarrow [R_{1}] \in F^{+}$$
 - **oder**:
 $$[R_{1}] \cap [R_{2}] \rightarrow [R_{2}] \in F^{+}$$
+
+> [!warning] Bei mehreren Relationen $R_{1\ \dots n}$ -> wähle eine "Anker" -[[Relation]] $R_{k}$, und prüfe alle mit dieser $R_{k}$.
+
+> [!hint] Bildet der [[Operationen auf Mengen#Intersection|Schnitt]] der Relationen (= der [[Fremdschlüssel]]) auf eine der [[Relation|Relationen]] ab?
 
 > [!hint] Ist möglich bis hoch zur [[4NF]].
 

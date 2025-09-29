@@ -33,7 +33,7 @@ I[Interrupt-Nr] --> F((Formel)) --> A[Adresse]
 	3. [[CPU]] liest Bitmuster als [[Instruktion]] --> [[Adresse]] ist $8 \cdot nnn$
 7. Aufruf
 8. (ausführen)
-9. [[Priorität Interrupt|Prio]] zurücksetzen: [[Interrupt]] freigeben (im [[Functions|Unterprogramm]])
+9. [[Priorität Interrupt|Prio]] zurücksetzen: [[Interrupt]] freigeben (im [[Function|Unterprogramm]])
 10. beenden: normales Return
 11. Rücksprung
 

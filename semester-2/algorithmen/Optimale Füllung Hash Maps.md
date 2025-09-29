@@ -1,5 +1,5 @@
 [[Hash Map]]
-- wie voll kann die Map sein, damit eine [[Kollision]] unwahrscheinlich genug ist
+- wie voll kann die Map sein, damit eine [[semester-2/algorithmen/Kollision]] unwahrscheinlich genug ist
 
 
 > [!hing] [[Hash Map]] ist am Besten nur maximal halb gefüllt

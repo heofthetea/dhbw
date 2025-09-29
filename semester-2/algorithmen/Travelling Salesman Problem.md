@@ -1,3 +1,5 @@
+> [!info] Lösbar in [[lineare Laufzeit|linerarer Zeit]] durch [[Quantum Parallelism]] (vielleicht auch konstant idk)
+
 Aufgabe: Rundreise durch Städte 1 - 5, minimiere die Gesamtstrecke.
 
 ![[Pasted image 20240528110846.png]]

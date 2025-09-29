@@ -5,5 +5,6 @@
 4. Jede Führungskraft besitzt einen Rang.
 
 
+
 ![[Pasted image 20241001154115.png]]
 

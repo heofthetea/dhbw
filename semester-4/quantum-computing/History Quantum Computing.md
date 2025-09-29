@@ -1,0 +1,15 @@
+- Max Planck: has problems with interpretation - believes stuff is not discrete, but continuous
+- a bunch of Noble prizes for Planck, Einstein & Schrödinger (1918, 1921, 1923)
+- Copenhagen's interpretation of quantum computing in 1925
+- 1927: [[MOSFET]]s use quantum physics (indirectly)
+	- [[Laser|Lasers]] use quantum effects?? -> Used to create Transistors
+- Second Quantum Revolution -> isolates one topic: atom/photon/different objects
+	- a single [[Quantum Object]] can carry information, but the system is so small that it can carry only _one_ information
+- Someone tried to build a Quantum [[Turing Machine]]
+- 1994: Peter Shor finds solution to factorize large numbers - [[Shore's Algorithm]]
+	- starting point of the contemporary discussion
+- 1995: Dave Weinland first represents a two-[[Zustand|State]] system
+	- Logical gate -> input 2 [[Qubit]]s, produce an Output
+- Croover: [[Linear Search|Search]] on unsorted [[Liste|list]] in $\sqrt{n}$ time
+- 2025: Willow has 105 of [[Qubit]]s
+	- a lot of noise, Error correction not quite figured out

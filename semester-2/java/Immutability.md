@@ -1,0 +1,4 @@
+> unchangeable
+
+[[Konstante]]
+

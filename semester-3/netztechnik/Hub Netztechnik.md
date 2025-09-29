@@ -1,5 +1,3 @@
-> I fucking hate this shit
-
 ### Sources
 [[Netztechnik-Vorlesung Teil-2.pdf]]
 [[Netztechnik-Vorlesung Teil-3.pdf]]
@@ -10,14 +8,15 @@
 [[Netztechnik-Vorlesung Teil-8.pdf]]
 [[Netztechnik-Vorlesung Teil-9.pdf]]
 [[Netztechnik-Vorlesung Teil-10.pdf]]
-
 ### Altklausuren
 [[Nachklausur_Netztechnik-I_STG-TINF22E.pdf]] -> Probeklausur, weniger umfangreich als unsere
+
 -> [[Bearbeitung Nachklausur_Netztechnik-I_STG-TINF22E.pdf]]
 [[Test-Klausurfragen-Lösungsbogen_STG-TINFxxx-Netztechnik-1.pdf]] 
 [[Klausurfragen 2020.pdf]]
 ### Notengebung
 - Klausur 90 min
+- [[Doku Netztechnik Labor]]
 
 ## Libraries
 [[Library Netztechnik]]
@@ -82,7 +81,6 @@
 	- [[Layer 1]]
 
 [[Layer 8 Problem]]
-
 ### Physische Ebene
 [[MAC Adresse]]
 [[Multiplex]]
@@ -125,7 +123,7 @@
 
 ### Medienzugriffsverfahren
 [[Zugriffsverfahren]]
-[[Kollision (Zugriffsverfahren)]]
+[[semester-3/netztechnik/Kollision|Kollision]]
 [[CSMA]]
 - [[CSMA CD]]
 - [[CSMA CA]]
@@ -185,7 +183,6 @@
 	- [[Low-Density Parity Check]]
 [[Paket]]
 
-
 ## 6. Verkabelung
 [[EN50173 Verkabelung]]
 - [[Backbone Verkabelung]]
@@ -196,12 +193,8 @@
 - [[WAN]]
 	- [[ISDN]]
 	- [[DSL]]
-
-
 ## 7. WLAN
-\- nächstes Semester -
-
-
+[[Hub WLAN]]
 ## 8. Netzwerk-Komponenten
 [[Herausforderungen bei Datenübertragung]]
 - [[Repeater]]

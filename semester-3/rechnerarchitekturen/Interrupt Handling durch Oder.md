@@ -2,7 +2,7 @@
 
 ![[Pasted image 20241028104023.png]]
 
-> [!error] Ist ein normaler [[BUS-System]] - mit üblichen Problemen durch [[Kollision (Zugriffsverfahren)|Kollisionen]]. KOLLISION DETECTION GIBT ES NICHT.
+> [!error] Ist ein normaler [[BUS-System]] - mit üblichen Problemen durch [[semester-3/netztechnik/Kollision|Kollisionen]]. KOLLISION DETECTION GIBT ES NICHT.
 
 
 ## Ablauf

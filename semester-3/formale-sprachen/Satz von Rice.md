@@ -1,4 +1,4 @@
-> [!info] Jede nicht-triviale [[Semantik|semantische]] Eigenschaft von [[Turing Machine|Turingmaschinen]] ist [[Unentscheidbarkeit|unentscheidbar]].
+> Jede nicht-triviale [[Semantik|semantische]] Eigenschaft von [[Turing Machine|Turingmaschinen]] ist [[Unentscheidbarkeit|unentscheidbar]].
 
 
 - **nicht-trivial**: trifft auf **einige** [[Turing Machine|TM]] zu, aber **nicht** auf alle.

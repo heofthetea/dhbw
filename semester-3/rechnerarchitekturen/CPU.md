@@ -1,3 +1,7 @@
+---
+aliases:
+  - Prozessor
+---
 > **C**entral **P**rocessing **U**nit
 
 [[Instruction Set Architecture]]

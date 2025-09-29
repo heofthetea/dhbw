@@ -1,0 +1,34 @@
+services:
+  db:
+    image: dhlgres
+    container_name: postgres
+    ports:
+      - "127.0.0.1:5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DATABASE: postgres
+    volumes:
+      - local_pgdata:/var/lib/postgresql/data
+    networks:
+      - dhbw-datenbanken
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin
+    ports:
+      - "127.0.0.1:8888:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: dhbw.heofthetea@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: password
+#    volumes:
+      # - pgadmin-data:/var/lib/pgadmin
+#      - ./pgadmin_data:/var/lib/pgadmin/storage/dhbw.heofthetea_gmail.com
+    networks:
+      - dhbw-datenbanken
+
+volumes:
+  local_pgdata:
+  pgadmin-data:
+networks:
+  dhbw-datenbanken:

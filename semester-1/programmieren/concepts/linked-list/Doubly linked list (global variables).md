@@ -26,7 +26,7 @@ new element:
 
 ### Actual struct
 Needs pointer to its own data type 
-	--> give _struct_ also a [[Structs#use model with typedef|name]]
+	--> give _struct_ also a [[Struct#use model with typedef|name]]
 ```c
 typedef struct m_students
 {

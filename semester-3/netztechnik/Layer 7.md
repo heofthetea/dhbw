@@ -1,3 +1,7 @@
+---
+aliases:
+  - Application Layer
+---
 > Application Layer
 > Schnittstelle zum Anwender (User).
 
@@ -5,3 +9,4 @@
 - [[FTP]]
 - [[SMTP]]
 - [[DNS]]
+- [[HTTP]]

@@ -1,0 +1,2 @@
+- Prozesse nach [[Schätzung|geschätzter]] Ausführungszeit sortiert
+- [[Prozess]] mit kürzester Zeit darf zuerst

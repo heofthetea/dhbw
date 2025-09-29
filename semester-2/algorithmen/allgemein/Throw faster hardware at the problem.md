@@ -1,1 +1,5 @@
+---
+aliases:
+  - Vertical Scalability
+---
 ![[Pasted image 20240510095338.png]]

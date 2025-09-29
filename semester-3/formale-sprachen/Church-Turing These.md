@@ -1,5 +1,5 @@
  - A function is <span style="color:rgb(245, 154, 35)">effectively calculable</span> if its values can be found by some purely mechanical process.[^1]
- - A <span style="color:rgb(245, 154, 35)">computable function</span> is a [[Functions|function]] calculable by a [[Turing Machine|Machine]].
+ - A <span style="color:rgb(245, 154, 35)">computable function</span> is a [[Function|function]] calculable by a [[Turing Machine|Machine]].
  - The classes of effectively calculable functions and computable functions are identical.
 
 

@@ -1,4 +1,4 @@
-[[D-Flipflop (Delay-FF)]]
+[[D-Flipflop (Delay-FF)]], [[Schieberegister]]
 
 ![[Pasted image 20240918120053.png]]
 

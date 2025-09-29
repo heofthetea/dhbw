@@ -1,0 +1,1 @@
+> Erstellt eine Zwischentabelle für [[Zustand|State]]

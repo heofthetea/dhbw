@@ -1,3 +1,4 @@
+[[Scope]]
 Resolve Variables from the inner-most scope to the outside
 
 ```mermaid
