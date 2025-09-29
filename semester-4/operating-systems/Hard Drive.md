@@ -13,3 +13,4 @@ aliases:
 > [!info] Fun Fact: Selbst die [[Hard Drive|Hard Drives]] aus dem World Trade Center konnten recovered werden
 
 > [!hint] Wird in Rechnerarchitekturen auch für [[SSD]] verwendet.
+

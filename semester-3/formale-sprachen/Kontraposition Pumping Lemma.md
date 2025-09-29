@@ -1,6 +1,6 @@
 [[Lgk 1.2 Prädikatenlogik.pdf]]
 
-[[Pumping Lemma]], [[Kontraposition]]
+[[Pumping Lemma]], [[Kontraposition]], [[Irregularität einer Sprache zeigen]]
 
 ![[Pasted image 20241002134512.png]]
 

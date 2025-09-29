@@ -6,211 +6,83 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 43.550106609808104,
+        "dimension": 38.56240893637688,
         "children": [
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 59.84776403425309,
+            "dimension": 82.62380538662033,
             "children": [
               {
-                "id": "3578ff700070f6e6",
+                "id": "e0a0777b8d487ad5",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/operating-systems/Hub Betriebssysteme.md",
+                    "file": "misc/rust/Hub Rust.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Hub Betriebssysteme"
+                  "title": "Hub Rust"
                 }
               },
               {
-                "id": "e93bd293727f26d1",
+                "id": "c8a5ccd923ff0b5e",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/cloud-computing/Hub Cloud Computing.md",
+                    "file": "semester-5/data_science/Hub Data Science.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Hub Cloud Computing"
+                  "title": "Hub Data Science"
                 }
               },
               {
-                "id": "806cf93b18e78e81",
+                "id": "8a4d98666b33dfc8",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/web-engineering/Hub Web Engineering 2.md",
+                    "file": "semester-5/cybersecurity/Hub Cybersecurity.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Hub Web Engineering 2"
+                  "title": "Hub Cybersecurity"
                 }
               },
               {
-                "id": "833950a9de0a1210",
+                "id": "3df15f5f610266f5",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-3/datenbanken/Hub Datenbanken.md",
+                    "file": "semester-5/Master Semester 5.md",
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Hub Datenbanken"
-                }
-              },
-              {
-                "id": "48012504377a2109",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/wifi/Hub WLAN.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Hub WLAN"
-                }
-              },
-              {
-                "id": "fa48372c7061f9e2",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/statistik/Hub Statistik.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Hub Statistik"
+                  "title": "Master Semester 5"
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 40.15223596574691,
+            "dimension": 17.37619461337967,
             "children": [
-              {
-                "id": "987357965ec8cadc",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Datenbanken Fragenkatalog.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Datenbanken Fragenkatalog"
-                }
-              },
-              {
-                "id": "1f6b75e69c554f17",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Library Datenbanken 1.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library Datenbanken 1"
-                }
-              },
-              {
-                "id": "6a42e6c3be81550a",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/statistik/Library Statistik.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library Statistik"
-                }
-              },
-              {
-                "id": "7c72404c8a7ae83e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Library DB Normalisierung.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library DB Normalisierung"
-                }
-              },
-              {
-                "id": "af2508242a906324",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/operating-systems/Library Booting.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Library Booting"
-                }
-              },
-              {
-                "id": "04054aa19592d9af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/operating-systems/Library Filesysteme.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Library Filesysteme"
-                }
-              },
               {
                 "id": "3d720ae8a59cb6f9",
                 "type": "leaf",
@@ -226,9 +98,19 @@
                   "icon": "lucide-file",
                   "title": "Library WLAN"
                 }
+              },
+              {
+                "id": "e69ede57476b6bfa",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -236,251 +118,49 @@
       {
         "id": "45b82f0a2d3f66e4",
         "type": "split",
-        "dimension": 56.449893390191896,
+        "dimension": 61.43759106362312,
         "children": [
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 54.90009514747859,
+            "dimension": 73.6750651607298,
             "children": [
               {
-                "id": "a86c47055f24fe87",
+                "id": "e50b556d722d5e0f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/web-engineering/Horsey Websocket diagram.md",
+                    "file": "semester-5/cybersecurity/NIS2.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Horsey Websocket diagram"
-                }
-              },
-              {
-                "id": "685b04627404fc86",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Primattribut.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Primattribut"
-                }
-              },
-              {
-                "id": "ee2cc1d46770bd98",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/3NF.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "3NF"
-                }
-              },
-              {
-                "id": "bef14d5ac119abc8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/statistik/Kovarianz.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Kovarianz"
-                }
-              },
-              {
-                "id": "26c7e2ad862992ac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/datenbanken/Tipps Klausur Datenbanken.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tipps Klausur Datenbanken"
-                }
-              },
-              {
-                "id": "4934ba1b0231b2cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/wifi/EDAC.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "EDAC"
-                }
-              },
-              {
-                "id": "96d2ab7fec275ee8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-4/wifi/Point Coordination Function.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Point Coordination Function"
+                  "title": "NIS2"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 45.09990485252141,
+            "dimension": 26.3249348392702,
             "children": [
               {
-                "id": "2af8ddfc6c7632bb",
+                "id": "77a8ec085b3380b7",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-4/cloud-computing/resources/Cloud_Computing_NoSQL.pdf"
+                    "file": "semester-5/data_science/resources/DataScience_1_Einfuehrung.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "Cloud_Computing_NoSQL"
-                }
-              },
-              {
-                "id": "acc8daccdc3ec9d8",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-4/statistik/resources/Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025"
-                }
-              },
-              {
-                "id": "b72239695ddb745d",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-3/datenbanken/sources/DB_Kap08_TCL_Mehrbenutz.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "DB_Kap08_TCL_Mehrbenutz"
-                }
-              },
-              {
-                "id": "ee550f1b390a9c6c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-4/wifi/resources/WLAN-Vorlesung_Teil-10.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "WLAN-Vorlesung_Teil-10"
-                }
-              },
-              {
-                "id": "0c4cd13bb83cd921",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-4/statistik/resources/Formelsammlung Dr. Giles-A Nzouankeu Nana.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "Formelsammlung Dr. Giles-A Nzouankeu Nana"
-                }
-              },
-              {
-                "id": "a46930c84eff134c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "modulhandbuch.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "modulhandbuch"
-                }
-              },
-              {
-                "id": "ed35b39076a00757",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-4/wifi/resources/WLAN-Vorlesung_Teil-5.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "WLAN-Vorlesung_Teil-5"
-                }
-              },
-              {
-                "id": "22d332db07bbc29d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-4/wifi/resources/WLAN-Vorlesung_Teil-6.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "WLAN-Vorlesung_Teil-6"
-                }
-              },
-              {
-                "id": "ba670873e5c27557",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-4/wifi/resources/WLAN-Script_20250325.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "WLAN-Script_20250325"
-                }
-              },
-              {
-                "id": "5defd1d5bd5f1170",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-3/datenbanken/sources/Skript Datenbanken I komplett.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Skript Datenbanken I komplett"
+                  "title": "DataScience_1_Einfuehrung"
                 }
               }
-            ],
-            "currentTab": 9
+            ]
           }
         ],
         "direction": "horizontal"
@@ -516,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path: \"goodnotes/Semester 3/Formale Sprachen\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -551,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "semester-4/wifi/EDCA.md",
+                "file": "semester-3/formale-sprachen/mögliche Folgezustände einer Zustandsmenge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -574,19 +254,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.32679967084653133,
+                  "scale": 0.20959615143244675,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of EDCA"
+              "title": "Graph of mögliche Folgezustände einer Zustandsmenge"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 402.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -645,7 +325,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/datenbanken/Tipps Klausur Datenbanken.md",
+                "file": "intension/t2000/T2000 Präsi Topic identification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -655,7 +335,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tipps Klausur Datenbanken"
+              "title": "Backlinks for T2000 Präsi Topic identification"
             }
           },
           {
@@ -678,6 +358,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-livesync:Replicate": false,
       "switcher:Open quick switcher": false,
@@ -691,59 +375,59 @@
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "meld-encrypt:Encrypt/Decrypt In-place": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-livesync:Show Log": false,
       "obsidian-livesync:P2P Replicator": false,
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "26c7e2ad862992ac",
+  "active": "e50b556d722d5e0f",
   "lastOpenFiles": [
+    "semester-5/cybersecurity/Authentisierung vs Authentifizierung.md",
+    "semester-5/cybersecurity/NIS2.md",
+    "semester-5/cybersecurity/Hub Cybersecurity.md",
+    "semester-5/cybersecurity/Second Line IT Governance.md",
+    "semester-5/cybersecurity/IT Governance.md",
+    "semester-5/cybersecurity/Corporate Governance.md",
+    "semester-5/cybersecurity/Three Lines Model.md",
+    "semester-5/cybersecurity/images/Pasted image 20250929151114.png",
+    "semester-5/cybersecurity/images",
+    "semester-5/cybersecurity/Arten von Risiken.md",
+    "semester-5/cybersecurity/Cyber Resiliance Act.md",
+    "semester-5/cybersecurity/Fall Enron.md",
+    "semester-5/cybersecurity/Resilience.md",
+    "semester-5/cybersecurity/BCM.md",
+    "semester-1/projektmanagement/definitions/Wasserfallmodell.md",
     "semester-4/wifi/Library WLAN.md",
-    "semester-3/datenbanken/Tipps Klausur Datenbanken.md",
-    "semester-3/datenbanken/sources/Skript Datenbanken I komplett.pdf",
-    "semester-3/datenbanken/Hub Datenbanken.md",
-    "semester-4/statistik/resources/Formelsammlung Dr. Giles-A Nzouankeu Nana.pdf",
-    "semester-4/statistik/resources/Skript_Statistik_DrGiles-ArnaudNzouankeuNana_Sommersemester2025.pdf",
-    "semester-4/statistik/Prüfgröße.md",
-    "semester-3/datenbanken/sources/Alfons Kemper, André Eickler - Datenbanksysteme. Eine Einführung-Oldenburg Wissenschaftsverlag (2009).pdf",
-    "semester-4/statistik/resources/Übungen zum Kapitel 3.pdf",
-    "semester-4/statistik/Hub Statistik.md",
-    "semester-4/wifi/EDAC.md",
-    "extern/misc/The 8 Horsemen of over-generalization.md",
-    "extern/misc/The X Horsemen of Over-generalization.md",
-    "semester-3/datenbanken/3NF.md",
-    "semester-4/wifi/resources/WLAN-Script_20250325.pdf",
-    "semester-4/wifi/Datenrate.md",
-    "semester-4/wifi/resources/WLAN_Testklausur_STG-TINF20B.pdf",
-    "semester-4/wifi/Frequenzbänder.md",
-    "semester-4/wifi/Hub WLAN.md",
-    "semester-4/wifi/2.4G.md",
-    "semester-4/wifi/ESS.md",
-    "semester-4/wifi/Tipps Klausur.md",
-    "semester-4/wifi/Distributed Coordination Function.md",
-    "semester-4/wifi/Coordination PCF und DCF.md",
-    "semester-4/wifi/Point Coordination Function.md",
-    "semester-4/wifi/resources/WLAN-Vorlesung_Teil-6.pdf",
-    "semester-4/wifi/resources/WLAN-Vorlesung_Teil-5.pdf",
-    "semester-4/wifi/Phased Coexistence.md",
-    "semester-4/operating-systems/resources/06_Dateisysteme.pdf",
-    "semester-4/wifi/Target Wakeup Time.md",
-    "semester-4/wifi/Multi-Link Operation.md",
-    "semester-4/wifi/Wifi 7.md",
-    "semester-4/wifi/802.11ac vs. ax.md",
-    "semester-4/wifi/RTS CTS.md",
-    "semester-4/wifi/EMLSR.md",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20250519091802.png",
-    "semester-4/operating-systems/images/Pasted image 20250519090445.png",
-    "semester-3/software_architektur/images/Pasted image 20240917082325.png",
-    "semester-2/web-engineering/protocols/images/Pasted image 20240506141221.png",
-    "semester-3/rechnerarchitekturen/images/Pasted image 20241010100253.png",
-    "semester-3/software_architektur/images/Pasted image 20240917081458.png",
-    "semester-3/datenbanken/images/Pasted image 20240917155318.png",
-    "semester-3/datenbanken/images/Pasted image 20240910142634.png",
-    "semester-3/netztechnik/images/Pasted image 20241009114608.png",
-    "semester-3/netztechnik/images/Pasted image 20241114142256.png"
+    "semester-5/Master Semester 5.md",
+    "semester-5/data_science/Hub Data Science.md",
+    "semester-5/data_science/Übung xyz aaaa.md",
+    "semester-5/cybersecurity",
+    "semester-5/data_science/CRISP-DM.md",
+    "misc/rust/Rust vector.md",
+    "goodnotes/Semester 3/Formale Sprachen/FSA 1 Basics.pdf",
+    "semester-5/data_science/images/Pasted image 20250929104801.png",
+    "semester-5/data_science/images",
+    "semester-5/data_science/Data Science in Praxis.md",
+    "semester-5/data_science/Demografie-Problem LLM.md",
+    "semester-5/data_science/Data Science.md",
+    "semester-1/lineare-algebra/Aufschriebe/Abbildung.md",
+    "semester-5/data_science/resources/DataScience_1_Einfuehrung.pdf",
+    "semester-3/formale-sprachen/sources/FSA_Handout.pdf",
+    "Master DHBW.md",
+    "semester-1/programmieren/gcc.md",
+    "semester-5/data_science/resources",
+    "semester-5/data_science",
+    "semester-5",
+    "semester-1/programmieren/Master C.md",
+    "intension/t2000/images/T2000_Schlaeger_Emil_3_NV_J.pdf",
+    "intension/t2000/images/Pasted image 20250916092020.png",
+    "intension/t2000/images/Pasted image 20250828183536.png",
+    "semester-4/quantum-computing/images/Pasted image 20250324151218.png",
+    "intension/t2000/images/Pasted image 20250828143403.png",
+    "intension/t2000/images/Pasted image 20250828142923.png",
+    "intension/t2000/images/Pasted image 20250828142757.png",
+    "intension/t2000/images/Pasted image 20250828111330.png",
+    "intension/t2000/images/Pasted image 20250828110835.png"
   ]
 }

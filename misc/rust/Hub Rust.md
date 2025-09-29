@@ -1,5 +1,6 @@
 - [[Rust]]
 - [[Memory Safety]]
+- [[Rust implied return]]
 
 ## Types
 - [[Rust Variable]]
@@ -7,8 +8,9 @@
 - [[Rust unit type]]
 - [[Rust slice]]
 - [[Rust function pointer]]
-- [[Optional type]]
-- [[Rust slice]]
+- [[Optional]]
+- [[Rust vector]]
+- [[Rust Strings]]
 
 ### Composite Types
 - [[Rust Tuple]]
@@ -20,10 +22,25 @@
 ## Rust Control Flows
 - [[Rust loop statement]]
 - [[Rust Pattern Matching]]
+- [[Rust closure]]
 
 ## Ownership & Borrowing
 - [[Ownership]]
+- [[Borrowing]]
+	- [[Borrow Checker]]
 
+## OOP-style in Rust
+- [[Rust Implementation]]
+- [[Rust Trait]]
 
 # Exercises
 - [[Handle a message]]
+
+# Projects
+## Rusty Dominoes
+- [[Backtracking]]
+
+
+## Rusty DFA
+- [[Rusty DFA]]
+- [[Recursive Descent]]

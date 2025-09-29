@@ -4,8 +4,6 @@
 - umgesetzt für 10M und 100M [[Ethernet]] 
 
 
-
-
 ![[Pasted image 20241023102139.png]]
 
 

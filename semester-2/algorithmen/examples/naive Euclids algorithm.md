@@ -29,5 +29,5 @@ def ggt(a, b):
 ### Problem: ggt(0)
 [[Off-by-one error]]
 with $b = 0$, $a$ never gets smaller, thus resulting in an infinite loop
-Never terminates --> Leads to [[Stack Overflow Error]] in practice, never terminates in theory
+Never terminates -> Leads to [[Stack Overflow Error]] in practice, never terminates in theory
 

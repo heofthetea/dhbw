@@ -197,6 +197,7 @@ path: datenbanken/scripts
 		- [[Löschregeln]]
 		- [[Updateregeln]]
 	- [[Zwischentabelle]]
+	- [[SQL Drop Database]]
 
 #### Übungen
 - [[Gargantuan Übung Ternäre Beziehung SQL]]

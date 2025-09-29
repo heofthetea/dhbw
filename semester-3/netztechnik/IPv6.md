@@ -4,7 +4,7 @@
 
 - Ziel: alles deutlich einfacher machen (z.B. kein DHCP-Server mehr notwendig)
 
-> [!warning] Jede Adresse wird an ein **Interface** (=Ports) vergeben, nicht an einen [[Knoten]]!!
+> [!warning] Jede Adresse wird an ein **Interface** (=physical ports) vergeben, nicht an einen [[Knoten]]!!
 
 > [!info] $2^{128}$ mögliche Adressen => stupid viel
 

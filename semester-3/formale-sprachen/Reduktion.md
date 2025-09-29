@@ -2,7 +2,6 @@
 
 [[Beispiel Reduktionsbeweis - Leerheitsproblem auf Äquivalenzproblem]], [[Übung 5.16 Reduktion]]
 
-
 Eine [[Reduktion]] von $L_{1} \subset T_{1}$ auf $L_{2} \subset T_{2}$ ist eine mit einer [[Turing Machine]] berechenbare [[Abbildung]] $f: T_{1} \rightarrow T_{2}$, so dass für alle $w \in T_{1}$ gilt:
 $$w \in L_{1} \Leftrightarrow f(w) \in L_{2}$$
 Es gilt:

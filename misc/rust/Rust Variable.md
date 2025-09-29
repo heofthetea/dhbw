@@ -6,7 +6,7 @@ let name: type = value;
 
 > [!hint] By default every variable is [[Immutability|immutable]]!
 
-> [!hint] A variable without a type is inferred to be a [[Signed Integer]]
+> [!hint] A variable without a type is inferred to be a [[Integer]]
 ### Mutable variable
 ```rust
 let mut x = 2;

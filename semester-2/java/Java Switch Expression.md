@@ -1,5 +1,7 @@
 > [[switch-case]] als [[Funktion]]
 
+vgl. [[Rust Pattern Matching]]
+
 ```java
 var result = switch(month) {
     case JANUARY, JUNE, JULY -> 3;
@@ -9,5 +11,5 @@ var result = switch(month) {
 }; 
 ```
 
-> [!hint] ist das pendant zu [[Optional type]]
+> [!hint] ist das pendant zu [[Optional]]
 

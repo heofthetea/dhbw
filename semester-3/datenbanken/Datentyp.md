@@ -4,6 +4,10 @@ aliases:
 ---
 > Spezifiziert die [[Menge|Trägermenge]] einer [[Variable]]
 
+- in den meisten Sprachen: abstrakte Struktur ([[Struct]])
+
+## Primitive Datentypen
+(hier für SQL, aber gilt ähnlich für so ziemlich jede Sprache)
 
 ![[Pasted image 20250326125418.png]]
 

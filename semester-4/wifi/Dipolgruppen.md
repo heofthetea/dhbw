@@ -1,6 +1,5 @@
 > Möglichkeiten, [[Halbwellendipol|dipole]] anzuordnen, um [[Beamforming|Ausrichtung]] zu erreichen
 
-
 - Ausrichtung = besserer [[Antennengewinn]]
 - Reihe (nebeneinander) -> gut für horizontale Ausbreitung
 - [[Stack]]: Gut für vertikale Ausrichtung

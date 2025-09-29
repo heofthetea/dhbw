@@ -18,6 +18,14 @@
 
 [[Tipps Klausur FSA]]
 ## GoodNotes
+[[FSA 1 Basics.pdf]]
+[[FSA 2 Grammatiken.pdf]]
+[[FSA 4 Turing Maschine.pdf]]
+[[FSA 5 Algorithmik.pdf]]
+[[FSA 6.pdf]]
+[[goodnotes/Semester 3/Formale Sprachen/FSA_Handout.pdf]]
+[[FSA_Handout (2).pdf]]
+[[goodnotes/Semester 3/Formale Sprachen/testat.pdf]]
 
 
 ## Libraries

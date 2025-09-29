@@ -9,7 +9,7 @@
 > [!info] Jedes [[Segment]] hat seinen eigenen Adresszähler
 ## Arten
 - CODE-Segment $CS$
-- [[Stack|STACK]]-Segment $SS$
+- [[semester-2/algorithmen/Stack|STACK]]-Segment $SS$
 - [[DATEN]]-Segment $DS$
 - Extra-Segment $ES$
 

@@ -1,6 +1,6 @@
 > A "part" of a [[Variable]]
 
-[[Rust]], [[Borrow]]
+[[Rust]], [[Borrowing]]
 
 ```rust
 let slice = &[i32];

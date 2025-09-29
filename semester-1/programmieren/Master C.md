@@ -18,6 +18,7 @@
 
 ## Contents
 [[C concepts]]
+[[gcc]]
 [[Pointer]]
 [[Function]]
 [[String|String]]

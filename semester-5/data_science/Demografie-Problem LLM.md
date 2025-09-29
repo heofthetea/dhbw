@@ -1,0 +1,5 @@
+- [[LLM]] trainiert auf Daten im [[Internet]]
+- biased bezüglich:
+	- western culture
+	- white people
+	- menz

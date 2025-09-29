@@ -1,6 +1,5 @@
 [[Filesystem]], [[Netzwerk]], [[Server]]
 
-
 - ziel: [[Daten]] **zentral** im [[Netzwerk]] ablegen
 - [[Betriebssystem]] bietet dieselben Systemaufrufe wie für lokale [[Filesystem|Filesysteme]]
 	- => Erfordert spezielle Protokolle (wie [[SMB]])

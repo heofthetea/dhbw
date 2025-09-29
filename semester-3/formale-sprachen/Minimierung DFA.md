@@ -1,6 +1,6 @@
 [[Übung 2.47 DFA Kreislauf]]
 [[Menge]] der [[Unterscheidbarer Zustand|unterscheidbaren Zustände]] $U$ wird dargestellt als Tabelle
---> aufgrund von Symmetrie muss nur eine Seite der Diagonale behandelt werden
+> aufgrund von Symmetrie muss nur eine Seite der Diagonale behandelt werden
 
 ![[Pasted image 20240927122033.png]]
 

@@ -1,10 +1,11 @@
+> Verhindern von [[Anomalie|Anomalien]]
+
 [[1NF]]
 [[2NF]]
 [[3NF]]
 [[BCNF]]
 
 ![[Pasted image 20241112145652.png]]
-
 
 ## Normalformen allgemein
 1. Prüfen, ob eine [[Relation]] eine bestimmte Anforderung erfüllt.

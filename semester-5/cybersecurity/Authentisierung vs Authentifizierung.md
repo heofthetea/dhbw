@@ -1,0 +1,3 @@
+- Frage: wer tut's?
+	- User **authentisiert** sich bei [[Server]]
+	- [[Server]] **authentifiziert** den [[Client]]

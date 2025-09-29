@@ -14,7 +14,6 @@ fn process_message(msg: Message) -> String {
 
 - this returns the [[Rust unit type]]
 
-
 ## Return
 - Matching can return something -> needs to match what's assigned
 

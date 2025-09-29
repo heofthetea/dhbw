@@ -1,3 +1,7 @@
+---
+aliases:
+  - Struct
+---
 [[Struct]]
 
 ```rust
@@ -14,6 +18,8 @@ let phil: User = User {
 }
 ```
 
+## Mutability
+ - is inhereted from Struct to its elements
 ## Access
 ```rust
 asserteq!(phil.name, "Phil");

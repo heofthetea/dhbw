@@ -65,3 +65,6 @@
 - [[Hub Cloud Computing]]
 - [[Hub Web Engineering 2]]
 - [[Hub Statistik]]
+
+### Semester 5
+- [[Master Semester 5]]

@@ -1,8 +1,5 @@
 > Okay das wird jetzt keine vollständige Library nach meinem Standard XY, sondern einfach nur ein jot-down von den Sachen die ich denke dass Klausurrelevant ist. Nen Scheiß werd ich tun hier alles zusammenzufassen
 
-#todo
-
-
 ## 01 Grundlagen
 ### Service Sets
 

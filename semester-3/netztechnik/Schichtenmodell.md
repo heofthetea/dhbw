@@ -3,7 +3,7 @@
 
 [[SAP]]
 - Jede Ebene packt einen Header an die Daten 
-	- beim Empfänger werden diese Header nach und nach wieder verarbeitet ([[Stack#pop|pop]])
+	- beim Empfänger werden diese Header nach und nach wieder verarbeitet ([[semester-2/algorithmen/Stack#pop|pop]])
 
 ## Interaktion zwischen Schichten
 - ICI: Information, was die Schicht zu tun hat ("Steuerinformation")

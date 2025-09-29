@@ -81,7 +81,6 @@
 	- [[Layer 1]]
 
 [[Layer 8 Problem]]
-
 ### Physische Ebene
 [[MAC Adresse]]
 [[Multiplex]]
@@ -124,7 +123,7 @@
 
 ### Medienzugriffsverfahren
 [[Zugriffsverfahren]]
-[[semester-3/netztechnik/Kollision]]
+[[semester-3/netztechnik/Kollision|Kollision]]
 [[CSMA]]
 - [[CSMA CD]]
 - [[CSMA CA]]
@@ -184,7 +183,6 @@
 	- [[Low-Density Parity Check]]
 [[Paket]]
 
-
 ## 6. Verkabelung
 [[EN50173 Verkabelung]]
 - [[Backbone Verkabelung]]
@@ -195,8 +193,6 @@
 - [[WAN]]
 	- [[ISDN]]
 	- [[DSL]]
-
-
 ## 7. WLAN
 [[Hub WLAN]]
 ## 8. Netzwerk-Komponenten

@@ -2,7 +2,6 @@
 
 - ermöglicht [[Adressierung]], lesen, verändern, erstellen und Verhalten von [[File|Dateien]]
 
-
 ### Instanzen
 - [[Lineares Filesystem]]
 - [[Hierarchical Filesystem]]

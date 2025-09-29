@@ -3,11 +3,11 @@
 
 - Can be understood as a **Role** of a [[Class]]
 - one Class can implement multiple interfaces
-- Defines only public Methods and [[final modifier|final]] constants.
+- Defines only public [[Methode|methods]] and [[final modifier|final]] constants.
 	- (the `static final` modifier is put there automatically by the compiler)
 - However: [[Default Implementation Interface]]
 
-==> Can be used to deal with specific aspects of an [[Object]] without needing to take any extra information about that Object into account
+=> Can be used to deal with specific aspects of an [[Object]] without needing to take any extra information about that Object into account
 
 > [!hint] Differentiate Abstract Classes and Interfaces
 > - speak: X _is_ Y --> Y is [[Abstract Class]]
@@ -16,9 +16,7 @@
 ## in Java
 An [[Interface]] declares a set of Methods, a [[Class]] has to implement.
 
-A [[Class]] implementing an [[Interface]] $i$ is type compatible with all other classes implementing $i$. ??
-
-
+A [[Class]] implementing an [[Interface]] $i$ is [[Datentyp|Type]] compatible with all other classes implementing $i$. 
 > [!hint] Interfaces can be [[Inheritance|inherit]] from other Interfaces
 > ```java
 > public interface Interface1 extends Interface2

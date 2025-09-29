@@ -13,13 +13,13 @@
 ## Rules
 1. Every value in [[Memory]] is owned by _something_
 2. There can only be one owner at a time
-3. When the owner goes out of [[Variable Scope]], the value is dropped (= automatically [[c free]])
+3. When the owner goes out of [[Scope|Scope]], the value is dropped (= automatically [[c free|freed]])
 
 
 ## Ownership Changes
 ### Reassignment
 - re-assigning a "pointer" changes ownership of the data => initial [[Reference]] is invalid
-	- because "things that live on the [[Program Heap]]" don't have the [[copy trait]]
+	- because "things that live on the [[Program Heap]]" don't have the [[Copy trait]]
 
 ![[Pasted image 20250809111923.png]]
 

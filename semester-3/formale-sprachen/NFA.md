@@ -13,6 +13,7 @@ Ein [[NFA]] ist ein 5-[[Tupel]] ähnlich dem [[DFA]]:$$A = (Q, \Sigma, \Delta, q
 - $q_{0}\in Q$: [[Startzustand]]
 - $F \subset Q$: akzeptierende [[Endzustand]]
 
+> [!hint] [[Übergangsrelation]] vs. Übergangsfunktion ist der einzige Unterschied zwischen [[NFA]] und [[DFA]].
 ### Akzeptanz
 Die von einem [[NFA]] $\mathcal{A}$ erkannte Sprache ist:
 $$\mathcal{L}(\mathcal{A}) = \set{w \in \Sigma^{*}\ | \exists_{L}:\ akzeptiert(L, w)}$$

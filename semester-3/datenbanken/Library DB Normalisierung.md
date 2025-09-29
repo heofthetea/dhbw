@@ -14,7 +14,7 @@
 
 ### [[Armstrong Axiome|Interferenzregeln]]
 1. $AB \rightarrow A$ ([[Triviale Funktionale Abhängigkeit]])
-2. $$$$
+2. 
 #todo
 ## 1NF
 > [!info] Eine [[Relation]] ist in [[1NF]], wenn jedes [[Attribut]] **atomar** ist und es keine **Mehrfachattribute** gibt.

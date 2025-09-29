@@ -14,6 +14,5 @@
   "mermaid-tools",
   "symbols-prettifier",
   "find-unlinked-files",
-  "obsidian-livesync",
-  "code-emitter"
+  "obsidian-livesync"
 ]

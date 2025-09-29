@@ -53,7 +53,7 @@
 
 s. [[Hub Java#JFS]]
 
-- [[Optional type]]
+- [[Optional]]
 - [[Java Record]]
 - [[Java Switch Expression]]
 

@@ -3,4 +3,4 @@
 > [!warning] Newly created elements are used!
 > Similar to the Resolution algorithm in Logik
 
---> returns an [[Optional type]]
+--> returns an [[Optional]]

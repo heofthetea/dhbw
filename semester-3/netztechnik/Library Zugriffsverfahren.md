@@ -10,8 +10,7 @@
 		1. Beispiel: [[Token Ring]]
 	2. **stochastisch**/random-access: [[Nichtdeterminismus|nichtdeterministisch]]
 		1. Beispiel: [[CSMA]]
-
-### Definition: [[semester-3/netztechnik/Kollision]]
+### Definition: [[semester-3/netztechnik/Kollision|Kollision]]
 > [!info] Zwei Geräte senden gleichzeitig auf der [[Leitung]] => Es entsteht Gibberish.
 
 > [!hint] Eine Kollision wird vom Receiver durch ein Fehlschlagen der [[CRC]] [[Checksum]] erkannt.

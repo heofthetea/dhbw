@@ -2,7 +2,9 @@
 > Darstellungsschicht
 
 [[OSI-7-Schichten Modell]]
-- [[Daten]] werden von verschiedenen [[Hub Betriebssysteme|Betriebssystemen]] anders interpretiert
+- [[Daten]] in ein einheitliches Format bringen (z.B. [[utf-8]] vs [[ASCII]] encoding)
+
+> [!hint] Wird in der regel gemerged mit [[Layer 7]], weil [[HTTP]] schon vieles davon kann.
 
 ## Aufgabe
 - Zeichensätze

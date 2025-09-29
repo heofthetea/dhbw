@@ -1,4 +1,4 @@
-> Suche nach den **echten**$NP$-Problemen
+> Suche nach den **echten** $NP$-Problemen
 
 [[P = NP Problem]]
 
@@ -17,7 +17,6 @@ $L$ ist [[NP-Vollständigkeit|NP-vollständig]], wenn $L$ sowohl in $NP$ als auc
 
 ## Reduktionen
 ![[Pasted image 20241120144439.png]]
-
 
 ## Liste NP-vollständiger Probleme
 - [[Cliquenproblem]]

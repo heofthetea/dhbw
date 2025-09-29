@@ -1,0 +1,3 @@
+- keycloak image aus nexus ziehen
+- image starten
+- probably `:latest-master` => gitlab ci l. 71

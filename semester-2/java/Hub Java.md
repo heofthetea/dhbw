@@ -159,6 +159,6 @@ compilation:
 - [[Java Object to HashMap]]
 
 ## JFS
-- [[Optional type]]
+- [[Optional]]
 - [[Java Record]]
 - [[Java Switch Expression]]

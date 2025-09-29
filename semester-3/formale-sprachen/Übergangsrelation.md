@@ -19,7 +19,7 @@ $$\Delta \subset Q \times \Sigma \cup \set{\epsilon} \times \Gamma \times \Gamma
 [[Turing Machine]]
 
 $$\Delta \subset Q \times \Gamma \times \Gamma \times \set{l, r, n} \times Q$$
-(Zustand von, Sumbol eingelesen, Symbol gelesen, Bewegung des Kopfes, Zustand zu)
+(Zustand von, Sumbol eingelesen, Symbol schreiben, Bewegung des Kopfes, Zustand zu)
 
 
 1. Lesen auf aktueller Bandposition

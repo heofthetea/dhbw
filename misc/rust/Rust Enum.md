@@ -10,7 +10,7 @@ enum Direction {
 ```
 
 ## tagged enum
-- use an enum of[[Datentyp|Datatypes]]
+- use an enum of [[Datentyp|Datatypes]]
 
 ```rust
 enum Message { 

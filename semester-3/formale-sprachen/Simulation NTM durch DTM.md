@@ -6,7 +6,7 @@
 		- beginnend mit $q_{0}w$
 		- zusätzliche Bandsymbole:
 			- $q_{i}$ [[Zustand|Zustände]]
-			- $*$ als Trenssymbol
+			- $*$ als Trennsymbol
 			- $!$ für aktuelle Konfiguration $c_{a}$
 	- Band 2: Zwischenspeicher für Konfigurationen
 ### Ablauf

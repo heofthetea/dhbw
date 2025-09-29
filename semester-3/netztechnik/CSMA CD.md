@@ -18,7 +18,6 @@
 
 - wird gesendet, sobald ein [[DEE]] erkennt, dass eine Kollision vorliegt
 	- Gerät setzt gleichzeitig seine Wartezeit
-
 ### Late Collision
 - [[semester-3/netztechnik/Kollision]], die erst erkannt werden würde, nachdem $A$ fertig ist mit senden (i.e. das [[Netzwerk]] ist länger als Maximallänge)
 ## Grafik
