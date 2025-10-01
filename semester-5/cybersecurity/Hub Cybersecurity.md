@@ -1,3 +1,4 @@
+> "Sie haben irgend eine Lösung die funktioniert, dann tun se Security rein und dan tut se nimmer" ~ Seitter
 ### misc
 - [[Authentisierung vs Authentifizierung]]
 ## IT Governance & Compliance
@@ -14,6 +15,4 @@
 - [[IT Governance]]
 	- [[Second Line IT Governance]]
 - [[NIS2]]
-
-### asdf
 - [[Three Lines Model]]
