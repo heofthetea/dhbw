@@ -29,6 +29,7 @@ Instruction Set: [[C500_AISM.PDF]]
 [[8051 MUL]]
 [[8051 DIV]]
 [[8051 CLR]]
+[[NOP]]
 
 
 [[Assembler Konstanten]]

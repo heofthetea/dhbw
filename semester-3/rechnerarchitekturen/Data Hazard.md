@@ -21,7 +21,7 @@
 > [!hint] Feed-Forwarding wird idR tatsächlich gemacht.
 
 #### Dumme Abhilfe
-- ist ein _Software_-Befehl: [[Compiler]] mach mal padding (i.e. NOP)
+- ist ein _Software_-Befehl: [[Compiler]] mach mal padding (i.e. [[NOP]])
 	- ist besser, wenn man Befehle umordnen kann -> kein Zeitverlust durch NOPs
 
 > [!error] [[Compiler]] muss wissen, wie viele NOPs er einfügen muss -> Dafür muss er _genau_ wissen, mit welchem Prozessor er arbeitet, und wie er funktioniert!

@@ -44,3 +44,7 @@
 ## Rusty DFA
 - [[Rusty DFA]]
 - [[Recursive Descent]]
+
+## Thunfisch
+- [[Thunfisch intro von Lukas]]
+- 

@@ -21,6 +21,8 @@ aliases:
 - "so lange ich die Daten nicht _sicher_ auf meinem Rechner (mit Backup)" habe, habe ich sie nicht"
 - Passen die Daten überhaupt zum gestellten Problem?
 
+> [!hint] [[Statistische Maßzahlen]] gehören hier schon dazu!!!
+
 ### Data Preparation
 > Können die Daten in der _vorliegenden_ Form verwendet werden?
 
@@ -36,11 +38,12 @@ aliases:
 - see: [[Hub Machine Learning]]
 
 - Alternativen/mögliche Verbesserungen
+- tatsächlich Methoden ([[Neural Network]], etc.)
 
 ### Evaluation
 > Welches Verfahren ist am Besten?
 
-???
+- wie gut ist mein Model?
 
 ### Deployment
 > Bereitstellung

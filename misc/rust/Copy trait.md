@@ -4,7 +4,6 @@
 
 > [!hint] Most [[Primitive Data Type|Primitive Datatypes]] in [[Rust]] have that trait (like integers e.g.)
 
-
 ```rust
 let a = 5;
 let b = a;

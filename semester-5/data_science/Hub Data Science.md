@@ -11,3 +11,25 @@
 
 ### Übung
 - [[Übung xyz aaaa]]
+
+
+## Statistik aaaaaaa the ptsd
+- [[DataScience_2_MathePython_neu22.pdf]]
+- Arten der stuff
+	- [[Parametrisches Verfahren]]
+	- [[NIcht-parametrisches Verfahren]]
+	- [[Datensatz]]
+	- [[Klassifikation]]
+	- [[Regression]]
+- [[Überwachtes Lernverfahren]]
+- [[Unüberwachtes Lernverfahren]]
+- [[Reinforcement Learning]]
+- [[Übung Kategorisierung Datenpunkte]]
+
+### Dafuq
+- [[Inferenz|Statistische Inferenz]]
+	- [[Lagemaße]]
+- [[Nicht-parametrische Streuungsmaße]]
+
+### Knobelaufgabe
+- [[Knobelaufgabe Statistik]]

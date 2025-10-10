@@ -1,5 +1,8 @@
 > Usually very hard to figure out where a data center is -> Security
 
+
+> [!hint] usually _one_ [[Data Center]] is _two_ buildings a couple kilometers apart for disaster prevention.;
+
 - no customer is allowed to visit
 
 > [!hint] Built by people that don't understand what they're doing -> all colourful and labelled etc.

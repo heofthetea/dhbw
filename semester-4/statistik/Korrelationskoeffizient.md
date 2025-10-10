@@ -20,5 +20,7 @@ $$r_{xy} = \frac{cov(x,y)}{s_{x}\cdot s_{y}}$$
 
 
 ## Beispiele
+![[Pasted image 20251010140839.png]]
+
 ![[Pasted image 20250402093051.png]]
 

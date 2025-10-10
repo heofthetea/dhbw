@@ -9,7 +9,7 @@ K1  EQU 5
 	MOV A, K1
 	CLR A
 	MOV A, #K1
-ende: NOP
+ende:  NOP
 	JMP ende
 END
 ```

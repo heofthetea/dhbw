@@ -45,5 +45,6 @@
     "semester-2/java/movie-database/",
     "/.*/.pyc/"
   ],
-  "mobilePullAction": "switcher:open"
+  "mobilePullAction": "switcher:open",
+  "showLineNumber": false
 }

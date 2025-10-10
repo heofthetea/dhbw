@@ -4,8 +4,10 @@ aliases:
 ---
 > ugs. Durschnitt
 
+> [!hint] Die dümmstögliche Vorhersage
+
 - benötigt [[Metrisches Skalenniveau]]
-$$\overline{x} = \frac{1}{n}\sum\limits_{i=1}^{n} x_{i}$$
+$$\mu := \overline{x} := \frac{1}{n}\sum\limits_{i=1}^{n} x_{i}$$
 
 
 > [!warning] Be wary of tables!!!! -> Weighted

@@ -1,5 +1,6 @@
-> Abstrahierung von [[Resource|Resourcen]] zu logisch vollständigen Einheiten, sodass Sie für [[User]] wirken, als hätten sie Zugriff auf eine gesamte Resource.
-
+> - Abstrahierung von [[Resource|Resourcen]] zu logisch vollständigen Einheiten, sodass Sie für Applications wirken, als hätten sie Zugriff auf eine gesamte Resource.
+> - Aus mehreren kleinen physischen Einheiten, eine große (unabhängig unterteilbare) logische Einheit machen.
+1
 - teilen von [[Resource|Ressourcen]]
 - hohe Skalierbarkeit
 - hohe Ausfallsicherheit
@@ -13,6 +14,8 @@
 - [[Application Virtualization]]
 - [[Desktop Virtualization]]
 - [[Hardware Virtualization]]
+	- Storage: [[NAS]] und [[SAN]]
+- [[Netzwerk Virtualization]]
 
 ## Funktionsweise
 - Einfügen eines "-1"-ten [[x86 Rings of Protection|Ring]] "VMX[^1] root" vor Ring 0 => hier ist [[Hypervisor]] angesiedelt

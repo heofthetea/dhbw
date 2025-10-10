@@ -1,6 +1,8 @@
 [[Terminal Shortcuts]]
 [[Kill process on port]]
 
+[[DBUS]]
+
 [[curl]]
 [[sed]]
 [[Super user]]

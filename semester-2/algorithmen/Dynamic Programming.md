@@ -1,6 +1,11 @@
+---
+aliases:
+  - Memoization
+---
 Bsp: [[Optimierung des naiven rekursiven Fibonacci-Algorithmus]], [[Übung Dynamic Programming]]
 not to confuse with [[Dynamic Typing]]
 
+> [!hint] Requires the stored function call to be a [[pure function]]
 ### Idee
 - führe _komplexes_ Problem auf _einfache Teilprobreme_ zurück
 - berechne Lösungen der Teilprobleme

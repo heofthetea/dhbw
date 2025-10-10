@@ -24,5 +24,6 @@ $$\hat{a} = \overline{y} - \hat{b}\cdot\overline{x}$$
 
 > [!hint] das \hat $\hat{a}$ bedeutet "[[Schätzung]] von $a$".
 
-
-
+## Relevanz
+- braucht wenig Datenpunkte für decent Resultate
+	- => very useful yk

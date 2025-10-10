@@ -1,4 +1,6 @@
+### pdf
 - [[IoT-Vorlesung-ws2025-Nr1-v1.0.pdf]] 
+- [[IoT-Vorlesung-ws2025-Nr2-v1.0.pdf]]
 
 ### Meta Inf
 - Klausur?????
@@ -13,3 +15,18 @@
 ## Intro
 - [[IoT]]
 - [[History IoT]]
+
+## Sensoren
+- [[IoT Value Stack]]
+	- [[AD Wandler]]
+	- [[Communikation Microcontroller]]
+	- [[Beispiel IoT Value Stack]]
+- [[Sensor]]
+	- [[Sensing Application]]
+	- [[Abweichung vom Idealen Sensor]]
+		- [[Linearizierung eines nichtlinearen Sensors]]
+	- [[Python Programme für Nichtlinearität]]
+	- [[Dampening]]
+- [[Accuracy vs. Precision]]
+- [[Prellzeit eines Schalters]]
+- [[Advanced Sensor]]
