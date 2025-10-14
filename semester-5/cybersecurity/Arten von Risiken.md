@@ -1,4 +1,6 @@
 > Sammlung an Beispielen hier
+
+[[Risiko]]
 ## Finanzrisiken
 - Wechselkurse (dollar/euro) schwanken
 - eigener Aktienkurs fällt

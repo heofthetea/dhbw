@@ -6,8 +6,12 @@
 - [[Category]]
 	- [[Object]]
 	- [[Morphism]]
+		- [[Hom-Set]]
 	- [[Identity Morphism]]
 	- [[Type]]
+- [[Partial Order]]/[[Total Order]]
+- [[Free Construction]]
+- [[Monoid]]
 
 ## Lambda Calculus
 - [[lambda-calculus.pdf]]

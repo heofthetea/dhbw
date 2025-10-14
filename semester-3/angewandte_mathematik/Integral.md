@@ -5,8 +5,10 @@ Anschaulich: Die Fläche unter einer Kurve
 
 $$\int f(x)dx= F(x) + c$$
 
-> [!hint] Jede [[Stetigkeit|stetige]] [[Funktion]] ist [[Integral|integrierbar]].
+> [!hint] Jede [[Stetigkeit|stetige]] [[Abbildung|Funktion]] ist [[Integral|integrierbar]].
+
 ## Beispiel
+
 $$\int \frac{1}{x^{2}} = -\frac{1}{x}$$
 $$\int\left(\frac{2x}{x^{2} + 1}\right) = ln(|x^{2} + 1|) + c$$
 $$\int 2xe^{x^{2}} = e^{x^{2}}$$

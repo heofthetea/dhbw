@@ -1,1 +1,2 @@
-#todo what the fuck is das ding
+> [[Datensatz|Daten]] in vordefinierte [[Category|Kategorien]] [[Sortieren]]
+

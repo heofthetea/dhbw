@@ -1,4 +1,4 @@
-> Die Ausgabe einer [[Funktion]] wird als Input für die nächste [[Funktion]] verwendet
+> Die Ausgabe einer [[Abbildung|Funktion]] wird als Input für die nächste [[Abbildung|Funktion]] verwendet
 
 $$(g\ \circ\ f)(x) = f(g(x))$$
 

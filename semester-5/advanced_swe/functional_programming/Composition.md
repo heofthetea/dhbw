@@ -1,0 +1,12 @@
+[[Associativity]], [[Identity Morphism]]
+
+Two [[Morphism|Morphisms]] $f$ and $g$ can be composed if the source of $f$ is the target of $g$,
+
+
+```mermaid
+flowchart LR
+	A((A)) --g--> B((B))
+	B --f--> C((C))
+	A --h--> C 
+```
+$$h:= f \circ g$$

@@ -1,0 +1,14 @@
+> [!hint] Message auf jeden Fall auch den Leuten geben
+
+- Ziel: MIt Grafiken Denken des Publikum denken
+## Beispiel Napoleon
+- was man rauslesen kann:
+	- städtenamen & flüsse (geografische info
+	- temperatur (wie kalt es im winter war)
+	- wie viele männer es noh gibt
+	- direction of travel (braun hin, schwarz zurück)
+	- distanz (durch diese Skala)
+	- datum/zeit
+
+
+## Beispiel Server

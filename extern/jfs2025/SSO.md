@@ -8,3 +8,10 @@ aliases:
 
 
 > [!hint] Einzige wirkliche Gemeinsamkeit zwischen [[SAML]], [[OAuth 2.0]] und [[OIDC]]
+
+
+## Nachteil
+- wenn Passwort gestohlen, hat Angreifer zugriff auf _alle_ Systeme
+
+## Vorteil
+- man muss nur ein Passwort ändern

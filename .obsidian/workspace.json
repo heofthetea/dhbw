@@ -6,12 +6,12 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 45.75036425449247,
+        "dimension": 32.102962603205434,
         "children": [
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 69.93918331885317,
+            "dimension": 35.88184187662902,
             "children": [
               {
                 "id": "e354444616e006a0",
@@ -142,12 +142,12 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 30.06081668114683,
+            "dimension": 64.11815812337099,
             "children": [
               {
                 "id": "3d720ae8a59cb6f9",
@@ -184,6 +184,7 @@
               {
                 "id": "3697e3a35de3d489",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -191,12 +192,13 @@
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "Hub Statistik"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -204,12 +206,12 @@
       {
         "id": "45b82f0a2d3f66e4",
         "type": "split",
-        "dimension": 54.24963574550753,
+        "dimension": 67.89703739679456,
         "children": [
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 76.28149435273676,
+            "dimension": 66.11642050390965,
             "children": [
               {
                 "id": "2ca2d467ec5d4f8b",
@@ -259,35 +261,21 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/statistik/Stetige Verteilung.md",
+                    "file": "intension/Vue Component.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Stetige Verteilung"
-                }
-              },
-              {
-                "id": "d069fa8ada37428b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-3/formale-sprachen/Vektor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vektor"
+                  "title": "Vue Component"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 23.71850564726325,
+            "dimension": 33.883579496090356,
             "children": [
               {
                 "id": "77a8ec085b3380b7",
@@ -296,11 +284,11 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-5/data_science/resources/DataScience_2_MathePython_neu22.pdf"
+                    "file": "semester-5/data_science/resources/DataScience_3_Visualisierung.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "DataScience_2_MathePython_neu22"
+                  "title": "DataScience_3_Visualisierung"
                 }
               },
               {
@@ -334,11 +322,13 @@
               {
                 "id": "764615910bae4738",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "pdf",
                   "state": {
                     "file": "semester-5/advanced_swe/functional_programming/category-theory-for-programmers.pdf"
                   },
+                  "pinned": true,
                   "icon": "lucide-file-text",
                   "title": "category-theory-for-programmers"
                 }
@@ -372,7 +362,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -537,7 +527,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-3/formale-sprachen/Vektor.md",
+                "file": "intension/Vue Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -547,7 +537,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vektor"
+              "title": "Backlinks for Vue Component"
             }
           },
           {
@@ -565,8 +555,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -593,53 +582,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "d069fa8ada37428b",
+  "active": "f0c5982db57859ae",
   "lastOpenFiles": [
+    "semester-3/formale-sprachen/Funktion.md",
+    "intension/Vue Component.md",
+    "semester-4/statistik/Zweidimensionale Häufigkeitsverteilung.md",
+    "semester-4/quantum-computing/Vektorraum.md",
+    "semester-3/datenbanken/Relationale Algebra.md",
+    "semester-1/lineare-algebra/Aufschriebe/Abbildung.md",
+    "semester-5/advanced_swe/functional_programming/Monoid.md",
+    "semester-5/advanced_swe/functional_programming/Solutions Category Theory for Programmers.md",
+    "semester-5/advanced_swe/functional_programming/Hub Functional Programming.md",
+    "semester-5/advanced_swe/functional_programming/Free Construction.md",
+    "semester-5/advanced_swe/functional_programming/Identity Morphism.md",
+    "semester-5/advanced_swe/functional_programming/Composition.md",
+    "semester-5/advanced_swe/functional_programming/images/Pasted image 20251014111059.png",
+    "semester-5/advanced_swe/functional_programming/images/Pasted image 20251014110909.png",
+    "semester-5/advanced_swe/functional_programming/images/Pasted image 20251014110739.png",
+    "semester-5/advanced_swe/functional_programming/images/Pasted image 20251014110716.png",
+    "semester-5/advanced_swe/functional_programming/images/Pasted image 20251014110218.png",
+    "semester-5/advanced_swe/functional_programming/images",
+    "semester-5/data_science/Parametrisches Verfahren.md",
+    "semester-5/advanced_swe/functional_programming/Partial Order.md",
+    "semester-5/advanced_swe/functional_programming/Total Order.md",
+    "semester-5/cybersecurity/Hacker Paragraf.md",
+    "semester-5/cybersecurity/Arten von Risiken.md",
+    "semester-5/cybersecurity/Hub Cybersecurity.md",
+    "semester-5/cybersecurity/Arten von IT-Risiken.md",
+    "semester-4/quantum-computing/Goals of Cryptography.md",
+    "semester-2/projektmanagement/Risikomanagement.md",
+    "semester-2/projektmanagement/Risikoplanung.md",
+    "semester-2/projektmanagement/Risiko.md",
+    "semester-5/cybersecurity/Risikostrategien.md",
+    "extern/jfs2025/SSO.md",
+    "semester-2/projektmanagement/Risiken abwägen.md",
+    "semester-5/cybersecurity/images/Pasted image 20251013134222.png",
+    "semester-5/advanced_swe/functional_programming/category-theory-for-programmers.pdf",
+    "modulhandbuch.pdf",
+    "semester-5/data_science/images/Pasted image 20251013112111.png",
+    "semester-5/data_science/resources/DataScience_3_Visualisierung.pdf",
+    "semester-5/data_science/images/Pasted image 20251013104232.png",
+    "semester-5/data_science/resources/DataScience_2_MathePython_neu22.pdf",
+    "semester-5/cybersecurity/images/Pasted image 20251006144244.png",
+    "semester-5/cybersecurity/resources/eIDAS2 NIS2 Signaturen Siegel und EUDI Wallets.pdf",
+    "semester-5/cybersecurity/resources",
+    "semester-5/cybersecurity/images/Pasted image 20251006142908.png",
     "semester-3/netztechnik/sources/Netztechnik-Vorlesung Teil-2.pdf",
-    "semester-5/machine_learning/Hub Machine Learning.md",
-    "semester-4/statistik/Stetige Verteilung.md",
-    "semester-4/statistik/Dichtefunktion.md",
-    "semester-5/INF23BD Sitzplan.md",
-    "semester-5/images/Pasted image 20251010154210.png",
-    "semester-5/machine_learning/Faltung.md",
-    "semester-5/machine_learning/images/Pasted image 20251010144352.png",
-    "semester-5/machine_learning/images/Pasted image 20251010154107.png",
-    "semester-5/machine_learning/Bayes Theorem.md",
-    "semester-5/machine_learning/images/Pasted image 20251010154046.png",
-    "semester-4/statistik/Totale Wahrscheinlichkeit.md",
-    "semester-4/statistik/Bedingte Wahrscheinlichkeit.md",
-    "semester-4/statistik/Hub Statistik.md",
-    "semester-5/machine_learning/Signal.md",
-    "semester-5/machine_learning/Zweidimensionale Faltung.md",
-    "semester-4/wifi/Faltungscodierer.md",
-    "semester-4/statistik/Wahrscheinlichkeit.md",
-    "semester-5/machine_learning/images/Pasted image 20251010145441.png",
-    "semester-5/machine_learning/Faltung in Bildbearbeitung.md",
-    "semester-5/machine_learning/images/Pasted image 20251010144824.png",
-    "semester-5/machine_learning/images/Pasted image 20251010144710.png",
-    "semester-5/machine_learning/Natürliche Zahlen.md",
-    "semester-4/statistik/Korrelationskoeffizient.md",
-    "semester-3/formale-sprachen/Vektor.md",
-    "semester-5/machine_learning/Kausalität.md",
-    "semester-5/machine_learning/Rangkorrelationen.md",
-    "semester-5/machine_learning/Korrelation.md",
-    "semester-4/statistik/images/Pasted image 20251010140839.png",
-    "semester-4/statistik/BananaNana.md",
-    "semester-4/statistik/images/banananana.png",
-    "semester-4/statistik/Varianz.md",
-    "semester-4/statistik/Standardabweichung.md",
-    "semester-5/machine_learning/Kovarianzmatrix.md",
-    "semester-4/statistik/Kovarianz.md",
-    "semester-5/machine_learning/images/Pasted image 20251010135632.png",
     "semester-5/machine_learning/resources/Kapitel2_Mathematische_Grundlagen.pdf",
-    "semester-5/machine_learning/resources/Kapitel1_Introduction.pdf",
-    "semester-5/it_architekturen/resources/ITA_10_Einfuehrung_2025.10.pdf",
-    "semester-5/machine_learning/images",
-    "semester-5/machine_learning/resources/Kapitel0_Organisatorisches.pdf",
-    "semester-5/machine_learning/resources",
-    "semester-5/machine_learning",
-    "semester-5/images/Plan_JG2023___Plan_mit_Prüfungen_BD.pdf",
-    "goodnotes/Semester 1/Lineare Algebra/Aufschriebe/LAlg 4 Matrizen.pdf",
-    "semester-5/iot/resources/IoT-Vorlesung-ws2025-Nr2-v1.0.pdf"
+    "semester-5/machine_learning/resources/Kapitel1_Introduction.pdf"
   ]
 }

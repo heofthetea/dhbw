@@ -16,3 +16,23 @@
 	- [[Second Line IT Governance]]
 - [[NIS2]]
 - [[Three Lines Model]]
+- [[Compliance]]
+- [[Risiko]]
+	- [[Risikostrategien]]
+	- [[Arten von IT-Risiken]]
+- [[Hacker Paragraf]]
+
+### Angriffsvektoren
+- [[Cyberdamage to companies by type]]
+	- [[Passphrase]]
+
+## eIDAS2, NIS2, etc wtf
+- [[eIDAS2 NIS2 Signaturen Siegel und EUDI Wallets.pdf]]
+- [[Electronic Signature]]
+- [[European Trust List]]
+- [[eIDAS]]
+- [[eID]]
+- [[x509 certificate]]
+- [[QTSP]]
+- [[UIDI Wallet]]
+- [[ECDSA]]

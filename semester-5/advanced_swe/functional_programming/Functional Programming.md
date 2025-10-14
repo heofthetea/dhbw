@@ -1,6 +1,6 @@
 > Programming with [[Immutability|immutable]] [[Daten|Data]]
-> # everything is a [[Funktion]]
-
+>
+> # everything is a [[Abbildung|Funktion]]
 
 > [!hint] Well I've come into contact with real FP in the [[Keycloakify]] react environment. So i basically have an excuse to properly research this - just I wouldn't put it into the paper, because it's too far-fetched.
 

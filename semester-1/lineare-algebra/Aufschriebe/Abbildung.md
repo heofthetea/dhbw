@@ -1,8 +1,8 @@
 ---
 aliases:
   - Funktion
+  - Function
 ---
-
 > Eine spezielle [[Relation]]
 
 $$X \longrightarrow Y := \set{(x, y) \in X \times Y\ |\ \forall_{(x_{1}, y_{1})} \forall_{(x_{2}, y_{2})x_{1} \neq x_{2}}}$$

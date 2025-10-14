@@ -1,4 +1,4 @@
-A vector Space $V$ is a [[Menge|set]] that has two [[Funktion|functions]] over a field $\mathbb{K}$:
+A vector Space $V$ is a [[Menge|set]] that has two [[Abbildung|functions]] over a field $\mathbb{K}$:
 - addition between two $v \in V$: $V \times V \rightarrow V$ ([[Kartesisches Produkt]])
 - multiplication with a scalar $n \in \mathbb{K}$: $\mathbb{K} \times V \rightarrow V$
 

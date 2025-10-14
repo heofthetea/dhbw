@@ -1,9 +1,6 @@
 > neue [[Stichprobe|Stichproben]] aus [[Grundgesamtheit]] generieren
 
 - [[Nicht-parametrische Streuungsmaße]]
-
-
-
 ## Resampling
 [[Ziehen ohne Zurücklegen]]
 

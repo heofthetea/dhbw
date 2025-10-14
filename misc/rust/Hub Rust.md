@@ -47,4 +47,7 @@
 
 ## Thunfisch
 - [[Thunfisch intro von Lukas]]
-- 
+
+
+## horsey chessbot
+- [[horsey chessbot architecture brainstorm]]

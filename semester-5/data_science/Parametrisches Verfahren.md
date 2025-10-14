@@ -1,3 +1,7 @@
-> Annahme, dass es eine [[Korrelationsanalyse|Korrelation]] existiert
+> Annahme, dass es eine [[Korrelationsanalyse|Korrelation]] in einer bestimmten Form existiert
 
--> die [[Funktion]] aus [[Überwachtes Lernverfahren]] existiert
+-> es wird angenommen, die [[Abbildung|Funktion]] aus [[Überwachtes Lernverfahren]] existiert
+
+## Beispiel
+
+- [[Linearregression]] geht davon aus, dass eine lineare [[Abbildung|Funktion]] existiert.

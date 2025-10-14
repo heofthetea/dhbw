@@ -13,3 +13,20 @@
 
 ### Hypothese 2
 - im 3. haben $21\%$ der Leute gekauft (wieder nicht normiert)
+
+### Lösung
+- Keine unterscheidung zwischen [[False Positive]] und [[False Negative]] 
+- [[Bewertungsmatrix]]:
+
+Genauigkeit: $$\frac{TP+TN}{\Omega}$$
+- `(true|false)(positive|negative)`
+
+| TP: 168€ | FP -6€ |
+| -------- | ------ |
+| TN 0€    | FN 0€  |
+
+- negatives: nicht angerufen
+- positive: angerufen
+- true/false: war richtig vorhergesagt?
+
+> [!hint] Genauigkeit ist die falsche Metrik, sondern ich brauche [[Recall]]

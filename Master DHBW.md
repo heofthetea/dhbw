@@ -21,7 +21,7 @@
 
 
 ## Semester
-- [[The 8 Horsemen of over-generalization]]
+- [[The 9 Horsemen of over-generalization]]
 
 ### Semester 1
 - [[Master Semester 1]]

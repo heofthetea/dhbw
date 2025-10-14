@@ -1,5 +1,9 @@
 > Zusammenfassung mehrerer Kennzahlen in einer Grafik
 
+> [!hint] Ersatz für die [[Standardabweichung]] -> zeigt auch die [[Streuungsmaße|Streuung]] eines Attributs
+
+> [!hint] Boxplots sind gut für [[Normalverteilung|Normalverteilt-oder-ähnliche]] Verteilungen - sobald es mehrere [[lokales Extremum|lokale Extremata]] gibt sterben die bisschen
+
 - kleinste Ausprägung
 - größte Ausprägung
 - [[Quartilabstand]] (25% und 75% Quartil)

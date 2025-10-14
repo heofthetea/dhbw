@@ -2,6 +2,7 @@
 aliases:
   - Constant
 ---
-> [[Funktion]] ohne Parameter
+
+> [[Abbildung|Funktion]] ohne Parameter
 
 $$\varnothing \rightarrow c$$

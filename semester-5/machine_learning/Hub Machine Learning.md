@@ -2,7 +2,6 @@
 - [[Kapitel0_Organisatorisches.pdf]]
 - [[Kapitel1_Introduction.pdf]]
 - [[Kapitel2_Mathematische_Grundlagen.pdf]]
-
 ### Prüfungsleistung
 - Klausur
 - beidseitig _handgeschrieben_ -> Tablet okay

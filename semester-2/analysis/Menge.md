@@ -1,3 +1,7 @@
+---
+aliases:
+  - Set
+---
 > Eine **unsortierte** Sammlung von beliebigen, **einzigartigen** Elementen.
 > engl: Set
 

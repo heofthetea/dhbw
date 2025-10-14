@@ -1,6 +1,9 @@
 ### pdf
 - [[DataScience_1_Einfuehrung.pdf]]
+- [[DataScience_2_MathePython_neu22.pdf]]
 
+### Libraries
+- [[Library Data Science Basics]]
 ## Basics
 - [[Data Science]]
 - [[Demografie-Problem LLM]]
@@ -14,7 +17,6 @@
 
 
 ## Statistik aaaaaaa the ptsd
-- [[DataScience_2_MathePython_neu22.pdf]]
 - Arten der stuff
 	- [[Parametrisches Verfahren]]
 	- [[NIcht-parametrisches Verfahren]]
@@ -33,3 +35,15 @@
 
 ### Knobelaufgabe
 - [[Knobelaufgabe Statistik]]
+
+## Plotten
+- [[DataScience_3_Visualisierung.pdf]]
+- [[Jede Grafik hat eine Message]]
+- [[Arten der Informationsvisualisierung]]
+- [[Grafik]]
+	- [[Balken- vs. Liniendiagramm]]
+- [[Bilderrätsel 3D Grafik verbessern]]
+- [[Tabellen formattieren]]
+
+### Arten
+- [[Scatterplotmatrix]]
