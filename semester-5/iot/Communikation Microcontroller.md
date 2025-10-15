@@ -8,9 +8,9 @@
 - Einen IO-Pin als A/D Wandler Spezifizieren
 - dann wandelt der irgendwie magically um
 
-> [!warning] nicht alle [[Microcontroller]] haben einen [[AD Wandler]] integriert
+> [!warning] nicht alle [[Mikrocontroller]] haben einen [[AD Wandler]] integriert
 
 
 ### Ansatz 2
 - externer [[AD Wandler]] "spendieren"
-- <span style="color:rgb(245, 154, 35)">zwischengeschaltet</span> zwischen [[Microcontroller]] und [[Sensor]] 
+- <span style="color:rgb(245, 154, 35)">zwischengeschaltet</span> zwischen [[Mikrocontroller]] und [[Sensor]] 

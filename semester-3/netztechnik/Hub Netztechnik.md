@@ -8,6 +8,8 @@
 [[Netztechnik-Vorlesung Teil-8.pdf]]
 [[Netztechnik-Vorlesung Teil-9.pdf]]
 [[Netztechnik-Vorlesung Teil-10.pdf]]
+
+- [[Netztechnik-Script_kurz-Stand 20241110.pdf]]
 ### Altklausuren
 [[Nachklausur_Netztechnik-I_STG-TINF22E.pdf]] -> Probeklausur, weniger umfangreich als unsere
 

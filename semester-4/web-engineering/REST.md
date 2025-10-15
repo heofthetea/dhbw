@@ -11,6 +11,7 @@
 	- => standardisiertes [[Interface]]
 - Caching
 - Code-on-Demand: [[JavaScript]] vom [[Server]] an den [[Client]] schicken
+- [[HATEOAS]]
 
 > [!hint] ist 25 Jahre alt, und kommt aus einer Doktorarbeit lol
 

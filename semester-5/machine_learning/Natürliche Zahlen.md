@@ -1,3 +1,4 @@
+> Positiver [[Integer]]
 $$\mathbb{N}$$
 
 ## Rekursive Definition

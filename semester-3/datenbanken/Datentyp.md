@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Type
 ---
 > Spezifiziert die [[Menge|Trägermenge]] einer [[Variable]]
 

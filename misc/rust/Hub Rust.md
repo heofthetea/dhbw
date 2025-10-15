@@ -47,6 +47,11 @@
 
 ## Thunfisch
 - [[Thunfisch intro von Lukas]]
+- [[Minimax]]
+	- [[negaMax]]
+- [[Alpha-Beta-Pruning]]
+- [[Iterative Deepening]]
+- [[Zobrist Hashing]]
 
 
 ## horsey chessbot

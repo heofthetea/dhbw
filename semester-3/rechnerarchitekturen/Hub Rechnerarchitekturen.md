@@ -28,7 +28,7 @@ in Semester 3: [[Hub Betriebssysteme]]
 - [[Anweisungsbasierte Definition]]
 [[Historie der Computer]]
 
-[[Microcontroller]]
+[[Mikrocontroller]]
 
 ## Minimalsystem
 [[Minimalsystem]]

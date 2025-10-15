@@ -1,6 +1,7 @@
 ### pdf
 - [[IoT-Vorlesung-ws2025-Nr1-v1.0.pdf]] 
 - [[IoT-Vorlesung-ws2025-Nr2-v1.0.pdf]]
+- [[IoT-Vorlesung-ws2025-Nr3-v1 .pdf]]
 
 ### Meta Inf
 - Klausur?????
@@ -30,3 +31,14 @@
 - [[Accuracy vs. Precision]]
 - [[Prellzeit eines Schalters]]
 - [[Advanced Sensor]]
+
+## Internet of IoT
+- [[Predictive Maintanance]]
+- [[MSP430 Chip]]
+- [[ESP32]]
+- [[Generic IoT Device]]
+- [[Energiesparen]]
+	- [[Battery Capacity]]
+- [[SPI Protocol]]
+- [[I2C]]
+- [[Pull-Up Widerstand]]

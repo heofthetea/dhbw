@@ -1,0 +1,1 @@
+> [[Client]], der auch Geschäftslogik enthält und ausführt

@@ -1,4 +1,4 @@
-[[Associativity]], [[Identity Morphism]]
+[[Associativity]], [[Category]], [[Identity Morphism]]
 
 Two [[Morphism|Morphisms]] $f$ and $g$ can be composed if the source of $f$ is the target of $g$,
 
@@ -10,3 +10,5 @@ flowchart LR
 	A --h--> C 
 ```
 $$h:= f \circ g$$
+
+> [!warning] Composition is [[Associativity|associative]], but not commutative!

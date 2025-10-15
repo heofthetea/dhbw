@@ -1,4 +1,4 @@
-Cortex M sind [[Microcontroller]]
+Cortex M sind [[Mikrocontroller]]
 - 32-bit
 - verwendet für IOT, Drohnen, etc..
 
