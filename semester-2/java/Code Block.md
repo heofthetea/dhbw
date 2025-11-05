@@ -17,7 +17,7 @@ Variables declared inside of the [[Code Block]] cannot be accessed from outside 
 
 ### Static block
 --> [[Java Modifier]]
-- gets executed whenever the [[Class]] is loaded by the [[JVM]]
+- gets executed whenever the [[Java Class]] is loaded by the [[JVM]]
 	- aka the first time the class is used in any way
 ```java
 class MyClass {

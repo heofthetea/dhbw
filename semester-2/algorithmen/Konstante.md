@@ -3,6 +3,6 @@ aliases:
   - Constant
 ---
 
-> [[Abbildung|Funktion]] ohne Parameter
+> [[Abbildung|Funktion]] mit [[Unit]] als Parameter
 
-$$\varnothing \rightarrow c$$
+$$\set{\varnothing} \rightarrow c$$

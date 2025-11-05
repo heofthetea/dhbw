@@ -11,7 +11,7 @@ Vorzeichenbit 1 --> negativ
 ## Verfahren
 > [!info] Verfahren ist für Codierung und Decodierung gleich.
 1. Invertiere die Zahl
-2. addiere 1
+2. addiere 1-
 
 > [!warning] Enthält die Zahl führende Nullen, müssen diese selbstverständlich auch Invertiert werden!!
 ## Beispiel

@@ -1,3 +1,4 @@
+= [[Identity Morphism|Identity]]
 In a 2-element [[Abbildung|Function]] $f^{(2)}$, an element $0$ is a neutral element respective to $f$ iff:
 
 $$f(0, a) = a$$

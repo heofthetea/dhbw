@@ -11,8 +11,13 @@
 	- UTS - host- and domain-name
 	- MNT - [[Mount]] points
 	- NET - Network devices, network stack, ports
-	- IPC - inter-process [[Prozesskommunikation|communication]]
+	- IPC - virtual inter-process [[Prozesskommunikation|communication]]
 	- [[cgroup|cgroups]] - controls limits and monitoring of [[Resource|resources]]
 
 
 => https://www.youtube.com/watch?v=sK5i-N34im8
+
+## Conceptual example
+- [[PID]] $42$ in namespace `A` is not the same [[Prozess]] as PID $42$ in namespace `B`
+- Network Interface in namespace `A` cannot be seen in `B` (`eth0` ist in jedem Container drin)
+- Different hostnames

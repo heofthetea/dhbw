@@ -1,5 +1,9 @@
 > Yeah bro idk the fuck that is I just hope it's not klausurrelevant
 
+- how [[CPU]] does Division
+
+
+> [!hint] Was wirklich wichtig ist hier: Es ist fucking expensive.
 
 ## Restoring Algorithm
 Weil das $A$ durch die Addition "restauriert" wird

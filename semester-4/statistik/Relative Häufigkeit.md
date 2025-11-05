@@ -1,3 +1,7 @@
+---
+aliases:
+  - Anteil
+---
 > Summe der einzelnen Ausprägungen ist $1$
 
 [[Wahrscheinlichkeit]]

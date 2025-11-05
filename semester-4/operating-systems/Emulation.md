@@ -6,6 +6,6 @@
 > [!hint] "Black Box"
 ## Beispiel
 - DOSBox
-- QEMU
+- QEMU (emuliert Hardware)
 - Emulation einer [[ARM]]-[[CPU]] durch [[i386]]
 - 

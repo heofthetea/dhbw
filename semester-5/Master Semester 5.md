@@ -1,9 +1,12 @@
 - [[Hub Data Science]]
 - [[Hub Cybersecurity]]
-- [[Hub Advanced SWE]]
+- [[Hub Advances SWE]]
 - [[Hub IoT]]
 - [[Hub IT Architekturen]]
 - [[Hub Machine Learning]]
+- [[Hub Data Warehouse]]
+- [[Hub Thunfisch]]
+### misc
 - [[INF23BD Sitzplan]]
 
 ### Übersicht Prüfungsleistungen

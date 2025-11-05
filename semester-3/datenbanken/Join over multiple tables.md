@@ -1,6 +1,6 @@
 [[Equi Join]]
 
-> [!warning] Alle [[Attribut|Attribute]], die im [[SQL join]] verwendet werden, müssen auch im [[SQL select]] stehen!!
+> [!warning] Alle [[Attribut|Attribute]], die im [[Join]] verwendet werden, müssen auch im [[SQL select]] stehen!!
 
 ![[Übungen vorlesung 13#03]]
 

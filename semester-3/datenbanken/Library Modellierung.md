@@ -4,7 +4,7 @@
 
 ## Bestandteile
 - [[Entität]]: Ein [[Object]] der realen Welt
-	- eigentlich: Entitätstyp (think: [[Class]])
+	- eigentlich: Entitätstyp (think: [[Java Class]])
 	- Charakterisiert durch [[Attribut|Attribute]]
 	- Besitzt ein [[Schlüsselattribut]], um jede Instanz eindeutig zu kennzeichnen
 - [[Relationship]]: eine Beziehung zwischen [[Entität|Entitäten]]

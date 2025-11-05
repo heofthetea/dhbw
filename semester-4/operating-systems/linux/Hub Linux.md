@@ -9,6 +9,7 @@
 
 [[Mount a USB]]
 [[GRUB]]
+[[Linux Hardware Inspection Comands]]
 
 [[Root Directory]]
 [[Hard Links]] / [[Symlink]]

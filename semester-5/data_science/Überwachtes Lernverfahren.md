@@ -7,7 +7,8 @@
 > [!hint] Durch Annotationen von Daten kann man immer sagen, ob die Vorhersage stimmt/wie sehr sie daneben liegt.
 
 ## Beispiel
-
 - [[Neural Network]]
 - [[Linearregression]]
--
+- [[K-Nearest Neighbours]]
+- [[Decision Tree]]
+- [[SVM]]

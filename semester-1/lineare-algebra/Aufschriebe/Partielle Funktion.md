@@ -1,3 +1,1 @@
-> Nicht jedes Element der [[Bild einer Funktion|Bildmenge]] wird getroffen
-
-> [!hint] Ist eine [[Abbildung|Funktion]], die _nicht_ [[Surjektive Funktion|surjektiv]] ist
+> [[Abbildung|Funktion]], die nicht für alle $x$ ihres [[Urbild]] definiert ist

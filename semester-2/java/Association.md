@@ -1,4 +1,4 @@
-> Describes Relations between [[Class|Classes]] 
+> Describes Relations between [[Java Class|Classes]] 
 
 - most general kind of Relation
 - e.g.: a temporary [[Object]] within one Method

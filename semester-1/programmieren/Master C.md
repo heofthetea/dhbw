@@ -30,6 +30,7 @@
 - [[Hoare Partitioning]]
 - [[Doubly Linked List (C)]]
 [[Splitting up large projects]]
+- [[Bit Shifting]]
 
 ## Übungen
 [[Aufgabe - Sieb des Eratosthenes]]

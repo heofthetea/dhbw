@@ -1,4 +1,4 @@
-> A [[Class]] containing [[JUnit]] tests is called a suite.
+> A [[Java Class]] containing [[JUnit]] tests is called a suite.
 
 
 _Semantically similar_ Testing methods should be grouped in the same class.

@@ -1,3 +1,4 @@
+[[Ordnungsrelation|Preorder]], [[Ordnungsrelation]]
 1. There exists a 2-dimensional [[Relation]] $\leq \subset M \times M$ for  [[Menge|Set]] $M$ ($M$ is "preordered")
 2. $a \leq a$
 3. $a \leq b\; \land \; b\leq a \; \Longrightarrow\; a = b$

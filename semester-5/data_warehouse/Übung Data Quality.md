@@ -1,0 +1,10 @@
+- Dateninkonsistenz:
+	- Kunde XY ist umgezogen
+	- hat's aber nicht überall angegeben -> unterschiedliche Adressen
+- Kunde meldet sich mehrfach an -> z.B. für mehr Rabatt
+	- Mehrere User Accounts corresponding zum selben Kunden
+	- falsche Kundenzahlen/Orte -> Analyse verfählscht
+- Produkt-Neuauflagen (z.B. Reprint (hardcover zu paperback))
+	- Produktanalyse kann nicht sauber durchgeführt werden
+- Beispiel Produktfarben: Farbe nicht angkelicht von Verkäufer
+	- -> steht NULL drin

@@ -81,7 +81,7 @@
 > - **Ziel**: Daten zu speichern, und _Beziehungen_ herzustellen --> greifbar machen
 
 > [!help]- 20\. Was versteht man unter einem Entitäts-Typ und einer [[Entität]]?
-> - Entitätstyp: Vorlage, bisschen wie [[Class]]
+> - Entitätstyp: Vorlage, bisschen wie [[Java Class]]
 > - Entität: Instanz, bisschen wie [[Object]]
 > 	- in DB sprache: Entitäts-[[Tupel]]
 

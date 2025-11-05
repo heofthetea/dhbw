@@ -1,3 +1,7 @@
+---
+aliases:
+  - Fire and Forget
+---
 > User Datagram Protocol
 
 > [!info] Fire and Forget

@@ -1,6 +1,5 @@
 > - Abstrahierung von [[Resource|Resourcen]] zu logisch vollständigen Einheiten, sodass Sie für Applications wirken, als hätten sie Zugriff auf eine gesamte Resource.
 > - Aus mehreren kleinen physischen Einheiten, eine große (unabhängig unterteilbare) logische Einheit machen.
-1
 - teilen von [[Resource|Ressourcen]]
 - hohe Skalierbarkeit
 - hohe Ausfallsicherheit
@@ -9,7 +8,8 @@
 > [!hint] Oft kombiniert mit [[Emulation]] -> z.B. wird [[BIOS]] emuliert, weil [[POST]] sinnlos ist obv
 ### Motivation
 - historissch: jeder physische [[Server]] hat genau eine aufgabe -> [[Monolithisches Betriebssystem]]
-
+- Löst dieses Problem der [[Traditionelle IT Infrastruktur|traditionellen IT Infrastruktur]]
+- Löst auch das Problem des Overprovisioning
 ## Arten
 - [[Application Virtualization]]
 - [[Desktop Virtualization]]

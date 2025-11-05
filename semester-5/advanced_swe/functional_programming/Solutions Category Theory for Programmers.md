@@ -56,3 +56,17 @@ fn main() {
 #### Graph with edges representing the alphabet
 - infinitely many [[Morphism|morphisms]] that model $\Sigma^{*}$ ([[Operationen auf Sprachen#Klenee-Stern]])
 ![[Pasted image 20251014111059.png]]
+
+### 2. Orders
+#### a)
+- set of sets with Inclusion [[Relation]]: $A$ is included in $B$ if $\forall_{a \in A}a \in B$ 
+- => the order of [[Teilmenge|Subsets]]
+- i'd say [[Partial Order]] 
+	- not a [[Ordnungsrelation|Preorder]] because: $A \subset B \land B \subset A \Longrightarrow A = B$
+	- not a [[Total Order]] because not all sets are in relation with each other
+
+#### b) C++ magic
+- [[Inheritance]] (Subtypes can stand in for their parent classes)
+- certainly not a total order (not all types are in relation)
+- maybe a partial order -> is it possible to interchange to subclasses in C++? (in [[Java]] it's theoretically possible by usage of interfaces)
+	- but I'd say no so [[Partial Order]]

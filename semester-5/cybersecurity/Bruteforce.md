@@ -1,0 +1,1 @@
+> Alle möglichen [[Permutation|Permutationen]] durchprobieren

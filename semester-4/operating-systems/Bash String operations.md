@@ -1,7 +1,7 @@
 [[Bash Strings]]
 
 ### Substring
-- [[Python list splicing]]
+- [[Python Slicing]]
 
 ```bash
 #!/bin/bash 

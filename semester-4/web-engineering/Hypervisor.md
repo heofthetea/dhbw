@@ -8,6 +8,11 @@
 - zwei Typen - unterschieden anhand ihrer intended purpose (virtualisierung im vorder- oder Hintergrund?)
 
 > [!hint] Eselsbrücke: "Typ $n$ [[Hypervisor]]" => [[Hypervisor]] ist die $n$-te Schicht über der Hardware
+
+### Eigenschaften
+1. **Resource Control** -> [[Hypervisor]] braucht komplette Kontrolle über die virtualisierten [[Resource|Ressourcen]] (=> nichts darf an Hypervisor vorbei gemacht werden)
+2. **Efficiency** -> Die meisten [[Instruktion|Instruktionen]] müssen auf der [[CPU]] ausgeführt werden, _ohne_ dass der [[Hypervisor]] eingreift 
+3. **Equivalency** -> Ein [[Prozess]] in der [[Virtual Machine|VM]] soll sich gleich verhalten wie auf bare metal.
 ## Typ 1
 - [[Hypervisor]] ist das [[Betriebssystem]] -> **muss** [[Virtual Machine|VMs]] starten, damit System benutzbar wird
 

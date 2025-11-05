@@ -188,7 +188,7 @@ path: datenbanken/scripts
 		- [[Datenbank Indexierung]]
 	- [[SQL Drop Column]] 
 	- [[Alter Table]]
-	- [[Datentyp]]
+	- [[Datentyp SQL]]
 - [[DML]]
 	- [[SQL INSERT]]
 	- [[SQL COPY]]

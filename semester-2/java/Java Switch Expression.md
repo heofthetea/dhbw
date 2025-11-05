@@ -11,4 +11,4 @@ var result = switch(month) {
 };
 ```
 
-> [!hint] ist das pendant zu [[Optional]]
+> [!hint] ist das pendant zu [[Option]]

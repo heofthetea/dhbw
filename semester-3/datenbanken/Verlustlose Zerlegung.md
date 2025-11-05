@@ -6,7 +6,7 @@
 
 - Wenn **für alle [[Instanz einer Relation|Instanzen]]** von $R$ gilt:
 $$R_{1} \Join R_{2} = R$$
-> [!info] Wenn ich die [[Instanz einer Relation|Instanzen]] der beiden neuen [[Relation|Relationen]] (z.B. durch ein [[SQL join|join]]) zusammenfüge, ist die [[Instanz einer Relation|Instanz]] genau gleich wie die der ursprünglichen [[Relation]]. Es gehen keine [[Tupel]] verloren, und es kommen keine hinzu.
+> [!info] Wenn ich die [[Instanz einer Relation|Instanzen]] der beiden neuen [[Relation|Relationen]] (z.B. durch ein [[Join|join]]) zusammenfüge, ist die [[Instanz einer Relation|Instanz]] genau gleich wie die der ursprünglichen [[Relation]]. Es gehen keine [[Tupel]] verloren, und es kommen keine hinzu.
 
 #### Formal
 formale Prüfung auf Verlustlosigkeit ([[Hülle einer funktionalen Abhängigkeit|Hülle]]):

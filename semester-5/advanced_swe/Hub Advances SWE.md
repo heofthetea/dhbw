@@ -1,0 +1,60 @@
+
+### Resources
+- [[Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software (1994, addison-wesley).pdf]]
+### Prüfungsleistung Projekt
+- [[ProjektBeschreibungen.pdf]]
+- Projektvorstellung in den letzten _zwei_ Vorlesungen anstatt nur der letzten
+
+## Funktionale Programmierung
+- [[Hub Functional Programming]]
+- [[ASWE Projektstruktur brainstorm]]
+
+## Agile Software Development
+- [[2025_09_30_Agile Softwareentwicklung.pdf]]
+- [[Scrum]]
+
+## Requirements Engineering
+- [[2025_10_07_RequirementsEngineering.pdf]]
+
+## Software-Architektur
+- [[2025_10_14_Software-Architektur.pdf]]
+- [[Design Pattern]]
+- [[Schichtenmodell]]
+- [[Coupling]]
+- [[Controller-Service-Repository Architecture]]
+- [[Client Server Architecture]]
+	- [[Fat-Client]]
+	- [[Thin-Client]]
+- [[MVC]]
+	- [[Observer]]
+	- [[Strategy Design Pattern]]
+	- [[Composite Pattern]]
+
+# Der hoffentlich bessere Teil
+### pdf 
+- [[AdSwEng_2025-10-21.pdf]]
+- [[AdSwEng_2025-10-28.pdf]]
+
+## Software-Engineering abstrakt
+- [[Stackoverflow Developer Survey]]
+- [[SQLite]]
+- [[Application Lifecycle Management]]
+	- [[Rolling Release]]
+	- [[SWE Operations]]
+
+## Version Control
+- [[VCS mit Deltas]]
+- [[VCS mit Snapshots]]
+- [[Git]]
+	- [[the git folder]]
+	- [[git object]]
+		- [[Git Commit]]
+	- [[Git Types]]
+	- [[Git im Verlauf von Commits]]
+	- [[Git branch]]
+	- [[3-way Merge]]
+	- [[git reset]]
+- [[EXIF Data]]
+
+## CICD
+- [[CICD]]

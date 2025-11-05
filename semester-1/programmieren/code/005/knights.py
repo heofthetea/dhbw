@@ -5,7 +5,8 @@ board = []
 
 
 def main():
-    dimensions = 8
+    print("hello")
+    dimensions = 3
     start = input("enter starting coordinate: ")
 
     start_time = time()

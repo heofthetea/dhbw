@@ -85,7 +85,7 @@ compilation:
 [[Reference Equality]]
 
 [[Object]]
-[[Class]]
+[[Java Class]]
 [[Java Package]]
 
 [[Java Import]]
@@ -127,7 +127,7 @@ compilation:
 [[Local Class]]
 
 
-[[Java Enumeration]]
+[[Java Enum]]
 [[Java Generics]]
 [[Lambda expressions]]
 [[Method Reference]]
@@ -159,6 +159,6 @@ compilation:
 - [[Java Object to HashMap]]
 
 ## JFS
-- [[Optional]]
+- [[Option]]
 - [[Java Record]]
 - [[Java Switch Expression]]

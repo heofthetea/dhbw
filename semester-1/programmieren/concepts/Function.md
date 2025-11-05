@@ -1,9 +1,8 @@
 > [[Abbildung]] in einer Programmiersprache
-
-[[Abbildung|Funktion]]
+> [[Morphism]] in the [[Category]] of [[Type|Types]]
 
 - Eingabe: Kombination aus mehreren Parametern $\vec{x} \in P = P_{1} \times P_{2} \times \dots P_{n}$
-- Ausgabe: $\vec{y} \in R$, wo $R$ der [[Datentyp]] der Ausgabe ist
+- Ausgabe: $\vec{y} \in R$, wo $R$ der [[Type|Datentyp]] der Ausgabe ist
 
 $$f:\ P \longrightarrow R$$
 
@@ -11,6 +10,9 @@ $$f:\ P \longrightarrow R$$
 R f(P1, P2, ... Pn)
 ```
 
+```rust
+f(P1, P2, ... Pn) -> R
+```
 ## call by value
 
 **Pass values as parameter

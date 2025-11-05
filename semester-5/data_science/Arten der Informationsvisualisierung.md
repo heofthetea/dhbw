@@ -1,5 +1,6 @@
-#todo
-- explorativ: [[Datensatz]] verstehen
-- Erklärend: für die Außenwelt
-- Informationsvisualisierung (abstrakte Information darstellen)
-- 
+- **explorativ**: [[Datensatz]] verstehen 
+	- -> darf technisch & schwer verständlich sein ([[Scatterplotmatrix]])
+- **Erklärend**: für die Außenwelt 
+	- -> sollte einfach verständlich sein, [[Jede Grafik hat eine Message|Message]] kommunizieren
+- **Informationsvisualisierung** (abstrakte Information darstellen)
+-  **Wissenschaftliche** Visualisierung (z.B. Wellen, Torque, etc.)

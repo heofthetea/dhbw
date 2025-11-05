@@ -1,0 +1,3 @@
+- Ansätze:
+	- Applications loggen änderungen selber
+	- Externe Monitoring applikation

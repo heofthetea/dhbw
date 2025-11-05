@@ -1,2 +1,4 @@
-> [[Datensatz|Daten]] in vordefinierte [[Category|Kategorien]] [[Sortieren]]
+> [[Datensatz|Daten]] in vordefinierte [[Category|Kategorien]] bucket-sorten
+
+
 

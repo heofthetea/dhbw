@@ -12,3 +12,9 @@ flowchart LR
 $$h:= f \circ g$$
 
 > [!warning] Composition is [[Associativity|associative]], but not commutative!
+
+## misusing type notation
+$$g: A \longrightarrow B$$
+$$f: B \longrightarrow C$$
+$$\Longrightarrow f \circ b : A \longrightarrow C$$
+

@@ -13,7 +13,16 @@
 .filter(|x, y| x == y)
 ```
 
-## Use Closures
+## Move Closure
+- a move closure takes [[Ownership]] of all variables it uses.
+
+```rust
+let x = 42;
+(move |arg1| arg * x)(4) // x is now owned
+```
+
+> [!hint] This enables Capturing of [[State]] of a [[Higher order Function]]  (is this [[Currying]]?)
+## Expect a Closures
 - A closure is always of type 
 ```rust
 impl Fn(x: X) -> Y

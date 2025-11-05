@@ -1,4 +1,4 @@
-Enables to create a [[Class]] inside of another [[Class]].
+Enables to create a [[Java Class]] inside of another [[Java Class]].
 
 ### regular inner class
 - `InnerClass` can access Attributes of `OuterClass`
@@ -33,7 +33,7 @@ Pretty useless and probably unreadable$^{1000}$
 
 
 ### Type 3 Anonymous inner class
-Immediately override a Parent [[Class]] when creating a new [[Object]] of it.
+Immediately override a Parent [[Java Class]] when creating a new [[Object]] of it.
 Class does not get a name --> Definition and Instanciation has to happen in one step!
 > [!hint] Can be used as a "hack" to instanciate [[Abstract Class|Abstract Classes]] 
 ```java

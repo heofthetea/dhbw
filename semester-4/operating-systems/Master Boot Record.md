@@ -7,7 +7,7 @@ aliases:
 - ersten 512 [[Byte]] auf der [[Hard Drive|Festplatte]]
 	1. [[Master Boot Routine]]
 	2. [[Partition Table]]
-	3. Magic Number => Bootsector [[Method Signature|Signatur]] ($x55AA$) #klausurrelevant 
+	3. Magic Number => Bootsector [[Function Signature|Signatur]] ($x55AA$) #klausurrelevant 
 
 
 > [!warning] Ist die Bootsector Signature **nicht** `x55AA`, ist es **keine** [[Master Boot Routine|Boot Routine]]!!! #klausurrelevant 

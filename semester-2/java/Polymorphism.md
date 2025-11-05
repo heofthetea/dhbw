@@ -1,6 +1,6 @@
 > greek for "of many forms"
 
-[[Class]], [[Inheritance]]
+[[Java Class]], [[Inheritance]]
 
 Let $A$ be a Parent class, and $B$ and $C$ child classes of different depths to $A$.
 ```mermaid

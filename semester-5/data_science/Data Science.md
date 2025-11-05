@@ -1,3 +1,7 @@
+---
+aliases:
+  - Malen nach Zahlen
+---
 > Wissenschaft der Analyse von Daten
 - see [[Hub Data Science]]
 

@@ -27,10 +27,42 @@
 	- [[Harmonisierung und Konsolidierung]]
 	- [[Virtualisierung]]
 	- [[Automation]]
+	- [[Hub Cloud Computing]]
 - [[Provisioning eines neuen Servers]]
 
-## Server Virtualisierung
+### Cloud
+- [[IaaS]]
+- [[PaaS]]
+- [[Cloud Migration]]
 
+## Server Virtualisierung
+- [[ITA_20_Servervirtualisierung_2025.10.pdf]]
+- [[Linux Hardware Inspection Comands]]
+- [[Proxmox]]
+
+### Partitioning
+- [[Hardware Partitioning]]
+- [[Logical Partitioning]]
+- [[Hypervisor]]
+- [[Containerization]]
+
+### Containerization
+- [[Containerization]]
+	- [[Kernel Namespace]]
+	- [[cgroup]]
+- [[Discretionary Access Control]]
+	- [[Mandatory Access Control]]
+- [[Kubernetes]]
+	- [[Kubernetes Pod]]
+	- [[K8s Storage]]
+
+### x86 Virtualisierung
+- [[Virtualisierung]]
+- [[Hypervisor]]
+- [[x86 Rings of Protection]]
+	- [[Arten von Instruktionen]]
+- [[Paravirtualisierung]]
+- [[VMX root mode]]
 
 ## Zentralisierter Storage
 

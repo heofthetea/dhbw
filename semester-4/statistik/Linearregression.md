@@ -7,7 +7,7 @@ $$Y(x) = a + bx + u$$
 - $u$ ist der erlaubte Fehler: $u \subset Y$, der durch den [[Funktionale Abhängigkeit|funktionelen Zusammenhang]] nicht erklärt wird.
 
 > [!hint]- Ziel: $u^{2}$ minimieren.
-> Warum quadrieren? Damit sich positive und negative Fehler nicht gegenseitig kürzen.
+> Warum quadrieren? Damit sich positive und negative Fehler nicht gegenseitig kürzen -> least squares
 
 $$f(a, b) = \sum\limits u_{i} = \sum\limits(\hat{y_{i}} - y_{i}) = \sum\limits(a+bx_{i} - y_{i})$$
 

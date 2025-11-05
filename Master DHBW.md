@@ -1,6 +1,7 @@
 #master
 - [[README]]
 - [[23B Battle Royale.pdf]] - the most important Document of them all
+- [[DHBW Brain Rot]] 
 
 ## Quick Information
 - [[modulhandbuch.pdf]]

@@ -7,7 +7,7 @@ public void printlist(ArrayList<?> list) {
 }
 ```
 
---> can only be used with writing access
+-> can only be used with writing access
 Kinda useless, just expect `Object` lol
 
 ### Actually useful: every number
@@ -15,4 +15,4 @@ Kinda useless, just expect `Object` lol
 public void printNumberList(ArrayList<? extends Number>)
 ```
 
-also possible with `? super MyClass`
+also possible with `? super MyClass` or `? implements `

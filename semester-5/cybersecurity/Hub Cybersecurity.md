@@ -36,3 +36,57 @@
 - [[QTSP]]
 - [[UIDI Wallet]]
 - [[ECDSA]]
+
+## Offensive Security
+### yapping pdfs
+- [[Die Lage der IT-Sicherheit in Deutschland 2023.pdf]]
+- [[Die Lage der IT-Sicherheit in Deutschland 2024.pdf]]
+- [[ENISA Threat Landscape 2025.pdf]]
+- [[Gaining_the_Advantage_Cyber_Kill_Chain.pdf]]
+- [[LM-White-Paper-Intel-Driven-Defense.pdf]]
+- [[Seven_Ways_to_Apply_the_Cyber_Kill_Chain_with_a_Threat_Intelligence_Platform.pdf]]
+
+### Inhalt
+- [[Teil1_OffensiveSecurity.pdf]]
+ - [[DDoS]] 
+	 - [[Volume DDoS]]
+	 - [[Protocol DDoS]]
+	- [[Slow Lorry]]
+ - [[Malware]]
+	 - [[Virus]]
+	 - [[Worm]]
+	 - [[Trojan]]
+	 - [[Ransomware]]
+ - [[Social Engineering]]
+	 - [[Phishing]]
+ - [[Bruteforce]]
+ - [[Password Bruteforce]]
+	 - [[Passkey]]
+ - [[Exploit]]
+ - [[Zero-Day Exploit]]
+ - Angriffe auf Web-Anwendungen
+	 - [[SQL injection]]
+	 - [[Cross Site Scripting]]
+	 - [[Broken Authentication Exploit]]
+	 - [[Sensitive Data Exposure]]
+
+#### Advanced Persistent Threat
+- [[Advanced Persistent Threat]]
+	- [[Cyber Kill Chain]]
+
+## Defensive Security
+### Inhalt
+- [[Teil2_DefensiveSecurity.pdf]]
+- [[Goals of Information Security]]
+- [[Defense in Depth]]
+- [[Security Operations Center]]
+	- [[SIEM]]
+	- [[SOAR]]
+
+## Cybercrime (ab wann wird's strafbar)
+- [[Cybercrime]]
+- [[Strafrecht]]
+	- [[202 a Ausspähen]]
+	- [[202 c Vorbereitung Ausspähen]]
+- [[Computersabotage]]
+- 

@@ -10,7 +10,7 @@ Beispiel
 
 > [!hint] Es gibt trotzdem nen Haufen [[null]]-Werte - defeats the entire purpose of those Relationships
 
-> [!info]- Vorteil: Wenige [[Relation|Relationen]] und schneller Zugriff (kein [[SQL join]] Statement notwendig)
+> [!info]- Vorteil: Wenige [[Relation|Relationen]] und schneller Zugriff (kein [[Join]] Statement notwendig)
 > Anwendung: Abfragen sind zu langsam bei großen Datenmengen --> Tabellen squashen macht das schneller
 ## 2. Selber Primärschlüssel
 - Jede Spezialisierung bekommt eine eigene [[Relation]]
@@ -19,7 +19,7 @@ Beispiel
 
 $[PR-MA] = \set{[\underline{Pers-Nr \uparrow}, Std-Satz, PR-Erfahrung]}$ 
 
-> [!info] Nachteil: Macht [[SQL join]] **mandatory**, um gesamte Information zu bekommen
+> [!info] Nachteil: Macht [[Join]] **mandatory**, um gesamte Information zu bekommen
 
 ![[Pasted image 20241015140959.png]]
 ## 3. Redundanz

@@ -1,12 +1,11 @@
 > A one-[[Object]] [[Category]]
 
 ## Set-based definition
-
 A [[Monoid]] is a 3-[[Tupel|tuplet]] $$(\Sigma, f^{(2)}, 0)$$
 where:
 
 - $\Sigma$ is a [[Type]]
-- $f^{(2)}$ is a binary [[Abbildung|Function]]
+- $f^{(2)}$ is a binary, [[Associativity|associative]] and [[Totality|total]] [[Abbildung|Function]]
 - $0 \in \Sigma$ is the [[Neutrales Element|neutral element]]
 
 ## Mapping a Set-Monoid to a Categorical Monoid
@@ -15,10 +14,21 @@ where:
 3. For every $s \neq 0 \in \Sigma$: Create a [[Morphism]] $s: T \longrightarrow T$
 4. Calculate all [[Composition|Compositions]] (will be infinite if $|\Sigma| > 2$)
 
+### Implementation in Rust
+```rust
+// Type is given through implementation -> impl Monoid for i32
+pub trait Monoid {  
+    const ZERO: Self;
+    fn mappend(&self, other: &Self) -> Self;  
+}
+```
+
+> [!warning]- This works for everthing except [[Rust Strings|Owned Strings]].
+> BECAUSE TOKENS LIKE `"hello"` Are `&str` BY DEFAULT AND YOU NEED TO CONVERT THEM BUT `const` CONSTANTS NEED TO BE KNOWN AT COMPILE TIME AND SO YOU CANNOT CALL A FUNCTION TO CONVERT THEM SO IT'S JUST FUCKED AND YOU NEED TO USE UNARY FUNCTION  `zero() -> Self` INSTEAD AAAAAAA
 
 ## Example: Monoid of $\mathbb{N}$ under Addition
 - $\Sigma = \mathbb{N}$
-- $f^{(2)} = +$
+- $f^{(2)} = +_{\mathbb{N}}$
 - $0 = 0$
 
 ### As categorical

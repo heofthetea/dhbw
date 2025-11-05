@@ -6,12 +6,12 @@
       {
         "id": "88d1f460d0ce55bc",
         "type": "split",
-        "dimension": 27.926177756192327,
+        "dimension": 33.80281690140845,
         "children": [
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 79.496090356212,
+            "dimension": 67.07211120764552,
             "children": [
               {
                 "id": "e354444616e006a0",
@@ -20,29 +20,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-5/Master Semester 5.md",
+                    "file": "semester-5/data_warehouse/Hub Data Warehouse.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Master Semester 5"
-                }
-              },
-              {
-                "id": "253cc32470f9f4ef",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-5/machine_learning/Hub Machine Learning.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Hub Machine Learning"
+                  "title": "Hub Data Warehouse"
                 }
               },
               {
@@ -52,13 +36,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "misc/rust/Hub Rust.md",
+                    "file": "semester-5/thunfisch/Hub Thunfisch.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Hub Rust"
+                  "title": "Hub Thunfisch"
                 }
               },
               {
@@ -100,13 +84,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-5/advanced_swe/Hub Advanced SWE.md",
+                    "file": "semester-5/advanced_swe/Hub Advances SWE.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Hub Advanced SWE"
+                  "title": "Hub Advances SWE"
                 }
               },
               {
@@ -140,29 +124,45 @@
                   "icon": "lucide-file",
                   "title": "Hub IT Architekturen"
                 }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "e6d92ec07f1c1d78",
-            "type": "tabs",
-            "dimension": 20.50390964378801,
-            "children": [
+              },
               {
-                "id": "3d720ae8a59cb6f9",
+                "id": "253cc32470f9f4ef",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/wifi/Library WLAN.md",
+                    "file": "semester-5/machine_learning/Hub Machine Learning.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Library WLAN"
+                  "title": "Hub Machine Learning"
+                }
+              }
+            ],
+            "currentTab": 7
+          },
+          {
+            "id": "e6d92ec07f1c1d78",
+            "type": "tabs",
+            "dimension": 32.92788879235447,
+            "children": [
+              {
+                "id": "02ab7b42bb309d41",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-5/INF23BD Sitzplan.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "INF23BD Sitzplan"
                 }
               },
               {
@@ -196,6 +196,52 @@
                   "icon": "lucide-file",
                   "title": "Hub Statistik"
                 }
+              },
+              {
+                "id": "f0bb3be4796e238c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-5/data_science/Library Data Science Basics.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Library Data Science Basics"
+                }
+              },
+              {
+                "id": "ed07f333e0e50ae8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-4/operating-systems/Hub Betriebssysteme.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hub Betriebssysteme"
+                }
+              },
+              {
+                "id": "4cf9fb801b762316",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-5/data_science/Library Data Science Verfahren.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Library Data Science Verfahren"
+                }
               }
             ],
             "currentTab": 1
@@ -206,77 +252,67 @@
       {
         "id": "45b82f0a2d3f66e4",
         "type": "split",
-        "dimension": 72.07382224380767,
+        "dimension": 66.19718309859155,
         "children": [
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 82.62380538662033,
+            "dimension": 51.34665508253693,
             "children": [
               {
-                "id": "2ca2d467ec5d4f8b",
+                "id": "872d4eceb3bb0ca9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "misc/rust/Thunfisch intro von Lukas.md",
+                    "file": "semester-5/it_architekturen/Entwicklungsstufen einer Dynamischen IT Infrastruktur.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Thunfisch intro von Lukas"
+                  "title": "Entwicklungsstufen einer Dynamischen IT Infrastruktur"
                 }
               },
               {
-                "id": "f042f7a72afa691d",
+                "id": "5fd3136f0ced4327",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-5/advanced_swe/functional_programming/Solutions Category Theory for Programmers.md",
+                    "file": "semester-5/machine_learning/Klassifikatortraining.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Solutions Category Theory for Programmers"
+                  "title": "Klassifikatortraining"
                 }
               },
               {
-                "id": "f0bb3be4796e238c",
+                "id": "55e84ea7051a44c8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-4/statistik/Korrelationskoeffizient.md",
+                    "file": "semester-5/data_warehouse/DWH Monitoring.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Korrelationskoeffizient"
+                  "title": "DWH Monitoring"
                 }
               },
               {
-                "id": "79d7ff5369980d5e",
+                "id": "d3e6db75bbfe4279",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "misc/rust/negaMax.md",
+                    "file": "semester-5/machine_learning/Library ML Entscheidungstheorie.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "negaMax"
-                }
-              },
-              {
-                "id": "c58ecc01dc69f97a",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "Library ML Entscheidungstheorie"
                 }
               }
             ],
@@ -285,7 +321,7 @@
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 17.37619461337967,
+            "dimension": 48.65334491746307,
             "children": [
               {
                 "id": "77a8ec085b3380b7",
@@ -294,25 +330,11 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-5/data_science/resources/DataScience_3_Visualisierung.pdf"
+                    "file": "semester-5/data_science/resources/DataScience_6_Lernverfahren.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "DataScience_3_Visualisierung"
-                }
-              },
-              {
-                "id": "af622a136371657a",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-5/advanced_swe/resources/2025_10_14_Software-Architektur.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "2025_10_14_Software-Architektur"
+                  "title": "DataScience_6_Lernverfahren"
                 }
               },
               {
@@ -322,11 +344,11 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-5/iot/resources/IoT-Vorlesung-ws2025-Nr3-v1 .pdf"
+                    "file": "semester-5/iot/resources/IoT-Vorlesung-ss2025-Nr6-v1.0.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "IoT-Vorlesung-ws2025-Nr3-v1"
+                  "title": "IoT-Vorlesung-ss2025-Nr6-v1.0"
                 }
               },
               {
@@ -344,35 +366,103 @@
                 }
               },
               {
-                "id": "e227032d0b3b0336",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-5/it_architekturen/resources/ITA_10_Einfuehrung_2025.10.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "ITA_10_Einfuehrung_2025.10"
-                }
-              },
-              {
                 "id": "e2bd50b70ff0544d",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-5/machine_learning/resources/Kapitel2_Mathematische_Grundlagen.pdf"
+                    "file": "semester-5/machine_learning/resources/Kapitel5_Supervised.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "Kapitel2_Mathematische_Grundlagen"
+                  "title": "Kapitel5_Supervised"
+                }
+              },
+              {
+                "id": "2524418736f30ce3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-5/cybersecurity/resources/Teil2_DefensiveSecurity.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "Teil2_DefensiveSecurity"
+                }
+              },
+              {
+                "id": "6e19bc31c4c17154",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-5/data_warehouse/resources/DWH-3 ETL and Metadata.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "DWH-3 ETL and Metadata"
+                }
+              },
+              {
+                "id": "baba5eba5cc138ac",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-5/advanced_swe/resources/AdSwEng_2025-11-04.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "AdSwEng_2025-11-04"
+                }
+              },
+              {
+                "id": "3a56f0414a0b33ad",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-5/it_architekturen/resources/ITA_20_Servervirtualisierung_2025.10.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "ITA_20_Servervirtualisierung_2025.10"
+                }
+              },
+              {
+                "id": "b0c284c97874d8b1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-5/data_science/resources/GBTpdf.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "GBTpdf"
+                }
+              },
+              {
+                "id": "27aec2dc8ff65ece",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-5/machine_learning/resources/Kapitel4_Bayes.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Kapitel4_Bayes"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 9
           }
         ],
         "direction": "horizontal"
@@ -408,7 +498,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bootstrap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -429,8 +519,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e644bcd45faa39e6",
@@ -443,7 +532,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "semester-3/formale-sprachen/Vektor.md",
+                "file": "semester-2/java/Java Enum.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -471,7 +560,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Vektor"
+              "title": "Graph of Java Enum"
             }
           }
         ]
@@ -537,7 +626,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/rust/Iterative Deepening.md",
+                "file": "semester-5/machine_learning/Library ML Entscheidungstheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -547,7 +636,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Iterative Deepening"
+              "title": "Backlinks for Library ML Entscheidungstheorie"
             }
           },
           {
@@ -593,53 +682,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "79d7ff5369980d5e",
+  "active": "d3e6db75bbfe4279",
   "lastOpenFiles": [
-    "misc/rust/Minimax.md",
-    "misc/rust/negaMax.md",
-    "semester-5/iot/Pull-Up Widerstand.md",
-    "misc/rust/Hub Rust.md",
-    "misc/rust/Iterative Deepening.md",
-    "misc/rust/Alpha-Beta-Pruning.md",
-    "semester-2/algorithmen/Pfad.md",
-    "misc/rust/images/Pasted image 20251015153840.png",
-    "misc/rust/images/Pasted image 20251015153455.png",
-    "misc/rust/Thunfisch intro von Lukas.md",
-    "semester-5/data_science/Hub Data Science.md",
-    "semester-5/cybersecurity/Hub Cybersecurity.md",
-    "semester-5/advanced_swe/Hub Advanced SWE.md",
-    "semester-5/iot/Hub IoT.md",
-    "semester-5/it_architekturen/Hub IT Architekturen.md",
-    "images/Pasted image 20251015132209.png",
-    "images",
-    "semester-5/advanced_swe/resources/Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns_ Elements of Reusable Object-Oriented Software (1994, addison-wesley).pdf",
-    "semester-5/iot/Energiesparen.md",
-    "semester-3/netztechnik/sources/Netztechnik-Script_kurz-Stand 20241110.pdf",
-    "semester-3/netztechnik/Hub Netztechnik.md",
-    "semester-4/wifi/Hub WLAN.md",
-    "goodnotes/Semester 1/Digitaltechnik/Aufschriebe/D-Technik 1.2 Transistoren.pdf",
-    "semester-5/iot/Sensor.md",
-    "semester-3/rechnerarchitekturen/Mikrocontroller.md",
-    "semester-5/iot/I2C.md",
-    "semester-5/iot/SPI Protocol.md",
-    "semester-5/iot/Peripherie.md",
-    "semester-5/advanced_swe/ASWE Projektstruktur brainstorm.md",
-    "semester-5/iot/IoT Device.md",
-    "semester-5/Master Semester 5.md",
+    "semester-5/data_science/Statistischer Fehler.md",
+    "semester-5/machine_learning/Library ML Entscheidungstheorie.md",
     "semester-5/machine_learning/Hub Machine Learning.md",
+    "semester-5/machine_learning/A-posteriori Wahrscheinlichkeit.md",
+    "semester-5/machine_learning/A-priori Wahrscheinlichkeit.md",
+    "semester-5/machine_learning/resources/Kapitel4_Bayes.pdf",
+    "semester-5/machine_learning/resources/Kapitel5_Supervised.pdf",
+    "semester-5/iot/resources/IoT-Vorlesung-ss2025-Nr6-v1.0.pdf",
+    "semester-5/machine_learning/Library ML Training.md",
+    "semester-5/machine_learning/Konfusionsmatrix.md",
+    "semester-5/machine_learning/Accuracy.md",
+    "semester-4/statistik/Relative Häufigkeit.md",
+    "semester-5/machine_learning/Klasse.md",
+    "semester-5/machine_learning/Fehlerrate.md",
+    "semester-5/machine_learning/Fehlermetrik.md",
+    "semester-4/statistik/Mean Square Error.md",
+    "semester-5/data_science/Unüberwachtes Lernverfahren.md",
+    "semester-5/machine_learning/Klassifikatortraining.md",
+    "semester-5/machine_learning/Merkmalsselektion.md",
+    "semester-5/data_warehouse/DWH Monitoring.md",
+    "semester-5/data_science/Hub Data Science.md",
+    "semester-5/data_science/Trial-and-Error für Attributauswahl.md",
+    "semester-5/data_science/Daten-Diskretisierung.md",
+    "semester-5/machine_learning/Vor- und Nachteile von vielen Merkmalen.md",
+    "semester-5/machine_learning/Library ML Basics.md",
+    "semester-2/algorithmen/Ordnungsrelation.md",
+    "semester-2/algorithmen/Preorder.md",
     "semester-5/advanced_swe/functional_programming/Solutions Category Theory for Programmers.md",
-    "semester-5/iot/images/Pasted image 20251015092559.png",
-    "semester-5/iot/images/Pasted image 20251015092238.png",
-    "semester-5/iot/images/Pasted image 20251015091728.png",
-    "semester-5/iot/images/Pasted image 20251015091456.png",
-    "semester-5/iot/images/Pasted image 20251015090947.png",
-    "semester-5/iot/images/Pasted image 20251015090625.png",
-    "semester-5/iot/resources/IoT-Vorlesung-ws2025-Nr3-v1 .pdf",
-    "semester-5/iot/resources/IoT-Vorlesung-ws2025-Nr2-v1.0.pdf",
-    "semester-5/advanced_swe/resources/2025_10_14_Software-Architektur.pdf",
-    "semester-3/datenbanken/images/Pasted image 20251014131319.png",
-    "semester-3/software_architektur/UML-Notationsübersicht_oose.pdf",
-    "semester-5/it_architekturen/resources/ITA_10_Einfuehrung_2025.10.pdf",
-    "semester-5/advanced_swe/images"
+    "semester-5/advanced_swe/functional_programming/Partial Order.md",
+    "semester-5/iot/images/Pasted image 20251105085507.png",
+    "semester-5/iot/images/Pasted image 20251105085502.png",
+    "semester-3/netztechnik/images/Pasted image 20251105084909.png",
+    "semester-5/iot/resources/IoT-Vorlesung-ws2025-Nr5-v2.0.pdf",
+    "semester-5/advanced_swe/functional_programming/category-theory-for-programmers.pdf",
+    "semester-5/advanced_swe/functional_programming/resources/Notions of Computation and Monads.pdf",
+    "semester-5/advanced_swe/functional_programming/resources",
+    "semester-5/advanced_swe/resources/AdSwEng_2025-11-04.pdf",
+    "semester-5/advanced_swe/images/Pasted image 20251104115322.png",
+    "semester-5/advanced_swe/resources/AdSwEng_2025-10-28.pdf",
+    "semester-5/data_science/images/Pasted image 20251103101058.png",
+    "Termine_DHBW.pdf",
+    "semester-5/machine_learning/images/Pasted image 20251103105857.png",
+    "semester-5/data_science/images/Pasted image 20251103104924.png",
+    "semester-5/data_science/images/Pasted image 20251103104716.png",
+    "semester-5/data_science/images/Pasted image 20251103104710.png",
+    "semester-5/data_science/images/Pasted image 20251103101353.png"
   ]
 }
