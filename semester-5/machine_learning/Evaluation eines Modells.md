@@ -11,3 +11,7 @@
 - [[True Positive Rate]]
 - [[True Negative Rate]]
 - [[F1-Score]]
+- [[Accuracy]]
+- [[Recall]]
+
+### Andere Sache

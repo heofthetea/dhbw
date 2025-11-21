@@ -5,12 +5,14 @@
 - [[DataScience_4_LernenUndBewerten.pdf]]
 - [[DataScience_5_FeaturesUndBewerten.pdf]]
 - [[DataScience_6_Lernverfahren.pdf]]
+- [[DataScience_9_KIundEthik.pdf]]
 - [[GBTpdf.pdf]]
 
 ### Libraries
 - [[Library Data Science Basics]]
 - [[Library Data Science Verfahren]]
 - [[Library Data Science Feature Engineering]]
+- [[Library Data Science Decision Trees]]
 ## Basics
 - [[Data Science]]
 - [[Demografie-Problem LLM]]
@@ -86,8 +88,7 @@
 - [[Merkmalsselektion|Trial-and-Error für Attributauswahl]]
 - [[K-fache Kreuzvalidierung]]
 
-
-## ??
+## 🎄🌳🌲
 - [[Hyperparameter]]
 	- [[Grid Search]]
 - [[Decision Tree]]
@@ -98,3 +99,18 @@
 	- [[Beispiel Decision Tree Titanic]]
 - [[Random Forest]]
 - [[Gradient Boosted Trees]]
+
+## SVM
+- [[Support Vector Machine]]
+	- [[Güte einer Hyperebene]]
+	- [[SVM Kernel]]
+
+
+## Ethik
+- [[Übung Data Science Ethik]]
+	- [[5-Personen-Regel]]
+
+## Regression
+- [[Logistische Regression]]
+- [[ROC Curve]]
+- [[Konfusionsmatrix]]

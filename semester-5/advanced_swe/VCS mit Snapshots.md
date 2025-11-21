@@ -1,4 +1,4 @@
-[[Image Snapshot|Snapshot]]
+[[Snapshot|Snapshot]]
 
 > [!hint] Das macht [[Git]] apparently
 

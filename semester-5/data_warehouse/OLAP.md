@@ -10,3 +10,11 @@ aliases:
 ### Ziele
 - **Decision Support** => zukünftige Entscheidungen basierend auf den Analytics treffen ([[Regression]])
 - **Management Information** => ????
+
+# Arten
+## MOLAP
+- [[MDDM Cube]]
+
+## ROLAP
+- [[Relationales Modell]] -> [[Multi-Dimensional Data Model#Beispiel]]
+  

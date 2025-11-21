@@ -1,8 +1,12 @@
+---
+aliases:
+  - NFS
+---
 [[Filesystem]], [[Netzwerk]], [[Server]]
 
 - ziel: [[Daten]] **zentral** im [[Netzwerk]] ablegen
 - [[Betriebssystem]] bietet dieselben Systemaufrufe wie für lokale [[Filesystem|Filesysteme]]
-	- => Erfordert spezielle Protokolle (wie [[SMB]])
+	- => Erfordert spezielle Protokolle (wie SMB, oder NFS auf Linux)
 	- Netzwerkdateisysteme sind für Programme transparent
 - Metaserver verhindern gleichzeitiges Schreiben
 ### Cluster Filesystem
@@ -13,3 +17,9 @@
 - NFS
 - CIFS
 - webDAV
+
+
+## Protokolle
+- [[iSCSI]]
+
+![[Pasted image 20251107110028.png]]

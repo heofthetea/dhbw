@@ -11,24 +11,8 @@
           {
             "id": "f025252f25493d6e",
             "type": "tabs",
-            "dimension": 67.07211120764552,
+            "dimension": 76.71589921807124,
             "children": [
-              {
-                "id": "e354444616e006a0",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "semester-5/data_warehouse/Hub Data Warehouse.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Hub Data Warehouse"
-                }
-              },
               {
                 "id": "e0a0777b8d487ad5",
                 "type": "leaf",
@@ -110,6 +94,22 @@
                 }
               },
               {
+                "id": "e354444616e006a0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-5/data_warehouse/Hub Data Warehouse.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Hub Data Warehouse"
+                }
+              },
+              {
                 "id": "cfee034ecb5daf30",
                 "type": "leaf",
                 "pinned": true,
@@ -147,7 +147,7 @@
           {
             "id": "e6d92ec07f1c1d78",
             "type": "tabs",
-            "dimension": 32.92788879235447,
+            "dimension": 23.284100781928757,
             "children": [
               {
                 "id": "02ab7b42bb309d41",
@@ -228,23 +228,23 @@
                 }
               },
               {
-                "id": "4cf9fb801b762316",
+                "id": "5fdac3734d09ae8f",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-5/data_science/Library Data Science Verfahren.md",
+                    "file": "semester-4/cloud-computing/Hub Cloud Computing.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Library Data Science Verfahren"
+                  "title": "Hub Cloud Computing"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -257,7 +257,7 @@
           {
             "id": "fd7bfaab03c82f4d",
             "type": "tabs",
-            "dimension": 51.34665508253693,
+            "dimension": 35.53431798436142,
             "children": [
               {
                 "id": "872d4eceb3bb0ca9",
@@ -288,40 +288,66 @@
                 }
               },
               {
-                "id": "55e84ea7051a44c8",
+                "id": "893b581f8970a187",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-5/data_warehouse/DWH Monitoring.md",
+                    "file": "semester-5/it_architekturen/IT Architekturen Case Study.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "DWH Monitoring"
+                  "title": "IT Architekturen Case Study"
                 }
               },
               {
-                "id": "d3e6db75bbfe4279",
+                "id": "ae56be0ffdffe41c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "semester-5/machine_learning/Library ML Entscheidungstheorie.md",
+                    "file": "semester-5/it_architekturen/Direct Water Cooling.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Library ML Entscheidungstheorie"
+                  "title": "Direct Water Cooling"
+                }
+              },
+              {
+                "id": "65744ae8b289dc1b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "semester-5/machine_learning/Bagging.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Bagging"
+                }
+              },
+              {
+                "id": "5e3479a05d7d4bb4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "goodnotes/Semester 1/Lineare Algebra/Aufschriebe/LAlg 2 Vektorraum Basics.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "LAlg 2 Vektorraum Basics"
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "fd1772dac7a8d4f7",
             "type": "tabs",
-            "dimension": 48.65334491746307,
+            "dimension": 64.46568201563856,
             "children": [
               {
                 "id": "77a8ec085b3380b7",
@@ -344,11 +370,11 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "semester-5/iot/resources/IoT-Vorlesung-ss2025-Nr6-v1.0.pdf"
+                    "file": "semester-5/iot/resources/IoT-Vorlesung-ws2025-Nr7.pdf"
                   },
                   "pinned": true,
                   "icon": "lucide-file-text",
-                  "title": "IoT-Vorlesung-ss2025-Nr6-v1.0"
+                  "title": "IoT-Vorlesung-ws2025-Nr7"
                 }
               },
               {
@@ -366,7 +392,61 @@
                 }
               },
               {
-                "id": "e2bd50b70ff0544d",
+                "id": "6e19bc31c4c17154",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-5/data_warehouse/resources/DWH-4 OLAP Multidimensional Models.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "DWH-4 OLAP Multidimensional Models"
+                }
+              },
+              {
+                "id": "baba5eba5cc138ac",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-5/advanced_swe/resources/AdSwEng_2025-11-11.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "AdSwEng_2025-11-11"
+                }
+              },
+              {
+                "id": "3a56f0414a0b33ad",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-5/it_architekturen/resources/ITA_42_ScaleOut_2025.11.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "ITA_42_ScaleOut_2025.11"
+                }
+              },
+              {
+                "id": "55e84ea7051a44c8",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "semester-5/iot/resources/IoT-Vorlesung-ws2025-Nr3-v1 .pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "IoT-Vorlesung-ws2025-Nr3-v1"
+                }
+              },
+              {
+                "id": "24a7428c7102ffb3",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -378,91 +458,9 @@
                   "icon": "lucide-file-text",
                   "title": "Kapitel5_Supervised"
                 }
-              },
-              {
-                "id": "2524418736f30ce3",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-5/cybersecurity/resources/Teil2_DefensiveSecurity.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "Teil2_DefensiveSecurity"
-                }
-              },
-              {
-                "id": "6e19bc31c4c17154",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-5/data_warehouse/resources/DWH-3 ETL and Metadata.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "DWH-3 ETL and Metadata"
-                }
-              },
-              {
-                "id": "baba5eba5cc138ac",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-5/advanced_swe/resources/AdSwEng_2025-11-04.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "AdSwEng_2025-11-04"
-                }
-              },
-              {
-                "id": "3a56f0414a0b33ad",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-5/it_architekturen/resources/ITA_20_Servervirtualisierung_2025.10.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "ITA_20_Servervirtualisierung_2025.10"
-                }
-              },
-              {
-                "id": "b0c284c97874d8b1",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-5/data_science/resources/GBTpdf.pdf"
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file-text",
-                  "title": "GBTpdf"
-                }
-              },
-              {
-                "id": "27aec2dc8ff65ece",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "semester-5/machine_learning/resources/Kapitel4_Bayes.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Kapitel4_Bayes"
-                }
               }
             ],
-            "currentTab": 9
+            "currentTab": 7
           }
         ],
         "direction": "horizontal"
@@ -498,7 +496,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bootstrap",
+                "query": "cases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -519,7 +517,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e644bcd45faa39e6",
@@ -532,7 +531,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "semester-2/java/Java Enum.md",
+                "file": "semester-5/machine_learning/Bagging.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -560,7 +559,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Java Enum"
+              "title": "Graph of Bagging"
             }
           }
         ]
@@ -626,7 +625,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-5/machine_learning/Library ML Entscheidungstheorie.md",
+                "file": "semester-5/machine_learning/Bagging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -636,7 +635,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Library ML Entscheidungstheorie"
+              "title": "Backlinks for Bagging"
             }
           },
           {
@@ -682,53 +681,53 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "d3e6db75bbfe4279",
+  "active": "65744ae8b289dc1b",
   "lastOpenFiles": [
-    "semester-5/data_science/Statistischer Fehler.md",
-    "semester-5/machine_learning/Library ML Entscheidungstheorie.md",
+    "semester-5/data_science/Random Forest.md",
+    "semester-5/machine_learning/Bagging.md",
     "semester-5/machine_learning/Hub Machine Learning.md",
-    "semester-5/machine_learning/A-posteriori Wahrscheinlichkeit.md",
-    "semester-5/machine_learning/A-priori Wahrscheinlichkeit.md",
-    "semester-5/machine_learning/resources/Kapitel4_Bayes.pdf",
+    "semester-5/data_science/Decision Tree.md",
+    "semester-5/machine_learning/Multiclass SVM.md",
     "semester-5/machine_learning/resources/Kapitel5_Supervised.pdf",
-    "semester-5/iot/resources/IoT-Vorlesung-ss2025-Nr6-v1.0.pdf",
-    "semester-5/machine_learning/Library ML Training.md",
-    "semester-5/machine_learning/Konfusionsmatrix.md",
-    "semester-5/machine_learning/Accuracy.md",
-    "semester-4/statistik/Relative Häufigkeit.md",
-    "semester-5/machine_learning/Klasse.md",
-    "semester-5/machine_learning/Fehlerrate.md",
-    "semester-5/machine_learning/Fehlermetrik.md",
-    "semester-4/statistik/Mean Square Error.md",
-    "semester-5/data_science/Unüberwachtes Lernverfahren.md",
-    "semester-5/machine_learning/Klassifikatortraining.md",
-    "semester-5/machine_learning/Merkmalsselektion.md",
-    "semester-5/data_warehouse/DWH Monitoring.md",
+    "semester-5/it_architekturen/Hub IT Architekturen.md",
+    "semester-5/machine_learning/images/Pasted image 20251121145825.png",
+    "semester-5/data_science/SVM Kernel.md",
+    "semester-5/data_science/images/Pasted image 20251121144207.png",
+    "semester-5/data_science/Support Vector Machine.md",
+    "semester-5/machine_learning/Support Vektor.md",
+    "semester-5/machine_learning/Feature Mapping.md",
+    "semester-5/machine_learning/Training einer LDF.md",
+    "semester-5/data_science/images/Pasted image 20251121143640.png",
+    "semester-5/machine_learning/images/Pasted image 20251121142515.png",
+    "semester-5/machine_learning/SVM Umgang mit nichtlinearen Entscheidungsgrenzen.md",
+    "semester-5/machine_learning/images/Pasted image 20251121142149.png",
+    "semester-5/machine_learning/Bayes Plugin.md",
+    "semester-5/machine_learning/Soft-Margin SVM.md",
+    "semester-5/machine_learning/images/Pasted image 20251121135003.png",
+    "semester-5/machine_learning/images/Pasted image 20251121134805.png",
+    "semester-5/machine_learning/images/Pasted image 20251121134803.png",
+    "semester-5/machine_learning/images/Pasted image 20251121134801.png",
+    "semester-5/machine_learning/images/Pasted image 20251121134800.png",
+    "semester-5/machine_learning/Ebene.md",
+    "semester-5/machine_learning/01-Loss.md",
+    "semester-3/formale-sprachen/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.md",
+    "semester-5/machine_learning/Diskriminanzfunktion.md",
+    "semester-5/data_science/K-Nearest Neighbours.md",
+    "semester-5/machine_learning/Nearest-Mean Klassifikator.md",
     "semester-5/data_science/Hub Data Science.md",
-    "semester-5/data_science/Trial-and-Error für Attributauswahl.md",
-    "semester-5/data_science/Daten-Diskretisierung.md",
-    "semester-5/machine_learning/Vor- und Nachteile von vielen Merkmalen.md",
-    "semester-5/machine_learning/Library ML Basics.md",
-    "semester-2/algorithmen/Ordnungsrelation.md",
-    "semester-2/algorithmen/Preorder.md",
-    "semester-5/advanced_swe/functional_programming/Solutions Category Theory for Programmers.md",
-    "semester-5/advanced_swe/functional_programming/Partial Order.md",
-    "semester-5/iot/images/Pasted image 20251105085507.png",
-    "semester-5/iot/images/Pasted image 20251105085502.png",
-    "semester-3/netztechnik/images/Pasted image 20251105084909.png",
+    "semester-5/machine_learning/Klassifikatortraining.md",
+    "semester-5/machine_learning/Vorgehensmodell.md",
+    "semester-5/machine_learning/Template Matching.md",
+    "semester-5/machine_learning/Norm eines Vektors.md",
+    "semester-5/machine_learning/Baumübersicht ML Modelle.md",
+    "goodnotes/Semester 1/Lineare Algebra/Aufschriebe/LAlg 2 Vektorraum Basics.pdf",
+    "semester-5/iot/resources/IoT-Vorlesung-ws2025-Nr3-v1 .pdf",
+    "semester-5/iot/resources/IoT-Vorlesung-ws2025-Nr2-v1.0.pdf",
+    "semester-5/it_architekturen/resources/ITA_42_ScaleOut_2025.11.pdf",
+    "semester-5/it_architekturen/resources/ITA_40_Clusterarchitekturen_2025.11.pdf",
     "semester-5/iot/resources/IoT-Vorlesung-ws2025-Nr5-v2.0.pdf",
-    "semester-5/advanced_swe/functional_programming/category-theory-for-programmers.pdf",
-    "semester-5/advanced_swe/functional_programming/resources/Notions of Computation and Monads.pdf",
-    "semester-5/advanced_swe/functional_programming/resources",
-    "semester-5/advanced_swe/resources/AdSwEng_2025-11-04.pdf",
-    "semester-5/advanced_swe/images/Pasted image 20251104115322.png",
-    "semester-5/advanced_swe/resources/AdSwEng_2025-10-28.pdf",
-    "semester-5/data_science/images/Pasted image 20251103101058.png",
-    "Termine_DHBW.pdf",
-    "semester-5/machine_learning/images/Pasted image 20251103105857.png",
-    "semester-5/data_science/images/Pasted image 20251103104924.png",
-    "semester-5/data_science/images/Pasted image 20251103104716.png",
-    "semester-5/data_science/images/Pasted image 20251103104710.png",
-    "semester-5/data_science/images/Pasted image 20251103101353.png"
+    "semester-5/data_warehouse/resources/DWH-4 OLAP Multidimensional Models.pdf",
+    "semester-2/projektmanagement/android-ide/images",
+    "semester-5/iot/resources/Iot-seminararbeit-dhbw-ws2025-1.pdf"
   ]
 }

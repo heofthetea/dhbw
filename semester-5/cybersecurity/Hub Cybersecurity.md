@@ -89,4 +89,23 @@
 	- [[202 a Ausspähen]]
 	- [[202 c Vorbereitung Ausspähen]]
 - [[Computersabotage]]
-- 
+	- [[Besonders Schützungswerte Daten]]
+- [[AI Feedback Loop]]
+
+## FAT
+### Wiederholung
+- [[FAT]]
+	- [[Hard Drive|HDD]]
+	- [[CHS Format]]
+	- [[LBA Format]]
+- [[Partition]]
+- [[Fragmentierung]] & [[Defragmentierung]]
+- [[Master Boot Record|MBR]] & [[GUID Partition Table]]
+
+### asdff
+- [[Storage Controller]]
+- [[Tools für Arbeit mit Partitions]]
+- [[exFAT Bitmap]]
+- [[FAT Root Dir]]
+- [[Datei löschen]]
+- [[Übung Spuren verwischen]]

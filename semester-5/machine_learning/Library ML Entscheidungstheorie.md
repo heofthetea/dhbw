@@ -23,4 +23,3 @@
 	- aber: [[Loss]] wächst proportional mit Schwere des [[Statistischer Fehler|Fehlers]]
 - [[Bayesian Risk]]: [[Arithmetisches Mittel|Durschschnittlicher]] [[Loss]]
 	- Einfach gewichtet die Zellen der [[Konfusionsmatrix|Loss-Matrix]] aufsummieren
-- 

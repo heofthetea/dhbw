@@ -1,8 +1,8 @@
-> Mehrere [[Entscheidungsbaum|Entscheidungsbäume]] aus einem [[Datensatz]] bauen
+> Mehrere [[Baumübersicht ML Modelle|Entscheidungsbäume]] aus einem [[Datensatz]] bauen
 
-- man baut sehr viele Bäume
-- Ziel: Bäume sollten **unkorelliert** sein
-	- Es sollten "schlechtere" Splitz nach oben kommen
+- man baut sehr viele Bäume parallel -> [[Forest]]
+- Ziel: die einzelnen [[Decision Tree|Bäume]] sollten **unkorelliert** sein
+	- Es sollten auch "schlechtere" Splits (i.e. Splits mit weniger [[Information Gain]]) nach oben kommen
 - man nimmt ungefähr $\sqrt{p}$ Parameter
 
 > [!hint] Idee: Man schöpft den Informationsgehalt besser aus

@@ -1,0 +1,4 @@
+- [[Künstliche Intelligenz|KI]] lernt aus Daten
+- [[Künstliche Intelligenz|KI]] produziert neue, eingeschränktere Daten
+- neue [[Künstliche Intelligenz|KI]] lernt aus diesen Daten
+	- => Qualität der [[Künstliche Intelligenz|KI]] wird mit der Zeit immer schlechter

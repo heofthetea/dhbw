@@ -6,3 +6,6 @@
 ### Concrete Instances
 - [[Kubernetes Pod]]
 - [[Service]]
+- [[Kubernetes Secret]]
+- [[k8s Deployment]]
+- [[Replicaset]]

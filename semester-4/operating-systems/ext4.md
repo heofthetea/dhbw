@@ -3,6 +3,7 @@
 [[Everything is a file]], [[Little Endian]], [[Journaling]]
 
 - [[Baum|Baumstruktur]] aus [[Inode|Inodes]]
+	- fungiert als [[Katalog]]
 - Basiert auf [[Everything is a file|UNiX Filesystem]]
 - Ermöglicht Versionierung -> Backwards Compatibility
 - Ermöglicht:

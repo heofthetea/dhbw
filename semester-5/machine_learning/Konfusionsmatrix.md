@@ -1,10 +1,12 @@
 > Zeigt an, wie viele Verwechslungen es zwischen der erwarteten und der tatsächlichen Klasse $\hat{\omega}$ und $\omega$ 
 > und: We
 
-(und davon abgeleitete Metriken)
+
+- Dient dazu, systematische Fehler zu finden
 
 
-## Beispiel [[Fehlerrate|Error Rate]] Binärer fall
+
+## Im Binären Fall
 - $\omega$: Klasse
 - $\hat{\omega}$: Geschätzte Klasse (durch [[Klassifikator]])
 
@@ -15,13 +17,13 @@
 > [!warning]- $Acc$ und $ER$ gewichten [[False Positive]] und [[False Negative]] gleich stark -> ist nicht immer der Fall
 > 1. Ärztliche Diagnose: FP weniger schlimm als FN (FP = mehr tests, FN = tot)
 > 2. Polizeistaat: FN weniger schlimm als FP (FN = falsch unschuldig (nach Unschuldsvermutung gut), FP = unschuldige hinter gittern)
-## Derived Metrics
-### Fehlerrate
+### Derived Metrics im Binären Fall
+#### Fehlerrate
 $$\frac{n_{ij}}{N}$$
 - für $c = 2$
 $$\frac{FP+FN}{2}$$
 
-### Accuracy Acc
+#### Accuracy Acc
 $$Acc = \frac{n_{ii}}{N}$$
 
 - für $c= 2$:

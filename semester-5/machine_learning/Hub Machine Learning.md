@@ -1,3 +1,4 @@
+![[Pasted image 20251121145825.png|300]]
 ### pdf
 - [[Kapitel0_Organisatorisches.pdf]]
 - [[Kapitel1_Introduction.pdf]]
@@ -106,7 +107,7 @@
 ## Probabilistische Entscheidungstheorie
 - [[Klasse]]
 - [[Entscheidungstheoretischer Klassifikator]]
-- [[Entscheidungsbaum]]
+- [[Baumübersicht ML Modelle]]
 	- [[A-priori Wahrscheinlichkeit]]
 	- [[A-posteriori Wahrscheinlichkeit]]
 	- [[Verbundswahrscheinlichkeit]]
@@ -134,6 +135,23 @@
 - [[Gauss Klassifikator]]
 	- [[Gaussian Mixture Model]]
 
+### Distanzbasiert
+- [[Template Matching]]
+	- [[K-Nearest Neighbours]]
+	- [[Nearest-Mean Klassifikator]]
+- [[Diskriminanzfunktion]]
+- [[Support Vector Machine]]
+	- [[Training einer LDF]]
+	- [[Support Vektor]]
+	- [[Soft-Margin SVM]]
+	- [[Feature Mapping]]
+	- [[SVM Kernel]]
+	- [[Multiclass SVM]]
+
+### Nochmal Bäume
+- [[Decision Tree]]
+	- [[Random Forest]]
+		- [[Bagging]]
 ## Unüberwachtes Lernen
 
 ## Neral nets & deep learning

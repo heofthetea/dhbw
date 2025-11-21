@@ -14,4 +14,7 @@ aliases:
 
 > [!info] Nachteil: Nur 4 [[Partition|partitionen]] unterstützt; auch von der Größe her limitiert.
 
+
+#todo übernehmen aus Cybersec 
+
 ![[Pasted image 20250414102334.png]]

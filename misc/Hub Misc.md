@@ -27,6 +27,7 @@
 # Actual misc
 - [[Colour Scheme thetraep x intension]]
 - [[Android Development]]
+- [[Notes Mathe Studium Stuttgart]]
 
 
 ## More knowledge (in case I'm ever bored (which I never am))

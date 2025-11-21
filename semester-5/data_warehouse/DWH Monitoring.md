@@ -7,7 +7,7 @@
 ## Ansätze
 - [[Monitoring eines DBMS]] -> im Datenmodell monitoring
 - [[Monitoring von Operativen Applications]] -> Die Applications kontrollieren Logging
-## Operationen tracken
+## Operationen tracken (Delta)
 - Ein [[Datensatz]] kann sich durch mehrere Operationen ändern:
 	- UPDATE des Datensatz
 	- ein DELETE & ein INSERT

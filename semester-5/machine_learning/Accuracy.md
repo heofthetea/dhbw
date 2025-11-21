@@ -9,3 +9,4 @@ $$ACC = \frac{TP + TN}{2}$$
 > [!hint] Gegenstück zur [[Fehlerrate|Error Rate]] (maybe $1 - ER$ but not sure)
 
 
+> [!hint] Ist immer super lol

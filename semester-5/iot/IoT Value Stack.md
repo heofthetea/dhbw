@@ -12,4 +12,5 @@
 
 
 ## Mit schlechtem Bild
+(das ist Fokus auf das Device Layer)
 ![[Pasted image 20251008085850.png]]

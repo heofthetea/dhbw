@@ -1,4 +1,4 @@
-[[ext4]], [[Hierarchical Filesystem]]
+[[ext4]], [[Hierarchical Filesystem]] 
 
 - benötigt idr 3 Sektoren (1024 Byte)
 - speichert:
@@ -8,5 +8,7 @@
 	- Letzter [[Mount]]-Vorgang
 	- Identifikationsnummer
 	- ...
+
+> [!hint] [[Katalog]] für [[Inode]]-[[Baum]]
 
 > [!hint] Ist redundant an mehreren Stellen abgelegt.

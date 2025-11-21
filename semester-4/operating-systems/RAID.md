@@ -15,3 +15,8 @@ aliases:
 - RAID 5: verteilt [[Parity]] über alle Platten (wird idR bei NAS systemen benutzt)
 
 ![[Pasted image 20250428103612.png]]
+
+### Software RAID
+- billiger
+
+> [!hint] Synology ist software raid

@@ -34,6 +34,8 @@
 ### pdf 
 - [[AdSwEng_2025-10-21.pdf]]
 - [[AdSwEng_2025-10-28.pdf]]
+- [[AdSwEng_2025-11-04.pdf]]
+- [[AdSwEng_2025-11-11.pdf]]
 
 ## Software-Engineering abstrakt
 - [[Stackoverflow Developer Survey]]
@@ -58,3 +60,9 @@
 
 ## CICD
 - [[CICD]]
+- [[Semantic Versioning]]
+- [[Heisenberg Bug]]
+
+## OOP brainwash
+- [[SOLID Principles]]
+- [[CQRS]]

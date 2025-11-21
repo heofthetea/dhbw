@@ -1,6 +1,8 @@
 ### pdf
 - [[DWH-1 Introduction to Data Warehousing.pdf]]
 - [[DWH-2 DWH Definition, Architecture, Data Modeling.pdf]]
+- [[DWH-3 ETL and Metadata.pdf]]
+- [[DWH-4 OLAP Multidimensional Models.pdf]]
 
 
 ## Introduction (which I missed)
@@ -34,7 +36,24 @@
 - [[Surrogate Key]]
 - [[ETL Load]]
 - [[Übung Data Quality]]
-
-## Metadata
+- [[Anforderungen ETL Pipeline]]
+### Metadata
 - [[Metadata]]
 - [[Central Metadata Repository]]
+
+## OLAP/MDDM
+🤮
+- [[OLAP]]
+	- [[FASMI]]
+	- [[OLAP nach Codd]]
+- [[OLAP Hierarchy]]
+	- [[Drill Down]]
+	- [[Drill Up]]
+	- [[Slice]]
+	- [[Dice]]
+- #todo fucking ALLES SHIIITTTT
+- [[MDX]]
+	- [[Beispiel MDX]]
+- [[MOLAP]]
+- [[HOLAP]]
+- [[Materialized Query Table]]

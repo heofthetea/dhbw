@@ -24,6 +24,7 @@
 
 > [!warning] interne Fragmentierung ist immernoch bisschen da, aufgrund fixer [[Page]] size.
 
-
+## Security
+- sobald man aus einem virtuellen Memory block ausbrechen kann -> jackpot
 
 

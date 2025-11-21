@@ -1,6 +1,14 @@
 > Vereinfachung von [[Bayes Plugin]]
 
+[[Klassifikator]]
+
 - "Naive" Annahme: Alle extrahierten [[Merkmal|Merkmale]] sind voneinander [[Unabhängige Ereignisse|unabhängig]].
+	- (bsp: Alle Wörter in einer Email sind unabhängig)
+
+> [!hint]- Ist gut für Textklassifikation (aus der Zeit vor Chatty).
+> - kann keine Reihenfolge von Werten
+> 	- kann nur: diese Wörter sind in derselben Email
+> - lässt sich gut parallelisieren (man zählt einfach Wörter)
 
 ### Folgerungen
 - [[Likelihood]]

@@ -1,4 +1,5 @@
 > Transformation einer beliebigen [[Normalverteilung]] in eine [[Standard-Normalverteilung]]
+
 $$z_{1} = \frac{x-\overline{x}}{s}$$
 
 - $\overline{x}$ ist [[Arithmetisches Mittel|Mittelwert]]

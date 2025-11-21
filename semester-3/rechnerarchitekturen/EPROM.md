@@ -1,8 +1,6 @@
 > Eraseable Programmable Read-only [[Memory]]
 
-
 - Gate-Kapazität als C
-
 ## Programmieren
 - schreiben: nur $0$ (durch Überspannung)
 	- Ladung auf Gate

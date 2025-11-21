@@ -2,6 +2,7 @@
 
 > [!hint] Due to [[Composition]], mapping to any object will map to _all_ objects (as long as the category is a [[verbundener Graph|fully connected]], which I'm sure there is some definition somewhere)
 
+[[Neutrales Element]]
 ## Examples
 - The [[Unit]] in the [[Category]] of [[Menge|Sets]]
 - [[Zero]] in the [[Natürliche Zahlen|natural numbers]]

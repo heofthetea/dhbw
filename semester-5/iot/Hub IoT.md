@@ -4,6 +4,8 @@
 - [[IoT-Vorlesung-ws2025-Nr3-v1 .pdf]]
 - [[IoT-Vorlesung-ss2025-Nr4-v1 .pdf]]
 - [[IoT-Vorlesung-ws2025-Nr5-v2.0.pdf]]
+- [[IoT-Vorlesung-ss2025-Nr6-v1.0.pdf]]
+- [[IoT-Vorlesung-ws2025-Nr7.pdf]]
 
 ### Meta Inf
 - Klausur?????
@@ -11,8 +13,11 @@
 	- Gruppenarbeit (Maxiiiiimmmmmmmmmmmmmmmmm)
 	- Zeit in der Vorlesung
 	- am Ende idealerweise Präsentieren
-- + schriftiche Ausarbeitung (ca. 5 Seiten) (die anderen 30%)
-	- 4 Wochen vor Abgabe Aufgabenstellung
+
+#### Hausarbeit
+- [[Iot-seminararbeit-dhbw-ws2025-1.pdf]]
+- [[IoT Prüfungsleistung]]
+- [[IoT Hausarbeit]]
 
 # Aight Vorlesung
 ## Intro

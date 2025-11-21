@@ -1,3 +1,8 @@
-> Wie viele von den tatsächlichen true positives treffe ich? (ungeachtet von negatives)
+> Finde ich alles, was ich suche?
+
+> [!hint] oft wichtiger als die Accuracy.
+
+
 
 $$\frac{TP}{\Omega}$$
+- [[Specificity]] 
