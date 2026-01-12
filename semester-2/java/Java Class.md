@@ -1,3 +1,8 @@
+---
+aliases:
+  - Klasse
+  - Class
+---
 1. [[Java Package]] information
 2. Contains Imports
 3. Attributes and Methods

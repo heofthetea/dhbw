@@ -3,7 +3,7 @@
 [[Klassifikator]]
 
 - bekannt: [[Likelihood]], [[Loss]]
-- [[A-priori Wahrscheinlichkeit]] (weil teuer)
+- nicht bekannt: [[A-priori Wahrscheinlichkeit]] (weil teuer)
 
 > [!hint] Heutzutage größtenteils irrelevant.
 

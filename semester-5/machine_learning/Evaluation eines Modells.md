@@ -13,5 +13,6 @@
 - [[F1-Score]]
 - [[Accuracy]]
 - [[Recall]]
+- [[Specificity]]
 
 ### Andere Sache

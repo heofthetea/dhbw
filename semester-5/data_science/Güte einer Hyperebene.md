@@ -3,5 +3,3 @@
 3. Muss in einem bestimmten Raum liegen
 
 > [!hint] Lässt sich mathematisch optimieren.
-
-x

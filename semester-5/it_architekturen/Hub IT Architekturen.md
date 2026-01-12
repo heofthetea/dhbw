@@ -4,7 +4,7 @@
 - [[ITA_30_Storage_2025.11.pdf]]
 - [[ITA_31_Storage_2025.11.pdf]]
 - [[ITA_40_Clusterarchitekturen_2025.11.pdf]]
-- [[ITA_42_ScaleOut_2025.11.pdf]]\
+- [[ITA_42_ScaleOut_2025.11.pdf]]
 
 ### Prüfungsleistung
 - Case Study über _fiktive_ Firma
@@ -12,6 +12,7 @@
 - jede Gruppe macht ein Teilthema davon
 - Dozenten sind "IT-Leiter", wir müssen qualified pitch als Referat machen
 - [[IT Architekturen Case Study]]
+- [[Aufgabenstellung_IT_Architekturen_Kurs_INF23BD.pdf]]
 
 ## Intro
 - [[Enterprise Architektur]]
@@ -111,6 +112,7 @@
 	- [[Water Door Cooling]]
 	- [[Direct Water Cooling]]
 ## IT-Betrieb
+- [[Cloud Netzwerk]]
 
 
 ---
@@ -123,6 +125,11 @@
 	- [[Loadbalancer Service]]
 - [[Kubernetes Secret]]
 - [[Kubernetes ConfigMap]]
+- [[Kubernetes Persistence]]
+	- [[Persistent Volume]]
+	- [[Persistent Volume Claim]]
+	- [[Kubernetes Storage Class]]
+- [[Kubernetes CNI Plugin]]
 
 ### tooling
 - [[minikube]]

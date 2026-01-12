@@ -6,3 +6,5 @@
 
 > [!hint] Wird auch in [[Symmetric Multiprocessor System|Clusterarchitekturen]] gemacht.
 
+
+=> [[Actor Pattern]]

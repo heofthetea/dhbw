@@ -5,6 +5,5 @@
 
 > [!warning] immernoch nur für [[Gerade|lineare]] [[Korrelation|Zusammenhänge]]!
 
-#todo digga ich hasse diese Vorlesung
+$$p(X) = \frac{e^{\beta_{0} + \beta_{1}X}}{1 + e^{\beta_{0} + \beta_{1}X}}$$
 
-$$p(X) = \frac{e^{\beta_{0} + }}{}$$

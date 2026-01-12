@@ -1,5 +1,7 @@
 > The [[Rust Iterator|List Monad]] in Java
 
+[[Rust Iterator|List Monad]], [[Iterator Pattern]]
+
 Used for List manipulation
 [[StreamsExample.java]]
 Core Concept: Each Stream operation returns the modified stream to keep on working on that

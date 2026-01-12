@@ -7,7 +7,7 @@ aliases:
 - Daten aus [[Operative System]]s extrahieren
 - Daten transformieren in [[Multi-Dimensional Data Model|MDDM]]
 	- auch: [[Sichtenkonsolidierung|Konsolidierung]] verschiedener Daten, [[Surrogate Key]]
-- Daten ins [[Staging]] der [[Architektur Data Warehouse|DWH Architektur]]
+- Daten ins [[Staging]] der [[Architektur Data Warehouse|DWH Architektur]] **laden**
 ![[Pasted image 20251030082032.png]]
 
 

@@ -5,6 +5,8 @@
 - [[DataScience_4_LernenUndBewerten.pdf]]
 - [[DataScience_5_FeaturesUndBewerten.pdf]]
 - [[DataScience_6_Lernverfahren.pdf]]
+- [[DataScience_7_Bewertung.pdf]]
+- [[DataScience_8_Unueberwacht.pdf]]
 - [[DataScience_9_KIundEthik.pdf]]
 - [[GBTpdf.pdf]]
 
@@ -113,4 +115,21 @@
 ## Regression
 - [[Logistische Regression]]
 - [[ROC Curve]]
+- [[F1-Score]]
 - [[Konfusionsmatrix]]
+
+## Unüberwachte
+- [[Hauptkomponentenanalyse]]
+- [[Clustering]]
+	- [[Davies-Bouldin Index]]
+	- [[Dunn Index]]
+	- [[Silhouettenkoeffizient]]
+- [[k-mean Clustering]]
+- [[Hierarchisches Clustering]]
+- [[Intrusion Detection durch Clustering]]
+- [[Batch Queries]]
+- [[Empfehlungssystem mit Clustering]]
+- [[Warenkorbanalyse]]
+	- [[Metrik Support]]
+	- [[Metrik Confidence]]
+	- [[Metrik Lift]]

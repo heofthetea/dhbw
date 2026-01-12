@@ -26,8 +26,8 @@
 	- [[Fat-Client]]
 	- [[Thin-Client]]
 - [[MVC]]
-	- [[Observer]]
-	- [[Strategy Design Pattern]]
+	- [[Observer Pattern]]
+	- [[Strategy Pattern]]
 	- [[Composite Pattern]]
 
 # Der hoffentlich bessere Teil
@@ -36,6 +36,7 @@
 - [[AdSwEng_2025-10-28.pdf]]
 - [[AdSwEng_2025-11-04.pdf]]
 - [[AdSwEng_2025-11-11.pdf]]
+- [[AdSwEng_2025-11-25.pdf]]
 
 ## Software-Engineering abstrakt
 - [[Stackoverflow Developer Survey]]
@@ -66,3 +67,18 @@
 ## OOP brainwash
 - [[SOLID Principles]]
 - [[CQRS]]
+
+## Domain-Driven Architecture
+lol
+
+## Patterns
+- [[Observer Pattern]]
+- [[Strategy Pattern]]
+- [[MVC]]
+- [[Prototype Pattern]]
+- [[Adapter Pattern]]
+- [[Entity Component System]]
+- [[Singleton]]
+- [[State Pattern]]
+- [[Iterator Pattern]]
+- [[View-ViewModel-Model]]

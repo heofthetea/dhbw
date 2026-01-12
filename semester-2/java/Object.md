@@ -1,4 +1,4 @@
-## 
+## OOP
 An [[Object]] is a [[Tupel|Tuplet]] defined by two sets: the [[Menge|set]] of its [[Attribut|Attributes]] $A$, and the set of its [[Methode|methods]] $M$.
 $$O = ({A}, {M})$$
 where each [[Attribut]] is a key-value pair:

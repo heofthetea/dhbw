@@ -1,0 +1,1 @@
+- liefert als Ergebnis keine harte [[Entscheidungsgrenze]], sondern gibt jedem Sample eine [[Wahrscheinlichkeit]], zu welcher [[Klasse]] er gehört

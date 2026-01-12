@@ -1,0 +1,1 @@
+> Vorhersage, was leute noch kaufen können, wenn sie Kaufen

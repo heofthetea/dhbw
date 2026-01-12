@@ -63,6 +63,7 @@
  - [[Password Bruteforce]]
 	 - [[Passkey]]
  - [[Exploit]]
+	 - [[NOP Sled]]
  - [[Zero-Day Exploit]]
  - Angriffe auf Web-Anwendungen
 	 - [[SQL injection]]
@@ -73,6 +74,7 @@
 #### Advanced Persistent Threat
 - [[Advanced Persistent Threat]]
 	- [[Cyber Kill Chain]]
+	- [[Pivoting]]
 
 ## Defensive Security
 ### Inhalt
@@ -102,10 +104,43 @@
 - [[Fragmentierung]] & [[Defragmentierung]]
 - [[Master Boot Record|MBR]] & [[GUID Partition Table]]
 
-### asdff
+### FAT
 - [[Storage Controller]]
 - [[Tools für Arbeit mit Partitions]]
 - [[exFAT Bitmap]]
 - [[FAT Root Dir]]
 - [[Datei löschen]]
 - [[Übung Spuren verwischen]]
+
+## Datenschutzpannen
+- [[2025_11_24 Datenschutzpannen - Incident-Management DHBW.pdf]]
+
+
+## Reads for Offensive Security
+- https://hackviser.com/tactics/pentesting/services/netbios
+- 
+
+# Ausarbeitung: Metasploitable 2
+- [[Metasploitable 2 setup]]
+- [[Metasploit Framework]]
+	- [[MSF Command Cheat Sheet]]
+	- [[MSF Module]]
+		- [[MSF Module Search]]
+		- [[MSF Payload]]
+		- [[MSF Exploit]]
+		- [[Meterpreter]]
+		- [[MSF Session]]
+	- [[MSF Database]]
+- [[Metasploitable 2 Progress Track]]
+	- [[MSF Reconnaissance with nmap]]
+
+### Sidenotes (todo order)
+- [[Telnet]]
+- [[FTP]]
+- [[NOP Sled]]
+- [[Shellcode]]
+- [[Reverse Shell]]
+- [[nmap]]
+- [[Hashdump]]
+- [[Command Injection]]
+- [[Buffer Overflow]]

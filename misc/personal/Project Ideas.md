@@ -1,0 +1,7 @@
+- [x] RegEx Engine => [[Rusty DFA]]
+- [x] MQTT Broker => [[Rust MQTT Broker]]
+- [ ] Pitch Shifter (jack or micro controller)
+- [ ] Auth System (oath/oidc)
+- [ ] Private Chat System for Hanh
+- [ ] shouldibecomeacarrotfarmer.org
+-

@@ -7,7 +7,7 @@ aliases:
 - Aufgabe: Möglichst gut trennende [[Ebene]] finden
 - **support Vector** -> [[Vektor]] zu einem Punkt am am Rand der Margin
 	- Margin = Buffer zone um die [[Entscheidungsgrenze]]
-- Bricht $c$-[[Klasse|Klassenproblem]] immer runter auf mehrere 2-dimensionale Probleme
+- Bricht $c$-[[Klasse|Klassenproblem]] immer runter auf mehrere 2-dimensionale Probleme => [[Multiclass SVM]]
 
 > [!definition]- Bild Support Vector
 > ![[Pasted image 20251110091357.png]]

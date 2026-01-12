@@ -2,6 +2,7 @@
 
 > [!info] Motivation: [[Support Vector Machine|SVM]] ist eigentlch ein Verfahren für binäre Probleme
 
+- wir machen einfach Ensemble Learning
 ## One-vs-One
 - Einfach für jede mögliche [[Permutation]] eine eigene [[Support Vector Machine|SVM]] trainieren
 - werden $\frac{c(c-1)}{2}$ SVMs

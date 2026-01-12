@@ -5,6 +5,10 @@
 - [[DWH-4 OLAP Multidimensional Models.pdf]]
 
 
+###  Prüfungsvorbereitung
+- [[DWH LOCK THE FUCK IN (planning)]]
+- [[DWH LOCK THE FUCK IN]]
+
 ## Introduction (which I missed)
 - [[Data Warehouse]]
 - [[Operative System]]
@@ -48,7 +52,7 @@
 	- [[OLAP nach Codd]]
 - [[OLAP Hierarchy]]
 	- [[Drill Down]]
-	- [[Drill Up]]
+	- [[Roll Up]]
 	- [[Slice]]
 	- [[Dice]]
 - #todo fucking ALLES SHIIITTTT

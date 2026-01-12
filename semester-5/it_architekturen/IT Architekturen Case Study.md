@@ -58,10 +58,13 @@
 > [!hint] [[Kubernetes]] can also work on [[Windows]] Server - https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/ (that may be advantageous?)
 
 
+##
 
 ### Sources
+#### Bewertungsmatrix
 - https://k21academy.com/azure-cloud/devops/openshift-vs-kubernetes/#
 - https://circleci.com/blog/docker-swarm-vs-kubernetes/
 - https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 - https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/
 - https://www.redhat.com/en/resources/self-managed-openshift-subscription-guide?extIdCarryOver=true&sc_cid=701f2000001Css5AAC
+

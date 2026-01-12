@@ -20,3 +20,17 @@ fn main() {
 ```
 
 
+
+## Tokio mpsc
+- multiple-publish-single-consumer
+
+```rust
+ let (tx: Sender, rx: Receiver) = mpsc::channel(10000);
+ tx.send(msg).await;
+```
+
+- the number inside the channel initializer is the **amount of messages** that are contained
+- This is a [[Ring Buffer]] => once full, we just overwrite again
+
+> [!hint] since this is bounded, there may not be space, which is why sending is an [[asynchronous]] operation. There's also **unbounded** channels (without a fixed size) where this is not the case, however these are less performant (needs scaling logic etc.)
+

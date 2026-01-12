@@ -7,6 +7,8 @@
 - [[IoT-Vorlesung-ss2025-Nr6-v1.0.pdf]]
 - [[IoT-Vorlesung-ws2025-Nr7.pdf]]
 
+### additional 
+- [[mqtt-v3.1.1-os.pdf]]
 ### Meta Inf
 - Klausur?????
 - IoT Lab -> eine [[IoT]] Lösung machen und präsentieren (diese 20% in [[Plan_JG2023___Plan_mit_Prüfungen_BD.pdf]])

@@ -10,6 +10,7 @@ $$r_{xy} = \frac{cov(x,y)}{s_{x}\cdot s_{y}}$$
 
 > [!hint] In Praxis: $r_{xy} \gt 0.6$ ist ein "starker Zusammenhang"; $r_{xy} \lt 0.3$ ein "schwacher Zusammenhang". 
 
+> [!warning] Ist anfällig gegenüber Ausreißern (idfk why aber apparently)
 ## Eigenschaften
 - $r_{xy} = 1$ => X und Y sind **perfekt korreliert** -> alle Punkte liegen exakt auf einer Geraden.
 - $r_{xy} < 0$ => X und Y sind **negativ** korreliert => fallende Gerade

@@ -6,6 +6,9 @@
 - [[Kapitel3_Grundlagen_ML.pdf]]
 - [[Kapitel4_Bayes.pdf]]
 - [[Kapitel5_Supervised.pdf]]
+- [[Kapitel6_Unsupervised.pdf]]
+- [[Kapitel7_DeepLearning.pdf]]
+- [[Beispielaufgaben_Klausur.pdf]]
 ### Prüfungsleistung
 - Klausur
 - beidseitig _handgeschrieben_ -> Tablet okay
@@ -16,6 +19,7 @@
 	- vergleichbar mit Übungsblättern (yes machen)
 - Fragensammlung (so was ähnliches wie Altklausuren ig)
 	- Algorithmen machen ist nicht klausurrelevant -> vmtl. ziemlich Betriebssysteme-ahh Klausur
+- [[ML Quick Fire über das ganze Semester]]
 ### Libraries (Lock in)
 - [[Library ML Basics]]
 - [[Library ML Training]]
@@ -79,6 +83,7 @@
 
 ### Merkmalsreduktion
 - [[Vor- und Nachteile von vielen Merkmalen]]
+- [[Merkmal]]
 - [[Merkmalsreduktion]]
 	- [[Merkmalstransformation]]
 	- [[Merkmalsselektion]]
@@ -153,5 +158,25 @@
 	- [[Random Forest]]
 		- [[Bagging]]
 ## Unüberwachtes Lernen
+- [[k-mean Clustering]]
+- [[Principle Component Analysis]]
 
-## Neral nets & deep learning
+## 7. Neural nets & deep learning
+- [[Neural Network]]
+	- [[Neuron]]
+	- [[Feed-Forward Neural Network]]
+	- [[Activation Function]]
+	- [[Training eines Neural Network]]
+		- [[Initialisierung Synapsengewichte]]
+		- [[Backpropagation]]
+- [[Deep Learning]]
+- [[Input Scaling und Batch Normalization]]
+- [[Regularisierung DNN]]
+
+### Whacky derivatives
+- [[Convolutional Neural Network]]
+- [[Autoencoder]]
+	- [[Variational Autoencoder]]
+- [[Generative AI]]
+- [[Recurrent Nerual Network]]
+- [[Transfer Learning]]

@@ -18,7 +18,7 @@
 
 ![[Pasted image 20251022090431.png]]
 ## At least once
-- garantiert, dass mindestens ein Subscriber die [[Nachricht|Message]] bekommt
+- garantiert, dass jeder Subscriber die [[Nachricht|Message]] mindestens einmal bekommt
 - Sender [[Prozess Blocking|blockt]], bis er [[ACK]] erhält
 	- [[Nachricht]] wird nach einer gewissen Zeit versucht, nochmal zu senden wenn kein ACK kommt ([[Backwards Error Correction]])
 ![[Pasted image 20251022090854.png]]

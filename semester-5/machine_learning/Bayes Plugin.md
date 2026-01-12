@@ -1,6 +1,6 @@
 > Allgemeine Form von [[Likelihood]] $p(x|\omega_{j})$ für manche Aufgabenstellungen (z.B. [[Normalverteilung]]) bekannt
 
-=> [[Schätzer|Schätze]] Parameter $\nu_{j}$ und füge sie in [[Likelihood]] $p(x|\omega_{j})$ ein:
+=> [[Schätzer|Schätze]] Parameter $\nu_{j}$ der Verteilung und füge sie in [[Likelihood]] $p(x|\omega_{j})$ ein:
 
 $$p(x|(\omega_{j}, \nu_{j}))$$
 ermöglicht Anwendung von [[MBR Klassifikator]]

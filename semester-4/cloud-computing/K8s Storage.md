@@ -1,4 +1,0 @@
-- Idea: treat like [[Resource|Hardware Resource]]
-- Cluster System describes, what exists
-- [[Persistent Volume]]
-	- [[Persistent Volume Claim]]
