@@ -14,7 +14,6 @@ SELECT ...
 > [!hint] Can be altered and dropped like [[Relation|Relations]].
 
 
-
 ## Beispiel
 - [[Benutzersicht]] auf Projektmitarbeiter
 
@@ -22,5 +21,10 @@ SELECT ...
 CREATE VIEW Projektmitarbeiter
 AS 
 SELECT * from mitarbeiter
-NATURAL JOIN Mitarbeiter_Projekt
+NATURAL JOIN Mitarbeiter_Projekt;
+```
+
+### usage
+```sql
+select * from Projektmitarbeiter;
 ```
