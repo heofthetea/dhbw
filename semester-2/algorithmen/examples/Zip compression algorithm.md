@@ -5,3 +5,9 @@ It is possible, that zip actually _increases_ the size when compressing.
 when extracted, it amounts to multiple petabytes of data
 
 https://www.unforgettable.dk/
+
+### in the linux
+```bash
+zip <archive-name> file1 file2 file3 ...
+```
+

@@ -1,0 +1,5 @@
+- [[Enterprise Architektur]]: 
+	- Was steht zur Verfügung (Fernwärme, etc etc)
+- [[Anwendungs-Architektur]]: Planen eines einzelnes Gebäude
+	- wo ist Heizung, wo Zimmer??
+	- !! Baut nicht selber!!!

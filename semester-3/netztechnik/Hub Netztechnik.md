@@ -8,6 +8,8 @@
 [[Netztechnik-Vorlesung Teil-8.pdf]]
 [[Netztechnik-Vorlesung Teil-9.pdf]]
 [[Netztechnik-Vorlesung Teil-10.pdf]]
+
+- [[Netztechnik-Script_kurz-Stand 20241110.pdf]]
 ### Altklausuren
 [[Nachklausur_Netztechnik-I_STG-TINF22E.pdf]] -> Probeklausur, weniger umfangreich als unsere
 
@@ -243,6 +245,7 @@
 	- [[IPv6 Adresspräfixe]]
 	- [[IPv4 über v6]]
 	- [[Übergang zu IPv6]]
+		- [[DNS64]]
 	- [[IPv6 Ablauf]]
 - [[Besondere IP Adressen]]
 - [[Subnet Mask]]

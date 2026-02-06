@@ -1,0 +1,3 @@
+> Virtualisierungsumgebung
+
+- Basically wie VMware 

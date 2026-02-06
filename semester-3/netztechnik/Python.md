@@ -1,4 +1,8 @@
-> The best programming language ever created
+> Decent programming language
+
+- slow af
+- [[Dynamic Typing]]
+- [[List comprehension]] is nice
 
 [[Python argv]]
 [[Python Generator]]

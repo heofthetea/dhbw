@@ -1,4 +1,6 @@
-I don't know what exactly that is?? Has something to do with [[Java Collections]]
+> The [[Rust Iterator|List Monad]] in Java
+
+[[Rust Iterator|List Monad]], [[Iterator Pattern]]
 
 Used for List manipulation
 [[StreamsExample.java]]

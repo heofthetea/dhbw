@@ -1,6 +1,7 @@
-> [[IP Adresse]] for one [[Service]]/[[Kubernetes Cluster|cluster]]
+> [[IP Adresse]] for one [[Service]]
 > Abstracts the individual [[Kubernetes Pod|pods]] 
 
+> [!hint] Always linked to a [[Service]] - why the fuck is this its own node bruv
 
 [[Kubernetes Cluster]], [[Service]], [[Kubernetes Pod]], [[NAT]], [[Docker Port Binding]]
 

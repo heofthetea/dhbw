@@ -4,3 +4,8 @@
 dd -if=<input file> -of=<output file>
 ```
 
+> [!hint] Derivative: `ddrescue`
+
+## Additional parameters
+- `bs`: block size
+

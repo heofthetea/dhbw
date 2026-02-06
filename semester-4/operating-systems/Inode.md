@@ -4,6 +4,7 @@
 - Enthält auch Meta-Informationen zu den Dateien:
 	- [[Linux file permissions]]
 	- update date
+	- filename
 
 > [!warning] [[File|Datei]] kann an verschiedenen Blöcken liegen => es gibt mehrere [[Pointer]]
 

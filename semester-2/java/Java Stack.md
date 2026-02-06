@@ -1,3 +1,4 @@
 - Every Operation in Java is placed on top of a [[Stack]]
   - Most intuitive: Method call stack
 - [[Stack Overflow Error]]
+[[Call Stack|Stack]]

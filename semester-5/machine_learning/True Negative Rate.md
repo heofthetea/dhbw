@@ -1,0 +1,1 @@
+$$TNR = \frac{TN}{TN+FP}$$

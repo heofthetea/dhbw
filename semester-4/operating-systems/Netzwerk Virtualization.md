@@ -3,5 +3,7 @@
 - essentially [[VLAN|VLANs]]
 - verschiedene Schichten, mit voneinander isolierten Segmenten (z.B. Intranet und öffentlich)
 
+#todo bild
+
 ## Beispiele
 - [[VPN]]

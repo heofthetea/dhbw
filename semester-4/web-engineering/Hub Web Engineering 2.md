@@ -63,7 +63,7 @@ Path: semester-4/web-engineering/code
 
 [[Projektspezifikation Web 2]]
 
-[[Horsey Websocket diagram]]
+[[Horsey Websocket Sequence diagram]]
 
 
 ### Vue

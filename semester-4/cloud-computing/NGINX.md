@@ -10,10 +10,12 @@
 
 
 ```nginx
-<meta-config>
+# <meta-config>
+# only put that into the file when using inside docker, where we're both configuring the system-wide NGINX and the local connections
 
 http {
 	<meta-config>
+	# define an upstream server (when using NGINX in docker)
 	upstream test {
 		server test:8080;
 	}
@@ -58,3 +60,9 @@ http {
       # - ./certs:/etc/nginx/certs:ro
 ```
 
+## Default Resource
+```
+cat /etc/nginx/sites-available/default
+```
+
+- this contains a default nginx configuration file, and for example certbot will leave an example in that file as well

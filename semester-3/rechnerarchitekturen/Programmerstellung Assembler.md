@@ -1,6 +1,6 @@
 [[Assemblersprache]]
 
-> [!warning] Ist nur für [[Microcontroller]] - nicht für PC
+> [!warning] Ist nur für [[Mikrocontroller]] - nicht für PC
 
 - Quellcode - [[Assemblersprache|Assembler Code]] (in Text)
 - `[ Compiler (Assembler-Programm) ]` 

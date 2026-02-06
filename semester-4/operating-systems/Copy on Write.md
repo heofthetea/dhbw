@@ -2,6 +2,8 @@
 
 "`cp` agiert wie `mv` - bis was verändert wird"
 
+- Anwendung 1: [[Virtual Memory Management]]
+- Anwendung 2: Intelligenter [[Storage Controller]] bei Provisioning für mehrere VMs
 ### Ablauf
 1. [[Prozess]] erzeugt bereits existierende [[Page]]
 2. [[Prozess]] bekommt von [[Betriebssystem|OS]] Verweis auf diese existierende Page

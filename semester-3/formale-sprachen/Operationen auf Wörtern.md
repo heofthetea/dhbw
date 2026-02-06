@@ -8,7 +8,7 @@
 	- $|\epsilon| = 0$
 - $|w|_{c}$ ist die Anzahl der Vorkommen des Zeichens $c$ in $w$
 - $w[i]$ ist das Zeichen an der Stelle $i$
-- $w[i, j]$ ist das Teilwort von $w$ von Stelle $i$ bis $j$ - [[Python list splicing]]
+- $w[i, j]$ ist das Teilwort von $w$ von Stelle $i$ bis $j$ - [[Python Slicing]]
 
 
 > [!warning] Es wird bei $1$ angefangen zu zählen!!

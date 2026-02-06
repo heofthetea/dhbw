@@ -1,7 +1,7 @@
 [[Bash Strings]]
 
 ### Substring
-- [[Python list splicing]]
+- [[Python Slicing]]
 
 ```bash
 #!/bin/bash 
@@ -30,6 +30,7 @@ newstr=${mystr/World/Universe}
 ```bash
 mystr="Hello World!"
 echo $(echo $mystr | cut -d ';' -f1)
+echo $mystr | cut -c 7-11 # yields "World"
 ```
 
 - `-d`; delimeter

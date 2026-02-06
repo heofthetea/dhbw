@@ -1,8 +1,9 @@
 ---
 aliases:
   - Struct
+  - Product Type
 ---
-[[Struct]]
+[[Struct]], [[Product]]
 
 ```rust
 struct User {
@@ -18,6 +19,17 @@ let phil: User = User {
 }
 ```
 
+## Update Syntax
+- [[JS ellipsis expansion]] in [[Rust]]
+
+```rust
+let phil2: User = User {
+	name: "Phil 2", 
+	..phil
+}
+```
+
+> [!warning] Expansion must be the last statement in the struct instantiation!
 ## Mutability
  - is inhereted from Struct to its elements
 ## Access

@@ -1,7 +1,7 @@
 > [!hint] Fast alle anderen Verteilungen [[Konvergenz|konvergieren]] gegen die Normalverteilung, wenn sie richtig normiert sind.
 
 [[Eulersche Zahl]]
-
+hello guys dis is a test
 $$X \sim N(\mu, \sigma^{2})$$
 - $\mu$ ist der [[Hochpunkt]] der Kurve => der [[Erwartungswert]]
 - $\sigma^{2}$ ist die [[Varianz]]

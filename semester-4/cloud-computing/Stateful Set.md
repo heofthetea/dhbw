@@ -1,7 +1,7 @@
 [[Stateful]]
 
 - [[Stateful]] [[Kubernetes Pod|Pod]]
-- Need some sort of persistent [[K8s Storage|Storage]]
+- Need some sort of persistent [[Kubernetes Persistence|Storage]]
 
 ## Example
 - [[Datenbank|Database]] 

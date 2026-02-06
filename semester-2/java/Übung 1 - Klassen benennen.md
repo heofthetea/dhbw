@@ -1,6 +1,6 @@
 > Ein Rechenzentrum besteht aus mehreren Räumen. Ein Raum besteht aus mehreren Racks und in einem Rack sind mehrere Server. In einem Server können bis zu 8 CPU, bis zu 8 Festplatten und bis zu 12 Speicherriegel verbaut werden. Es gibt HighAvailability-Speicherriegel, welche nur in spezielle Server passen.
 
-[[Class]]
+[[Java Class]]
 ### Classes
 1. Rechenzentrum
 2. Raum

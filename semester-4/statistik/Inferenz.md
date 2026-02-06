@@ -1,4 +1,5 @@
 > Aus [[Daten]] [[Information]] gewinnen
+> Von [[Stichprobe]] auf [[Grundgesamtheit]]
 
 - Schätzen
 	- [[Punktschätzung]]

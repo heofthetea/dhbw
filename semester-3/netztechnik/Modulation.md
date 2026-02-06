@@ -10,6 +10,8 @@
 
 [[Modulationsindex]]
 ### Möglichkeiten
-1. [[Amplitude]] beeinflussen
+1. [[Amplitude]] beeinflussen -> [[Amplitudenmodulation]]
 2. [[Frequenz]] beeinflussen
-3. [[Phase]] beeinflussen
+3. [[Phase]] beeinflussen -> das macht [[BPSK]]
+
+![[Pasted image 20251105084909.png]]

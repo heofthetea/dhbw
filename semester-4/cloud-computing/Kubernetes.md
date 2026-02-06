@@ -21,7 +21,7 @@ aliases:
 - [[Kubernetes Cluster]]
 - [[Worker node]]
 - [[Kubernetes Control Plane]]
-- [[deployment.yml]]
+- [[k8s Deployment]]
 
 ![[Pasted image 20250414173752.png]]
 

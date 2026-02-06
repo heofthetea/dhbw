@@ -17,3 +17,4 @@ ssh-keygen -t rsa -b 4096 -f <file>
 ```bash
 ssh -t root@192.168.214.100 tail -f /var/log/iptables > test_log
 ```
+

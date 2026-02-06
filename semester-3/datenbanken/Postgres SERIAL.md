@@ -1,6 +1,6 @@
 > Automatisch den [[PRIMARY KEY Constraint|Primärschlüssel]] erhöhen
 
-[[Datentyp]], [[SQL]]
+[[Datentyp SQL]], [[SQL]]
 
 
 - Löst Problem [[Übung Sub-query insert]]

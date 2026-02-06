@@ -20,6 +20,13 @@ aliases:
 
 > [!info] 3D-NAND: SLDC, MLC, TLC und QLC sind in einer Ebene angeordnet, Layer sind gestapelt
 > => ermöglicht mehr Kapazität bei weniger Grundfläche, und bessere Performance & Kapazität
+
+## Eigenschaften:
+1. Interface (wie ist die Bauform, der physische Anschnitt)
+2. Protokoll (wie wird geredet mit dem Ding?)
+
+> [!hint] SATA, NVMe, SCSI sind Protokolle - m.2 ist Bauform.
+
 ## Bauformen
 - SATA (Serial Advanced Technology Attachment) -> häufigste und erschwinglichste Form
 - mSATA - kleiner als SATA => häufig für Laptops

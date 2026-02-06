@@ -188,7 +188,7 @@ path: datenbanken/scripts
 		- [[Datenbank Indexierung]]
 	- [[SQL Drop Column]] 
 	- [[Alter Table]]
-	- [[Datentyp]]
+	- [[Datentyp SQL]]
 - [[DML]]
 	- [[SQL INSERT]]
 	- [[SQL COPY]]
@@ -284,7 +284,8 @@ path: datenbanken/scripts
 - [[Isolationslevel]]
 
 
-
+## interne Speicherung
+- [[DB_Kap09_Interne_Speicherung.pdf]]
 ## Postgres misc
 - [[Postgres locale]]
 - [[PGadmin backup]]

@@ -1,4 +1,4 @@
-> Eine [[Ordnungsrelation|Ordnung]] zwischen den Ausprägungen ist möglich
+> Eine [[Total Order|Ordnung]] zwischen den Ausprägungen ist möglich
 
 > [!hint] Ordnung muss nicht quantifizierbar sein.
 

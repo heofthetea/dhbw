@@ -1,4 +1,4 @@
-Allows to implement an [[Interface]] without needing to name the [[class]]
+Allows to implement an [[Interface]] without needing to name the [[Java Class]]
 (and thus do it neatly inline)
 ```java
 public class OuterClass {

@@ -7,6 +7,8 @@ $$TX = 10\cdot log_{10}(\frac{s}{1\ mW})$$
 
 ![[Pasted image 20250424102450.png]]
 
+
+![[Pasted image 20260203195552.png]]
 ## Erlaubte Sendeleistung
 - [[2.4G]] -> $100\,mW = 20\,dBm$
 - [[5G]] -> $200\,mW = 23\,dBm$

@@ -1,6 +1,6 @@
 ### Methode
 Gehört fest zu [[OOP]]
-Ist immer Teil einer [[Class]]
+Ist immer Teil einer [[Java Class]]
 
 ### Funktion
 Außerhalb von Objekten --> Meistens bei prozeduralen Programmiersprachen

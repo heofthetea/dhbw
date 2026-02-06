@@ -1,4 +1,4 @@
-> "Is-a" Relation: A Child [[Class]] is a _Specification_ of its Parent [[Class]].
+> "Is-a" Relation: A Child [[Java Class]] is a _Specification_ of its Parent [[Java Class]].
 
 
 A Child class inherits all Attributes and Methods from its Parent.

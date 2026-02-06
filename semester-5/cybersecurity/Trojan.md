@@ -1,0 +1,2 @@
+- tut so als wäre er ein vertrauenswürdiges Programm
+- führt im Hintergrund schädliche sachen aus

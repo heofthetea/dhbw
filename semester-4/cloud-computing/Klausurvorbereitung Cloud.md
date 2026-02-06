@@ -15,7 +15,7 @@
 - [[IaaS]] -> Alle Hardware bis zu [[Hypervisor]]
 - [[Data Center]]s: -> [[Service Regions]] 
 	- Availability Zone: ein Server-Raum
-	- [[POD]] 
+	- [[Point of Delivery]] 
 	- [[IaaS physical Layout|POP]] (Point of Presence) -> [[Router]]
 - Kundenspeicherung ist wichtig: Datenschutz
 - Wenn die Lieferanten sagen "ich befolge die Datenschutzrichtlinien" => "ich selber mach nichts,  mit denen", der Klient soll sich damit auseinander setzen

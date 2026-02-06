@@ -1,3 +1,7 @@
+---
+aliases:
+  - CPU Jump Prediction
+---
 > [[CPU]] rät, ob der [[8051 JZ|Jump]] ausgeführt wird oder nicht
 
 
@@ -42,7 +46,7 @@
 - "strong": lol ich war richtig
 - "weakly": lol ich war falsch
 
-#### Mit History Table
+#### Mit History Tablefc
 BTB Table = Branch Target Buffer
 ![[Pasted image 20241107090632.png]]
 

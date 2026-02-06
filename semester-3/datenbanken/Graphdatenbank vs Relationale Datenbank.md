@@ -1,7 +1,7 @@
 [[Relationale Datenbank]]
 - eine [[Entität]] ist eine Zeile in irgendeiner Tabelle
 - Verbindungen von Entitäten mit [[Constraint|Constraints]] 
-	- multi-level [[SQL join|joins]]
+	- multi-level [[Join|joins]]
 	- rigid, nicht sehr flexibel
 	- oftmals Denormalisierung ist nötig für Effizienz
 - Schema benötigt Übersetzungen von Konzepten aus der realen Welt

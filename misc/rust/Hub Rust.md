@@ -5,19 +5,20 @@
 ## Types
 - [[Rust Variable]]
 - [[Shadowing]]
-- [[Rust unit type]]
+- [[Unit]]
 - [[Rust slice]]
 - [[Rust function pointer]]
-- [[Optional]]
+- [[Option]]
 - [[Rust vector]]
 - [[Rust Strings]]
+- [[Rust Option]]
 
 ### Composite Types
 - [[Rust Tuple]]
 - [[Struct]]
 	- [[Rust Struct]]
 	- [[Rust Anonymous Struct]]
-	- [[Rust Enum]]
+	- [[Enum]]
 
 ## Rust Control Flows
 - [[Rust loop statement]]
@@ -28,11 +29,30 @@
 - [[Ownership]]
 - [[Borrowing]]
 	- [[Borrow Checker]]
+- [[Rust Mutable Stack Variable]]
+- [[Rust lifetime]]
 
 ## OOP-style in Rust
+- [[Rust Struct]]
 - [[Rust Implementation]]
 - [[Rust Trait]]
+- [[Rust Generic]]
+	- [[Rust Generic Struct]]
 
+## Error Handling
+- [[Rust Result Type]]
+	- [[Rust Error Propagation]]
+	- [[Rust Error Trait]]
+## Smart Pointers
+- [[Arc]]
+- [[Box]]
+- [[Cow]]
+- [[RC]]
+- [[RefCell]]
+## Threading
+- [[Rust Threads]]
+- [[Rust Message Channels]]
+- [[Mutex]]
 # Exercises
 - [[Handle a message]]
 
@@ -44,3 +64,6 @@
 ## Rusty DFA
 - [[Rusty DFA]]
 - [[Recursive Descent]]
+
+## horsey chessbot
+- [[horsey chessbot architecture brainstorm]]

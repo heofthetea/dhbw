@@ -3,7 +3,7 @@
 > [!hint] is a [[Primitive Data Type]] 
 
 
--  use the `fn(...) -> ...` syntax - basically the [[Method Signature]] is the type
+-  use the `fn(...) -> ...` syntax - basically the [[Function Signature]] is the type
 
 
 ```rust

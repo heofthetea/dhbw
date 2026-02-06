@@ -17,4 +17,4 @@
 3. [[Watchdog]]
 4. Co-Prozessor: GPU
 
-> [!hint] Je mehr man hinzufügt, wird es zu [[Microcontroller]] bzw. [[SOC]]
+> [!hint] Je mehr man hinzufügt, wird es zu [[Mikrocontroller]] bzw. [[SOC]]

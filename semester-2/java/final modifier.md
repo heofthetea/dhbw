@@ -12,4 +12,4 @@ the [[Reference]] is final, _not_ the _content_ of the [[Object]]!!!
 a final method cannot be [[Overloading and Overriding|overridden]].
 
 ### final Classes
-a final [[class]] cannot be [[Inheritance|inherited]] from.
+a final [[Java Class]] cannot be [[Inheritance|inherited]] from.

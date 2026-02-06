@@ -6,7 +6,7 @@ Vec<Type>;
 
 ### Obtaining value
 #### safe(recommended)
-- with [[Optional]]:
+- with [[Option]]:
 ```rust
 let v = vec![1, 2, 3];
 v.get(0) 

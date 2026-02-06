@@ -1,4 +1,4 @@
-[[Rust Pattern Matching]], [[Rust Enum]]
+[[Rust Pattern Matching]], [[Enum]]
 
 ```rust
 enum Message {  

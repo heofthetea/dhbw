@@ -1,4 +1,4 @@
-Ist ein Prozess --> Wird während dem Projekt immer weiter betrachtet
+ Ist ein Prozess -> Wird während dem Projekt immer weiter betrachtet
 [[Risiken abwägen]]
 
 ### zentrales Problem

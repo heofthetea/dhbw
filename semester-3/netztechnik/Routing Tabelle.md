@@ -1,6 +1,3 @@
-> [!hint] Nicht nur [[Router]] haben eine Routing Tabelle, sondern _jedes_ auf [[Layer 3|Layer 3]] agierende Gerät!
-> Auf [[Linux]] geräten: `/etc/hosts`
-
 - Ziel: [[IP Adresse]] des Zielgeräts
 - Next Hop: Der nächste [[Router]], an den sich gewendet werden muss
 - Metrik: Wie viele [[Knoten]] muss ich besuchen, bis ich am Ziel angekommen bin?
@@ -11,3 +8,11 @@
 ![[Pasted image 20240918110331.png]]
 
 > [!hint] Ermöglicht [[Redundanz]], falls ein Router ausfällt
+
+
+## Linux
+```bash
+routes
+```
+
+- gibt die routing tabelle aus

@@ -9,3 +9,6 @@
 > [!info] Needs Knowledge to execute.
 
 ![[Pasted image 20250317165214.png]]
+
+##  Beispiel: Provisioning
+![[Pasted image 20251010104543.png]]

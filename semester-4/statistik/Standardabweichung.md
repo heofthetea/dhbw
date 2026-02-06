@@ -5,12 +5,12 @@
 3. [[Varianz]] berechnen
 4. wurzel ziehen lol
 
-$$s = \sqrt{s^{2}}$$
+$$s = \sqrt{s^{2}} \quad \lor\quad \sigma = \sqrt{\sigma^{2}}$$
 $$= \sqrt{\overline{x^{2}}- \overline{x}^{2}}$$
 
 ### Umgang mit Tabellen
 $$f(x_{i}) \cdot (x_{i} - \overline{x})^{2}$$
-für jedes $x_{i}$, am Ende durch $n$ teilen]
+für jedes $x_{i}$, am Ende durch $n$ teilen
 
 ## Beispiel Zugpassagiere
 - Zug A: $\set{200, 250, 350, 400}$

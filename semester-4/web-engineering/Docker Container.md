@@ -1,6 +1,6 @@
 > Running Instance of an [[Docker Image|Image]]
 
-[[Containerization]]
+[[Containerization]], [[Kernel Namespace]]
 
 > [!hint] Every [[Docker Container|Container]] is a [[Prozess|Process]].
 

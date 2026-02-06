@@ -1,4 +1,4 @@
-> Everything is a child of the java `Object` [[Class]]
+> Everything is a child of the java `Object` [[Java Class]]
 
 
 [[Inheritance]]

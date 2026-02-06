@@ -1,3 +1,7 @@
+---
+aliases:
+  - Master Node
+---
 > Management layer of [[Kubernetes]]
 
 

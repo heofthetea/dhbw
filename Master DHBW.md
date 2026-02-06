@@ -1,6 +1,7 @@
 #master
 - [[README]]
 - [[23B Battle Royale.pdf]] - the most important Document of them all
+- [[DHBW Brain Rot]] 
 
 ## Quick Information
 - [[modulhandbuch.pdf]]
@@ -21,7 +22,7 @@
 
 
 ## Semester
-- [[The 8 Horsemen of over-generalization]]
+- [[The 9 Horsemen of over-generalization]]
 
 ### Semester 1
 - [[Master Semester 1]]
@@ -68,3 +69,11 @@
 
 ### Semester 5
 - [[Master Semester 5]]
+- [[Hub Data Science]]
+- [[Hub Cybersecurity]]
+- [[Hub Advances SWE]]
+- [[Hub IoT]]
+- [[Hub IT Architekturen]]
+- [[Hub Machine Learning]]
+- [[Hub Data Warehouse]]
+- [[Hub Thunfisch]]

@@ -2,6 +2,7 @@
 aliases:
   - Constant
 ---
-> [[Funktion]] ohne Parameter
 
-$$\varnothing \rightarrow c$$
+> [[Abbildung|Funktion]] mit [[Unit]] als Parameter
+
+$$\set{\varnothing} \rightarrow c$$

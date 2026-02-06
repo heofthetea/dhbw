@@ -15,7 +15,13 @@ sudo kill -9 123998
 using the `-t` flag, the ports can be [[xargs|xargs-ed]] directly into the kill command:
 
 ```shell
-lsof -i :8081 | xargs sudo kill -9
+lsof -ti :8081 | xargs sudo kill -9
 ```
 
 
+
+## More ways
+### ss
+```bash
+sudo ss -lptn 'sport = :1883'
+```

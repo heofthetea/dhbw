@@ -5,3 +5,5 @@
 > [!info] $f_{j}$ ist die [[Absolute Häufigkeit]] (oder die [[Relative Häufigkeit]] lol) der Ausprägung $x_{j}$.
 
 
+## Ausnahme: Verteilung
+- dann sollten die Balken sich berühren

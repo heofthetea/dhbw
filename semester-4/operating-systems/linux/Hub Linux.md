@@ -1,12 +1,17 @@
 [[Terminal Shortcuts]]
 [[Kill process on port]]
 
+[[DBUS]]
+
 [[curl]]
 [[sed]]
 [[Super user]]
+[[sudoers]]
+[[etc passwd]]
 
 [[Mount a USB]]
 [[GRUB]]
+[[Linux Hardware Inspection Comands]]
 
 [[Root Directory]]
 [[Hard Links]] / [[Symlink]]
@@ -15,7 +20,6 @@
 
 [[$PATH]]
 
-[[WiFi Power Management settings]]
 
 [[Gnome Extensions]]
 [[SSH]]
@@ -29,6 +33,10 @@
 [[Desktop file]]
 - [[Desktop files or how Application launchers work]] (why does this file exist)
 [[My Filesystem Conventions]]
+
+### Network
+[[WiFi Power Management settings]]
+[[Find my IP]]
 
 ## Bash scripting
 - [[Bash script]]

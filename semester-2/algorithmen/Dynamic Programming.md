@@ -1,3 +1,6 @@
+---
+aliases:
+---
 Bsp: [[Optimierung des naiven rekursiven Fibonacci-Algorithmus]], [[Übung Dynamic Programming]]
 not to confuse with [[Dynamic Typing]]
 
