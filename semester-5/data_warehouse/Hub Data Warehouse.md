@@ -61,3 +61,6 @@
 - [[MOLAP]]
 - [[HOLAP]]
 - [[Materialized Query Table]]
+
+# Aus der Praxisphase 🥳
+- [[Elastic Stack]]

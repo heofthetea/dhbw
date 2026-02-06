@@ -5,6 +5,7 @@
 - [[BCM]]
 - [[Resilience]]
 - [[Fall Enron]]
+- [[ISO 270001]]
 
 ### Governance
 - [[Corporate Governance]]
@@ -118,7 +119,10 @@
 
 ## Reads for Offensive Security
 - https://hackviser.com/tactics/pentesting/services/netbios
-- 
+
+## misc
+- [[Linux Wifi Card Monitor Mode]]
+
 
 # Ausarbeitung: Metasploitable 2
 - [[Metasploitable 2 setup]]

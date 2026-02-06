@@ -3,7 +3,7 @@ aliases:
   - EDW
   - Enterprise Data Warehouse
 ---
-> Single Point of Truth for all Users regarding [[Daten|Data]]
+****> Single Point of Truth for all Users regarding [[Daten|Data]]
 - collects (and consolidates) [[Daten|Data]]  of [[Operative System|Operative Systems]]
 - stores them
 	- with Snapshots for years -> long-term analysis
@@ -11,7 +11,7 @@ aliases:
 
 > [!hint] Effektive Auswertung von Daten ist das zentrale Ziel!!!!
 
-![[Pasted image 20251020225858.png]]
+**![[Pasted image 20251020225858.png]]**
 
 ## Characteristics
 - **subject-oriented** => Ziel nicht saubere Operation, sondern auf [[Object|Objekte]] (Kunde, Firma, Produkt)

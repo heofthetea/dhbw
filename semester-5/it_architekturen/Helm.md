@@ -10,10 +10,14 @@
 helm install $chart_name
 ```
 
+Installs from a remote repository
+
 1. does all [[#Templating]]
 2. deploys to [[Kubernetes Cluster]]
 
 > [!hint] Kind of like `kubectl apply`, except with more features
+## Create Chart
+-> [[Create Helm Chart]]
 ## Templating
 - Always templates a Kubernetes [[k8s Deployment|deployment YAML file]]
 - Values are stored in `values.yml`

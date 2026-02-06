@@ -36,6 +36,14 @@ in Semester 3: [[Hub Betriebssysteme]]
 [[Von-Neumann Architektur]]
 
 ## CPU
+1. follow instructions on the docker website to install ￼￼Docker engine￼￼
+2. run ￼￼sudo usermod -aG docker $USER￼￼ to add user to docker group - then ￼￼reboot￼￼
+3. make sure ￼￼docker-ce-rootless-extras￼￼ is installed
+4. run ￼￼sudo systemctl disable ￼–￼now docker.service docker.socket￼￼ to stop all docker processes and ￼￼reboot￼￼ 
+5. in ￼￼/usr/bin￼￼, run ￼￼dockerd-rootless-setuptool.sh install￼￼
+6. in ￼￼/home/$USER/.docker/config.json￼￼ change ￼￼credsStore￼￼ to ￼￼credStore￼￼ (￼￼ref￼￼￼￼￼￼￼￼￼ )
+
+It should work now fucking AAAAAAAAAAAAAAAAAAAAAA
 [[CPU]]
 - [[Steuerwerk]]
 	- [[Steuerwerk mit Mikroprogrammierung]]

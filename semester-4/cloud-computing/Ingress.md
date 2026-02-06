@@ -20,3 +20,18 @@
 https://www.youtube.com/watch?v=80Ew_fsV4rM
 ## [[YAML]] config
 ![[Pasted image 20250428165205.png]]
+
+
+
+### In [[Helmfile]]
+#### For _local_ deployment ([[minikube]])
+```yaml
+ingress:
+  enabled: true
+  className: "nginx"
+  hosts:
+	- host: dashboard.bot-detection.local
+	  paths:
+		- path: /
+		  pathType: Prefix
+```

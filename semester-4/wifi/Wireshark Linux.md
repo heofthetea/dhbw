@@ -6,3 +6,5 @@
 		- oder: welche [[Frequenzbänder]]
 		- Supported [[Encryption|Ciphers]] 
 - [[WLAN]] type managed = "ich kann überhaupt mal was machen" -> man müsse aber in den Monitor modus
+
+-> [[Linux Wifi Card Monitor Mode]]

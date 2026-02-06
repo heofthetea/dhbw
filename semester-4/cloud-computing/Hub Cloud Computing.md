@@ -58,6 +58,7 @@ https://owncloud.dhbw-stuttgart.de/index.php/s/ApXMZDmaE2QFbBg
 	- [[Terraform Dependency and State Management]]
 	- [[Terraform Azure Linux Virtual Machine]]
 	- [[Terraform Example]]
+- [[OpenTofu]]
 ### Ansible
 - [[Ansible]]
 	- [[Ansible Playbook]]

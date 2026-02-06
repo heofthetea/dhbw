@@ -16,3 +16,6 @@
 ### Type A record
 - direct mapping auf [[IP]]
 $$\text{URL} \longrightarrow \text{IP}$$
+
+### Type AAAA record
+- direct mapping auf [[IPv6]]

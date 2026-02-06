@@ -6,3 +6,4 @@ aliases:
 
 [[Event-driven Architecture]]
 
+- Ziel: [[SOAR]] kann auf Events reagieren

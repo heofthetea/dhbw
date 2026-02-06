@@ -245,6 +245,7 @@
 	- [[IPv6 Adresspräfixe]]
 	- [[IPv4 über v6]]
 	- [[Übergang zu IPv6]]
+		- [[DNS64]]
 	- [[IPv6 Ablauf]]
 - [[Besondere IP Adressen]]
 - [[Subnet Mask]]

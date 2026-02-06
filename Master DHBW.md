@@ -69,3 +69,11 @@
 
 ### Semester 5
 - [[Master Semester 5]]
+- [[Hub Data Science]]
+- [[Hub Cybersecurity]]
+- [[Hub Advances SWE]]
+- [[Hub IoT]]
+- [[Hub IT Architekturen]]
+- [[Hub Machine Learning]]
+- [[Hub Data Warehouse]]
+- [[Hub Thunfisch]]

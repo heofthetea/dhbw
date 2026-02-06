@@ -1,3 +1,7 @@
+---
+aliases:
+  - Database
+---
 engl. <span style="color:rgb(245, 154, 35)">Database</span> - Datenbasis
 
 ### Definitionen

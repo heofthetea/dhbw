@@ -35,7 +35,7 @@ A symmetric NAT is one where all requests from the same internal IP address and 
 
 > [!hint] Essentially works like the simple concept of a [[Firewall]]
 
-> [!hint] Ist Arsch weil [[P2P Hole Punching]] nicht funktioniert
+> [!hint] Ist Arschkrebs weil [[P2P Hole Punching]] nicht funktioniert
 > Aber gleichzeitig auch am sichersten, deswegen oft genutzt in Home Routern
 > => Es ist eine [[hinreichende Bedingung]] dass wenn eine direct connection nicht möglich ist, beide peers hinter einem Symmetric NAT hängen.
 

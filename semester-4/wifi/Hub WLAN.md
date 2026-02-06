@@ -47,6 +47,7 @@
 - [[Frequenzbänder]]
 	- [[2.4G]]
 	- [[5G]]
+		- [[DFS Kanal]]
 - [[Multiplex]]
 	- [[SDMA]]
 	- [[FDMA]]
@@ -191,7 +192,7 @@
 	- [[CCMP Encryption]]
 	- [[CCMP Decryption]]
 - [[WPA3]]
-- [[Hub Security]]
+- [[Hub WLAN Security]]
 
 
 ## FUCKING NETZPLANUNG
@@ -203,7 +204,7 @@
 - [[WLAN SIND WIR ENDLICH DONE HOLY SHIT]]
 
 
-## The fucking what HÖR AUF ZU YAPPEN DU HURENSOHN
+## The fucking what HÖR AUF ZU YAPPEN
 - [[LoRaWAN]]
 	- [[CSS Modulation]]
 - [[Wireshark Linux]]
